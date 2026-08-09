@@ -1,0 +1,18 @@
+{
+  "id": "environment-and-conservation-sub-major-of-anthropology--majors-minors-html-environment-and-conservation-sub",
+  "name": "Environment and Conservation (Sub-major of Anthropology)",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#environment_and_conservation-sub",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#environment_and_conservation-sub",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/environment-and-conservation-sub-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/environment-and-conservation-sub-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:38:10.627553+00:00",
+  "lsa_resolved_row_id": "environment_and_conservation-sub"
+}

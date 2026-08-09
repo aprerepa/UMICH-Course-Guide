@@ -1,0 +1,20 @@
+{
+  "id": "actuarial-mathematics-sub-major-of-mathematics--majors-minors-html-actuarial-mathematics-sub",
+  "name": "Actuarial Mathematics (Sub-major of Mathematics)",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#actuarial_mathematics-sub",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (Actuarial Mathematics (Sub-Major), Fall 2026+)",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#actuarial_mathematics-sub",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/mathematics-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail+lsa_math_latest_term",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/mathematics-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:29:49.003133+00:00",
+  "lsa_resolved_row_id": "actuarial_mathematics-sub",
+  "math_requirements_title": "Actuarial Mathematics (Sub-Major)",
+  "math_requirements_term": "Fall 2026"
+}

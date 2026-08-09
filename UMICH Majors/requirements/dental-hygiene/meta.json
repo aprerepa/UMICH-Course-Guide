@@ -1,0 +1,17 @@
+{
+  "id": "dental-hygiene",
+  "name": "Dental Hygiene",
+  "school_college": "School of Dentistry",
+  "program_url": "https://dent.umich.edu/about/dental-hygiene",
+  "status": "fetched",
+  "message": "degree program page saved (no nested requirements link)",
+  "program_final_url": "https://dent.umich.edu/education/academic-programs/dental-hygiene-programs",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://dent.umich.edu/news-events/news?f%5B0%5D=news_category%3A87",
+  "requirements_link_text": "Dental Hygiene Profiles",
+  "requirements_link_score": 115,
+  "requirements_link_strategy": "hub_program_page",
+  "requirements_final_url": "https://dent.umich.edu/news-events/news?f%5B0%5D=news_category%3A87",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:36:51.423942+00:00"
+}

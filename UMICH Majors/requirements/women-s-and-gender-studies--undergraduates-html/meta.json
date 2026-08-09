@@ -1,0 +1,17 @@
+{
+  "id": "women-s-and-gender-studies--undergraduates-html",
+  "name": "Women\u2019s and Gender Studies",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/wgs/undergraduates.html",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/wgs/undergraduates.html",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/wgs/undergraduates/women-s-and-gender-studies-major/major-requirements.html",
+  "requirements_link_text": "Women's and Gender Studies Major \u2192 Women's and Gender Studies Major Requirements",
+  "requirements_link_score": 205,
+  "requirements_link_strategy": "hub:Women's and Gender Studies Major\u2192page",
+  "requirements_final_url": "https://lsa.umich.edu/wgs/undergraduates/women-s-and-gender-studies-major/major-requirements.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:50:57.787166+00:00"
+}

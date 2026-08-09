@@ -1,0 +1,17 @@
+{
+  "id": "engineering-physics--undergraduate-in-engineering-physics",
+  "name": "Engineering Physics",
+  "school_college": "College of Engineering",
+  "program_url": "https://ners.engin.umich.edu/academics/undergraduate-in-engineering-physics/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://ners.engin.umich.edu/academics/undergraduate-in-engineering-physics/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://ners.engin.umich.edu/academics/undergraduate/degree-requirements/",
+  "requirements_link_text": "Degree Requirements",
+  "requirements_link_score": 290,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://ners.engin.umich.edu/academics/undergraduate/degree-requirements/",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:37:31.702130+00:00"
+}

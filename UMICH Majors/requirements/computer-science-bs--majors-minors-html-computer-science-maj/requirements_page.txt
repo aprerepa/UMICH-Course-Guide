@@ -1,0 +1,311 @@
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+About
+Academics
+Research
+News and Events
+Support LSA
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Course Catalog
+Give Online
+Keyword Search of en
+About
+Academics
+Research
+News and Events
+Support LSA
+Course Catalog
+Give Online
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+LSA 101: Info for Admitted Students
+Learn what it means to be a Wolverine and dig in to what the liberal arts are all about. View our presentations and information from wherever you are.
+Undergraduate
+Graduate
+Transfer
+International
+Student Life
+Admissions
+Student Stories
+Outcomes and Possibilities
+LSA delivers a purposeful, pragmatic liberal arts education that employers respect and seek out.
+Undergraduate
+Graduate
+Transfer
+Education
+Academic Advising
+Outcomes and Possibilities
+College Connections
+College Connections provides a space for alumni and families to share their student experiences with recent LSA graduates and provide feedback on the current and future state of the College.
+Get Connected
+Get Involved
+Get Informed
+College Connections
+Staff Achievement Awards Program
+This is an annual opportunity to acknowledge and celebrate exceptional staff contributions to the success of the College . Information regarding eligibility, nomination, selection, notification, and winners can be found here.
+Budget and Finance
+Chairs and Directors
+Facilities and Operations
+Faculty Academic Affairs
+Graduate Education
+Human Resources
+LSA Advancement
+LSA Research Office
+Office of the Dean
+Security and Safety
+Standard Practice Guide
+Student Academic Affairs
+Technology Services
+Undergraduate Education
+Skip to Page Content
+Academics
+Majors and Minors
+Computer Science Major
+...
+Computer Science Major
+Academics
+Majors and Minors
+[X] close
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Computer Science Major
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Advising
+Department Website
+Effective Winter 2026
+Grade Policies
+Grades of C or better must be achieved in all courses taken to satisfy Computer Science requirements.
+Prerequisites
+The LSA Computer Science (CS) major consists of 4 prerequisite courses, in addition to the requirements for the major. The prerequisite courses are EECS 203 or MATH 465* or MATH 565*, EECS 280, and two approved math courses. Approved math courses include MATH 115, 116, 214, 215, and 216. Check with the department for an up-to-date list. EECS 203 or MATH 465* or MATH 565*, EECS 280, and one approved math course must be completed prior to declaration, while the second approved math course may be completed after declaration. Grades of C or better must be achieved in all prerequisite courses.
+Performance in these classes is indicative of student aptitude for the Computer Science program, and students who do not perform well are encouraged to meet with a CS-LSA advisor. (*Note that MATH 465/565 require significantly more mathematical background than does EECS 203. Speak to an advisor before selecting these courses.)
+Requirements
+At least 26 credits must be upper-level.
+Core Courses
+:
+a. Computer Science: EECS 281, 370, 376
+b. Probability and Statistics course: Check with the department for a list of approved probability and statistics courses.
+Capstone Course
+(which may not be counted as CS Upper Level Technical Elective below): Senior Thesis (EECS 443) or Major Design Experience Course (check with the department for current list of approved MDE courses).
+Upper-Level CS Technical Electives
+: 15 credits. Check with the department for an up-to-date list of approved Upper-Level CS elective courses. The department can suggest groupings of electives that pursue different tracks such as software development, robotics, or bioinformatics, among various others.
+Comprehensive and up-to-date information about the computer science program can be found on the
+Computer Science (College of LSA) webpage
+.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the EECS and CSE subject areas may not be used toward the Distribution Requirement.
+Honors
+Students wishing to complete an Honors major in Computer Science must have earned an overall GPA of 3.4 or higher (as required by LSA for Honors), and must have a final major GPA in Computer Science of 3.5 or higher. Students must complete the Senior Thesis course (EECS 443), write a thesis, and make an oral presentation of the thesis results, with the faculty advisor and a second faculty member determining whether the thesis is of a quality that qualifies the students for Honors.
+Computer Science (Major) (Winter 2025 - Fall 2025)
+Effective Winter 2025
+Grade Policies
+Students may repeat EECS 203, EECS 280, and EECS 281 once, for a maximum of two attempts at each course. Subsequent attempts must be petitioned through the CSE advising office.
+Grades of C or better must be achieved in all courses taken to satisfy Computer Science requirements.
+Prerequisites
+The LSA Computer Science (CS) major consists of 4 prerequisite courses, in addition to the requirements for the major. The prerequisite courses are EECS 203 or MATH 465* or MATH 565*, EECS 280, and two approved math courses. Approved math courses include MATH 115, 116, 214, 215, and 216. Check with the department for an up-to-date list. EECS 203 or MATH 465* or MATH 565*, EECS 280, and one approved math course must be completed prior to declaration, while the second approved math course may be completed after declaration. Grades of C or better must be achieved in all prerequisite courses.
+Performance in these classes is indicative of student aptitude for the Computer Science program, and students who do not perform well are encouraged to meet with a CS-LSA advisor. (*Note that MATH 465/565 require significantly more mathematical background than does EECS 203. Speak to an advisor before selecting these courses.)
+Due to capacity constraints, students who are admitted to the University of Michigan in Fall 2023 or later must first be
+selected for the CS major
+before they can declare the major.
+Requirements
+At least 26 credits must be upper-level.
+Core Courses
+:
+a. Computer Science: EECS 281, 370, 376
+b. Probability and Statistics course: Check with the department for a list of approved probability and statistics courses.
+Capstone Course
+(which may not be counted as CS Upper Level Technical Elective below): Senior Thesis (EECS 443) or Major Design Experience Course (check with the department for current list of approved MDE courses).
+Upper-Level CS Technical Electives
+: 15 credits. Check with the department for an up-to-date list of approved Upper-Level CS elective courses. The department can suggest groupings of electives that pursue different tracks such as software development, robotics, or bioinformatics, among various others.
+Comprehensive and up-to-date information about the computer science program can be found on the
+Computer Science (College of LSA) webpage
+.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the EECS and CSE subject areas may not be used toward the Distribution Requirement.
+Honors
+Students wishing to complete an Honors major in Computer Science must have earned an overall GPA of 3.4 or higher (as required by LSA for Honors), and must have a final major GPA in Computer Science of 3.5 or higher. Students must complete the Senior Thesis course (EECS 443), write a thesis, and make an oral presentation of the thesis results, with the faculty advisor and a second faculty member determining whether the thesis is of a quality that qualifies the students for Honors.
+Computer Science (Major) (Fall 2024)
+Effective Fall 2024
+Grade Policies
+Students may repeat EECS 203, EECS 280, and EECS 281 once, for a maximum of two attempts at each course. Subsequent attempts must be petitioned through the CSE advising office.
+Grades of C or better must be achieved in all courses taken to satisfy Computer Science requirements.
+Prerequisites
+To declare in the LSA Computer Science (CS) major a student must first complete 3 prerequisite courses for the major. These are EECS 203 or MATH 465* or MATH 565*, EECS 280, and one approved math course. Approved math courses include MATH 115, 116, 214, 215, and 216. Check with the department for an up-to-date list.
+Performance in these classes is indicative of student aptitude for the Computer Science program, and students who do not perform well are encouraged to meet with a CS-LSA advisor. (*Note that MATH 465/565 require significantly more mathematical background than does EECS 203. Speak to an advisor before selecting these courses.)
+Due to capacity constraints, students who are admitted to the University of Michigan in Fall 2023 or later must first be
+selected for the CS major
+before they can declare the major.
+Requirements
+At least 26 credits must be upper-level.
+Core Courses
+:
+a. Computer Science: EECS 281, 370, 376
+b. Probability and Statistics: STATS 206, 250, 280, 412, 426, STATS 265/IOE 265, ECON 451, or TO 301.
+c. A second approved math course, in addition to the prerequisite math course. Check with the department for approved combinations of math courses.
+Capstone Course
+(which may not be counted as CS Upper Level Technical Elective below): Senior Thesis (EECS 443) or Major Design Experience Course (check with the department for current list of approved MDE courses).
+Upper-Level CS Technical Electives
+: 15 credits. Check with the department for an up-to-date list of approved Upper Level CS elective courses. The department can suggest groupings of electives that pursue different tracks such as software development, robotics, or bioinformatics, among various others.
+Comprehensive and up-to-date information about the computer science program can be found on
+the Computer Science (College of LSA) webpage
+.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the EECS and CSE subject areas may not be used toward the Distribution Requirement.
+Honors
+Students wishing to complete an Honors major in Computer Science must have earned a 3.2 or higher GPA in the four required pre-courses for the major (MATH 115, 116, EECS 203 and 280). Student must also have earned an overall GPA of 3.4 or higher (as required by LSA for Honors), and must have a final major GPA in Computer Science of 3.5 or higher. Students must complete the Senior Thesis course (EECS 443), write a thesis, and make an oral presentation of the thesis results, with the faculty advisor and a second faculty member determining whether the thesis is of a quality that qualifies the students for Honors.
+Computer Science (Major) (Fall 2022 - Summer 2024)
+Effective Fall 2022
+Grade Policies
+Students may repeat a pre-major course once, for a maximum of two attempts at each course, and only the final grade for the course will be used to compute the premajor GPA. Only courses with grades of C+ or below can be repeated for this purpose.
+Grades of C or better must be achieved in all courses taken to satisfy Computer Science requirements.
+Prerequisites
+To declare in the LSA Computer Science (CS) major a student must first complete 4 pre-courses for the major. These are: EECS 203 or MATH 465* or MATH 565*, EECS 280, MATH 115, MATH 116. Performance in these classes is indicative of student aptitude for the Computer Science program, and students who do not perform well are encouraged to meet with a CS-LSA advisor. (*Note that MATH 465/565 require significantly more mathematical background than does EECS 203. Speak to an advisor before selecting these courses.)
+Due to capacity constraints, students who are admitted to the University of Michigan in Fall 2023 or later must first
+be selected for the CS major
+before they can declare the major.
+Requirements
+At least 27 credits must be upper-level.
+Core Courses:
+Computer Science:
+EECS 281, 370, 376.
+Probability and Statistics:
+STATS 206, 250, 280, 412, 426, STATS 265/IOE 265, ECON 451 (F17), or TO 301 (F17).
+Capstone Course
+(which may not be counted as CS Upper Level Technical Elective below):
+Senior Thesis
+(EECS 443),
+Major Design Experience Course
+(check with the department for current list of approved MDE courses), or
+Social Computing Systems
+(EECS 480)
+(only if elected FA19 or later).
+Upper-Level CS Technical Electives.
+16 credits. Check with the department for an up-to-date list of approved Upper Level CS elective courses. The department can suggest groupings of electives that pursue different tracks such as software development, robotics, or bioinformatics, among various others.
+Comprehensive and up-to-date information about the computer science program can be found on the web at:
+https://cse.engin.umich.edu/academics/undergraduate/computer-science-lsa/
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the EECS subject area may not be used toward the Distribution Requirement.
+Honors
+Students wishing to complete an Honors major in Computer Science must have earned a 3.2 or higher GPA in the four required pre-courses for the major (MATH 115, 116, EECS 203 and 280). Student must also have earned an overall GPA of 3.4 or higher (as required by LSA for Honors), and must have a final major GPA in Computer Science of 3.5 or higher. Students must complete the Senior Thesis course (EECS 443), write a thesis, and make an oral presentation of the thesis results, with the faculty advisor and a second faculty member determining whether the thesis is of a quality that qualifies the students for Honors.
+Computer Science (Major) (Fall 2012 - Summer 2022)
+Effective Fall 2012
+Grade Policies
+Students may repeat a pre-major course once, for a maximum of two attempts at each course, and only the final grade for the course will be used to compute the premajor GPA. Only courses with grades of C+ or below can be repeated for this purpose.
+Grades of C or better must be achieved in all courses taken to satisfy Computer Science requirements.
+Prerequisites
+To declare in the LSA Computer Science (CS) major a student must first complete 4 pre-courses for the major. These are: EECS 203 or MATH 465* or MATH 565*, EECS 280, MATH 115, MATH 116. Performance in these classes is indicative of student aptitude for the Computer Science program, and students who do not perform well are encouraged to meet with a CS-LSA advisor. (*Note that MATH 465/565 require significantly more mathematical background than does EECS 203. Speak to an advisor before selecting these courses.)
+Requirements
+At least 27 credits must be upper-level.
+Core Courses:
+Computer Science:
+EECS 281, 370, 376.
+Probability and Statistics:
+STATS 206, 250, 280, 412, 426, STATS 265/IOE 265, ECON 451 (F17), or TO 301 (F17).
+Capstone Course
+(which may not be counted as CS Upper Level Technical Elective below):
+Senior Thesis
+(EECS 443),
+Major Design Experience Course
+(check with the department for current list of approved MDE courses), or
+Social Computing Systems
+(EECS 480)
+(only if elected FA19 or later).
+Upper-Level CS Technical Electives.
+16 credits. Check with the department for an up-to-date list of approved Upper Level CS elective courses. The department can suggest groupings of electives that pursue different tracks such as software development, robotics, or bioinformatics, among various others.
+Comprehensive and up-to-date information about the computer science program can be found on the web at:
+https://cse.engin.umich.edu/academics/undergraduate/computer-science-lsa/
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the EECS subject area may not be used toward the Distribution Requirement.
+Honors
+Students wishing to complete an Honors major in Computer Science must have earned a 3.2 or higher GPA in the four required pre-courses for the major (MATH 115, 116, EECS 203 and 280). Student must also have earned an overall GPA of 3.4 or higher (as required by LSA for Honors), and must have a final major GPA in Computer Science of 3.5 or higher. Students must complete the Senior Thesis course (EECS 443), write a thesis, and make an oral presentation of the thesis results, with the faculty advisor and a second faculty member determining whether the thesis is of a quality that qualifies the students for Honors.
+Information for
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

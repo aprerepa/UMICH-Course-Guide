@@ -1,0 +1,19 @@
+Students pursuing expanded ULCS must satisfy 3 credits of expanded ULCS for the major.   *If a CSE 401X transfer course is less than 3 credits, students will need to take an additional course from this expanded ULCS list to get to at least 3 credits.  Please note: Courses that transfer is as EECS 401X are not currently approved to satisfy Expanded ULCS and would require petition approval to use toward this requirement.   Most graduate (500-lvl and above) level courses require instructor permission to enroll as an undergraduate student. Students should reach out to the course instructor for permission into a graduate level course.		
+Course(s)	Title 	Credits
+Any course listed on the ULCS tab		4
+CSE 401X*	CSE Departmental Credit (CS-LSA students: please note, CSE 401X is considered non-LSA credit and does not contribute to the 100 LSA credit requirement) 	1-4
+Beginning WN26, any CSE course at the 500-level is approved to count as Expanded ULCS. Please note: Undergraduates are not guaranteed seats in graduate level courses. To request access to a Graduate CSE course, contact the instructor directly. 		
+CSE 572	Randomness and Computation	4
+CSE 574	Computational Complexity	4
+CSE 575	Advanced Cryptography	4
+CSE 577 	Formal Verification of Hardware and Software Systems	4
+CSE 598 (when marked as Expanded ULCS here)	Special Topics	3-4
+ECE 544 	Analysis of Societal Networks	
+EECS 444	Analysis of Societal Networks	
+EECS 453	Principles of Machine Learning	4
+EECS 460	Control Systems Analysis and Design	4
+EECS 461	Embedded Control System	4
+EECS 465/ROB 422	Introduction to Algorithmic Robotics	3
+EECS 498 (when marked as ULCS or Expanded ULCS here)	Special Topics	3-4
+Beginning WN26, any EECS course at the 500-level is approved to count as Expanded ULCS. Please note: Undergraduates are not guaranteed seats in graduate level courses. To request access to a Graduate EECS course, contact the instructor directly. 		
+EECS 553	Machine Learning (ECE) 	3

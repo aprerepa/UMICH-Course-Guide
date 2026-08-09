@@ -1,0 +1,161 @@
+Page header:
+page title: Electrical Engineering Major
+
+Visible page text:
+Academics
+Home
+>
+Academics
+>
+Undergraduate Programs
+>
+Majors and Minors
+>
+Electrical Engineering Major
+Electrical Engineering Major
+Electrical engineering is all about information and energy. Electrical engineers control things, sense things, power things, design and build electronic devices, process signals, design computers, connect things and people – and lots more.
+The impact of electrical engineering on our daily lives can be seen and felt most everywhere. Next-generation electronic devices, robotics, environmental and medical sensors, power systems, energy conversion systems, communication systems, satellite systems, remote sensing, nanotechnology, medical devices, information technology, big data, lighting, displays, miniature and low-power computers, automotive electronics, imaging, and even cyber security are all the work of electrical engineers.
+Atlas profile for Electrical Engineering
+(current U-M students only)
+This program is administered by the Electrical and Computer Engineering (ECE) Division of the Department of Electrical Engineering and Computer Science.
+Why electrical engineering at Michigan?
+Jobs
+: In recent years, most of the recruiters coming to Michigan are looking for electrical engineers, and are willing to pay them among the highest salaries.
+Impactful Research
+: Building on $50M of research, Michigan electrical engineering faculty and students are leaders in transferring technology from the lab to real-world products impacting sustainability, communication and information systems, security, computers, and more.
+Creativity
+: The Michigan Electrical Engineering program offers the widest variety of lab courses and senior major design experience courses to set your creativity free.
+Top Ranked
+EE is a top 10 ranked department (
+US News & World Repor
+t)
+80+
+Industry-relevant courses, with four years of hands-on, team-based design courses
+100+
+World-class faculty who win awards for teaching and research, start companies, and inspire students.
+Curriculum
+Program information
+EE Major Program Guide
+Editable Sample Schedule
+Enrollment & Graduation Data
+ECE Courses
+Advising | Careers | Research
+Advising Office
+Sign up for an EE Group Declaration session
+Career Info
+Explore the types of research electrical engineers do
+Academic concentrations
+The
+Electrical Engineering Program Guide
+describes 11 different paths of study that students may use as a guide to planning their courses. These are optional. The program guide provides an overview and a list of related courses for each of these paths of study:
+Applied Electromagnetics and RF Circuits
+Controls/Systems
+Embedded Systems
+MEMS and Microsystems
+Network Communication and Information Systems (NCIS)
+Optics and Photonics
+Power/Energy
+Robotics
+Signal and Image Processing
+Solid-State Devices and Nanotechnology
+VLSI Systems (Chip Design)
+Every Electrical Engineering student takes a Major Design Experience (MDE) course, typically in their last year of undergraduate studies. These are the MDE courses offered for Electrical Engineering students:
+EECS 411: Microwave Circuits I
+Design, build, and test a commercially-available standard
+receiver, such as WiFi, BlueTooth, or GSM.
+EECS 411 Course overview
+EECS 413: Monolithic Amplifier Circuits
+Design advanced analog circuits, such as a high-performance op amp, or circuits for sensing and biomedical applications.
+EECS 413 Course overview
+EECS 425: Integrated Microsystems Lab
+Design and fabricate a multi-chip microsystem containing sensors, signal processing, and more in the Lurie Nanofabrication Facility. These microsystems are used in today’s mobile and miniature devices.
+EECS 425 Course overview
+EECS 427: VLSI Design I
+Design and build circuits into an entire digital system, such as a microprocessor that will go into a car, smartphone, wearable tech, or a media player.
+EECS 427 Course overview
+EECS 430: Wireless Link Design
+Design, build, and characterize an antenna, a satellite ground station, the electronics for a NASA space satellite, or other practical radio link.
+EECS 430  Course overview
+EECS 438: Advanced Lasers and Optics Lab
+Design and set up a practical optical system, such as a solar light concentrator for solar cells, a laser for a space elevator, or a tunable fiber laser.
+EECS 438 Course overview
+EECS 452: Digital Signal Processing Lab
+Design and implement a real-time software package or hardware device. Examples include a low-cost hearing aid, a guitar autotuner, and a wireless electrocardiogram with biosensors.
+EECS 452 Course overview
+EECS 470: Computer Architecture
+Design and build a dynamically scheduled processor while exploring modern computer architecture.
+EECS 470 Course overview
+EECS 473: Advanced Embedded Systems
+Design a complete embedded system.
+EECS 473 Course overview
+Accelerated master’s degrees: SUGS and 3.4 Programs
+ECE offers
+two special programs for current University of Michigan undergraduate students to facilitate getting a master’s degree
+. The
+Sequential Undergraduate/Graduate (SUGS) program
+allows current University of Michigan undergraduates to complete a bachelor’s and master’s degree in a total of five years, and the
+3.4 program
+allows current University of Michigan undergraduate students with at least a 3.4 GPA can apply for admission to the master’s program without taking the GRE or sending in letters of recommendation.
+Outside the classroom
+Learn by doing
+Student Groups and Teams
+Michigan Engineering Immersed
+Professional Organizations
+ECE Groups and Clubs
+Research
+UG research opportunities
+Research Areas
+What our graduates do
+Job titles
+Digital Design Engineer
+Digital Signal Processing Engineer
+Electrical Engineer
+Signal Processing Engineer
+Network Systems Engineer
+Solar Engineer
+Power Engineer
+Lighting Engineer
+Communications Engineer
+Semiconductor Engineer
+Robotics Engineer
+Automotive Engineer
+Controls Systems Engineer
+Programmer Analyst
+Bioelectrical Engineer
+Mixed Signal Wireless Engineer
+Product Engineer
+Analog Product Engineer
+Reliability Engineer
+Audio & Video Engineer
++10,000 more
+Salary information
+Meet our alumni
+Linda Guillory
+World-record holder for vintage video game collections, and Texas Instruments Assembly Sourcing Manager
+Curtis Ling
+Making a successful technology company
+Read more stories about our alumni
+Read more stories about our future alumni
+Mission and goals
+The Electrical Engineering (B.S.E.) program is accredited by the Engineering Accreditation Commission of ABET,
+https://www.abet.org
+, under the General Criteria and the Program Criteria for Electrical, Computer, Communications, Telecommunication(s) and similarly named engineering programs.
+View details
+Mission
+: To provide an outstanding education for engineers in electrical engineering and to develop future innovative leaders.
+Goals
+: To provide students with the education for a rewarding and productive career.
+Objectives
+: Within 5 years after graduating:
+Graduates should be prepared for entry-level engineering jobs, for graduate school, or for entrepreneurial or volunteer activities based on their rigorous education in the fundamentals and applications of electrical engineering, including laboratory and design work.
+Graduates should be able to pursue a variety of careers, based on a curriculum that allows for a balance between a deep education in one area and a broad education in several areas.
+Graduates should be able to work effectively on diverse teams, to communicate in written and oral form, to practice life-long learning, and to develop the professional skills and ethics needed for successful leadership positions.
+Outcomes
+: The outcome that we desire is that our graduates demonstrate:
+An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+An ability to communicate effectively with a range of audiences
+An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+An ability to acquire and apply new knowledge as needed, using appropriate learning strategies

@@ -1,0 +1,18 @@
+{
+  "id": "global-environment-and-health-sub-major-of-international-studies--majors-minors-html-global-environment-and-health-geh-s",
+  "name": "Global Environment and Health (Sub-major of International Studies)",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#global_environment_and_health_geh-sub",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#global_environment_and_health_geh-sub",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/international-studies-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/international-studies-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:39:18.917802+00:00",
+  "lsa_resolved_row_id": "global_environment_and_health_geh-sub"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "01-approved-list",
+    "url": "https://ii.umich.edu/pics/undergraduates/courses.html",
+    "link_text": "approved list",
+    "score": 120,
+    "status": "fetched",
+    "message": "ok (4419 chars)",
+    "final_url": "https://ii.umich.edu/pics/undergraduates/courses.html",
+    "fetch_mode": "browser",
+    "chars": 4419
+  }
+]

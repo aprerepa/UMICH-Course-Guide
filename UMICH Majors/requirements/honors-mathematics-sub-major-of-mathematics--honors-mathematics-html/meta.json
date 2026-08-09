@@ -1,0 +1,17 @@
+{
+  "id": "honors-mathematics-sub-major-of-mathematics--honors-mathematics-html",
+  "name": "Honors Mathematics (Sub-major of Mathematics)",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (program URL)",
+  "program_final_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html",
+  "requirements_link_text": "(program page is requirements)",
+  "requirements_link_score": 200,
+  "requirements_link_strategy": "program_is_requirements",
+  "requirements_final_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:40:32.624563+00:00"
+}

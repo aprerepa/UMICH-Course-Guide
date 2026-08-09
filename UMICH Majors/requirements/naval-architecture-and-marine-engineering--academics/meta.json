@@ -1,0 +1,17 @@
+{
+  "id": "naval-architecture-and-marine-engineering--academics",
+  "name": "Naval Architecture and Marine Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://name.engin.umich.edu/home/academics/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://name.engin.umich.edu/home/academics/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://name.engin.umich.edu/home/academics/undergraduate-studies/degree-requirements/",
+  "requirements_link_text": "Degree Requirements",
+  "requirements_link_score": 265,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://name.engin.umich.edu/home/academics/undergraduate-studies/degree-requirements/",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:46:09.929669+00:00"
+}

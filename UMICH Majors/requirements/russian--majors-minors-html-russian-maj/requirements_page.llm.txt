@@ -1,0 +1,456 @@
+Page header:
+page title: Russian Major | U-M LSA U-M College of LSA
+
+Visible page text:
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+About
+Academics
+Research
+News and Events
+Support LSA
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Course Catalog
+Give Online
+Keyword Search of en
+About
+Academics
+Research
+News and Events
+Support LSA
+Course Catalog
+Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+LSA 101: Info for Admitted Students
+Learn what it means to be a Wolverine and dig in to what the liberal arts are all about. View our presentations and information from wherever you are.
+Undergraduate
+Graduate
+Transfer
+International
+Student Life
+Admissions
+Student Stories
+Outcomes and Possibilities
+LSA delivers a purposeful, pragmatic liberal arts education that employers respect and seek out.
+Undergraduate
+Graduate
+Transfer
+Education
+Academic Advising
+Outcomes and Possibilities
+College Connections
+College Connections provides a space for alumni and families to share their student experiences with recent LSA graduates and provide feedback on the current and future state of the College.
+Get Connected
+Get Involved
+Get Informed
+College Connections
+Staff Achievement Awards Program
+This is an annual opportunity to acknowledge and celebrate exceptional staff contributions to the success of the College . Information regarding eligibility, nomination, selection, notification, and winners can be found here.
+Budget and Finance
+Chairs and Directors
+Facilities and Operations
+Faculty Academic Affairs
+Graduate Education
+Human Resources
+LSA Advancement
+LSA Research Office
+Office of the Dean
+Security and Safety
+Standard Practice Guide
+Student Academic Affairs
+Technology Services
+Undergraduate Education
+Skip to Page Content
+Academics
+Majors and Minors
+Russian Major
+...
+Russian Major
+Academics
+Majors and Minors
+[X] close
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Russian Major
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Advising
+Department Website
+Effective Winter 2022
+Advising
+Professor Michael Makin, the undergraduate department advisor, should be consulted by prospective majors before the end of the sophomore year. Appointments are scheduled online at
+www.lsa.umich.edu/slavic/undergraduate/advising
+.
+Prerequisites
+Students have three possible ways to complete the Russian major program:
+a Russian Language and Literature track
+a Culture track
+a Heritage Speakers track
+Russian Language and Literature track Prerequisites:
+RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203 or RUSSIAN 123 and 223) or the equivalent.  Interested students are advised to begin Russian during their first year.
+Culture track Prerequisites:
+RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203 or RUSSIAN 123 and 223) or the equivalent. Interested students are advised to begin Russian during their first year.
+Heritage Speakers track Prerequisites:
+RUSSIAN 225 or 202, or equivalent, or placement in an upper-level course; and RUSSIAN 231.
+Requirements
+Minimum Credits:
+27
+Russian Language and Literature track
+Core Courses:
+RUSSIAN 301 (or RCLANG 323) and 302, or 303
+RUSSIAN 401 and 402
+RUSSIAN 451 or 499
+RUSSIAN 347, plus 348 or 375
+Russian literature/culture outside of the 19th Century:
+at least one course (
+e.g.
+RUSSIAN 333, 352, 361, 365, 391, 450, 467, 468, 469, 470, 471, 472, 475, SLAVIC 313, 470).
+Cognate Requirement for Russian Language and Literature: three or more credits in advanced courses (300-level or above)
+cognate courses studying some other aspect of Russia (special attention is called to the courses listed under
+Russian, East European, and Eurasian Studies),
+or;
+another Slavic language (Czech, Bosnian,Croatian, and Serbian, Ukranian, or Polish), or;
+another foreign language
+Culture track
+Core Courses:
+RUSSIAN 231 or SLAVIC 270 or 240 or 281
+RUSSIAN 301 (or RCLANG 323) and 302; or 303
+RUSSIAN 401 and 402
+RUSSIAN 451 or 499
+Upper-Level Electives for Culture subplan:
+At least two of RUSSIAN 322, 333, 346, 347 or 348, 352, 358, 361, 365, 375, 391, 450, 467, 471, 472, 474, 475, 477, SLAVIC 313, 470, 481.
+Cognate Requirement for Russian Language and Literature: three or more credits in advanced courses (300-level or above)
+cognate courses studying some other aspect of Russia (special attention is called to the courses listed under
+Russian, East European, and Eurasian Studies),
+or;
+another Slavic language (Czech, Bosnian,Croatian, and Serbian, Ukranian, or Polish), or;
+another foreign language
+Heritage Speakers track
+Core Courses:
+RUSSIAN 301 and 302, or equivalent
+RUSSIAN 401 and 402
+RUSSIAN 501 and 502
+two of: RUSSIAN 451, RUSSIAN 499, RCLANG 323
+Upper-Level Electives for Heritage Speakers subplan:
+At least two of RUSSIAN 322, 333, 347, 352, 348, 358, 361, 365, 375, 391, 450, 467, 469, 471, 472, 473, 474, 475, 477, SLAVIC 313, or other literature courses with permission of advisor.
+Cognate Requirement for Russian Language and Literature: three or more credits in advanced courses (300-level or above)
+cognate courses studying some other aspect of Russia (special attention is called to the courses listed under
+Russian, East European, and Eurasian Studies),
+or;
+another Slavic language (Czech, Bosnian,Croatian, and Serbian, Ukranian, or Polish), or;
+another foreign language
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the RUSSIAN, BCS, CZECH, POLISH, SLAVIC, and UKR subject areas may not be used toward the Distribution Requirement.
+Honors
+Undergraduate majors who have maintained a 3.5 grade point average in Russian courses and 3.4 overall GPA may apply for admission to the Honors major. In addition to regular requirements for the major, qualified Honors majors work on a major project during the senior year, and complete an Honors thesis based on their research.
+Russian (Major) (Winter 2019 - Fall 2021)
+Effective Winter 2019
+Advising
+Professor Michael Makin, the undergraduate department advisor, should be consulted by prospective majors before the end of the sophomore year. Appointments are scheduled online at
+www.lsa.umich.edu/slavic/undergraduate/advising
+.
+Prerequisites
+Students have three possible ways to complete the Russian major program:
+a Russian Language and Literature track
+a Culture track
+a Heritage Speakers track
+Russian Language and Literature track Prerequisites:
+RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203 or RUSSIAN 123 and 223) or the equivalent.  Interested students are advised to begin Russian during their first year.
+Culture track Prerequisites:
+RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203 or RUSSIAN 123 and 223) or the equivalent. Interested students are advised to begin Russian during their first year.
+Heritage Speakers track Prerequisites:
+RUSSIAN 225 or 202, or equivalent, or placement in an upper-level course; and RUSSIAN 231.
+Requirements
+Minimum Credits:
+27
+Russian Language and Literature track
+Core Courses:
+RUSSIAN 301 (or RCLANG 323) and 302, or 303
+RUSSIAN 401 and 402
+RUSSIAN 451 or 499
+RUSSIAN 347, plus 348 or 375
+Russian literature/culture after 1900:
+at least one course (
+e.g.
+RUSSIAN 361, 450, 467, 468, 469, 470, 471, 472, 475, SLAVIC 313, 470).
+Cognate Requirement for Russian Language and Literature: three or more credits in advanced courses (300-level or above)
+cognate courses studying some other aspect of Russia (special attention is called to the courses listed under
+Russian, East European, and Eurasian Studies),
+or;
+another Slavic language (Czech, Bosnian,Croatian, and Serbian, Ukranian, or Polish), or;
+another foreign language
+Culture track
+Core Courses:
+RUSSIAN 231 or SLAVIC 270 or 240 or 281
+RUSSIAN 301 (or RCLANG 323) and 302; or 303
+RUSSIAN 401 and 402
+RUSSIAN 451 or 499
+Upper-Level Electives for Culture subplan:
+At least two of RUSSIAN 322, 333, 346, 347 or 348, 352, 358, 361, 365, 375, 391, 450, 467, 471, 472, 474, 475, 477, SLAVIC 313, 470, 481.
+Cognate Requirement for Russian Language and Literature: three or more credits in advanced courses (300-level or above)
+cognate courses studying some other aspect of Russia (special attention is called to the courses listed under
+Russian, East European, and Eurasian Studies),
+or;
+another Slavic language (Czech, Bosnian,Croatian, and Serbian, Ukranian, or Polish), or;
+another foreign language
+Heritage Speakers track
+Core Courses:
+RUSSIAN 301 and 302, or equivalent
+RUSSIAN 401 and 402
+RUSSIAN 501 and 502
+two of: RUSSIAN 451, RUSSIAN 499, RCLANG 323
+Upper-Level Electives for Heritage Speakers subplan:
+At least two of RUSSIAN 322, 333, 347, 352, 348, 358, 361, 375, 391, 450, 467, 469, 471, 472, 473, 474, 475, 477, SLAVIC 313, or other literature courses with permission of advisor.
+Cognate Requirement for Russian Language and Literature: three or more credits in advanced courses (300-level or above)
+cognate courses studying some other aspect of Russia (special attention is called to the courses listed under
+Russian, East European, and Eurasian Studies),
+or;
+another Slavic language (Czech, Bosnian,Croatian, and Serbian, Ukranian, or Polish), or;
+another foreign language
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the RUSSIAN, BCS, CZECH, POLISH, SLAVIC, and UKR subject areas may not be used toward the Distribution Requirement.
+Honors
+Undergraduate majors who have maintained a 3.5 grade point average in Russian courses and 3.4 overall GPA may apply for admission to the Honors major. In addition to regular requirements for the major, qualified Honors majors work on a major project during the senior year, and complete an Honors thesis based on their research.
+Russian (Major) (Fall 2016 - Fall 2018)
+Effective Fall 2016
+Advising
+Professor Michael Makin, the undergraduate department advisor, should be consulted by prospective majors before the end of the sophomore year. Appointments are scheduled online at
+www.lsa.umich.edu/slavic/undergraduate/advising
+.
+Prerequisites
+Students have three possible ways to complete the Russian major program:
+the standard major option, based on the study of Russian literature and language
+a Culture track
+a Heritage Speakers track
+Russian Major Prerequisites:
+RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203 or RUSSIAN 123 and 223) or the equivalent.  Interested students are advised to begin Russian during their first year.
+Culture track Prerequisites:
+RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203 or RUSSIAN 123 and 223) or the equivalent. Interested students are advised to begin Russian during their first year.
+Heritage Speakers track Prerequisites:
+RUSSIAN 225 or 202, or equivalent, or placement in an upper-level course; and RUSSIAN 231.
+Requirements
+Minimum Credits:
+27
+Russian Language and Literature
+Core Courses:
+RUSSIAN 301 (or RCLANG 323) and 302, or 303
+RUSSIAN 401 and 402
+RUSSIAN 451 or 499
+RUSSIAN 347, plus 348 or 375
+Upper Level elective: at least one course in Russian literature and/or culture after the 19th century
+at least one course (
+e.g.
+RUSSIAN 361, 450, 467, 468, 469, 470, 471, 472, 475, SLAVIC 313, 470).
+Cognate Requirement for Russian Language and Literature: three or more credits in advanced courses (300-level or above)
+cognate courses studying some other aspect of Russia (special attention is called to the courses listed under
+Russian and East European Studies
+), or;
+another Slavic lanaguage (Czech, BCS, Ukranian, or Polish), or;
+another foreign language
+Culture track
+Core Courses:
+RUSSIAN 231 or SLAVIC 270 or 240 or 281
+RUSSIAN 301 (or RCLANG 323) and 302; or 303
+RUSSIAN 401 and 402
+RUSSIAN 451 or 499
+Upper-Level Electives for Culture subplan:
+At least two of RUSSIAN 322, 346, 347 or 348, 358, 361, 375, 391, 477, SLAVIC 313, 470, 481.
+Cognate requirement for Russian Language and Literature
+Heritage Speakers track
+Core Courses:
+RUSSIAN 325 or 302, or equivalent
+RUSSIAN 401 and 402
+RUSSIAN 501 and 502
+two of: RUSSIAN 451, RUSSIAN 499, RCLANG 323
+Upper-Level Electives for Heritage Speakers subplan:
+At least two of RUSSIAN 347, 348, 361, 375, 450, or other literature courses with permission of advisor.
+Cognate requirement for Russian Language and Literature
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the RUSSIAN, BCS, CZECH, POLISH, SLAVIC, and UKR subject areas may not be used toward the Distribution Requirement.
+Honors
+Undergraduate majors who have maintained a 3.5 grade point average in Russian courses and 3.4 overall GPA may apply for admission to the Honors major. In addition to regular requirements for the major, qualified Honors majors work on a major project during the senior year, and complete an Honors thesis based on their research.
+Russian Major (Winter 2013-Summer 2016)
+changes effective Winter 2013-Summer 2016
+May be elected as a departmental major
+The Russian major aims to combine, in the best traditions of a liberal arts degree, practical language learning with the study of culture broadly understood. It provides extensive language training and demanding courses in literary history and analysis. Moreover, the Department firmly believes that serious language study offers broad intellectual benefits in and of itself. In the upper-level Russian language courses, it aims to develop linguistic self-consciousness and a basis for the study of linguistics proper. In literary studies many undergraduates take not only the required courses (both in translation and in Russian), but also elect more specialized courses such as "monograph" studies of Pushkin (RUSSIAN 461), Dostoevsky (RUSSIAN 462), Chekhov (RUSSIAN 463), and Tolstoy (RUSSIAN 464).
+Russian is also an especially rewarding second major when combined with political science, history or another social-science discipline. Students who complete the intensive year-long language program in their first year are particularly well equipped to follow the dual-major path.
+Students have three possible ways to complete the Russian major program: the standard major option, based on the study of Russian literature and language; a Culture track and a Heritage Speakers track.
+The Major
+A. Russian Language and Literature [effective Fall 2011]
+Prerequisites to the Major.
+RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203, or RUSSIAN 123 and 223) or the equivalent. Interested students are advised to begin Russian during their first year.
+Core Courses:
+RUSSIAN 301 (or RCLANG 323) and 302; or RUSSIAN 303
+RUSSIAN 451 or 499;
+RUSSIAN 347 and 348; and
+at least one course in Russian literature after 1900
+(e.g.,
+RUSSIAN 361, 450, 467, 468, 469, 470, 471, 472, 475).
+Upper-level Russian language and literature electives:
+at least two courses (in addition to those listed above) from RUSSIAN 401*, 402*, 410, 413, 414, 415, 416, 417, 418, 419, 420, 453, 454, 455, 456, 460, 461, 462, 463, 464, 465, 466, 476, and 485.
+Advising Recommendation:
+For most students RUSSIAN 401/402 will be the preferred choice. Students who do not take the RUSSIAN 401/402 sequence will find RUSSIAN 451 or 499 much more difficult.
+Cognate requirement for Russian Language and Literature
+.
+*
+B. Culture track (subplan) [effective Winter 2010]
+Prerequisites to the Major.
+RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203, or RUSSIAN 123 and 223) or the equivalent. Interested students are advised to begin Russian during their first year.
+Core Courses:
+RUSSIAN 231 or SLAVIC 270 or SLAVIC 240 or SLAVIC 281;
+RUSSIAN 301 (or RCLANG 323), and 302; or RUSSIAN 303
+RUSSIAN 401 and 402;
+RUSSIAN 451 or RUSSIAN 499.
+Upper-Level Electives for Culture Subplan:
+At least two of RUSSIAN 322, RUSSIAN 477, SLAVIC 313, RUSSIAN 358, SLAVIC 481, RUSSIAN 347 or 348.
+Cognate requirement for Russian Language and Literature
+.
+*
+C. Heritage Speakers track (subplan) [effective Fall 2011]
+Prerequisites for Heritage Speakers Subplan:
+RUSSIAN 225 or 202, or equivalent, or placement in an upper-level course; and RUSSIAN 231.
+Core Courses for Heritage Speakers Subplan:
+RUSSIAN 325 or 302, or equivalent;
+RUSSIAN 401, 402, 501, and 502;
+two of RUSSIAN 451, RUSSIAN 499, RCLANG 323.
+Upper-Level Electives for Heritage Speakers Subplan:
+At least two of RUSSIAN 347, 348, 361, 450, or other literature or culture courses with permission of advisor.
+Cognate requirement for Russian Language and Literature
+.
+*
+*
+Cognate requirement for Russian Language and Literature
+Three or more credits in advanced courses (300-level or above) in:
+a cognate course studying some other aspect of Russia. (Special attention is called to courses listed under Russian, East European, and Eurasian Studies.) OR
+another Slavic language (Czech; Bosnian, Croatian, & Serbian; Ukrainian; and Polish) OR
+another foreign language
+Russian Concentration (Fall 2011-Fall 2012)
+Concentration changes effective Fall 2011 - Fall 2012
+May be elected as a departmental concentration program
+A. Russian Language and Literature
+Prerequisites to Concentration. RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203, or RUSSIAN 123 and 223) or the equivalent. Interested students are advised to begin Russian during their first year.
+Core Courses:
+RUSSIAN 301 (or RCLANG 323) and 302;
+RUSSIAN 451 or 499;
+RUSSIAN 347 and 348; and
+at least one course in Russian literature after 1900
+(e.g.,
+RUSSIAN 361, 450, 467, 468, 469, 470, 471, 472, 475).
+Upper-level Russian language and literature electives: at least two courses (in addition to those listed above) from RUSSIAN 401*, 402*, 410, 413, 414, 415, 416, 417, 418, 419, 420, 453, 454, 455, 456, 460, 461, 462, 463, 464, 465, 466, 476, and 485.
+Advising Recommendation: For most students RUSSIAN 401/402 will be the preferred choice. Students who do not take the RUSSIAN 401/402 sequence will find RUSSIAN 451 or 499 much more difficult.
+three or more credits in advanced courses (300-level or above) in another Slavic language (Czech; Bosnian, Croatian, & Serbian; Ukrainian; and Polish) or another foreign language, or cognate courses studying some other aspect of Russia. Special attention is called to courses listed under Russian, East European, and Eurasian Studies.
+B. Culture track (subplan) [effective Winter 2010]
+Prerequisites to Concentration. RUSSIAN 101, 102, 201, and 202, (or RUSSIAN 103 and 203, or RUSSIAN 123 and 223) or the equivalent. Interested students are advised to begin Russian during their first year.
+Core Courses:
+RUSSIAN 231 or SLAVIC 270 or SLAVIC 240 or SLAVIC 281;
+RUSSIAN 301 (or RCLANG 323), and 302;
+RUSSIAN 401 and 402;
+RUSSIAN 451 or RUSSIAN 499.
+Upper-Level Electives for Culture Subplan: At least two of RUSSIAN 322, RUSSIAN 477, SLAVIC 313, RUSSIAN 358, SLAVIC 481, RUSSIAN 347 or 348.
+Cognate requirement for Russian Language and Literature
+.
+C. Heritage Speakers track (subplan) [effective Fall 2011]
+Prerequisites for Heritage Speakers Subplan: RUSSIAN 225 or 202, or equivalent, or placement in an upper-level course; and RUSSIAN 231.
+Core Courses for Heritage Speakers Subplan:
+RUSSIAN 325 or 302, or equivalent;
+RUSSIAN 401, 402, 501, and 502;
+two of RUSSIAN 451, RUSSIAN 499, RCLANG 323.
+Upper-Level Electives for Heritage Speakers Subplan: At least two of RUSSIAN 347, 348, 361, 450, or other literature or culture courses with permission of advisor.
+Cognate requirement for Russian Language and Literature
+.
+Information for
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

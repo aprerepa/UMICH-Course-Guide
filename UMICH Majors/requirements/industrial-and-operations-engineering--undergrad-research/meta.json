@@ -1,0 +1,17 @@
+{
+  "id": "industrial-and-operations-engineering--undergrad-research",
+  "name": "Industrial and Operations Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://ioe.engin.umich.edu/current-students/undergrad-research/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://ioe.engin.umich.edu/undergraduate/undergrad-research/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://docs.google.com/presentation/d/1NgCbvWIVE4NbU7TpF0ABiA8yI4Tb8_jZOftySfoh8Ow/edit?usp=sharing",
+  "requirements_link_text": "Major in IOE \u2192 IOE Course Guide",
+  "requirements_link_score": 355,
+  "requirements_link_strategy": "hub:Major in IOE\u2192page",
+  "requirements_final_url": "https://docs.google.com/presentation/d/1NgCbvWIVE4NbU7TpF0ABiA8yI4Tb8_jZOftySfoh8Ow/edit?usp=sharing",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T16:20:40.076352+00:00"
+}

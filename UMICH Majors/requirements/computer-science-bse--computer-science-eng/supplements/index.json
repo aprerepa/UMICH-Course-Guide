@@ -1,0 +1,57 @@
+[
+  {
+    "id": "01-preview-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview#gid=0",
+    "link_text": "ULCS list,",
+    "score": 170,
+    "status": "fetched",
+    "message": "ok (2199 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview#gid=0",
+    "fetch_mode": "http",
+    "chars": 2199
+  },
+  {
+    "id": "02-expanded-ulcs-gid1878635639",
+    "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview?urp=gmail_link#gid=1878635639",
+    "link_text": "Expanded ULCS",
+    "score": 170,
+    "status": "fetched",
+    "message": "ok (1962 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview?urp=gmail_link#gid=1878635639",
+    "fetch_mode": "http",
+    "chars": 1962
+  },
+  {
+    "id": "03-eecs-capstone-gid590577141",
+    "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview#gid=590577141",
+    "link_text": "EECS Capstone",
+    "score": 160,
+    "status": "fetched",
+    "message": "ok (1399 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview#gid=590577141",
+    "fetch_mode": "http",
+    "chars": 1399
+  },
+  {
+    "id": "04-flexible-cs-technical-electives-gid614866660",
+    "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview#gid=614866660",
+    "link_text": "Flexible CS Technical Electives",
+    "score": 160,
+    "status": "fetched",
+    "message": "ok (11746 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview#gid=614866660",
+    "fetch_mode": "http",
+    "chars": 11746
+  },
+  {
+    "id": "05-capstone",
+    "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview",
+    "link_text": "Capstone",
+    "score": 105,
+    "status": "fetched",
+    "message": "ok (1399 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview",
+    "fetch_mode": "http",
+    "chars": 1399
+  }
+]

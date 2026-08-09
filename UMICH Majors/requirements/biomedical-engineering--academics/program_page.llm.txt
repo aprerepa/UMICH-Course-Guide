@@ -1,0 +1,20 @@
+Page header:
+page title: Academics - Biomedical Engineering (BME)
+og:description: Biomedical Engineering at Michigan
+
+Visible page text:
+Academics
+Graduate
+Undergraduate
+Accreditation
+Design Programs
+Biomedical Engineering at Michigan
+Undergrad
+Enjoy math, physics & chemistry? Interested in biology and medicine? Consider a career in biomedical engineering.
+Undergrad Program
+Graduate
+The Michigan BME graduate programs provide the opportunity to specialize in one of six areas that reflect our innovation and ingenuity.
+Graduate Programs
+Design Program
+The Design Program places students in a simulated, hands-on incubator environment, solving problems for real clients with faculty guidance and professional mentorship.
+Design Program

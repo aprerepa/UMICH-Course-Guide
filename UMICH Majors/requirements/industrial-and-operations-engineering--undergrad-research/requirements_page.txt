@@ -1,0 +1,897 @@
+Undergraduate Student
+
+Course Guide
+
+Table of Contents
+Introduction
+Welcome………………..……………………………………..………………..………….3
+History……..………………..………………..…………………………………..…………..4
+Understanding Industrial Engineering……..……..….………..6
+
+The Undergraduate Degree
+Course Options
+	Degree Requirements..…………………..…..……………………..……….13
+	The IOE Curriculum..………………..………………………….…....…….…..14
+	Non-IOE Courses..……………..………………………………..……..………….20
+	Minors & Concentrations..……………..…………………..………..……..21
+	Supplemental Programs..…………………..……………………………..22
+	Sample Schedule..…………………………………………………….………….24
+Academic Information
+	Declaration Requirements..…………………..…………………………26
+Grades..………………………..……………………..………………………..…………..27
+Registration..…………………..…………………..……………………..…………..29
+		IOE 334 Information..…………………..……..………………..…….32
+	Study Abroad..…………………..………..……………………..……………….….31
+	Supplementary Academics..……………………………..……………..33
+Graduating…………..…..……………………..……………………..………………..34
+	Tips & FAQ…………..…..……………………..……………………..………..……….35
+
+Beyond the Classroom
+	Societies and Organizations…………..……..………………….……..37
+	Finding a Job…………..………………..……………………..…………………….38
+	Jobs in Industrial Engineering…………..…………...………………39
+	Graduate School……..…………...……………………..……………………..…41
+
+Stay in Touch
+	Contacts……..…………..……………………..……………………..………………….43
+	Maps……..…………...…………………..……………………..……………………..……45
+
+“As industrial and operations engineers we look at how all things are connected and therefore we can make an impact in nearly all sectors of industry and education. I believe a leader is there to help great people do great things. I hope to create an environment where everyone can excel, so as a department, we can do great things, while being inclusive of all members. I strive to create the kind of environment where people feel welcome and can bring their whole selves to the University and be accepted.”
+Julie Ivy   Chair of the Department of    Industrial and Operations Engineering    jsivy@umich.edu
+“We are delighted that you have chosen to pursue a career in Industrial and Operations Engineering. If you need information about our program, career goals, and experience at IOE, please do not hesitate to reach out to us. As you progress through our program, I encourage you to be an active member of our IOE community and the IOE student societies. Not only will your active participation be a valuable addition to your undergraduate experience, but we believe that each of you has a unique set of skills and perspectives to add to our program. Welcome to IOE!” 
+Welcome! from our LEADERS
+Mariel Lavieri Associate Chair,  Undergraduate Education lavieri@umich.edu
+3
+
+2000
+History of IOE at UM
+1900
+1895: BSE degrees - 
+Mechanical, Civil, Chemical, Electrical
+1926: BSE - Mechanical Engineering and Industrial Engineering
+1928: BSE - Chemical and Industrial Engineering
+1929: BSE - Electrical and Industrial Engineering
+1946: BSE - Industrial and Mechanical Engineering
+1952: BSE - Industrial Engineering
+1973: BSE - Industrial and Operations Engineering
+1956: Industrial Engineering Department established
+1996-7: Expansion to add classrooms next to department offices
+The department was established in anticipation of the increasing importance of mathematical modeling and computers in manufacturing.
+4
+
+Industrial & Operations Engineering at the University of Michigan’s College of Engineering
+The Industrial Engineering department sought to retain and develop studies in manufacturing and service operations by designing a curriculum with courses in:
+Industrial engineers got their name because they started in factories on the facility floor optimizing manufacturing processes. They improved every part of the system from the supply chain logistics to the production planning management to the ergonomics of a single operator’s task. Since the 1970s, there has been an increasing demand for industrial engineers to optimize systems or operations in any industry:
+We consistently rank amongthe 
+top
+departments in the United States for Industrial/Manufacturing Engineering.
+3
+Human Factors and ErgonomicsWork Measurement and Time StudyEngineering EconomicsProduction and Facility PlanningQuality Testing and ControlMathematical ProgrammingOperation Modelling & SimulationData Processing and Visualization
+Manufacturing Services	Facility Flow and Layout		Supply Chain Distribution
+Banking & Insurance		Economics & Consulting		Business StrategyInformation Processing	Transportation Logistics		Health Care Operations	Program Management	Environmental Protection		National Defense StrategyGovernment Leadership & Policy Management	Educational Curriculum Development
+5
+
+Understanding 
+Industrial 
+Engineering
+
+Understanding Industrial Engineering
+Manufacturing Engineering & Service Systems
+Logistical Operations Research
+Quality Engineering
+Human Systems Integration & Ergonomics
+Management Engineering & Leadership
+Industrial Engineers use analytical problem solving skills to optimize systems and design 
+human-oriented solutions.
+
+Our multidisciplinary skills make us the most versatile problem solvers on any team.
+
+What kinds of problems inspire you? What systems make you curious?
+
+Information Processing & Data Analytics
+7
+
+Management Engineering & Leadership
+Understanding Industrial Engineering
+Human Systems Integration: study interaction between humans and the device (car, robot, tool, assembly line)
+Workstation Design: establish standard tool and  material locations at workstations to optimize time  study
+Task Ergonomics: biomechanically evaluate impact of sustained  posture or prolonged action on body
+Time Study & MODAPTs: measure and evaluate individual motions to optimize assembly  method for each station
+Environment, Health & Safety: design procedures and signage to mitigate risks from hazards
+Quality Engineering: use material properties and product expectations to establish quality standards
+New Product Introduction: execute initial test plan for a new design with deliverables & performance indicators
+Test Design: use hypothesis testing techniques to establish thresholds of acceptability for new products
+Sustainability Engineering: evaluate insufficient quality issues and viable design improvements for new products
+Change Control Management : establish procedure to document minor changes
+Technical Documentation: clearly and intuitively document a process so it can be safely and accurately replicated
+Manufacturing Engineering & Service Systems
+Quality Engineering
+Information Processing & Data Analytics
+Logistical Operations Research
+Human Systems Integration & Ergonomics
+8
+
+Understanding Industrial Engineering
+Manufacturing Process Engineering: manage assembly line process and human interface with the controls
+Continuous Improvement: evaluate facility inefficiencies and implement major cross-departmental improvements
+Facility Layout & Flow: manage floor plan on AutoCAD and determine placement of incoming equipment
+Production & Inventory Planning: forecast production rates based on demand, materials, and workforce
+Time Study: measure and evaluate individual motions to optimize quantity of stations
+Upper Management: use interpersonal skills and interdisciplinary experience to lead a company or team (President, VP, CEO) 
+Head of Operations: manage an organization’s high-level operation strategy and oversee team functions
+Head of People & Culture: evaluate team dynamics and coordinate events to establish and engage the community
+Curriculum Development: collaborate with visionary leadership to define goals and plan execution framework
+Education: complement interpersonal skills with technical background
+Project & Program Management: coordinate execution with deliverables, timeline, and performance indicators; sometimes as a consultant
+Manufacturing Engineering & Service Systems
+Quality Engineering
+Human Systems Integration & Ergonomics
+Management Engineering & Leadership
+Information Processing & Data Analytics
+Logistical Operations Research
+9
+
+Understanding Industrial Engineering
+
+Database Management: coordinate all data sources and establish best practices or naming conventions 
+Data Analysis: aggregate data and evaluate insights (most likely using SQL, Python, R, or Excel)
+Data Visualization: design compelling and insightful visualizations from analysis (most likely using Tableau or other visualization software)
+Modeling & Optimization: use Python or R to mathematically model optimization problems based on linear programming methods
+
+Supply Chain Logistics: coordinate with material planners, alternative distribution centers, and external vendors to procure materials
+Transportation Operations: manage and optimize routes, destinations, and schedule for a team or fleet of vehicles
+Facility Logistics: design intuitive paths or roads to facilitate flow of crowds (i.e. at airports, theme parks)
+Inventory Planning: use demand and material quantities to model a single facility’s inventory plan and material distribution 
+Time Study and Simulation: analyze individual motion timing and assembly line rates to simulate scenarios with various demand, workforce, and experience parameters and optimize output
+Manufacturing Engineering & Service Systems
+Logistical Operations Research
+Quality Engineering
+Human Systems Integration & Ergonomics
+Management Engineering & Leadership
+Information Processing & Data Analytics
+10
+
+Project/Program Management
+Curriculum Development
+Technical Documentation
+Culture Management
+Station Design & Time Study
+Task Ergonomics
+Sustainability Engineering
+Test Design
+Database Management
+Data Analysis & Visualization
+Simulation Modeling & Optimization
+Facility Flow & Layout
+Supply Chain Logistics
+Transportation Operations
+Inventory Planning
+Manufacturing Engineering
+Continuous Improvement
+Data and Computing
+Management Engineering
+Industrial Engineering is broad!
+Manufacturing Systems
+Operations Research
+Human Integration
+Quality Engineering
+11
+
+The 
+Undergraduate 
+Degree
+Course Options
+
+Degree Requirements
+The Bachelors of Science in Engineering degree requires 128 credits.
+Non-College of Engineering: 55 credits
+STEM Fundamentals: 39 credits
+Intellectual Breadth: 16 credits
+
+College of Engineering: 64 credits
+Core IOE Requirements: 33 credits
+Technical Electives: 19 credits 
+Non-IOE Engineering: 11-12 credits (at least 11)
+
+Unrestricted Electives: 9-12 credits
+
+Outside of the College of Engineering
+STEM Fundamentals (39 credits)
+Most students fulfill these fundamental requirements in their first two years to meet prerequisites for other courses.
+Math 115, 116, 214, 215
+Physics 140, 141, 240, 241
+Chemistry 130 and 125/126
+Engineering 100, 101
+It is possible to receive credit for some of the above Calculus and Science courses with a sufficient AP or IB score. See https://bulletin.engin.umich.edu/ug-ed/reqs/ for details.
+Humanities and beyond (16 credits)
+All engineers are required to fulfill 16 credits of Intellectual Breadth courses, of which 3 credits must be humanities credits and 3 credits must be for a 300-level LAC (these can be satisfied with the same course). Between this and 128 credits, there are 9-12 credits of General Electives left to complete. 
+Learn more about the options and how transfer credits can apply (relevant to AP/IB credit, and transfer or study abroad students): https://bulletin.engin.umich.edu/ug-ed/reqs/.
+13
+
+The IOE Curriculum
+201 - Economic Decision Making202 - Operations Engineering & Analytics265 - Probability and Statistics for Engineers
+310 - Optimization and Computational Methods316 - Introduction to Markov Processes333 - Human Factors & Ergonomics366 - Engineering Data Analytics373 - Data Analytics Tools & Techniques380 - Technical Communication for IOEs
+474 - Simulation424/481/499 - Senior Design
+Core IOE Requirements (33 credits)
+500-level courses are not required, but can be taken for elective credit if you meet the prerequisites or are given permission by the instructor.
+Senior Design Options: All students take one of the following design courses during their senior year
+IOE 424: Practicum in Production and Service Systems
+IOE 481: Practicum in Hospital Systems
+IOE 499: Senior Design Projects (by special arrangement only)
+On rare occasions, different courses can satisfy the design requirement, but the course must be approved by the associate chair and elected with the consent of the course instructor. Internships and co-op assignments cannot count toward this requirement.
+14
+
+All IOE students must complete a capstone project through a senior design course (4 cr). 
+Both IOE 424 and IOE 481 are consulting-based projects that are completed in teams of 4 students. IOE 499 is a similar project but it is completed under the guidance of an IOE faculty member. The primary difference between IOE 424 and IOE 481 lies in the client. IOE 424 students work with a company or non-profit whereas IOE 481 students work for Michigan Medicine.
+Course outcomes for students taking IOE 424, IOE 481 or IOE 499 are as follows:
+An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental and economic factors
+An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+Senior Design
+15
+Overview
+Students will gain experience working as a consultant with a team of peers and and a company/government/non-profit sponsor to complete a project. 
+Students will gain technical communication skills through writing reports and delivering professional presentations to clients and classmates. 
+
+Project Examples
+Create a production scheduling tool to enhance forecasting
+Develop an algorithm to select patients for chemotherapy at home
+Create a tool to assess the quality and completeness of financial securities data
+Optimize Army river crossings through Stochastic Queuing Models
+Develop a plan for storage facility organization and inventory management at Hyundai's Safety Test and Investigation Laboratory
+IOE 424: Practicum in Production and Service Systems
+
+Senior Design
+16
+Overview
+Students will gain experience working as a consultant with a team of peers for Michigan Medicine quality improvement of lean coordinator to help a client complete a project.
+Students will gain technical communication skills through writing reports and delivering professional presentations to clients and classmates. 
+Students will generate an evidence-based presentation and to help managers improve operations, quality, and cost effectiveness. 
+
+Project Examples
+5S project on an inpatient stay unit and analyzing inventory and optimizing stocked medicines
+Improving surgery scheduling workflows in pediatric otolaryngology
+Safety needles/syringes in non-surgical spaces
+Measuring modern primary care work (capture asynchronous care volume/demand)
+Patient equipment staff schedule assessment and rebuild
+
+IOE 481: Practicum in Hospital Systems
+
+Approved studies done under the guidance of a faculty member that meet the course objectives on Slide 15.
+The final report submitted by students should demonstrate a mastery of the established communication skills. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+IOE 499: Senior Design Projects
+To learn more about each section before making your choice, attend the yearly senior design information session. It will be advertised in the newsletter.
+
+Non-IOE Engineering Courses (11-12 credits)
+Choose at least one Engineering course
+from 3 different groups.
+MECHENG 211 - Solid mechanics (4 credits)CEE 211 - Statics and dynamics (4 credits)
+BIOMEDE 231 - Intro to Biomechanics (4 credits)MECHENG 240 - Dynamics & Vibrations (4 credits)
+CHE 230 - Material and Energy Balances (4 credits)MECHENG  235 - Thermodynamics (3 credits)
+EECS 270 - Logic Design (4 credits
+EECS 314/215 - Electrical Circuits, Systems, and Applications (4 credits)BIOMEDE 458 - Biomedical Instrumentation and Design (4 credits)
+MATSCIE 220/250 - Materials and Manufacturing (4 credits)MECHENG  382 - Mechanical Behavior of Materials (4 credits)
+NERS 211 - Nuclear Engineering and Radiological Sciences (4 credits) CEE 265 - Sustainable Engineering Principles (3 credits)
+EECS 280 - Programming and Introductory Data Structures (4 credits)
+Environmental Impact
+Coding in C++
+Electrical Design
+Physics of Structures
+Generalized Topic of Study
+= most popular in the past
+Energy Behavior
+Material Properties
+17
+Transfer courses from study abroad – if students only have 10 credits total (because they took their non-IOE ENGR Courses abroad) they can make up the missing credit in ENGR technical electives. This only applies to study abroad for non IOE Engr Courses, not transfer credit from online courses taken at domestic institutions.
+CS minors can only double count EECS 280 - no other classes
+
+The IOE Curriculum
+Technical Electives (19 crd; 12 crd must be IOE)
+Group D (Business Systems)
+421 - Work Organizations425 - Lean Manufacturing and Services430 - Global Cultural Systems Engineering
+452 - Corporate Finance453 - Derivative Instruments
+491 - 083 - Lean Manufacturing and Services II
+491 - 084 - Project Management
+
+Choose at least one from 3 different groups. 12 credits must be fulfilled from classes listed below. The other 7  credits can come from any IOE TE or from the list of non-IOE technical courses on slide 20. Review prereqs here.
+Maximum of 6 credits can be earned from IOE 461, 465, 466.
+Group A (System Modeling)
+410 - Advanced Optimization and Computational Methods413 - Optimization Modeling in Healthcare419 - Service Operations Management440* - Operations Analysis and Management (EGL students cannot take).441 - Production and Inventory Control447 - Facility Planning449 - Material Handling Systems
+Group B (Decision Modeling)416 - Queuing Systems460 - Decision Analysis and Bounded Rationality461 - Quality Engineering Principles and Analysis465 - Design of Experiments466 - Statistical Quality Control
+473 - Advanced Data Analytics
+Group  C (Human Integration)
+430 - Global Cultural Systems Engineering
+431 - Human-Centered and User Experience Design
+434 - Human Error and Complex System Failures
+435 - Quantifying Human Motion through Wearable Sensors436 - Human Factors in Computer Systems437 - Automotive Human Factors438 - Occupational Safety Management
+463 - Measurement and Design of Work
+18
+
+Data and Computing
+Management Engineering
+The Industrial Engineering Curriculum
+Manufacturing Systems
+Operations Research
+Human Integration
+Quality Engineering
+202
+265
+373
+310
+366
+333
+380
+201
+316
+424
+474
+425
+447
+449
+441
+460
+421
+461
+452
+422
+419
+413
+430
+416
+410
+466
+434
+436
+437
+463
+453
+465
+440
+438
+481
+Red = System Modeling
+Purple = Decision ModelingBlue = Human IntegrationGreen = Business Systems
+White = Required
+Gray = Option (senior design)
+19
+
+Remaining Technical Electives
+Remaining 7* technical credits may be fulfilled from the approved list of non-IOE courses. Or you can take more IOE TE’s.
+*See slide 32  for details on how many credits you need. No seminars or labs can count.
+
+If you think you may be interested in taking any of these, please look ahead at courses you may need to take before. This information can be found on Atlas
+
+Anatomy: Any regular course 400+
+Physiology: Any regular  course 400+
+Kinesiology: Any regular course 400+
+Movement Science: MOVESCI 330, any regular course 400+ Biology: Any regular course above and including Biology 172 (3 credits max for AP); BIO 197 does not countPublic Health: Any course 300+ in Epidemiology, Environmental and Industrial Health, or Health Services Management and Policy
+Biological & Health Sciences
+Mathematics: Any regular course 300+ (except 333, 385, 417, 419, 431, 425)
+Chemistry: Any regular course 300+ 
+Physics: Any regular course 400+ 
+Statistics: Any regular course 500+
+Mathematical & Physical Sciences
+Mechanical Engineering: 240 or 250					
+Any regular course 300+ from Aero, BME, CheE, CEE, Climate, EECS, MechE*, MSE, NAVARCH, NERS, ROB (cannot be independent study) - You cannot double count classes between non IOE TE and non IOE Engr Courses.
+Engineering
+Business: BL 302, 305, 306, MO 321, TO 450, Strategy 310, 350, 361, or any regular course 300+ in Accounting, Finance, or Marketing (Most popular: ACC 471, MKT 302, FIN 302)
+Information: SI 303, 422, 425
+Economics: Any regular course 400+ (except 451)Psychology: 230, 240, 345, or any regular course 400+ 
+
+Regular course = not designated as “practicum”, “experimental”, “tutorial”,  “seminar”, “lab” or  “independent study” 
+Business & Social Sciences
+20
+
+Minors and Concentrations
+IOE Concentrations
+Financial Engineering Concentration
+12 credits required (IOE 452, IOE 453, and 2 more courses from this list: IOE 410, 460, 465, 473)
+
+Engineering Minors and CertificatesThe College of Engineering offers a variety of programs to complement our undergraduate engineering degrees.
+
+Minors
+Climate and Space Sciences Engineering
+International Minor for Engineers
+Minor in Electrical Engineering
+Minor in Environmental Engineering
+Minor in Materials Science Engineering
+Minor in Civil Engineering
+Multidisciplinary Design Minor
+
+Additional Programs
+Program in Sustainable Engineering (PISE)
+Program in Socially Engaged Design (PSED)
+Program in Global Health Design (PGHD)
+Fundamentals of Public Health
+
+Find other approved minors at https://bulletin.engin.umich.edu/ug-ed/other-minors/ 
+
+Get more details on specific programs athttps://bulletin.engin.umich.edu/ug-ed/engin-minors/ 
+21
+
+Supplemental Programs
+Honors Program
+If you are ready to be challenged beyond the scope of traditional curriculum and are looking for an enriching community, then the College of Engineering Honors Program program could be the perfect way to explore your talents. Honors student work closely with faculty and student mentors, facilitating strong intellectual bonds and personal growth. For more information visit, https://honors.engin.umich.edu.
+
+Engineering Global Leadership (EGL)
+EGL is a 5 year honors program for students interested in integrating engineering into a global business environment. EGL prepares students to communicate across engineering and business boundaries, thereby breaking down barriers to global competitiveness. The curriculum includes operations in the corporate environment, business basics (marketing, accounting, strategy, finance), and global integration.
+
+Students admitted to the College of Engineering Honors Program who choose a Global Business/Operations focus are eligible to apply.
+Earn International Minor for Engineers
+5th year for Masters degree in an engineering discipline
+
+For more information, visit https://honors.engin.umich.edu/egl/.
+22
+
+Sequential Undergraduate Graduate Studies (SUGS)
+Outstanding students have the opportunity to earn their MSE in addition to their BSE degree in 5 years.
+Second term junior
+Minimum cumulative GPA of 3.5
+Students who do not meet the GPA requirement may petition for provisional admission
+Must enroll in Rackham for at least two full terms
+
+The 5 year timeline is accomplished by “double counting” six credit hours of graduate level courses that satisfy all requirements for both degrees. Double counted courses appear as transfer credit on the student’s Rackham transcript and are selected from graduate level general electives or non-IOE technical electives. 
+
+For more information, contact IOE Graduate Student Advisor Matt Irelan at 1753 IOE
+23
+
+Sample Schedule
+The following schedule…
+…completes graduation in 8 terms
+…doesn’t factor in any outside credits
+…builds in study abroad (term 6)
+…fulfills PISE certificate requirements
+
+24
+This is one sample so students can fit in study abroad. 
+
+Each student’s plan should be discussed with an advisor.
+
+The 
+Undergraduate 
+Degree
+Academic Information
+
+Declaring IOE
+
+Students in the college of engineering can declare their major if they have completed the following:
+
+Requirements
+One full term of courses at UM Ann Arbor campus
+Overall UM GPA of 2.0 or better
+Good standing (not on probation)
+One course in each of these categories
+Calculus (grade of C or better)
+Math 115
+Math 116
+Math 156
+Calc-based Physics or Chemistry (grade of C or better)
+Physics 140 & 141
+Chemistry 130 & 125/126
+Required engineering courses
+Engineering 100
+Engineering 101 or 151
+26
+
+Grade Translations   A = Excellent   B = Good   C = Satisfactory   D = Credit   E = Not Passed
+If you earn an E in a required Engineering course, you must retake it as soon as possible.
+By default, grades are given on a letter scale, but Pass/Fail can be elected for Intellectual Breadth or General Elective credits. Maximum of 14 credits may be elected pass/fail (max 14 credits). No more than two courses may be elected as pass/fail per term, or one in spring and summer terms. Meet with your advisor to begin the process and modify your courses on Wolverine Access.
+Grades
+   P = Passed   F = Not Passed
+   W = Approved Drop   ED = Unofficial Drop
+Grade for any course dropped without permission
+   I = Incomplete
+I is received when a student has not completed work for a class
+Minimum Grade Requirements: 
+To declare, a grade of C- or better is required in any Math, Physics, Chemistry, and Engineering courses. To graduate, an overall GPA of 2.00 is required. In addition, no lower than a C- is acceptable in the following courses:
+Math 115, 116, 2154, 215
+Physics 140, 141, 240, 241
+Engineering 100, 101
+IOE 201, 202, 265, 310, 316, 333, 366, 373, 474, 424, 481, TC380
+27
+
+Registration Details		      
+You can browse through classes at https://atlas.ai.umich.edu or https://www.lsa.umich.edu/cg/ and make a backpack with possible courses on Wolverine Access. Class registration opens about one month before the end of the previous term. You will be assigned a unique appointment time that you can check on Wolverine Access (timing is determined by the total number of credits you have completed or in progress).  
+After classes begin, you can change your schedule through your backpack on Wolverine Access. Dropping or adding a class should be done as soon as possible for the maximum benefit and minimum inconvenience. Contact Leonora Lucaj (lucajl@umich.edu) if you have questions.
+If you need to drop a course after the deadline, you can submit the add/drop form with a Petition for Request for Late Drop/Add. Find more information about the requirements and information about the process, here.
+There are two ways to disenroll from all classes or to go below full time:
+Visit a Student Services at the Office of the Registrar
+Central: 2200 SAB 515 E. Jefferson St.
+North: 2202 Pierpont Commons
+Email engineering-ro@umich.edu with your Name, UMID, and term from which to disenroll
+28
+
+Class Override Procedure
+If you have any questions about an override, email  IOE Student Services at ioe.overrides@umich.edu. You should not email the course instructor or GSI.
+For courses that require permissions or overrides:	1.  Add yourself to the class waitlist: use the Wolverine Access 		backpacking process to add yourself to the waitlist	2. Receive permissions email: If permissions are given, you will 		receive an automated email an expiration date and instructions. 	3. Register for class before the expiration date: All permissions will 		have an expiration date. If the permission expires unused, you 		will have to rejoin the waitlist. 
+Note that receiving a permissions email does not register you for the course. You must complete the registration process through Wolverine Access.
+During the Fall and Winter terms, please check your email daily for possible overrides. In the Spring and Summer terms, you may have less than a week to use the override to register. 
+29
+
+Study Abroad
+You can study or work abroad without delaying your degree, as long as you plan early! As soon as you realize you’re interested, start the conversation with your advisor to evaluate the options with your schedule. 
+
+To learn more about individual programs, visit the International Programs in Engineering (IPE) Office at [office] or their website: ipe.engin.umich.edu
+Submit the Transfer Credit Approval Form: https://tcaf.engin.umich.edu
+Find courses that align with your requirements: https://apps.engin.umich.edu/equivalencies/
+Note that course evaluation requests must be submitted no later than 8 weeks before the end of the semester prior to when you are going abroad. All courses must be approved before you travel. Upon receiving the study abroad course evaluation report, students must confer with the IOE advisor regarding the applicability off specific courses toward the IOE degree requirements. Failure to obtain approval before going abroad may result in denial of transfer credit when you return.
+
+Academic Tips
+Some international schools have courses that fulfill IOE requirements, but there are other types of courses that are good to consider taking abroad:
+Core engineering requirements: Math, Physics, Chemistry
+Non-IOE Engineering courses
+ME 211
+MSE 220/250
+CEE 260/265
+Non-IOE Technical Electives
+Humanities, Intellectual Breadth, and general electives
+Local culture or philosophy classes can be particularly impactful
+
+Programs that do have IOE courses include:
+Universidad de Pontificia Comillas
+University of Manchester
+University of New South Wales
+Shanghai Jiao Tong University
+Royal Institute of Technology
+Northeastern University (China)
+Universidad de Navarra
+Sichuan University
+Al Akhawayn University
+Universita Bologna
+Technical University of Denmark
+University of Waterloo
+University of Melbourne
+University of Sheffield
+30
+
+IOE 334 Logistics
+
+No, I haven’t.
+You need 7 credits of remaining technical elective credit.
+
+Yes, I already did.
+You need 6 credits of remaining technical elective credit.
+Did you take IOE 334?
+31
+
+Supplementary Academics	
+If you are considering taking classes over the summer that are not through the University of Michigan, you can still get credit that counts toward your degree here. You can look up if your course has already been approved at https://transfercredit.ugadmiss.umich.edu or use the Transfer Credit Approval Form: https://tcaf.engin.umich.edu.
+
+There are multiple free tutoring opportunities through university offices and student honor societies:
+Engineering Center for Academic Success (ECAS): 273 Chrysler Center
+For freshmen and sophomore classes
+Math Lab: B860 East Hall
+Science Learning Center (SLC): 1720 Chemistry Building
+For Chemistry, Physics, and Biology classes
+Tau Beta Pi
+For Physics, Chemistry, Calculus, ENGR 100 & 101
+Alpha Pi Mu (IOE honor society)
+For 200- and 300- level IOE courses
+Office hours are also required for professors and GSIs as additional time for help. 
+Tutoring
+Summer Courses
+32
+
+To formally apply for a degree and receive your diploma, go online:
+Wolverine Access
+Student Business
+Apply for Graduation
+Self-report any honors/awards that you expect to receive and would like listed in the commencement program
+
+The College of Engineering holds a commencement ceremony twice annually at the end of each semester; in April or May, and in December.
+Graduating
+33
+
+You also must complete your senior audit with the undergraduate advisor, Leonora Lucaj, you can schedule an appointment. or send an email (lucajl@umich.edu) requesting your senior audit.
+
+Celebrate your graduation and achievements with the University of Michigan, the College of Engineering, and IOE! Learn more about each event and where to find additional information below.
+
+U-M and CoE both hold a commencement ceremony twice annually at the end of each semester; in April or May, and in December. Learn more about the University-wide commencement ceremony here and CoE commencement here. IOE hosts an undergraduate graduation celebration at the end of each winter semester. Graduates from the current and previous semester are welcome to attend and celebrate!
+
+Additional information about eligibility to participate in the University of Michigan Commencement Ceremony and The College of Engineering Commencement Ceremony. 
+
+Graduating
+34
+
+IOE 265 can be taken concurrently with IOE 333.
+Linear Algebra (Math 214) is required.
+Only Intellectual Breadth and General Elective courses can be taken pass/fail
+Popular non-IOE technical electives are ACC 471 (Accounting Principles), FIN 302 (Making Financial Decisions), and MKT 302 (Marketing Management).
+Choose Intellectual Breadth courses strategically if they are prerequisites for technical electives that you may want to take.
+Always plan ahead because many 400-level IOE courses are only offered one semester each year.
+If you're interested in research, consider taking IOE 490: an opportunity to do independent research with an IOE faculty for credit. Reach out to the faculty you are interested in individually for more information.
+
+Can I get credit for my summer internship work?No. Internships are a great opportunity for undergraduate IOE students and will likely do more for a student’s career than any individual course. However, no credit will be given for a summer internship.
+
+Are there any scholarships available?Yes, there are 9 IOE-specific scholarships. Applications and information are sent early in the winter term. You can find additional information here. Please contact the IOE advisor if you have questions about specific scholarships. 
+Can I get more than an IOE degree?Yes, you can earn the following degrees in addition to your IOE BSE. For more information about the options and declaration process, reach out to your advisor.
+Dual engineering degree
+Combined degree with an LSA major
+LSA minor degree
+Tips & FAQ
+35
+
+How can I view my current degree audit?To access your audit and check your progress to graduation, go to Wolverine Access and follow this path: Student Business / Student Center / My Academics / View my advisement report / Detail report PDF
+
+How can I stay informed about events, opportunities, and deadlines for IOE?
+As an IOE student, you are automatically sent the IOE Undergraduate Weekly Newsletter every Monday. This newsletter is the IOE department’s way of getting you important information about job/internship opportunities, upcoming deadlines, events and more. Make sure you look through it each week to stay involved in what the department has to offer!
+Tips & FAQ
+36
+
+Beyond 
+the Classroom
+
+Societies and Organizations
+The Institute of Industrial and Systems Engineers is a national professional society committed to making its 40,000 members aware of new technology and furthering the development of the industrial engineering profession. Members who pay yearly dues receive a yearly subscription to IIE magazine 
+and are eligible for 
+scholarships sponsored 
+by the national IISE 
+Organization. www.iise.org/Home/ 
+Join U-M Chapter here.
+INFORMS serves the scientific and professional needs of OR/MS students, educators, investigators, scientists, and practitioners. INFORMS serves as a focal point for OR/MS professionals, helping us to communicate with each other.
+INFORMS can get you involved in national and local meetings, job interviews, and resume listings, and student advice sessions. https://informs.engin.umich.edu 
+The University of Michigan’s Human Factors & Ergonomics Society (HFES) futhers student knowledge of 
+human-centered design of 
+systems and devices through 
+hosting speakers from the industry, organizing field trips to facilities applying human factors principles, and sponsoring events that encourage interaction among students, faculty, and staff interested in this field. https://www.hfes.org. Join the U-M Chapter here
+Alpha Pi Mu is a national Industrial Engineering honor society whose objectives are to recognize exceptional students, advance industrial engineering education, and help present the needs and ideals of the student body to the faculty. Undergraduates who rank academically in the upper one-third of the senior class and upper one-fifth of the junior class, and who combine qualities of leadership and character with breadth of interest, are eligible for membership  in Alpha Pi Mu. http://apm.engin.umich.edu 
+At Center for Healthcare Engineering and Patient Safety, we envision a healthcare system which delivers the highest quality care in a patient-centric way and ensures economic viability for individuals and institutions.  cheps.engin.umich.edu 
+38
+
+Finding a Job
+The Engineering Career Resource 
+Center (ECRC) provides a variety of 
+services for students looking for a 
+job. They sponsor career fair every 
+semester, in addition to programs 
+on resume writing, interviewing, 
+and improving other professional development skills. The ECRC also manages a job-searching tool which lists job listings for summer internships, co-op positions, and full time permanent employment. You can visit the ECRC at 230 Chrysler and you can access Engineering Careers by Symplicity at https://engineering-umich-csm.symplicity.com.
+Learn more!
+Visit the ECRC in person at230 Chrysler Center
+Engineering Careers by Career Forge here
+Where to Start
+Write your Resume
+Use strong action verbs to describe experiences
+Recommended no more than 1 page
+For examples and advice about form and content, visit the ECRC at 230 Chrysler Center or use this link: https://careercenter.umich.edu/article/resume-resources 
+
+Sign up for Engineering Careers
+If you are a first time user, you will need to create a PIN for future access to your new account
+
+Match with Job Postings
+The system will match your qualifications and interests with job postings that are currently available.
+Search for jobs by type or major
+Send your resume to any organizations that interest you
+
+Engineering Career Guide: https://career.engin.umich.edu   	/wp-content/uploads/sites/30/2021/06/careerguide.pdf 
+Student Career Center: https://careercenter.umich.edu 
+
+39
+
+Finding a Job
+Career advising supports IOE students as they explore opportunities, build professional skills, and navigate their career paths. Connect with our career advisor, Debra Levantrosser to get personalized guidance and next steps by scheduling a career advising appointment here. 
+
+IOE also offers a robust career workshop series designed to support students’ professional development; be sure to check the weekly newsletter to stay up to date on workshops scheduled throughout the semester.
+40
+
+Industrial Engineering 
+Job Opportunities
+IOEs have diverse paths, illustrated in a recent survey of one thousand IOE alumni:
+
+26% described themselves as non-engineering related managers or executives
+16% were in other non-engineering positions
+11% described their current position as “Consultant”
+7% described their current position as “Industrial Engineer”
+1.8% become Lawyers
+0.4% become doctors
+Operations: https://www.online-casinos.com/guide/operational-research/ 
+Data: https://www.comptia.org, https://aisnet.org/
+Quality: https://asq.org/quality-resources 
+Ergo: https://www.hfes.org, https://www.osha.gov, https://iea.cc 
+Manufacturing: https://www.nam.org, https://www.sme.org 
+Companies across industries hire Michigan IOEs, including:
+A.T. Kearny
+Abbott Laboratories
+Accenture
+Amazon
+American Express
+American Management System
+Andersen Consulting LLP
+AON Consulting
+Applied Materials
+Applied Safety and Ergonomics
+Arthur Andersen LLP
+Arthur D. Little
+Bain & Company
+Barclays Capital
+Blue Cross Blue Shield
+Humantech
+Intel
+KLA - Tencor
+The Martec Group
+McKinsey & Company
+Microsoft
+PricewaterhouseCoopers
+Procter & Gamble
+Qualcomm
+Raytheon
+Results Systems
+Rockwell Automation
+Sumitonio
+Sun Microsystems
+Target
+Tesla
+Tyco International
+Unisys
+University of Chicago Hospital
+University of Washington
+Washington Freedom
+ZS Associates
+The Boston Consulting Group
+Cap Gemini Ernst Young
+Clarkston Group
+Dell Computer
+Delphi Automotive Systems
+Disney Corporation
+Eaton Corporation
+Exelon Nuclear
+FCI
+Ford
+General Motors
+Goldman Sachs
+Google
+Haworth
+Henrob Corporation
+41
+
+Technical Program Manager
+Consultant
+Technical Writer
+Head of People & Culture 
+Human Integration Engineer
+Safety & Risk Manager
+Sustainability Engineer
+Quality Test Designer
+Data 
+Analytics Engineer
+Data Collection System 
+Designer
+Simulation Designer
+Facility Layout Manager
+Supply Chain Manager
+Production Planner
+Process Engineer
+Head Of Operations
+CEO
+Hypothesis Evaluation Model Designer
+Data and Computing
+Management Engineering
+(some) Titles Industrial Engineers have…
+Manufacturing Systems
+Operations Research
+Human Integration
+Quality Engineering
+42
+
+If you’re thinking about applying to graduate school, below are some resources to consider. Many schools have websites with more information such as deadlines, admission requirements, and where to get an application. You can learn more about applying to graduate school and receive extra support by meeting with the Engineering Career Resource Center.
+ 
+If you’re considering applying graduate school here at UM’s IOE department, you should talk to the current Graduate Student Advisor, Lauren Segall (office: IOE 1753)
+She can discuss UM requirements, course offerings, application procedures, and more with you.
+It is also highly suggested that you meet with IOE faculty to discuss potential graduate school interests and plans.
+
+You can also find our more about other programs and institutions through Peterson's Guide. and US News and World Reports
+
+Graduate School
+43
+
+Stay in Touch!
+
+Contacts
+Undergraduate Student Advisor
+Leonora Lucaj • lucajl@umich.edu • IOE 1729
+
+Intern & Undergraduate Student Advisor
+Maddie Denny  • dennym@umich.edu
+
+Undergraduate Peer Advisors
+Kennedy - kenned@umich.edu & Parker - parkerpt@umich.edu
+
+IOE Student Ambassadors
+ioe.ambassadors@umich.edu
+
+Other Faculty
+Associate Chair of Undergraduate Studies
+Mariel Lavieri • lavieri@umich.edu
+
+Academic and Career Advising
+Luis Garcia-Guzman • lgguzman@umich.edu
+Debra Levantrosser • levantro@umich.edu
+
+ioe.engin.umich.edu 
+(734) 764-3297
+Who should I meet with?
+Make a virtual walk-in appointment
+Schedule an in-person 
+meeting
+45
+
+Follow us on social media!
+No matter when you graduated, you’ll always be part of the Industrial and Operations Engineering (IOE) community at Michigan. Follow us on social media to stay connected and up to date with recent IOE news!
+
+LinkedIn
+
+Instagram
+
+YouTube
+
+X
+
+46
+
+Websites
+UM Registrar’s Office: https://ro.umich.edu  
+Student Employment Office: https://studentemployment.umich.edu 
+Consultation, Assistance, and Resources for Engineering (CARE): https://care.engin.umich.edu 
+CAEN Help Desk: https://caen.engin.umich.edu/contact/
+DPS Safety Tips: https://www.dpss.umich.edu/content/prevention-education/safety-tips/ 
+Alumni Resources: https://www.engin.umich.edu/alumni-friends/alumni-awards/ 
+Campus Contacts
+Campus Information Center
+Pierpont Commons Lobby, 763-INFO
+Career Center
+3200 Student Activities Building, 764-7460
+Office of Student Records
+145A Chrysler Center 647-7111
+Combined Degree (IOE & LSA), Betsy Dodge
+145A Chrysler Center 647-7111
+Cooperative Education (co-op), Janice Laughlin
+230 Chrysler Center, 647-7140
+Academic Advising & Declaration, Leonora Lucaj
+1729 IOE, 764-3297
+Engineering Career Resource Center (ECRC)
+230 Chrysler Center, 647-7160
+Honors Program (info and applications), Stacie Edington
+251 Chrysler Center 647-7129
+Engineering Honor Council
+143 Chrysler Center 647-7117
+Engineering Center for Academic Success (ECAS)
+273 Chrysler Center 647-7127
+Undeclared/Freshman Engineering Advising Center
+230 Chrysler Center 647-7106
+International Center
+Central Campus, 936-4180
+International Programs in Engineering Office
+245 B Chrysler Center, 647-7026
+LSA Transfers
+153 Chrysler Center, 647-7101
+Center for Engineering Diversity & Outreach (CEDO)
+1108 Lurie Engineering Center, 647-7120
+Office of Financial Aid
+211, Student Activities Building 763-6600
+Office of the Registrar
+2202 Pierpont Commons, 763-7650
+Permissions (IOE*), Allyson Rodriguez
+1729 IOE, 764-3297
+Peer Advising (IOE)
+1752 IOE
+Scholarships
+143 Chrysler Center, 647-7113
+Student Accounts
+2226 Student Activities Building, 764-7447
+Summer Courses, Off Campus/Transfer Credit
+153 Chrysler Center, 647-7101
+Summer Internships, ECRC
+230 Chrysler Center 764-8483
+Tau Beta Pi Engineering Honor Society
+764-6250
+University Mentorship Program
+3016 Student Activities Building 764-6413
+Office of the Registrar (transcript)
+2202 Pierpont Commons 763-7606
+*for permissions outside of the IOE department, contact the respective department office.
+47
+
+Maps
+Visit our offices at:1205 Beal Avenue
+Ann Arbor, MI 48109
+48

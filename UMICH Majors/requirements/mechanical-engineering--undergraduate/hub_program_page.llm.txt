@@ -1,0 +1,119 @@
+Page header:
+page title: Majors - University of Michigan Engineering
+og:description: University of Michigan Engineering offers 18 undergraduate majors leading to a Bachelor of Science degree, with hands-on opportunities to explore your specific interests.
+
+Visible page text:
+Majors
+Home
+/
+Academics
+/
+Majors
+What kind of engineer will you be?
+University of Michigan Engineering offers
+18 undergraduate majors
+leading to a Bachelor of Science degree, with hands-on opportunities that align with your specific interests and values. Explore your options, ask questions and make informed decisions. An
+engineering academic advisor
+can help you clarify your goals and choose a path that fits.
+Explore majors
+Aerospace Engineering (AEROSP)
+The science of flight divides into two branches: Aeronautics focuses on designing and studying aircraft within Earth’s atmosphere, while Astronautics deals with spacecraft design and study.
+AEROSP Course List / Bulletin
+Aerospace Engineering Career Info (PDF)
+Biomedical Engineering (BIOMEDE)
+The application of the life sciences and engineering principles to bridge the gap between medical technology and medicine in practice.
+BIOMEDE Course List / Bulletin
+Biomedical Engineering Care
+er Info (PDF)
+Chemical Engineering (CHE)
+The application of the natural sciences, math, and often coding to develop cost-effective and environmentally-friendly ways to produce materials medicines, and energy that can improve lives and the planet.
+CHE Course List / Bulletin
+Chemical Engineering Career Info (PDF)
+Civil Engineering (CEE)
+The design and construction of structures and systems that support everyday life, including buildings, bridges, and transportation networks, with a focus on safety, efficiency and long-term resiliency.
+CEE Course List / Bulletin
+Civil Engineering Career Info (PDF)
+Climate and Meteorology (CLIMATE)
+The study of the atmosphere, including its physical and chemical processes and characteristics.
+CLIMATE & SPACE Course List / Bulletin
+Climate and Meteorology Career Info (PDF)
+Computer Engineering (EECS) (CE)
+The design and construction of computing systems from the hardware to the software to harness technology in new, productive, and surprising ways.
+Computer Engineering Course List / Bulletin
+Computer Engineering Career Info (PDF)
+Computer Science (CSE)
+The theory and practice of how to design and analyze algorithms, how to store and retrieve information, how computers function, and how to develop software systems that solve complex problems.
+EECS Course List / Bulletin
+Computer Science Career Info (PDF)
+Data Science (DATASCI) (CSE)
+A foundation in those aspects of computer science, statistics, and mathematics that are relevant for analyzing and manipulating large, complex datasets to create actionable knowledge.
+ECCS Course List / Bulletin
+DATASCI Course List / Bulletin
+Data Science Career Info (PDF)
+Electrical Engineering (EECS) (EE)
+The study of devices, circuits, signals & systems, electromagnetics, and programming, with additional expertise in electronics, power, control, communications, optics, and/or computers to solve problems in any field you choose.
+EECS Course List / Bulletin
+Electrical Engineering Career Info (PDF)
+Engineering Physics (EP)
+A combination of strong physics education with an individually chosen engineering discipline.
+Engineering Physics Program Guide
+Engineering Physics Career Info (PDF)
+Environmental Engineering (CEE)
+The development of technologies and practices that protect public health and the environment, focusing on clean water, air quality, waste management and sustainable resource use.
+CEE Course List / Bulletin
+Environmental Engineering Career Info (PDF)
+Industrial and Operations Engineering (IOE)
+The optimization of complex systems and processes by collaborating with people, analyzing data and drawing insights from a combined engineering and business mindset.
+IOE Course List / Bulletin
+Industrial and Operations Engineering Career Info (PDF)
+Materials Science and Engineering (MATSCIE)
+The investigation of how materials perform and why they fail so that we can create materials with unprecedented functions and properties.
+MATSCIE Course List / Bulletin
+Materials Science and Engineering Career Info (PDF)
+Mechanical Engineering (MECHENG)
+A fundamental field of engineering that examines, designs, and creates solutions for anything that moves. Mechanical engineers work across all industries, from medical and energy to manufacturing and aerospace.
+MECHENG Course List / Bulletin
+Mechanical Engineering Career Info (PDF)
+Naval Architecture & Marine Engineering (NAME)
+Naval architects handle design, stability, hydrodynamics, and performance, while marine engineers manage propulsion, power, and environmental systems. Careers span shipyards, design firms, offshore engineering, and marine research.
+NAME Course List / Bulletin
+Naval Architecture & Marine Engineering Career Info (PDF)
+Nuclear Engineering & Radiological Sciences (NERS)
+Nuclear Engineering & Radiological Sciences is the study of nuclear, radiological, and plasma processes to solve problems in energy, medicine, security and space.
+NERS Course List / Bulletin
+Nuclear Engineering & Radiological Sciences Career Info (PDF)
+Robotics (ROB)
+The study of embodied intelligence for machines that sense, reason, act, and work with people to improve quality of life and productivity equitably across society.
+ROB Course List / Bulletin
+Robotics Career Info (PDF)
+Space Sciences & Engineering (SPACE)
+The designing, building, operating, and analyzing data from instruments to explore the space environments of our Earth and other planets.
+CLIMATE & SPACE Course List / Bulletin
+Space Sciences & Engineering Career Info (PDF)
+Level up
+Enhance your undergraduate experience
+Get your Master’s faster
+Complete a Bachelor’s and Master’s degree in five years with Sequential Undergraduate Graduate Studies (SUGS).
+Read about SUGS
+Engineering minors
+Engineering minors are an optional but often beneficial way to study beyond your major.
+Engineering minor policy
+Dual Degrees
+Learn about the eligibility criteria and deadlines for dual degree applications. Then talk to an academic advisor to make sure it’s the right academic path and fit.
+Read about dual degrees
+Experiential Learning
+Connect with people, places and hands-on projects through our Immersed learning framework, a core part of the Michigan Engineering undergraduate experience.
+Learn about Immersed
+Looking for courses?
+The
+Course Guide
+and
+Bulletin
+is always the most up-to-date source for information on Michigan Engineering courses, curricula, and paths of study.
+Visit the Bulletin
+related links
+Associate Dean for Undergraduate Education
+Engineering Advising Center
+Undergraduate Engineering Academics
+Undergraduate Engineering Student Experience
+Undergraduate Engineering Careers

@@ -1,0 +1,17 @@
+{
+  "id": "business--bba",
+  "name": "Business",
+  "school_college": "Ross School of Business",
+  "program_url": "https://michiganross.umich.edu/undergraduate/bba",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://michiganross.umich.edu/undergraduate/bba",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://michiganross.umich.edu/undergraduate/bba/curriculum/curriculum-by-year",
+  "requirements_link_text": "Curriculum by Year",
+  "requirements_link_score": 280,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://michiganross.umich.edu/undergraduate/bba/curriculum/curriculum-by-year",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:38:17.748113+00:00"
+}

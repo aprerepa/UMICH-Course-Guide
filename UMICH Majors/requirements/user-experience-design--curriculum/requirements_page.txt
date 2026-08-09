@@ -1,0 +1,97 @@
+Bachelor of Science in Information curriculum
+As part of their capstone course, UMSI students teamed up with the Smithsonian Institution to improve their digital museum experience.
+Once you’ve been admitted to the Bachelor of Science in Information program, your coursework will consist of a set of core courses that are required of all BSI students and an individual pathway in Information Analysis or User Experience Design. You will also choose elective courses that interest you, rounding out your academic experience.
+Altogether, the BSI degree includes 120 U-M credits (half of which are upper-level credits), and 54 of those credits come from courses offered by the School of Information. All UMSI courses must be taken for a letter grade,  achieving a C- or higher, with the exception of SI 210, SI 300 and SI 390. This page will guide you through these degree requirements — and how to select a pathway toward a career in the field.
+Hey there, current BSI students
+: Your curriculum might look a little different, because degree requirements vary by cohort. You can find your cohort’s degree requirements, course planning sheets and other helpful tips on the
+BSI Academic Advising Resource Site
+.
+Prerequisite courses
+Applicants are required to complete the following prerequisite courses with a grade of C- or higher before entering the BSI program. You can be enrolled in one or both prerequisite courses at the time of your application (or have plans to take them during the summer term), so long as you complete both courses before you begin the BSI program.
+SI 101: Introduction to Programming with Python (4 credits)
+The equivalent courses EECS 183 and ENGR 101 will fulfill this requirement, though SI 101 is strongly preferred. Please note: These equivalent courses do not count toward your UMSI credit requirement.
+SI 101 meets the U-M LSA Math and Symbolic Analysis distribution requirement.
+ENGLISH 124 or 125 (or equivalent first-year writing course)
+Information regarding first-year writing courses can be found
+on this page
+.  You can also search for first-year writing courses in the
+LSA course guide
+by checking First-Year Writing Requirement (FYWR) under the Skills Requirement dropdown menu.
+Students who are unable to complete both prerequisite courses before enrolling in the program should contact
+umsi.undergrad@umich.edu
+in order to determine if there is an alternative option.
+Core courses
+SI 110: Introduction to Information Studies (4 credits)
+SI 201: Data-Oriented Programming (4 credits, counts as upper-level credit)
+The successful completion of EECS 280 or EECS 281 with a grade of C or higher will waive this requirement. Please note: These courses do not count toward your UMSI or upper-level credit requirements.
+SI 261: Introduction to Statistics with Applications (3 credits, counts as upper-level credit)
+SI 300: Career and Internship Studio: Design Your Success (1 credit)
+SI 310: Introduction to Information Ethics (3 credits)
+Pathways of study
+The BSI offers two pathways, Information Analysis and User Experience Design, and students are required to complete one. A pathway is an area of concentration in advanced courses, allowing for depth in a chosen area of study.
+Information Analysis pathway
+If you choose Information Analysis, you’ll complete courses that teach you to identify and ask questions that matter to stakeholders, gather essential data to answer these questions, find answers that are grounded in empirical evidence and present those answers in a convincing way.
+Information Analysis students take the following courses:
+Capstone prerequisite courses
+SI 315: Models of Social Information Processing (4 credits)
+SI 305: Introduction to Information Analysis (3 credits)
+SI 345: Data Manipulation (4 credits)
+SI 385: Data Exploration (3 credits, fall only)
+SI 425: Introduction to User Modeling (3 credits, fall only)
+Capstone sequence*
+In your final year of the IA pathway, you will complete a pair of capstone courses that allow you to apply your knowledge and skills.
+SI 485: Information Analysis Capstone 1 (2 credits, fall only)
+SI 495: Information Analysis Capstone II (4 credits, winter only)
+*must be taken in direct sequence
+Selective prerequisites
+IA students must select
+one course
+from this list of prerequisites to advanced coursework:
+SI 325: Mathematics for Information Analysis (3 credits, fall only)
+SI 303: Introduction to Qualitative Methods/Research (3 credits)
+Advanced selectives*
+IA students must select
+two courses
+from this list of advanced coursework:
+SI 405: Applied Generative AI (4 credits)
+SI 465: Applied Machine Learning (4 credits)
+SI 403: Advanced Qualitative Methods/Research (4 credits)
+SI 413: Advanced Quantitative Methods/Research (4 credits)
+*winter only
+User Experience (UX) Design pathway
+If you choose User Experience Design, you’ll complete courses that teach you to design, build and evaluate compelling interactive systems. The philosophy of the pathway is user-centered design — that is, that designers of computing systems need to take account of, and even prioritize, the needs and experiences of any system’s users.
+User Experience Design students take the following courses:
+Capstone prerequisite courses*
+SI 307: Introduction to Design (3 credits)
+SI 357: Introduction to Development (3 credits)
+SI 347: Human-Computer Interaction (3 credits)
+SI 303: Introduction to Qualitative Methods/Research (3 credits)
+SI 313: Introduction to Quantitative Methods/Research (3 credits)
+*must be taken for a letter grade
+Capstone sequence
+In your final year of the UX Design pathway, you will complete a pair of capstone courses that allow you to apply your knowledge and skills:
+SI 487: User Experience Design Capstone I (2 credits, fall only)
+SI 497: User Experience Design Capstone II (4 credits, winter only)
+*must be taken in direct sequence
+Advanced selectives
+UX students must select
+two courses
+from this list of advanced coursework:
+SI 407: Advanced Design (4 credits, fall only)
+SI 457: Advanced Development
+(4 credits)
+SI 403: Advanced Qualitative Methods/Research (4 credits)
+SI 413: Advanced Quantitative Methods/Research (4 credits, winter only)
+Electives
+The BSI program is designed to provide flexibility for selecting additional courses that interest you. You can select any courses outside of your pathway requirements — including courses from another curricular pathway — to round out your 54 required UMSI credits. Visit the
+School of Information’s course catalog
+to browse the complete list of BSI course offerings.
+Minors
+The School of Information recognizes most minors offered by the University of Michigan. While enrolled in the BSI program, if you discover that you would like to pursue a minor, please work with your academic advisor.
+Dual degrees
+Students who wish to pursue two degrees, one from the School of Information and the second from a different college at U-M, should plan to meet with both academic advisors. UMSI currently has dual degrees approved with the College of Literature, Science and the Arts; the Ross School of Business; the College of Engineering; the School of Music, Theatre & Dance; the School of Kinesiology; and the Penny W. Stamps School of Art and Design.
+Accelerated Master’s Degree Program
+Currently enrolled, high-performing Bachelor of Science in Information students have the opportunity to continue their studies at UMSI — earning a Master of Science in Information degree in just one year.
+While this accelerated format offers significant cost savings, you will still gain the valuable skills and hands-on experience that equip MSI graduates to become leaders in the field. You will need to formally apply to the AMDP in your senior year of the BSI program.
+Learn more about earning an accelerated master’s degree
+.

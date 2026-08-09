@@ -1,0 +1,17 @@
+{
+  "id": "plant-biology--majors-minors-html-plant-biology-maj",
+  "name": "Plant Biology",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#plant_biology-maj",
+  "status": "discontinued",
+  "message": "major no longer listed on LSA majors-minors: LSA row not found for major 'Plant Biology' (tried #plant_biology-maj); no matching majors-minors table row",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#plant_biology-maj",
+  "program_fetch_mode": "browser",
+  "requirements_url": null,
+  "requirements_link_text": null,
+  "requirements_link_score": null,
+  "requirements_link_strategy": null,
+  "requirements_final_url": null,
+  "requirements_fetch_mode": null,
+  "fetched_at": "2026-08-09T15:47:08.638988+00:00"
+}

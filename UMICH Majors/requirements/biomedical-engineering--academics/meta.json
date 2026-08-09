@@ -1,0 +1,17 @@
+{
+  "id": "biomedical-engineering--academics",
+  "name": "Biomedical Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://bme.umich.edu/academics/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://bme.umich.edu/academics/",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://docs.google.com/document/d/1Ck_206v7XLetIKrPgNyul6Jvc71ExTQysn3zGtyqF7I/edit?usp=sharing",
+  "requirements_link_text": "Undergraduate Curriculum \u2192 Overview of the BME Undergraduate Curriculum",
+  "requirements_link_score": 280,
+  "requirements_link_strategy": "page\u2192google_doc",
+  "requirements_final_url": "https://docs.google.com/document/d/1Ck_206v7XLetIKrPgNyul6Jvc71ExTQysn3zGtyqF7I/edit?tab=t.0#heading=h.89kb4a6fq0c6",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:35:06.378579+00:00"
+}

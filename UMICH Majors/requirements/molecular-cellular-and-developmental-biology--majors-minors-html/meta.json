@@ -1,0 +1,17 @@
+{
+  "id": "molecular-cellular-and-developmental-biology--majors-minors-html",
+  "name": "Molecular, Cellular, and Developmental Biology",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/biology/undergraduates/majors---minors.html",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/biology/undergraduates/majors---minors.html",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/content/dam/biology-assets/MCDB-MAJOR.pdf",
+  "requirements_link_text": "MCDB Program Guide",
+  "requirements_link_score": 300,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://lsa.umich.edu/content/dam/biology-assets/MCDB-MAJOR.pdf",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T16:11:05.072158+00:00"
+}

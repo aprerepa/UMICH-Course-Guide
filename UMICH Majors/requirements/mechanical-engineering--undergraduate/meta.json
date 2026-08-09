@@ -1,0 +1,17 @@
+{
+  "id": "mechanical-engineering--undergraduate",
+  "name": "Mechanical Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://me.engin.umich.edu/admissions/undergraduate/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (via degree program hub)",
+  "program_final_url": "https://me.engin.umich.edu/admissions/undergraduate/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://me.engin.umich.edu/academics/undergrad/handbook/bachelors/",
+  "requirements_link_text": "Explore Mechanical Engineering \u2192 Mechanical Engineering (MECHENG)",
+  "requirements_link_score": 145,
+  "requirements_link_strategy": "hub_program_is_requirements",
+  "requirements_final_url": "https://me.engin.umich.edu/academics/undergrad/handbook/bachelors/",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:44:50.540585+00:00"
+}

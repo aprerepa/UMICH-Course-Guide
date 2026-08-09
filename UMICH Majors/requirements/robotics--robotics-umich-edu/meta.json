@@ -1,0 +1,17 @@
+{
+  "id": "robotics--robotics-umich-edu",
+  "name": "Robotics",
+  "school_college": "College of Engineering",
+  "program_url": "https://robotics.umich.edu",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://robotics.umich.edu",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://robotics.umich.edu/academics/undergraduate/degree-requirements/",
+  "requirements_link_text": "Degree Requirements",
+  "requirements_link_score": 290,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://robotics.umich.edu/academics/undergraduate/degree-requirements/",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:48:24.669991+00:00"
+}

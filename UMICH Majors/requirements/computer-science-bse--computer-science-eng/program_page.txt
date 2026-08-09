@@ -1,0 +1,94 @@
+Academics
+Home
+>
+Academics
+>
+Undergraduate
+>
+Majors
+>
+Computer Science Major (Eng students)
+Computer Science Major (Engineering students)
+Computer scientists are experts in computation, both in terms of the theory of computation and its innumerable practical applications. A computer scientist understands how to design and analyze algorithms, how to store and retrieve information, how computers function, and how to develop software systems that solve complex problems. Specialists within computer science might have expertise in developing software applications, designing computer hardware, analyzing algorithms, and many other current and emerging specializations.
+Atlas profile for Computer Science (Eng)
+(current U-M students only)
+Open to students enrolled in the College of Engineering, this program is administered by the CSE Division of the EECS Department. CSE also administers a CS undergraduate major for students in the College of LSA.
+What’s the difference between CS-LSA and CS-Eng?
+Why computer science at Michigan?
+The computer science major for engineering students will prepare you for a world of incredible opportunities. Our world-class faculty will challenge you to deepen your intellectual curiosity, and our curriculum will allow you to tailor your computing studies to your specific areas of interest. Along the way, you will develop both algorithmic fundamentals and a framework for understanding that will enable you to keep pace with the ever-changing world of computer science.
+#5 ranking
+CSE at Michigan has a #5 ranking at csrankings.org. Our CS undergraduate program is ranked #10 by US News and World Report.
+5 Turing Awardees
+Five U-M alumni have received the AM Turing Award, considered the “Nobel Prize” of computing.
+100 faculty
+100 award-winning faculty members in CSE, backed up by a professional course support staff team, make an active and robust program feel personal and supportive.
+Curriculum
+The computer science program requires students to have a solid foundation in computer software, hardware, and theory, but also gives each student ample opportunity to take advanced electives in areas of computer science such as databases, architecture, networks, artificial intelligence, and graphics, or in emerging interdisciplinary areas such as electronic commerce, web information systems, and computer game design.
+Required courses
+CS-Eng Program Guide
+: CS-Eng Program GuideFall 2025-Winter 2026
+CS-Eng Program Guide
+: Fall 2024-Winter 2025
+CS-Eng Program Guide
+: Fall 2023-Winter 2024
+Historical CS-Eng Program Guide
+CSE course descriptions >
+Contact an advisor
+The
+CSE Undergraduate Advising Office
+can help via advising appointments, drop-in advising, email support, and more.
+For additional support, students can also access the
+CSE Advising Chatbot
+for information on courses, programs, and policies.
+Declaring in CS-Eng
+Please watch this video
+before proceeding further.
+Declaration requirements are listed in the CS-Eng program guide. If you meet ALL of these requirements and are ready to declare, please fill out our
+declaration request form
+. A staff member will check your eligibility and let you know the outcome. For more detailed questions about the major, students can schedule an
+advising
+appointment or come to virtual drop-in advising.
+Tracks of Study in CS
+While pursuing a major in CS, you have the option to focus the direction of your study by selecting a track, which is a pre-defined grouping of Upper-Level Computer Science (ULCS and eULCS) courses that help you to gain expertise in a specific area of interest. Tracks are available in artificial intelligence, security, game development, data and information, and more.
+Learn more about tracks here.
+CS-Eng Senior Thesis
+The Senior Thesis option is open to students completing the Computer Science Engineering program and can satisfy the Capstone Experience requirement. There is a minimum GPA requirement and students are responsible for finding a faculty mentor whose research area aligns with their interest(s) and who is willing to oversee the thesis project. See the
+CS Thesis handout
+for more detailed information.
+Accelerated master’s: Sequential Undergraduate/Graduate Study (SUGS)
+Students who enroll in this program and plan to obtain a master’s degree could be eligible for the Sequential Undergraduate/Graduate Study (SUGS) program, which enables completion of both a bachelor’s degree and a master’s degree in five (to five and a half) years.
+More information is here.
+Students interested in the program should contact the
+CSE Graduate Programs Office
+.
+What our graduates do
+Job titles
+AI Engineer
+Application Developer
+Business Analyst
+Data Engineer
+Embedded Software Engineer
+Full Stack Developer
+Implementation Analyst
+Investment Banking Analyst
+Quantitative Trader
+Software Engineer
+Solutions Architect
+Technology Consultant
+Engineering Career Resource Center data
+Computer Science career info sheet (pdf)
+Post-graduation and co-op data
+Meet our alumni
+Justin Washington
+BSE CS 2010
+Principal Product Manager, Apple TV
+Read more: From U-M student to Product Manager for Apple TV
+Jill Bender
+BSE CS 2014
+Software Engineer, Siemens Digital Industries Software
+Read more: A focus on societal good and EV charging infrastructure
+Akanksha Singh
+BSE CS 2018
+CEO and Cofounder, Backdrop
+Read more: A startup for the entertainment industry and a Forbes 30 under 30 recognition
+Find more alumni stories

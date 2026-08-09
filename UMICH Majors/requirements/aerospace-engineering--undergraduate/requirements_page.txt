@@ -1,0 +1,98 @@
+Degree Requirements
+Home
+/
+Undergraduate
+/
+Degree Requirements
+The BSE in aerospace engineering degree has course requirements in several subjects listed below. Rules for choosing “intellectual breadth electives,” “technical electives,” and “general elective” courses are available here (link to requirements document). Most undergraduate AEROSP courses are offered every semester providing flexibility for students to plan their schedule according to their interests and needs, particularly in the junior and senior years. However, it is important to meet with an academic advisor for planning out the courses that may no be offered each semester and to discuss other options available to you during your undergraduate career. Any substitutions of the courses listed below must be approved by an advisor. Seek written approval before taking a course to ensure that it will count for a requirement.
+UG-Handbook (SampSchedule)
+Download
+Course breakdown by subjects
+Jump to
+Mathematics, Chemistry, Physics, and Engineering
+,
+Intellectual Breadth Electives
+,
+Related Technical Core
+,
+Aerospace Science
+,
+Aerospace Engineering
+,
+Technical Electives
+,
+Pilot Training Technical Electives
+,
+General Electives
+Mathematics, Chemistry, Physics, and Engineering
+(39 Credits)
+MATH 115, 116, 215, and 216
+ENGR 100, Intro to Engr
+ENGR 101, Intro to Computers or
+ENGR 151, Accel Intro to Computers
+CHEM 125/126 and 130, or 210 and 211
+Physics 140 with Lab 141
+Physics 240 with Lab 241
+Intellectual Breadth Electives
+(16 Credits)
+Intellectual breadth (16 credits). See the
+College of Engineering Bulletin
+for rules in selecting intellectual breadth courses that satisfy this requirement. A 3-credit humanities course and a 3-credit, 300-level or higher humanities or liberal arts course (LAC) are required. The 100-level foreign language credit received by placement exam does not count as intellectual breath.
+Related Technical Core
+(12 Credits)
+ME 240 (4) Introduction to Dynamics and Vibrations
+Engineering Distribution. Select two courses from MSE 220, MSE 350, MSE 250, MSE 420, EECS 215, EECS 216, EECS 280, EECS 281.  Other courses may be petitioned for approval by an advisor, prior to taking the course.
+Aerospace Science
+(26 Credits)
+AEROSP 201, Intro to Aerospace Engineering
+AEROSP 215, Intro to Solid Mechanics and Aerospace Structures
+AEROSP 225, Intro to Gas Dynamics
+AEROSP 315, Aircraft and Spacecraft Structures
+AEROSP 325, Aerodynamics
+AEROSP 335, Aircraft and Spacecraft Propulsion
+AEROSP 341, Aircraft Dynamics or AEROSP 343 Spacecraft Dynamics
+AEROSP 350, Introduction to Aerospace Computing
+AEROSP 470, Control of Aerospace Vehicles
+Aerospace Engineering (13 Credits)
+AEROSP 200, Introduction to the Aerospace Enterprise
+AEROSP 205, Intro to Aerospace Engr Systems or Aerosp 288: Fundamentals of Product Development
+AEROSP 305, Aerospace Engr Lab I
+AEROSP 481, Aircraft Design or Aero 483, Space System Design
+Prior to Fall 2025, AEROSP 405 was a requirement.  It has now been removed as a required course and replaced with 4 extra credits of technical electives.
+Technical Electives
+(13 Credits)
+A total of 13 credits of technical elective courses is required. The courses must be upper division (300-level or above) courses from engineering, mathematics, physical science, or other courses approved by an academic adviser, that are chosen to satisfy the following constraints:
+A maximum of 2 credits of seminar, such as AE 585, is allowed for technical elective credit.
+A maximum of 3 credits of directed study is allowed for technical elective credit.
+A maximum of 3 credits of AE 390 or AE 490, based on satisfactory completion of flight certification, can be used to satisfy the technical elective requirement.
+One course of three or more credits must be advanced mathematics or advanced science; this could include a course in astronomy, biology, chemistry, computer science, mathematics, or physics.
+Other courses can be selected if approved by an academic adviser.
+Prior to Fall 2025, the technical elective requirement was 9 credits.
+Pilot Training Technical Electives
+Policy on directed study credit for formal aircraft pilot training activities
+Aerospace Engineering students can earn directed study credit based on successful completion of pilot training activities during their tenure as undergraduate students in the Aerospace Engineering Department, according to the following procedures:
+AEROSP 290:
+One AEROSP 290 credit can be earned with a passing score on the FAA Private Pilot Exam, Aircraft Single-Engine Land (ASEL). This exam is typically taken as part of a ground school course that covers the basic knowledge required for a private pilot license.
+Students requesting this credit must register for AEROSP 290 PASS/FAIL under the cognizant faculty corresponding section. A copy of their FAA exam results must be provided via email to the cognizant Aerospace Engineering faculty member for approval by the last day of classes in the semester in which the registration occurred. An FAA passing exam score will translate to a grade of “Pass” in AEROSP 290 and can be counted toward General Electives.
+Aerospace major students eligible for this credit must have taken the FAA written exam while a University of Michigan student, if starting in Fall 2026 or later. Aerospace majors who joined the University of Michigan undergraduate program before Fall 2026 are eligible for credit if they have taken and passed the FAA written exam, whether they were University of Michigan students at the time of the exam or not.
+AEROSP 390:
+Three AEROSP 390 credits can be earned by students who obtain an FAA-issued license for private or commercial pilot, Aircraft Single-Engine Land (ASEL), or helicopters. More advanced FAA-issued ratings, such as instrument, instructor, instrument instructor, and multi-engine, are acceptable but cannot be used to obtain additional credit.
+Students requesting this credit must register for AEROSP 390 PASS/FAIL under the cognizant faculty’s corresponding section. To earn AEROSP 390 credit, students must provide a copy of their pilot’s license, their current medical certificate, and their pilot’s logbook page showing currency at the time of the documents’ submission to the Aerospace Engineering cognizant faculty member for approval. Credit for a pilot’s license is offered to enhance the traditional Aerospace Engineering curriculum with practical study and may be counted as Technical Electives.
+The AEROSP 390 “pilot” credit can only be obtained by students who have declared the Aerospace Engineering major. Students eligible for this credit must have obtained their license while a University of Michigan student if starting in Fall 2026 or later. For Aerospace majors who joined the University of Michigan undergraduate program before Fall 2026, they are eligible for credit if they have obtained their license while a University of Michigan student or if they maintain currency at the time of submitting the material for grading by completing a documented annual or biennial proficiency check.
+Aerospace undergraduate students applying for this credit are encouraged to register for AEROSP 390 only after they have completed their pilot training and obtained the license. If the student does not complete their training in the semester they have registered for AEROSP 390, they will fail the class.
+Cognizant faculty member:
+The cognizant faculty member for pilot training activities is Professor Carlos Cesnik.
+General Electives
+(9 Credits)
+See
+College of Engineering Bulletin
+for rules selecting general elective courses.
+UG-Handbook (Flowchart)
+Download
+How can I learn more about the Aerospace Engineering department and degree programs?
+You can learn more about the Aerospace Engineering department and degree programs by enrolling in
+the Aero Dept. 101 Piazza page
+.
+NEED HELP?
+The Academic Services Office is always here to help! Send any questions about the program or admissions.
+Email the Academic Services Office

@@ -1,0 +1,534 @@
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Mathematics
+About Us
+People
+Centers & Outreach
+Seminars, Colloquia & Lectures
+News & Events
+for
+Undergraduates
+Graduates
+Alumni & Friends
+Research
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Keyword Search of math
+Home
+About Us
+People
+Centers & Outreach
+Seminars, Colloquia & Lectures
+News & Events
+for
+Undergraduates
+Graduates
+Alumni & Friends
+Research
+Your First Math Course at UofM:  A Guide for Incoming Students
+Advising
+Frequently Asked Questions
+Research and Career Opportunities
+Transfer Credit
+Undergraduate Math Courses
+Awards, Scholarships, and Prizes
+Graduation
+Resources
+Major and Minor Programs
+Extracurricular Activities
+Policies
+Student Spotlight
+Admissions
+Programs
+Students On the Job Market - AIM & Math
+Awards & Fellowships
+Recent Ph.D. Recipients
+Student Spotlight - AIM & Math
+Courses
+Student Handbook - AIM & Math
+Thesis Defense Schedule
+Newsletters
+Giving to Mathematics
+Algebra and Algebraic Geometry
+Combinatorics
+Financial and Actuarial Mathematics
+Mathematical Biology
+Number Theory
+Research Training Grant
+Analysis
+Computer Science
+Geometry & Topology
+Mathematical Physics
+Probability Theory
+Named Postdoctoral Fellows
+Applied Mathematics
+Differential Equations
+Logic and Foundations
+Mathematics Education
+Scientific Computing
+Skip to Page Content
+Undergraduates
+Major and Minor Programs
+Mathematical Sciences
+...
+Mathematical Sciences
+Undergraduates
+Major and Minor Programs
+[X] close
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+Undergraduate Math Courses
+Major and Minor Programs
+Declaring a Mathematics Major
+Actuarial Mathematics
+Honors Mathematics
+Mathematics of Finance and Risk Management
+Mathematical Sciences
+Pure Mathematics
+Secondary Mathematics Teaching Certificate
+Mathematics Minor
+Advising
+Awards, Scholarships, and Prizes
+Extracurricular Activities
+Frequently Asked Questions
+Graduation
+Policies
+Research and Career Opportunities
+Resources
+Student Spotlight
+Transfer Credit
+Mathematical Sciences
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+Undergraduate Math Courses
+Major and Minor Programs
+Declaring a Mathematics Major
+Actuarial Mathematics
+Honors Mathematics
+Mathematics of Finance and Risk Management
+Mathematical Sciences
+Pure Mathematics
+Secondary Mathematics Teaching Certificate
+Mathematics Minor
+Advising
+Awards, Scholarships, and Prizes
+Extracurricular Activities
+Frequently Asked Questions
+Graduation
+Policies
+Research and Career Opportunities
+Resources
+Student Spotlight
+Transfer Credit
+The Mathematical Sciences Program is designed to provide broad training in basic mathematics together with some specialization in an area of application of mathematics. Each student must select one of the eight Program Options as a special area. Because of the somewhat more specific requirements of the Program options, careful planning and frequent consultation with your advisor are essential to ensure timely completion of the program.
+Discrete and Algorithmic Methods checklist
+Numerical and Applied Analysis checklist
+Operations Research and Modeling checklist
+Probabilistic Methods checklist
+Control Systems checklist
+Mathematical Economics checklist
+Mathematical Physics checklist
+Mathematical Biology checklist
+I. Prerequisites
+The prerequisite to the major in
+Mathematical Sciences is one of the sequences 205 & 217, 215 & 217, 285 & 217, or 295 & 296. In addition, students must acquire a working knowledge of a high-level computer language (
+e.g.
+Fortran, C, or C++) at a level equivalent to the completion of EECS 183. Students are encouraged to take EECS 280 & 281 as well. Students pursuing the Mathematical Biology option are also required to take the Introductory Biology lectures (BIOLOGY 171 and either 172 or 174; or BIOLOGY 192; or BIOLOGY 195). Students pursuing the Mathematical Physics option are required to take PHYSICS 140/141 and 240/241 or PHYSICS 160/161 and 260/261.
+Some of the options have additional requirements, as noted below.
+The major program must include at least nine courses: four basic courses (II.), three courses from one of the Program Options (III.), and two additional courses as described below (IV.). At least two of the five (optional and additional) courses must be MATH courses.
+II. Basic Courses
+The basic courses consist of one from each of the following four groups
+completed with a grade of at least C-
+:
+Differential Equations:
+Math 286 or 316
+Discrete Mathematics/Modern Algebra:
+Math 312, 412, 465 or 493
+Analysis:
+Math 351, 354, 450, 451, or 454
+Probability:
+Math 425 or 525
+More advanced students, such as those who have completed Math 396, may substitute higher-level courses with the approval of an advisor. All students are strongly encouraged to include in their program one of the more theoretical courses: Math 412, 451, 493, 494, or 525.
+III. Program Options
+A
+Mathematical Sciences
+major must choose one of the eight options below and complete at least three of the courses listed under that option or courses for which the courses are prerequisite. This requirement is designed to provide focus and depth to the program and can only be waived by an advisor in favor of a program that provides this depth in some equivalent way. An acceptable program must include some of the more difficult courses. Advice should be sought from an
+advisor
+before selecting an option. As an initial guide, we give a brief description of the options for Discrete and Algorithmic Methods, Numerical and Applied Analysis, Operations Reserach and Modeling, Probablistic Methods, Mathematcical Economics, Control Systems, Mathematical Physics, and Mathematical Biology below.
+IV. Advanced Courses
+To complete the major program, each student should elect two additional advanced courses in Mathematics or a related area. Every student must include, either here or elsewhere in his/her program;
+a cognate course
+numbered 300 or above taught outside the department that emphasizes the application of significant mathematical tools (at least at the level of Math 215) in another discipline. In all cases
+, approval from an
+advisor
+is required
+. This is a very flexible requirement to accommodate special interests and may be satisfied by a broad range of courses in other departments (generally numbered 300 or above) or by mathematics courses numbered 400 or above.
+At least two of the five courses counted towards
+Program Options
+and
+Advanced Courses
+must be MATH courses.
+Mathematical Sciences Program Options
+Discrete and Algorithmic Methods
+Discrete and algorithmic methods are concerned with the analysis of finite structures such as graphs, networks, codes, incidence structures, and combinatorial structures. The rapid growth of this area has been driven largely by its role as the mathematical core of computer science. Typical problems in this field involve optimization, emulation, or probabilistic estimation. Students choosing this option are strongly encouraged to take EECS 280 and 281.
+Math 314
+- Math of Blockchains
+Math 416
+- Theory of Algorithms
+Math 420
+- Adv Linear Algebra
+Math 465
+- Intro to Combntrcs
+Math 475
+- Elem NumberTheory
+Math 481
+- Intro to Math Logic
+Math 561
+- Linear Prog I
+Math 565
+- Comb & GraphTheory
+Math 566
+- Combinatorial Thry
+Math 567
+- Intro Coding Theory
+Math 575
+- Intro Thry Numbers
+EECS 376
+- Found. of Comp Sci.
+EECS 445
+- Intro Machine Learning
+EECS 475
+- Intro Cryptography
+EECS 477
+- Intro to Algorithms
+EECS 550
+- Information Theory
+EECS 574
+- Comput Complexity
+EECS 586
+- Design/Analysis.Algorithms
+EECS 587
+- Parallel Computing
+IOE 614
+- Integer Programming
+Numerical and Applied Analysis
+As computers become more powerful, they are being used to solve increasingly complex problems in science and technology. Examples of such problems include developing high-temperature superconducting materials, determining the structure of a protein from its amino acid sequence, and creating methods to model global climate change. Industrial and government research laboratories require personnel who are trained in applying numerical and analytical techniques to solve such problems. Numerical techniques are algorithms for computer simulation, and analytical techniques may rely on series expansions such as the Taylor or Fourier series expansions. There is a close connection between numerical and analytical techniques. A new analytical technique often leads to more effective numerical algorithms; a good example is the development of wavelets and their applications in signal processing. Students wishing to enter this field must acquire a strong background in mathematics, science, and computing.
+Students are encouraged to include EECS 402 and MATH 451 in their program, and to also consider doing a minor in another scientific discipline.
+Students in this program may choose to pursue a dual major in
+Data Science
+. This combination is a powerful recommendation to a prospective employer that the student can think quantitatively about information; collect, manage, analyze, and visualize massive datasets; and that the student has both the computational tools and the rigorous analytical methods to reason about information.
+Math 354
+- Fourier Analy & Apps
+Math 404
+- Intermediate Diff Eqns
+Math 420
+- Advanced Linear Alg
+Math 423
+- Math of Finance
+Math 451
+- Advanced Calc I
+Math 452
+- Advanced Calc II
+Math 454
+- Bound Val. Prob for PDE
+Math 462
+- Mathematical Models
+Math 463
+- Math Modeling in Bio.
+Math 464
+- Inverse Problems
+Math 471
+- Intro to Numerical Methods
+Math 550
+- Intro to Adaptive Sys
+Math 555
+- Intro to Complex Var.
+AERO 225
+- Intro to Gas Dynam
+ME 240
+- Dynam & Vibrations
+PHYS 340
+- Waves, Heat, Light
+PHYS 401
+- Inter Mechanics
+EECS 445
+- Machine Learning
+DATASCI 406
+- Comp Math in Stats & Data Sci
+DATASCI 415
+- Data Mining
+DATASCI 451
+- Bayesian Data Analysis
+STATS 413
+- App Regression
+STATS 426
+- Intro Theory Stats
+STATS 430
+- Applied Probability
+Operations Research and Modeling
+Mathematical modeling refers generally to the representation of real-world problems in mathematical terms. In some sense, this is necessary for any application of mathematics, but the term is used more often to refer to applications of mathematics to biological, mechanical, and human systems. Analysis of such systems involves complex mathematical descriptions and leads to large problems that can be solved only by the use of a computer. Operations Research studies integrated systems, including health care, education, manufacturing processes, finance, and transportation. Because the emphasis is on the analysis and operation of systems, practitioners are also qualified to deal with managerial problems. Career opportunities are available in many parts of industry and government.
+Most students should include Math 561 and Stat 426.
+Math 420
+- Adv Linear Algebra
+Math 433
+- Intro to Diff Geom
+Math 462
+- Math Models
+Math 463
+- Math Modeling in Biology
+Math 561
+- Linear Prog I I
+Math 562
+- Cont. OptimizationMath
+CHE 510
+- Math Meths in Chem
+IOE 515
+- Stochastic Processes
+IOE 543
+- Scheduling
+IOE 610
+- Linear Prog II
+IOE 611
+- Nonlinear Prog
+IOE 612
+- Network Flows
+IOE 614
+- Integer Prog
+STATS 426
+- Intro Theory Stats
+Probabilistic Methods
+Probability theory deals with the mathematics of randomness and its applications. It is the basis of mathematical statistics, where the goal is to draw inferences from samples. Non-statistical applications are found in many branches of the social, biological, and physical sciences, as well as in engineering. You will also need to select two Advanced courses with approval from a mathematical sciences advisor.
+*
+Students completing this option must complete Math 525
+Math 423
+- Math of Finance
+Math 523
+- Risk Theory
+Math 525
+- Probability Theory
+Math 526
+- Discrete State Stochastic Process
+Math 547
+- Mathematics of data
+EECS 502
+- Stochastic Processes
+DATASCI 406
+- Comp Meth in Stats & Data Sci
+STATS 413
+- App Regression
+DATASCI 415
+- Data Mining
+STATS 426
+- Intro Theory Stats
+STATS 430
+- Applied Probability
+DATASCI 451
+- Bayesian Data Analysis
+STATS 500
+- Applied Stats
+STATS 501
+- Applied Stats II
+Mathematical Economics
+One definition of economics is the study of the optimal allocation of scarce resources. Several mathematical techniques are fundamental to this study: constrained optimization using Lagrange multipliers, n-dimensional calculus, especially the Implicit Function Theorem (dependence of a solution on parameters), dynamics, probability and statistics to deal with inherent uncertainty, game theory to deal with decisions in which the actions of one agent affect the options of others, and proofs for understanding the derivation of economic principles. To ensure coverage of these topics, students choosing the Mathematical Economics option will usually choose Math 351 or 451 as their basic analysis course; Math 423, Stat 426, Econ 452, Econ 453, or Econ 454 as courses from the options list; and Econ 401 together with a mathematics course at the 400-level or above as their related courses. A student who completes this option should find opportunities available in business, government, and research organizations that collect, analyze, and model data having economic, social, and political parameters.
+Many students in this program pursue a dual major in
+Economics
+; this combination is a powerful recommendation to a prospective employer that the student can think quantitatively, understand complex reasoning, and work with economic models.
+Math 420
+- Adv. Linear Algebra
+Math 423
+- Math of Finance
+Math 424
+- Compound Interest& Life Ins
+Math 452
+- Advanced Calc II
+Math 462
+- Math Models
+Math 471
+- Intro Num Methods
+Math 472
+- Num Meth w/FinAp
+Math 474
+- Intro StochasticAnalysis for Fin
+Math 523
+- Risk Theory
+Math 561
+- Linear Program I
+Math 562
+- Cont. Optimiz Math
+Math 623
+- Comput. Finance
+ECON 409
+- Game Theory
+ECON 452
+- Intro Econometrics
+STATS 426
+- Intro to Thry Stats
+Control Systems
+Control Systems is a fascinating field that draws upon knowledge in many areas of mathematics. It pervades industry, and its practitioners can be found in such diverse fields as automotive pollution control, avionics, and process control in manufacturing. A control designer will need to interface with the modeling group to develop a mathematical description of the system to be controlled and perhaps with the testing group to characterize disturbances or other uncertainties affecting the system. The required performance of the system will then be ascertained from the intended use and translated into a set of mathematical specifications for a closed-loop system. At this stage, the designer will select from an arsenal of tools for controller analysis and synthesis, which generally requires a solid foundation in linear algebra, differential equations, real analysis, and probability.
+Students planning to pursue graduate study in this area are recommended to include Math 451 and EECS 476 in their programs.
+354
+Fourier Analysis and its Applic.
+420
+Advanced Linear Algebra
+451
+Advanced Calculus I
+454
+Bound. Val. Prob. for PDE
+462
+Mathematical Models
+471
+Intro. to Numerical Methods
+555
+Intro. to Complex Variables
+561
+Linear Programming I
+562
+Cont. Optimization Meth.
+EECS 376
+Found. of Computer Sci.
+EECS 460
+Control Sys. Anal./Des.
+EECS 476
+Data Mining
+EECS 560
+Linear Systems Theory
+EECS 561
+Digital Control Sys.
+EECS 562
+Nonlinear Systems
+EECS 565
+Linear Feedback
+EECS 567
+Intro. to Robotics
+ROB 380
+- Intro. Auto. Robotics
+ROB 422
+- Intro. Algo. Robotics
+ROB 530
+- Mobile Robotics
+STAT 426
+Intro. to Theor. Stat.
+Mathematical Physics
+Among all of the disciplines which make significant use of mathematics, physics has the longest history. Indeed, several areas of mathematics were developed for the purpose of solving problems in physics. This option allows a student to pursue an interest in physics, which uses undergraduate mathematics.
+It is designed to facilitate a concurrent major in
+Physics
+.
+Every program should include at least two of the Physics courses from the list below.
+Note that although Physics 401 is a prerequisite to several of these, it does not count as one of the option courses.
+Math 404
+- Intermediate DiffEquations
+Math 433
+- Intro to Diff. Geom.
+Math 445
+- Entropy and Info.
+Math 454
+- Bound Val. Probfor PDE
+Math 471
+- Intro to NumericalMethods
+Math 555
+- Intro to Complex Variables
+PHYS 405
+- Intermed Elec & Magnetism
+PHYS 406
+- Stat & Thermal Phys
+PHYS 413
+- Intro Nonlinear Dyn
+PHYS 435
+- Gravitational Phys
+PHYS 452
+- Methods of Theoretical Phys II
+PHYS 453
+- Quantum Mechanics
+Mathematical Biology
+Ever since the advent of high-powered computing, it has become obvious that mathematics can contribute a great deal to biological and medical research. Indeed, in many cases mathematical approaches can answer questions that cannot be addressed by other means, and thus mathematics is often an indispensable tool for biological research. Typical areas of application include such diverse areas as the topology of DNA, genetic algorithms, cell physiology, cancer biology and control strategies, micro-circulation and blood flow, the study of infectious diseases such as AIDS, the biology of populations, neuroscience and the study of the brain, developmental biology and embryology, the study of hormone secretion and endocrine control, and bioinformatics.
+The Mathematical Biology option will thus be appropriate for any student with an interest in biology or medicine and a desire to apply the mathematics they learn to current and important biological problems.
+Math 404
+- Intermediate DiffEquations
+Math 452
+- Advanced Calc II
+Math 454
+- Boundary Value Problems for Partial Differential Equations
+Math 462
+- Mathematical Models
+Math 471
+- Intro to Numerical Methods
+Math 558
+- Applied Nonlinear
+Math 559
+- Topics in Applied Mathematics
+Math 563
+- Advanced Mathematical Methods for the Biological Sciences
+Math 564
+- Topics in Mathematical Biology
+Math 568
+- Mathematical and Computational Neuroscience
+Bio 305
+- Genetics
+Chem 351
+- Fundamentals of Biochemistry
+MCDB 310
+- Introduction to Biochemistry
+Microbiol 301
+- Introductory to Microbiology
+Mathematics
+2074 East Hall
+530 Church Street
+Ann Arbor, MI 48109-1043
+Undergraduate Students:
+math-undergrad-office@umich.edu
+Graduate Students:
+math-grad-office@umich.edu
+Department Administration:
+math-admin-office@umich.edu
+Website Updates:
+math-comm-web@umich.edu
+Intranet
+Click to call 734.764.0335
+734.764.0335
+Sitemap
+Information For
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

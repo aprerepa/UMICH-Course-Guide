@@ -1,0 +1,18 @@
+{
+  "id": "psychology--majors-minors-html-psychology-general-social-science-maj",
+  "name": "Psychology",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#psychology_general_social_science-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#psychology_general_social_science-maj",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/psychology-general-social-science-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/psychology-general-social-science-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:48:09.016706+00:00",
+  "lsa_resolved_row_id": "psychology_general_social_science-maj"
+}

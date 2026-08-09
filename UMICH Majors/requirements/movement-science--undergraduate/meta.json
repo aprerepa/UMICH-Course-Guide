@@ -1,0 +1,17 @@
+{
+  "id": "movement-science--undergraduate",
+  "name": "Movement Science",
+  "school_college": "School of Kinesiology",
+  "program_url": "https://www.kines.umich.edu/academics/movement-science/undergraduate",
+  "status": "fetched",
+  "message": "degree program page saved (no nested requirements link)",
+  "program_final_url": "https://www.kines.umich.edu/academics/movement-science/undergraduate",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://www.kines.umich.edu/academics/movement-science",
+  "requirements_link_text": "Movement Science",
+  "requirements_link_score": 115,
+  "requirements_link_strategy": "hub_program_page",
+  "requirements_final_url": "https://www.kines.umich.edu/academics/movement-science",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:45:45.041258+00:00"
+}

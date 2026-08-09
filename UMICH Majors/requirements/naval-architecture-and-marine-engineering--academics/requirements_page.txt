@@ -1,0 +1,82 @@
+Degree Requirements
+Home
+/
+Undergraduate
+/
+Major in Naval Architecture & Marine Engineering
+/
+Degree Requirements
+The Naval Architecture and Marine Engineering (NA&ME) undergraduate degree program is arranged to give the student a broad engineering mechanics education by requiring basic courses in the areas of Structural Mechanics, Hydrodynamics, Marine Power Systems, and Marine Dynamics. These courses cover engineering fundamentals and their application to the design and construction of marine vehicles and systems.
+Courses in
+Marine Structures
+deal with the design and analysis of marine vehicles and platforms including static strength, fatigue, dynamic response, safety, and production.
+Resistance, maneuvering and seakeeping characteristics of bodies in the marine environment are the subject matter for courses in
+Marine Hydrodynamics
+.
+Marine Power Systems
+involve all the mechanical systems on a marine vehicle with particular emphasis on the selection and arrangement of the main propulsion system.
+In
+Marine Dynamics
+, the student studies the vibrations of marine structures and engines and the rigid body responses of the vessel to the wind and waves.
+Sample Academic Plan
+College/Program requirements:
+128
+credits
+Intellectual Breadth:
+16
+credits
+Free Electives:
+8–9
+Download Sample Plan
+First Year
+Semester 1 (17 credits)
+Math 115 (4)
+Chem 125/126 and 130 (5) OR Chem 210/211 (5)
+ENG 100 Intro to Engineering (4)
+Intellectual Breadth or Free electives (4)
+Semester 2 (17 credits)
+Math 116 (4) or Math 156 (4)
+Physics 140/141 (5)
+ENG 101 Intro to Computers & Programming (4)
+Intellectual Breadth or Free Electives (4)
+Second Year
+Semester 1 (16 credits)
+MATH 215 (4)
+ME 235 Thermodynamics (3)
+Physics 240/241 (5)
+NA 270 Vessel/Platform Design (4)
+Semester 2 (17 credits)
+MATH 216 (4)
+ME 211 Intro to Solid Mechanics (4)
+ME 240 Dynamics and Vibration (4)
+NA 280 Probability for Marine Engineers (3)
+Intellectual Breadth or Free Electives (2)
+Third Year
+Semester 1 (15 credits)
+ME/NA320 Intro to Fluid Mechanics (3)
+NA340 Marine Dynamics I (4)
+NA331 Marine Power and Energy (3)
+Intellectual Breadth or Free electives (4)
+Semester 2 (17 credits)
+NA321 Marine Hydrodynamics (4)
+NA310 Marine Structures I (4)
+NA332 Marine Power and Energy (4)
+NA370 Conceptual Vessel/Platform Design (3)
+Intellectual Breadth or Free Electives (2)
+Fourth Year
+Semester 1 (14 credits)
+NA470 Foundations of Ship Design (4)
+Technical Elective (3-4)
+NA492 Marine Engineering Lab II (3)
+Intellectual Breadth or Free Electives (4)
+Semester 2 (15 credits)
+NA475 Marine Design Team Project (4)
+Technical Elective (3-4)
+NA461 Marine Structures Construction (3)
+Intellectual Breadth or Free Electives (4)
+In the fourth year, students are required to select two technical electives from a prescribed list. These electives allow students to focus their education in specific areas. Here are some example focus areas and possible courses.
+Marine Structures: NA 410 and NA 440
+Marine Manufacturing: NA 410 and NA 562
+High-Speed Craft Design: NA 401 and NA 431 or NA 440
+Marine Power Systems: NA 431 and NA 401 or NA 410
+Sailing Yachts: NA 403 and NA 410, NA 431, or NA 440

@@ -1,0 +1,18 @@
+{
+  "id": "greek-ancient-language-and-literature--majors-minors-html-greek-ancient-language-and-literature-maj",
+  "name": "Greek (Ancient) Language and Literature",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#greek_ancient_language_and_literature-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#greek_ancient_language_and_literature-maj",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/greek-ancient-language-and-literature-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/greek-ancient-language-and-literature-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:39:46.330935+00:00",
+  "lsa_resolved_row_id": "greek_ancient_language_and_literature-maj"
+}

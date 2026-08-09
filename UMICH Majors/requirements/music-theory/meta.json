@@ -1,0 +1,17 @@
+{
+  "id": "music-theory",
+  "name": "Music Theory",
+  "school_college": "School of Music, Theatre & Dance (SMTD)",
+  "program_url": "https://smtd.umich.edu/department/music-theory/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://smtd.umich.edu/department/music-theory/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://smtd.umich.edu/beyond-the-curriculum/",
+  "requirements_link_text": "Beyond the Curriculum",
+  "requirements_link_score": 75,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://smtd.umich.edu/beyond-the-curriculum/",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:45:59.414302+00:00"
+}

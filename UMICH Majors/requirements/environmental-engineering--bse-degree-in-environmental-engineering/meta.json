@@ -1,0 +1,17 @@
+{
+  "id": "environmental-engineering--bse-degree-in-environmental-engineering",
+  "name": "Environmental Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://cee.engin.umich.edu/undergraduate-studies/bse-degree-in-environmental-engineering/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://cee.engin.umich.edu/undergraduate-studies/major-in-environmental-engineering/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://docs.google.com/spreadsheets/d/19GZ6q-Wf0HUgKaHqFyCClZad5sJnez3M1tbKOdHZ_5s/edit?gid=0#gid=0",
+  "requirements_link_text": "(program page is requirements) \u2192 Editable sample schedule",
+  "requirements_link_score": 150,
+  "requirements_link_strategy": "program_is_requirements\u2192google_doc",
+  "requirements_final_url": "https://doc-0c-60-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/oujii3q9ok43e4s9j7nkaeb5bk/1786290780000/105250506097979753968/*/19GZ6q-Wf0HUgKaHqFyCClZad5sJnez3M1tbKOdHZ_5s?format=tsv",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:52:52.445222+00:00"
+}

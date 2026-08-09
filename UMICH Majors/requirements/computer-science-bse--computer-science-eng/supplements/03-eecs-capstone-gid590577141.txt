@@ -1,0 +1,18 @@
+Course	Title 	Credit 	Notes
+EECS 440*	Extended Reality for Social Impact (new FA24) 	4	
+EECS 441*	Mobile App Development for Entrepreneurs	4	
+EECS 443  	CS Thesis Course	3	CS-LSA Honors Details  CS-Eng Thesis Details
+EECS 447 	Machine Learning Research Experience 	4	Begins WN27 
+EECS 448*	Applied Machine Learning for Modeling Human Behavior	4	
+EECS 449*	Conversational Artificial Intelligence	4	
+EECS 467*	Autonomous Robotics	4	
+EECS 472	Computer Architecture Project	4	Replaces EECS 470 as an MDE/Capstone starting in WN26
+EECS 473	Advanced Embedded Systems	4	
+EECS 480*	Social Computing Systems	4	
+EECS 494	Computer Game Design and Development	4	
+EECS 495*	Accessible Computing	4	
+EECS 497*	Human-Centered Software Design & Development	4	
+EECS 498 (when marked as MDE/Capstone here)*	Special Topics		
+CSE 596	Engineering Interactive Systems	4	
+AEROSP 388 (CS approved projects only) 	Systems Engineering Processes and Digital Tools (MBSE) 	7 credits over 2 terms	During FA25-WN26, pre-approved CS related projects are eligible to earn both MDE/Capstone and Flexible Technical Elective credits. Once two semesters are completed, 4 credits can be used toward MDE/Capstone and 3 credits can be used toward FTE. Contact the CSE advising office at the beginning of the Fall term for eligible projects.
+For CS-Eng: *Beginning Winter 2024, MDEs with a * no longer count as Flexible Technical Electives.

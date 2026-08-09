@@ -1,0 +1,17 @@
+{
+  "id": "electrical-engineering",
+  "name": "Electrical Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://ece.engin.umich.edu/academics/undergraduate/prospective-undergrad/electrical-engineering/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://ece.engin.umich.edu/academics/undergraduate/majors-minors/electrical-engineering-major/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://docs.google.com/document/d/1NZ7-0qe5vj0W_3ZN8CuV8OqfKudM1FTe2XRz0toBAtM/edit?tab=t.0",
+  "requirements_link_text": "(program page is requirements) \u2192 Electrical Engineering Program Guide",
+  "requirements_link_score": 205,
+  "requirements_link_strategy": "program_is_requirements\u2192google_doc",
+  "requirements_final_url": "https://docs.google.com/document/d/1NZ7-0qe5vj0W_3ZN8CuV8OqfKudM1FTe2XRz0toBAtM/edit?tab=t.0",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:47:33.282047+00:00"
+}

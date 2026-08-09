@@ -1,0 +1,328 @@
+Page header:
+page title: Pure Mathematics | U-M LSA Mathematics
+
+Visible page text:
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Mathematics
+About Us
+People
+Centers & Outreach
+Seminars, Colloquia & Lectures
+News & Events
+for
+Undergraduates
+Graduates
+Alumni & Friends
+Research
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Keyword Search of math
+Home
+About Us
+People
+Centers & Outreach
+Seminars, Colloquia & Lectures
+News & Events
+for
+Undergraduates
+Graduates
+Alumni & Friends
+Research
+Your First Math Course at UofM:  A Guide for Incoming Students
+Advising
+Frequently Asked Questions
+Research and Career Opportunities
+Transfer Credit
+Undergraduate Math Courses
+Awards, Scholarships, and Prizes
+Graduation
+Resources
+Major and Minor Programs
+Extracurricular Activities
+Policies
+Student Spotlight
+Admissions
+Programs
+Students On the Job Market - AIM & Math
+Awards & Fellowships
+Recent Ph.D. Recipients
+Student Spotlight - AIM & Math
+Courses
+Student Handbook - AIM & Math
+Thesis Defense Schedule
+Newsletters
+Giving to Mathematics
+Algebra and Algebraic Geometry
+Combinatorics
+Financial and Actuarial Mathematics
+Mathematical Biology
+Number Theory
+Research Training Grant
+Analysis
+Computer Science
+Geometry & Topology
+Mathematical Physics
+Probability Theory
+Named Postdoctoral Fellows
+Applied Mathematics
+Differential Equations
+Logic and Foundations
+Mathematics Education
+Scientific Computing
+Skip to Page Content
+Undergraduates
+Major and Minor Programs
+Pure Mathematics
+...
+Pure Mathematics
+Undergraduates
+Major and Minor Programs
+[X] close
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+Undergraduate Math Courses
+Major and Minor Programs
+Declaring a Mathematics Major
+Actuarial Mathematics
+Honors Mathematics
+Mathematics of Finance and Risk Management
+Mathematical Sciences
+Pure Mathematics
+Secondary Mathematics Teaching Certificate
+Mathematics Minor
+Advising
+Awards, Scholarships, and Prizes
+Extracurricular Activities
+Frequently Asked Questions
+Graduation
+Policies
+Research and Career Opportunities
+Resources
+Student Spotlight
+Transfer Credit
+Pure Mathematics
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+Undergraduate Math Courses
+Major and Minor Programs
+Declaring a Mathematics Major
+Actuarial Mathematics
+Honors Mathematics
+Mathematics of Finance and Risk Management
+Mathematical Sciences
+Pure Mathematics
+Secondary Mathematics Teaching Certificate
+Mathematics Minor
+Advising
+Awards, Scholarships, and Prizes
+Extracurricular Activities
+Frequently Asked Questions
+Graduation
+Policies
+Research and Career Opportunities
+Resources
+Student Spotlight
+Transfer Credit
+The Pure Mathematics
+Program is designed to provide broad training in basic modern mathematics, including an introduction to the methods of rigorous mathematical proof and exposure to the major branches of mathematics: Algebra, Analysis, and Geometry/Topology.
+Pure Mathematics Subplan Checklist
+I. Prerequisites
+The prerequisite to major in Pure Mathematics is one of the sequences 205 & 217, 215 & 217, 285 & 217, or 295 & 296. Note that Math 216 is not intended for Mathematics majors.
+The major program must include at least nine courses:
+four basic courses (II.),
+four elective courses (III.), and one cognate course (IV.) as described below.
+II. Basic Courses
+The basic courses consist of one from each of the following groups
+completed with a grade of at least C-.
+Modern Algebra:
+Math 312, 412 or 493
+Differential Equations:
+Math 286 or 316
+Analysis:
+Math 351 or 451
+Geometry/Topology:
+Math 431, 433, 490, or 590
+More advanced students, such as those who have completed Math 396, may substitute higher-lever courses with the approval of an advisor.
+Following Math 215, all students intending to major in Pure Mathematics should elect Math 217 (Linear Algebra) rather than Math 216 (Introduction to Differential Equations).
+Math 216 is not intended for mathematics majors who generally take Math 316 (Differential Equations) after completing Math 217.
+III. Elective Courses
+The four elective courses must be chosen in consultation with an
+advisor
+to provide a cohesive program that explores an area of mathematics in some depth. There is a good deal of freedom here, but a random selection of courses may not satisfy this requirement. The courses should be chosen from the following list or have a course number of 600 or above. Math 289 is a repeatable 1-credit course and can be used to satisfy the elective requirement only when taken three times, totaling 3 credits.
+289
+Problem Solving
+310
+Chance and Choice
+314
+Math of Blockchains
+354
+Fourier Analysis and its App.
+404
+Intermediate Differential Equations
+389
+Explorations in Mathematics
+423
+Mathematics of Finance
+416
+Theory of Algorithms
+420
+Advanced Linear Algebra
+425
+Introduction to Probability
+437
+Intro to Differential Manifolds
+433
+Introduction to Differential Geometry
+450
+Advanced Mathematics for Engineers I
+440
+Lab of Geometry - LoG(M)
+454
+Boundary Value Problems for PDE
+452
+Advanced Calculus II
+463
+Mathematical Modeling in Biology
+460
+Intr Stoch Processes
+462
+Mathematical Models
+465
+Introduction to Combinatorics
+464
+Inverse Problems
+472
+Numerical Methods with Financial Applications
+471
+Introduction to Numerical Methods
+475
+Elementary Number Theory
+481
+Introduction to Mathematical Logic
+490
+Introduction to Topology
+498
+Topics in Modern Mathematics
+525
+Probability Theory
+526
+Discrete State Stochastic Processes
+537
+Introduction to Differentiable Manifolds
+550
+Introduction to Adaptive Systems
+551
+Intro to Real Analysis
+556
+Methods of Applied Mathematics I
+555
+Intro to Complex Variables
+558
+Ordinary Differential Equations
+557
+Methods in Applied Math II
+561
+Linear Programming I
+559
+Topics in Applied Mathematics
+563
+Advanced Mathematical Biology
+562
+Continuous Optimization Methods
+567
+Intro to Coding Theory
+565
+Combinatorics and Graph Theory
+572
+Numerical Methods for Sci. Comput. II
+571
+Numerical Methods for Sci Comput. I
+582
+Introduction to Set Theory
+575
+Intro to the Theory of Numbers
+591
+General and Differential Topology
+590
+Intro to Topology
+593
+Algebra I
+592
+Intro to Algebraic Topology
+596
+Analysis I (Complex)
+594
+Algebra II
+597
+Analysis II (Real)
+IV. Cognate Courses
+One
+cognate course
+should be chosen from a field other than mathematics. Almost any field is acceptable, but the course must be at the 300+ level and should have significant mathematical content, at least at the level of Math 215. A
+list of suggested courses is available online
+, but in all cases,
+approval of an advisor is required
+.
+Mathematics
+2074 East Hall
+530 Church Street
+Ann Arbor, MI 48109-1043
+Undergraduate Students:
+math-undergrad-office@umich.edu
+Graduate Students:
+math-grad-office@umich.edu
+Department Administration:
+math-admin-office@umich.edu
+Website Updates:
+math-comm-web@umich.edu
+Intranet
+Click to call 734.764.0335
+734.764.0335
+Sitemap
+Information For
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

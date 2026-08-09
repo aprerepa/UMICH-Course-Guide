@@ -1,0 +1,18 @@
+{
+  "id": "classical-languages-and-literatures--majors-minors-html-classical-languages-and-literatures-maj",
+  "name": "Classical Languages and Literatures",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#classical_languages_and_literatures-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#classical_languages_and_literatures-maj",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/classical-languages-and-literatures-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/classical-languages-and-literatures-major.html",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:33:51.121600+00:00",
+  "lsa_resolved_row_id": "classical_languages_and_literatures-maj"
+}

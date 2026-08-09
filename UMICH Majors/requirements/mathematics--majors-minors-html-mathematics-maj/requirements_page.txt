@@ -1,0 +1,86 @@
+Mathematics (Major)
+Effective Winter 2025
+Advising
+Appointments are scheduled online at:
+lsa.umich.edu/math/undergraduates.
+. Students are strongly urged to consult with a department advisor each term before selecting courses for the following term.
+Grade Policies
+All prerequisite courses must be satisfied with a grade of C– or above. Students with lower grades in prerequisite courses must receive special permission of the instructor to enroll in subsequent courses.
+Major GPA Calculation
+For purposes of calculating grade point average, the term "field of the major" means the following:
+All MATH courses.
+All courses used to meet requirements for the major.
+All required cognate courses (if any).
+All mandatory prerequisites.
+EECS 183
+ECON 101 and ECON 102 (actuarial mathematics submajor only).
+Prerequisites
+Most programs require completion of one of the sequences ending with MATH 205-217, 215-217, 285-217, or 295-296. A working knowledge of a high-level computer language such as C++ or a computer algebra system (such as Maple or Mathematica), at a level equivalent to completion of a course of three or more credits is recommended for all programs and required for some. (A grade of C- or better is strongly suggested for MATH 217.)
+Requirements
+A student considering a major in Mathematics should consult a mathematics department advisor in the Undergraduate Mathematics Office as early as possible and certainly by the first term of the sophomore year. The department offers many different submajors with varying requirements; failure to meet some of these at the intended time may delay completion of the program and graduation. A plan for the major must be designed with and approved by a department advisor.
+Pure Mathematics
+Mathematical Sciences
+Actuarial Mathematics
+Mathematics of Finance and Risk Management
+Honors Mathematics
+Secondary Mathematics Teaching Certificate
+Residency
+Minimum number of courses taken in residence for transfer students majoring in Mathematics
+(applies to all sub-plans) Students should take a minimum of 18 credits at the University of Michigan, Ann Arbor campus. Six of these credits must come from the basic courses and nine from the core courses and/or cognate courses. The 18 credits may include pre-requisites taken in Math.
+Mathematical Sciences (Sub-Major)
+Effective Fall 2026
+Advising
+Appointments are scheduled online at:
+lsa.umich.edu/math/undergraduates
+. Students are strongly urged to consult with a department advisor each term before selecting courses for the following term.
+Grade Policies
+All prerequisite courses must be satisfied with a grade of C– or above. Students with lower grades in prerequisite courses must receive special permission of the instructor to enroll in subsequent courses.
+For purposes of calculating grade point average, the term "field of the major" means the following:
+All MATH courses.
+All courses used to meet requirements for the major.
+All required cognate courses (if any).
+All mandatory prerequisites.
+One of EECS 183, EECS 280, COMPFOR 131, COMPFOR 133, ENGR 101, or SI 101.
+Prerequisites
+Prerequisites for all Mathematics Majors
+Completion of one of the sequences ending with MATH 205-217, 215-217, 285-217, or 295-296. A working knowledge of a high-level computer language such as C++ or a computer algebra system (such as Maple or Mathematica), at a level equivalent to completion of a course of three or more credits. (A grade of C- or better is strongly suggested for MATH 217.)
+Additional prerequisites for the Mathematical Sciences Submajor
+Completion of one of the sequences ending with MATH 205-217, 215-217, 285-217, or 295-296. In addition, students must acquire a working knowledge of a high-level computer language (e.g. C++, Python, or R). Courses that can be used to satisfy this requirement include EECS 183, EECS 280, COMPFOR 131, COMPFOR 133, ENGR 101, and SI 101. Students pursuing the Mathematical Biology option are also required to take the Introductory Biology lectures (BIOLOGY 171 and either 172 or 174; or BIOLOGY 192; or BIOLOGY 195). Students pursuing the Mathematical Physics option are required to take PHYSICS 140/141 and 240/241 or PHYSICS 160/161 and 260/261. Some of the options have additional requirements as noted below.
+Requirements
+Each student must select one of the eight Program Options as a special area.
+Basic Courses
+The basic courses consist of one from each of the following four groups
+completed with a grade of at least C-
+:
+Differential Equations: MATH 286, or 316
+Discrete Math/Modern Algebra: MATH 312, 412, 465, or 493
+Analysis: MATH 351, 354, 450, 451, or 454
+Probability: MATH 425 or 525
+Program Options
+At least three courses from ONE of the Program Options listed below (the list of possible electives for each option is given on the
+departmental website
+:
+Discrete and Algorithmic Methods
+Numerical and Applied Analysis
+Operations Research and Modeling
+Probabilistic Methods
+Mathematical Economics
+Control Systems
+Mathematical Physics
+Mathematical Biology
+Advanced Courses
+Two additional advanced mathematics (or related) courses selected from either
+courses taught outside the department which emphasize the application of significant mathematical tools (at least at the level of MATH 215) in another discipline at the 300 level or above, or
+mathematics courses numbered 400 or above
+In all cases, approval of an advisor is required.  This is a very flexible requirement to accommodate special interests and may be satisfied by a broad range of courses in other departments.
+Other Department Policies
+At least two of the courses used toward the Program Options and Advanced Courses must be MATH courses.
+At least one of the courses used toward the Program Options and Advanced Courses must be taken outside the department and be at the 300 level or above.
+Residency
+Minimum number
+of courses taken in residence for transfer students majoring in Mathematics
+(applies to all sub-plans): Students should take a minimum of 18 credits at the University of Michigan, Ann Arbor campus. Six of these credits must come from the basic courses and nine from the core courses and/or cognate courses. The 18 credits may include pre-requisites taken in Math.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the MATH subject area may not be used toward the Distribution Requirement.

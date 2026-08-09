@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+
+# Env / secrets (keep *.example tracked)
+.env
+.env.local
+.env.*.local
+**/.env
+!**/.env.example
+
+# Builds & caches
+Planner/dist/
+dist/
+build/
+.cache/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Bulky regenerable scrape dumps (keep meta / .llm.txt / extracts)
+UMICH Majors/requirements/**/*.html
+UMICH Majors/requirements/**/*.pdf
+UMICH Majors/output/page.html
+UMICH Majors/runs/
+
+# Playwright / browser automation
+playwright-report/
+test-results/
+.playwright/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Docs (local planning notes)
+docs/
+
+# Logs & temp
+*.log
+tmp/
+temp/
+.tmp/

@@ -1,0 +1,17 @@
+{
+  "id": "computer-engineering",
+  "name": "Computer Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://ece.engin.umich.edu/academics/undergraduate/prospective-undergrad/computer-engineering/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://ece.engin.umich.edu/academics/undergraduate/majors-minors/computer-engineering-major/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://docs.google.com/document/d/1T24Ib8Jat32HQ8-his5Vc8ljLFoOW51PfBQ4Asc0dGs/edit?usp=sharing",
+  "requirements_link_text": "CE Program Guide",
+  "requirements_link_score": 135,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://docs.google.com/document/d/1T24Ib8Jat32HQ8-his5Vc8ljLFoOW51PfBQ4Asc0dGs/edit?tab=t.0",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:35:28.462183+00:00"
+}

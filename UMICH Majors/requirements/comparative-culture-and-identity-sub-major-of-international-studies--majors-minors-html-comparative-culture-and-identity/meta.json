@@ -1,0 +1,18 @@
+{
+  "id": "comparative-culture-and-identity-sub-major-of-international-studies--majors-minors-html-comparative-culture-and-identity",
+  "name": "Comparative Culture and Identity (Sub-major of International Studies)",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#comparative_culture_and_identity_cci-sub",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#comparative_culture_and_identity_cci-sub",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/international-studies-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/international-studies-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:34:24.344698+00:00",
+  "lsa_resolved_row_id": "comparative_culture_and_identity_cci-sub"
+}

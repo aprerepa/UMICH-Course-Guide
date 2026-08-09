@@ -1,0 +1,18 @@
+{
+  "id": "biology-health-and-society--majors-minors-html-general-biology-maj",
+  "name": "Biology, Health, and Society",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#general_biology-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#general_biology-maj",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/biology-health-and-society-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/biology-health-and-society-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:32:17.166630+00:00",
+  "lsa_resolved_row_id": "general_biology-maj"
+}

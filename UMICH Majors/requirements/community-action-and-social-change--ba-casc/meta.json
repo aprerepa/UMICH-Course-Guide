@@ -1,0 +1,17 @@
+{
+  "id": "community-action-and-social-change--ba-casc",
+  "name": "Community Action and Social Change",
+  "school_college": "School of Social Work",
+  "program_url": "https://ssw.umich.edu/academic-programs/undergraduate/ba-casc",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://ssw.umich.edu/academic-programs/undergraduate/ba-casc",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://ssw.umich.edu/continuing-education/licensure-requirements",
+  "requirements_link_text": "Licensure Requirements",
+  "requirements_link_score": 80,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://ssw.umich.edu/continuing-education/licensure-requirements",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:34:14.038613+00:00"
+}

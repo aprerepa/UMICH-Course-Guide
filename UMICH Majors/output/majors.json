@@ -1,0 +1,1084 @@
+{
+  "fetched_at": "2026-08-08T02:17:24.090742+00:00",
+  "source_url": "https://admissions.umich.edu/academics-majors/majors-degrees",
+  "majors": [
+    {
+      "id": "actuarial-mathematics-sub-major-of-mathematics--majors-minors-html-actuarial-mathematics-sub",
+      "name": "Actuarial Mathematics (Sub-major of Mathematics)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#actuarial_mathematics-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "aerospace-engineering--undergraduate",
+      "name": "Aerospace Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://aero.engin.umich.edu/undergraduate/",
+      "is_submajor": false
+    },
+    {
+      "id": "afroamerican-and-african-studies--majors-minors-html-afroamerican-and-african-studies-maj",
+      "name": "Afroamerican and African Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#afroamerican_and_african_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "american-culture--majors-minors-html-american-culture-maj",
+      "name": "American Culture",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#american_culture-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "anthropology--majors-minors-html-anthropology-maj",
+      "name": "Anthropology",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#anthropology-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "applied-exercise-science",
+      "name": "Applied Exercise Science",
+      "school_college": "School of Kinesiology",
+      "url": "https://www.kines.umich.edu/academics/applied-exercise-science",
+      "is_submajor": false
+    },
+    {
+      "id": "archaeology-sub-major-of-anthropology--majors-minors-html-archaeology-sub",
+      "name": "Archaeology (Sub-major of Anthropology)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#archaeology-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "archaeology-of-the-ancient-mediterranean--majors-minors-html-archaeology-of-the-ancient-mediterranean-maj",
+      "name": "Archaeology of the Ancient Mediterranean",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#archaeology_of_the_ancient_mediterranean-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "architecture--bachelor-of-science-in-architecture-first-year",
+      "name": "Architecture",
+      "school_college": "Taubman College of Architecture & Urban Planning",
+      "url": "https://taubmancollege.umich.edu/admissions/apply/bachelor-of-science-in-architecture-first-year/",
+      "is_submajor": false
+    },
+    {
+      "id": "art-and-design--undergraduate-programs",
+      "name": "Art and Design",
+      "school_college": "Stamps School of Art & Design",
+      "url": "https://stamps.umich.edu/undergraduate-programs",
+      "is_submajor": false
+    },
+    {
+      "id": "arts-and-ideas-in-the-humanities-administered-by-the-residential-college--majors-minors-html-arts-and-ideas-in-the-human",
+      "name": "Arts and Ideas in the Humanities (Administered by the Residential College)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#arts_and_ideas_in_the_humanities-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "asian-studies--majors-minors-html-arab-and-muslim-american-studies-min",
+      "name": "Asian Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#arab_and_muslim_american_studies-min",
+      "is_submajor": false
+    },
+    {
+      "id": "astronomy-and-astrophysics--majors-minors-html-astronomy-and-astrophysics-maj",
+      "name": "Astronomy and Astrophysics",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#astronomy_and_astrophysics-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "biochemistry--majors-minors-html-biochemistry-bs-maj",
+      "name": "Biochemistry",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#biochemistry_bs-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "biological-physics-sub-major-of-biophysics--biological-physics-sub-major-html",
+      "name": "Biological Physics (Sub-major of Biophysics)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/biological-physics-sub-major.html",
+      "is_submajor": true
+    },
+    {
+      "id": "biology--majors-minors-html-biology-maj",
+      "name": "Biology",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#biology-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "biology-health-and-society--majors-minors-html-general-biology-maj",
+      "name": "Biology, Health, and Society",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#general_biology-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "biomedical-engineering--academics",
+      "name": "Biomedical Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://bme.umich.edu/academics/",
+      "is_submajor": false
+    },
+    {
+      "id": "biomolecular-science--majors-minors-html-biomolecular-science-ab-or-bs-maj",
+      "name": "Biomolecular Science",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#biomolecular_science_ab_or_bs-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "biophysics--majors-minors-html-biophysics-bs-maj",
+      "name": "Biophysics",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#biophysics_bs-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "biopsychology-cognition-and-neuroscience--majors-minors-html-biophyschology-cognition-and-neuroscience-bcn-maj",
+      "name": "Biopsychology, Cognition, and Neuroscience",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#biophyschology_cognition_and_neuroscience_bcn-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "business--bba",
+      "name": "Business",
+      "school_college": "Ross School of Business",
+      "url": "https://michiganross.umich.edu/undergraduate/bba",
+      "is_submajor": false
+    },
+    {
+      "id": "cellular-and-molecular-biomedical-science--majors-minors-html-cell-and-molecular-biology-and-biomedical-engineering-maj",
+      "name": "Cellular and Molecular Biomedical Science",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#cell_and_molecular_biology_and_biomedical_engineering-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "chemical-engineering--che-engin-umich-edu",
+      "name": "Chemical Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://che.engin.umich.edu/",
+      "is_submajor": false
+    },
+    {
+      "id": "chemistry--majors-minors-html-chemical-science-bschem-maj",
+      "name": "Chemistry",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#chemical_science_bschem-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "chinese-studies-sub-major-of-asian-studies--majors-minors-html-asian-studies-maj",
+      "name": "Chinese Studies (Sub-major of Asian Studies)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#asian_studies-maj",
+      "is_submajor": true
+    },
+    {
+      "id": "civil-engineering--bse-degree-in-civil-engineering",
+      "name": "Civil Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://cee.engin.umich.edu/undergraduate-studies/bse-degree-in-civil-engineering/",
+      "is_submajor": false
+    },
+    {
+      "id": "classical-civilization--majors-minors-html-classical-civilization-maj",
+      "name": "Classical Civilization",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#classical_civilization-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "classical-languages-and-literatures--majors-minors-html-classical-languages-and-literatures-maj",
+      "name": "Classical Languages and Literatures",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#classical_languages_and_literatures-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "climate-and-meteorology--undergraduate-studies",
+      "name": "Climate and Meteorology",
+      "school_college": "College of Engineering",
+      "url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/",
+      "is_submajor": false
+    },
+    {
+      "id": "cognitive-science--majors-minors-html-cognitive-science-maj",
+      "name": "Cognitive Science",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#cognitive_science-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "communication-and-media--majors-minors-html-communication-studies-maj",
+      "name": "Communication and Media",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#communication_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "community-action-and-social-change--ba-casc",
+      "name": "Community Action and Social Change",
+      "school_college": "School of Social Work",
+      "url": "https://ssw.umich.edu/academic-programs/undergraduate/ba-casc",
+      "is_submajor": false
+    },
+    {
+      "id": "community-and-global-public-health--phs",
+      "name": "Community and Global Public Health",
+      "school_college": "School of Public Health",
+      "url": "https://sph.umich.edu/undergrad/apply/#phs",
+      "is_submajor": false
+    },
+    {
+      "id": "comparative-culture-and-identity-sub-major-of-international-studies--majors-minors-html-comparative-culture-and-identity",
+      "name": "Comparative Culture and Identity (Sub-major of International Studies)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#comparative_culture_and_identity_cci-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "comparative-literature-arts-and-media--majors-minors-html-comparative-literature-arts-and-media-maj",
+      "name": "Comparative Literature, Arts, and Media",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#comparative_literature_arts_and_media-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "composition",
+      "name": "Composition",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/department/composition/",
+      "is_submajor": false
+    },
+    {
+      "id": "computer-engineering",
+      "name": "Computer Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://ece.engin.umich.edu/academics/undergraduate/prospective-undergrad/computer-engineering/",
+      "is_submajor": false
+    },
+    {
+      "id": "computer-science-bs--majors-minors-html-computer-science-maj",
+      "name": "Computer Science (BS)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#computer_science-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "computer-science-bse--computer-science-eng",
+      "name": "Computer Science (BSE)",
+      "school_college": "College of Engineering",
+      "url": "https://cse.engin.umich.edu/academics/undergraduate/programs/computer-science-eng/",
+      "is_submajor": false
+    },
+    {
+      "id": "creative-writing-and-literature-administered-by-the-residential-college--majors-minors-html-creative-writing-and-literat",
+      "name": "Creative Writing and Literature (Administered by the Residential College)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#creative_writing_and_literature-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "culture-and-media-sub-major-of-anthropology--majors-minors-html-culture-and-media-sub",
+      "name": "Culture and Media (Sub-major of Anthropology)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#culture_and_media-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "dance--undergraduate-degrees-minors",
+      "name": "Dance",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "data-science--preview",
+      "name": "Data Science",
+      "school_college": "College of Engineering",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview",
+      "is_submajor": false
+    },
+    {
+      "id": "data-science-bs--majors-minors-html-data-science-maj",
+      "name": "Data Science (BS)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#data_science-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "dental-hygiene",
+      "name": "Dental Hygiene",
+      "school_college": "School of Dentistry",
+      "url": "https://dent.umich.edu/about/dental-hygiene",
+      "is_submajor": false
+    },
+    {
+      "id": "drama-administered-by-the-residential-college--majors-minors-html-drama-maj",
+      "name": "Drama (Administered by the Residential College)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#drama-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "earth-and-environmental-sciences--majors-minors-html-earth-and-environmental-sciences-maj",
+      "name": "Earth and Environmental Sciences",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#earth_and_environmental_sciences-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "ecology-evolution-and-biodiversity--majors-minors-html-ecology-and-evolutionary-biology-eeb-maj",
+      "name": "Ecology, Evolution, and Biodiversity",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#ecology_and_evolutionary_biology_eeb-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "economics--majors-minors-html-economics-maj",
+      "name": "Economics",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#economics-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "electrical-engineering",
+      "name": "Electrical Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://ece.engin.umich.edu/academics/undergraduate/prospective-undergrad/electrical-engineering/",
+      "is_submajor": false
+    },
+    {
+      "id": "elementary-teacher-education--bachelors",
+      "name": "Elementary Teacher Education",
+      "school_college": "Marsal Family School of Education",
+      "url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors",
+      "is_submajor": false
+    },
+    {
+      "id": "engineering-physics--undergraduate-in-engineering-physics",
+      "name": "Engineering Physics",
+      "school_college": "College of Engineering",
+      "url": "https://ners.engin.umich.edu/academics/undergraduate-in-engineering-physics/",
+      "is_submajor": false
+    },
+    {
+      "id": "english--majors-minors-html-english-maj",
+      "name": "English",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#english-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "environment--majors-minors-html-environment-maj",
+      "name": "Environment",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#environment-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "environment-and-conservation-sub-major-of-anthropology--majors-minors-html-environment-and-conservation-sub",
+      "name": "Environment and Conservation (Sub-major of Anthropology)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#environment_and_conservation-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "environmental-engineering--bse-degree-in-environmental-engineering",
+      "name": "Environmental Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://cee.engin.umich.edu/undergraduate-studies/bse-degree-in-environmental-engineering/",
+      "is_submajor": false
+    },
+    {
+      "id": "ethnic-studies-sub-major-of-american-culture--ethnic-studies-submajor-html",
+      "name": "Ethnic Studies (Sub-major of American Culture)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/ethnic-studies-submajor.html",
+      "is_submajor": true
+    },
+    {
+      "id": "film-television-and-media--majors-minors-html-screen-arts-and-cultures-maj",
+      "name": "Film, Television, and Media",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#screen_arts_and_cultures-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "french-and-francophone-studies--majors-minors-html-french-and-francophone-studies-maj",
+      "name": "French and Francophone Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#french_and_francophone_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "gender-and-health--majors-minors-html-gender-and-health-maj",
+      "name": "Gender and Health",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#gender_and_health-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "general-studies--majors-minors-html-general-studies-maj",
+      "name": "General Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#general_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "german--majors-minors-html-german-maj",
+      "name": "German",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#german-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "global-environment-and-health-sub-major-of-international-studies--majors-minors-html-global-environment-and-health-geh-s",
+      "name": "Global Environment and Health (Sub-major of International Studies)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#global_environment_and_health_geh-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "greek-ancient-language-and-literature--majors-minors-html-greek-ancient-language-and-literature-maj",
+      "name": "Greek (Ancient) Language and Literature",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#greek_ancient_language_and_literature-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "greek-modern-language-and-culture--majors-minors-html-greek-modern-language-and-culture-maj",
+      "name": "Greek (Modern) Language and Culture",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#greek_modern_language_and_culture-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "history--majors-minors-html-history-maj",
+      "name": "History",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#history-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "history-of-art--majors-minors-html-history-of-art-maj",
+      "name": "History of Art",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#history_of_art-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "honors-mathematics-sub-major-of-mathematics--honors-mathematics-html",
+      "name": "Honors Mathematics (Sub-major of Mathematics)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/honors-mathematics.html",
+      "is_submajor": true
+    },
+    {
+      "id": "human-origins-biology-and-behavior--majors-minors-html-human-origins-biology-and-behavior-maj",
+      "name": "Human Origins, Biology, and Behavior",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#human_origins_biology_and_behavior-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "industrial-and-operations-engineering--undergrad-research",
+      "name": "Industrial and Operations Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://ioe.engin.umich.edu/current-students/undergrad-research/",
+      "is_submajor": false
+    },
+    {
+      "id": "information-analysis-and-design--curriculum",
+      "name": "Information Analysis and Design",
+      "school_college": "School of Information",
+      "url": "https://www.si.umich.edu/programs/bachelor-science-information/curriculum",
+      "is_submajor": false
+    },
+    {
+      "id": "integrated-business-and-engineering-at-michigan--business-engineering-umich-edu",
+      "name": "Integrated Business and Engineering at Michigan",
+      "school_college": "College of Engineering",
+      "url": "https://business-engineering.umich.edu",
+      "is_submajor": false
+    },
+    {
+      "id": "interarts-performance--undergraduate-degrees-minors",
+      "name": "Interarts Performance",
+      "school_college": "Stamps School of Art & Design",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "interdisciplinary-astronomy--majors-minors-html-interdisciplinary-astronomy-ba-or-bs-maj",
+      "name": "Interdisciplinary Astronomy",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#interdisciplinary_astronomy_ba_or_bs-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "interdisciplinary-chemical-sciences--majors-minors-html-interdisciplinary-chemical-sciences-ics-ab-or-bs-maj",
+      "name": "Interdisciplinary Chemical Sciences",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#interdisciplinary_chemical_sciences_ics_ab_or_bs-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "interdisciplinary-physics--majors-minors-html-interdiscplinary-physics-ab-or-bs-maj",
+      "name": "Interdisciplinary Physics",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#interdiscplinary_physics_ab_or_bs-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "international-security-norms-and-cooperation-sub-major-of-international-studies--majors-minors-html-international-securi",
+      "name": "International Security, Norms, and Cooperation (Sub-major of International Studies)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#international_security_norms_and_cooperation_isnc-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "international-studies--majors-minors-html-international-studies-maj",
+      "name": "International Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#international_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "italian--majors-minors-html-italian-maj",
+      "name": "Italian",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#italian-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "japanese-studies-sub-major-of-asian-studies--majors-minors-html-asian-studies-maj",
+      "name": "Japanese Studies (Sub-major of Asian Studies)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#asian_studies-maj",
+      "is_submajor": true
+    },
+    {
+      "id": "jazz-contemporary-improvisation--undergraduate-degrees-minors",
+      "name": "Jazz & Contemporary Improvisation",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "judaic-studies--majors-minors-html-judaic-studies-maj",
+      "name": "Judaic Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#judaic_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "korean-studies-sub-major-of-asian-studies--majors-minors-html-asian-studies-maj",
+      "name": "Korean Studies (Sub-major of Asian Studies)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#asian_studies-maj",
+      "is_submajor": true
+    },
+    {
+      "id": "latin-american-and-caribbean-studies--majors-minors-html-latin-american-and-caribbean-studies-maj",
+      "name": "Latin American and Caribbean Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#latin_american_and_caribbean_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "latin-language-and-literature--majors-minors-html-latin-language-and-literature-maj",
+      "name": "Latin Language and Literature",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#latin_language_and_literature-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "latina-latino-studies--majors-minors-html-latina-latino-studies-maj",
+      "name": "Latina/Latino Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#latina_latino_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "law-justice-and-social-change-sub-major-of-sociology--majors-minors-html-law-justics-and-social-change-sub",
+      "name": "Law, Justice, and Social Change (Sub-major of Sociology)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#law_justics_and_social_change-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "learning-equity-and-problem-solving-for-the-public-good-leaps",
+      "name": "Learning, Equity, and Problem Solving for the Public Good (LEAPS)",
+      "school_college": "Marsal Family School of Education",
+      "url": "https://marsal.umich.edu/academics-admissions/leaps",
+      "is_submajor": false
+    },
+    {
+      "id": "linguistics--majors-minors-html-linguistics-maj",
+      "name": "Linguistics",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#linguistics-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "materials-science-and-engineering--undergraduate",
+      "name": "Materials Science and Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://mse.engin.umich.edu/undergraduate",
+      "is_submajor": false
+    },
+    {
+      "id": "mathematical-sciences-sub-major-of-mathematics--mathematical-sciences-html",
+      "name": "Mathematical Sciences (Sub-major of Mathematics)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematical-sciences.html",
+      "is_submajor": true
+    },
+    {
+      "id": "mathematics--majors-minors-html-mathematics-maj",
+      "name": "Mathematics",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "mathematics-of-finance-and-risk-management-sub-major-of-mathematics--mathematics-of-finance-and-risk-management-html",
+      "name": "Mathematics of Finance and Risk Management (Sub-major of Mathematics)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematics-of-finance-and-risk-management.html",
+      "is_submajor": true
+    },
+    {
+      "id": "mechanical-engineering--undergraduate",
+      "name": "Mechanical Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://me.engin.umich.edu/admissions/undergraduate/",
+      "is_submajor": false
+    },
+    {
+      "id": "medical-anthropology-sub-major-of-anthropology--majors-minors-html-medical-anthropology-sub",
+      "name": "Medical Anthropology (Sub-major of Anthropology)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#medical_anthropology-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "microbiology--majors-minors-html-microbiology-maj",
+      "name": "Microbiology",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#microbiology-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "middle-east-studies--majors-minors-html-near-eastern-studies-maj",
+      "name": "Middle East Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#near_eastern_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "middle-eastern-and-north-african-studies--majors-minors-html-middle-eastern-and-north-african-studies-maj",
+      "name": "Middle Eastern and North African Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#middle_eastern_and_north_african_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "molecular-cellular-and-developmental-biology--majors-minors-html",
+      "name": "Molecular, Cellular, and Developmental Biology",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/biology/undergraduates/majors---minors.html",
+      "is_submajor": false
+    },
+    {
+      "id": "movement-science--undergraduate",
+      "name": "Movement Science",
+      "school_college": "School of Kinesiology",
+      "url": "https://www.kines.umich.edu/academics/movement-science/undergraduate",
+      "is_submajor": false
+    },
+    {
+      "id": "music--bachelor-of-arts-in-music",
+      "name": "Music",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/degree/bachelor-of-arts-in-music/",
+      "is_submajor": false
+    },
+    {
+      "id": "music-education--undergraduate-degrees-minors",
+      "name": "Music Education",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "music-theory",
+      "name": "Music Theory",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/department/music-theory/",
+      "is_submajor": false
+    },
+    {
+      "id": "musical-theatre--undergraduate-degrees-minors",
+      "name": "Musical Theatre",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "musicology--undergraduate-degrees-minors",
+      "name": "Musicology",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "naval-architecture-and-marine-engineering--academics",
+      "name": "Naval Architecture and Marine Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://name.engin.umich.edu/home/academics/",
+      "is_submajor": false
+    },
+    {
+      "id": "neuroscience--majors-minors-html-neuroscience-maj",
+      "name": "Neuroscience",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#neuroscience-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "nuclear-engineering-and-radiological-sciences--undergraduate",
+      "name": "Nuclear Engineering and Radiological Sciences",
+      "school_college": "College of Engineering",
+      "url": "https://ners.engin.umich.edu/academics/undergraduate/",
+      "is_submajor": false
+    },
+    {
+      "id": "nursing--bsn",
+      "name": "Nursing",
+      "school_college": "School of Nursing",
+      "url": "https://nursing.umich.edu/academics/BSN",
+      "is_submajor": false
+    },
+    {
+      "id": "organ--undergraduate-degrees-minors",
+      "name": "Organ",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "organizational-studies--majors-minors-html-organizational-studies-maj",
+      "name": "Organizational Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#organizational_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "performing-arts-technology--undergraduate-degrees-minors",
+      "name": "Performing Arts Technology",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "pharmaceutical-sciences--bachelors-program-admissions",
+      "name": "Pharmaceutical Sciences",
+      "school_college": "College of Pharmacy",
+      "url": "https://pharmacy.umich.edu/prospective-students/admissions/bachelors-program-admissions",
+      "is_submajor": false
+    },
+    {
+      "id": "philosophy--majors-minors-html-philosophy-maj",
+      "name": "Philosophy",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#philosophy-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "philosophy-politics-and-economics--majors-minors-html-philosophy-political-science-economics-maj",
+      "name": "Philosophy, Politics, and Economics",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#philosophy_political_science_economics-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "physics--majors-minors-html-physics-maj",
+      "name": "Physics",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#physics-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "piano--undergraduate-degrees-minors",
+      "name": "Piano",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "plant-biology--majors-minors-html-plant-biology-maj",
+      "name": "Plant Biology",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#plant_biology-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "polish--majors-minors-html-polish-maj",
+      "name": "Polish",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#polish-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "political-economy-and-development-sub-major-of-international-studies--majors-minors-html-political-economy-and-developme",
+      "name": "Political Economy and Development (Sub-major of International Studies)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#political_economy_and_development_ped-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "political-science--majors-minors-html-political-science-maj",
+      "name": "Political Science",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#political_science-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "politics-law-and-economy-sub-major-of-anthropology--majors-minors-html-politics-law-and-economy-sub",
+      "name": "Politics, Law, and Economy (Sub-major of Anthropology)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#politics_law_and_economy-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "power-identity-and-inequality-sub-major-of-anthropology--majors-minors-html-power-identity-and-inequality-sub",
+      "name": "Power, Identity, and Inequality (Sub-major of Anthropology)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#power_identity_and_inequality-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "psychology--majors-minors-html-psychology-general-social-science-maj",
+      "name": "Psychology",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#psychology_general_social_science-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "public-health-sciences--phs",
+      "name": "Public Health Sciences",
+      "school_college": "School of Public Health",
+      "url": "https://sph.umich.edu/undergrad/apply/#phs",
+      "is_submajor": false
+    },
+    {
+      "id": "public-policy--ba",
+      "name": "Public Policy",
+      "school_college": "Ford School of Public Policy",
+      "url": "https://fordschool.umich.edu/admissions/ba",
+      "is_submajor": false
+    },
+    {
+      "id": "pure-mathematics-sub-major-of-mathematics--pure-mathematics-html",
+      "name": "Pure Mathematics (Sub-major of Mathematics)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/pure-mathematics.html",
+      "is_submajor": true
+    },
+    {
+      "id": "robotics--robotics-umich-edu",
+      "name": "Robotics",
+      "school_college": "College of Engineering",
+      "url": "https://robotics.umich.edu",
+      "is_submajor": false
+    },
+    {
+      "id": "romance-languages-and-literatures--majors-minors-html-romance-languages-and-literatures-maj",
+      "name": "Romance Languages and Literatures",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#romance_languages_and_literatures-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "russian--majors-minors-html-russian-maj",
+      "name": "Russian",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#russian-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "russian-east-european-and-eurasian-studies--majors-minors-html-russian-east-european-and-eurasian-studies-maj",
+      "name": "Russian, East European, and Eurasian Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#russian_east_european_and_eurasian_studies-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "screenwriting-sub-major-of-film-television-and-media--majors-minors-html-screenwriting-sub",
+      "name": "Screenwriting (Sub-major of Film, Television, and Media)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#screenwriting-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "secondary-mathematics-teaching-certificate-sub-major-of-mathematics--secondary-mathematics-teaching-certificate-html",
+      "name": "Secondary Mathematics Teaching Certificate (Sub-major of Mathematics)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/secondary-mathematics-teaching-certificate.html",
+      "is_submajor": true
+    },
+    {
+      "id": "secondary-teacher-education--bachelors",
+      "name": "Secondary Teacher Education",
+      "school_college": "Marsal Family School of Education",
+      "url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors",
+      "is_submajor": false
+    },
+    {
+      "id": "social-theory-and-practice-administered-by-the-residential-college--social-theory-and-practice-stp-html",
+      "name": "Social Theory and Practice (Administered by the Residential College)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/rc/curriculum/social-theory-and-practice--stp-.html",
+      "is_submajor": false
+    },
+    {
+      "id": "sociology--majors-minors-html-sociology-maj",
+      "name": "Sociology",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#sociology-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "sociology-and-social-work-sub-major-of-sociology--majors-minors-html-sociology-and-social-work-sub",
+      "name": "Sociology and Social Work (Sub-major of Sociology)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#sociology_and_social_work-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "sociology-of-health-and-medicine-sub-major-of-sociology--majors-minors-html-health-and-society-sub",
+      "name": "Sociology of Health and Medicine (Sub-major of Sociology)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#health-and-society-sub",
+      "is_submajor": true
+    },
+    {
+      "id": "south-asian-studies-sub-major-of-asian-studies--majors-minors-html-asian-studies-maj",
+      "name": "South Asian Studies (Sub-major of Asian Studies)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#asian_studies-maj",
+      "is_submajor": true
+    },
+    {
+      "id": "southeast-asian-studies-sub-major-of-asian-studies--majors-minors-html-asian-studies-maj",
+      "name": "Southeast Asian Studies (Sub-major of Asian Studies)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#asian_studies-maj",
+      "is_submajor": true
+    },
+    {
+      "id": "space-sciences-and-engineering--bse-space-science-engineering",
+      "name": "Space Sciences and Engineering",
+      "school_college": "College of Engineering",
+      "url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/bse-space-science-engineering/",
+      "is_submajor": false
+    },
+    {
+      "id": "spanish--majors-minors-html-spanish-maj",
+      "name": "Spanish",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#spanish-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "sport-management--undergraduate",
+      "name": "Sport Management",
+      "school_college": "School of Kinesiology",
+      "url": "https://www.kines.umich.edu/academics/sport-management/undergraduate",
+      "is_submajor": false
+    },
+    {
+      "id": "statistics--majors-minors-html-statistics-maj",
+      "name": "Statistics",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#statistics-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "strings--undergraduate-degrees-minors",
+      "name": "Strings",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "structural-biology-sub-major-of-biophysics--structural-biology-sub-major-html",
+      "name": "Structural Biology (Sub-major of Biophysics)",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/structural-biology-sub-major.html",
+      "is_submajor": true
+    },
+    {
+      "id": "theatre-drama--undergraduate-degrees-minors",
+      "name": "Theatre & Drama",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "translation--majors-minors-html-translation-maj",
+      "name": "Translation",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#translation-maj",
+      "is_submajor": false
+    },
+    {
+      "id": "urban-technology--bachelor-of-science-in-urban-technology",
+      "name": "Urban Technology",
+      "school_college": "Taubman College of Architecture & Urban Planning",
+      "url": "https://taubmancollege.umich.edu/academics/urban-and-regional-planning/bachelor-of-science-in-urban-technology/",
+      "is_submajor": false
+    },
+    {
+      "id": "user-experience-design--curriculum",
+      "name": "User Experience Design",
+      "school_college": "School of Information",
+      "url": "https://www.si.umich.edu/programs/bachelor-science-information/curriculum",
+      "is_submajor": false
+    },
+    {
+      "id": "voice-opera--undergraduate-degrees-minors",
+      "name": "Voice & Opera",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "winds-percussion--undergraduate-degrees-minors",
+      "name": "Winds & Percussion",
+      "school_college": "School of Music, Theatre & Dance (SMTD)",
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "is_submajor": false
+    },
+    {
+      "id": "women-s-and-gender-studies--undergraduates-html",
+      "name": "Women\u2019s and Gender Studies",
+      "school_college": "College of Literature, Science, and the Arts (LSA)",
+      "url": "https://lsa.umich.edu/wgs/undergraduates.html",
+      "is_submajor": false
+    }
+  ]
+}

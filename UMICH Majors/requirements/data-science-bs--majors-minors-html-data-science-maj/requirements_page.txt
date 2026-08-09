@@ -1,0 +1,804 @@
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+About
+Academics
+Research
+News and Events
+Support LSA
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Course Catalog
+Give Online
+Keyword Search of en
+About
+Academics
+Research
+News and Events
+Support LSA
+Course Catalog
+Give Online
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+LSA 101: Info for Admitted Students
+Learn what it means to be a Wolverine and dig in to what the liberal arts are all about. View our presentations and information from wherever you are.
+Undergraduate
+Graduate
+Transfer
+International
+Student Life
+Admissions
+Student Stories
+Outcomes and Possibilities
+LSA delivers a purposeful, pragmatic liberal arts education that employers respect and seek out.
+Undergraduate
+Graduate
+Transfer
+Education
+Academic Advising
+Outcomes and Possibilities
+College Connections
+College Connections provides a space for alumni and families to share their student experiences with recent LSA graduates and provide feedback on the current and future state of the College.
+Get Connected
+Get Involved
+Get Informed
+College Connections
+Staff Achievement Awards Program
+This is an annual opportunity to acknowledge and celebrate exceptional staff contributions to the success of the College . Information regarding eligibility, nomination, selection, notification, and winners can be found here.
+Budget and Finance
+Chairs and Directors
+Facilities and Operations
+Faculty Academic Affairs
+Graduate Education
+Human Resources
+LSA Advancement
+LSA Research Office
+Office of the Dean
+Security and Safety
+Standard Practice Guide
+Student Academic Affairs
+Technology Services
+Undergraduate Education
+Skip to Page Content
+Academics
+Majors and Minors
+Data Science Major
+...
+Data Science Major
+Academics
+Majors and Minors
+[X] close
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Data Science Major
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Advising
+Department Website
+Effective Fall 2024
+Exclusions:
+Those completing the major in Data Science may not earn a minor in Data Science, Computer Science or Statistics.
+Advising
+Faculty advisors are available on both Central and North campuses with a common coordinator across the two programs.
+Grade Policies
+A grade of C or higher is required for all the required courses including the four required mathematics courses, all the EECS and STATS courses used toward the degree requirements, all the advanced technical electives in Data Science used toward the degree requirements and the capstone experience course.
+The grade requirement applies to these courses irrespective of whether they are pre-major or major requirements.
+Prerequisites
+(each with minimum grade of C or higher)
+Introductory Data Science: DATASCI 101/STATS 206 (recommended), STATS 250, STATS 280, IOE 265, or ECON 451.
+Introductory Programming: EECS 180, EECS 183, ENGR 101, or ENGR 151.
+Calculus I: MATH 115, MATH 120, MATH 185, or MATH 295.
+Calculus II: MATH 121, MATH 116, MATH 156, MATH 186, or MATH 296.
+Multivariable Calculus: MATH 205, MATH 215, or MATH 285.
+Linear Algebra: MATH 214 or MATH 217.
+To declare the major, students must have completed the first four prerequisites: (1) introductory data science; (2) introductory programming; (3) calculus I; (4) calculus II. The remaining prerequisites (linear algebra and calculus III) can be taken after declaration. All prerequisites must have a grade of C or better.
+Requirements
+Minimum Credits:
+42
+A minimum of 42 credits is required (each with a minimum grade of C or higher), distributed as follows.
+1. Program Core
+EECS 203 (4 credits): Discrete Mathematics (Approved alternative: MATH 465)
+EECS 280 (4 credits): Programming and Elementary Data Structures
+EECS 281 (4 credits): Data Structures and Algorithms
+Statistical theory | Choose one of the following:
+STATS 412 (3 credits): Introduction to Probability and Statistics
+STATS/MATH 425 (3 credits): Introduction to Probability
+STATS 426 (3 credits): Introduction to Theoretical Statistics
+STATS/DATASCI 413 (4 credits): Applied Regression Analysis
+2. Additional required courses
+Machine learning and data mining elective (4 credits): EECS 445 or STATS 415
+Data management elective (4 credits): EECS 484 or EECS 485
+At least one course in each of the following categories. The same course cannot count in more than one category.
+One course from the Applications electives list. A list of approved courses is available
+here.
+One course from the Advanced technical electives list. A list of approve courses is available
+here.
+One course in Advanced statistical analysis from the following list:
+STATS/DATASCI 306
+STATS/DATASCI 315
+STATSDATASCI 415
+STATS 426
+STATS 449
+STATS/DATASCI 451
+STATS 470
+STATS 480
+STATS/DATASCI 485
+BIOINF 545/BIOSTAT 646/STATS 545
+BIOINF 547/MATH 547/STATS 547
+STATS/DATASCI 531
+Additional application electives, advanced technical electives, or advanced statistical analysis electives, as needed to satisfy the 42 credits for the major.
+3. Capstone experience
+A capstone data science course of at least 3 credits must be taken, typically during the senior year. A list of regular courses meeting the capstone requirement is available
+here
+.
+A course taken for capstone credit cannot also count in any of the above categories.
+Another way to meet the capstone experience requirement is to take an independent study (EECS 499 or STATS 489). The latter option will normally involve research in a core aspect of data science or research in a domain area making use of data science methods, possibly as part of an honors degree. The independent study may also document an internship experience that involved substantial activities relating to data science. Any path to meeting the capstone requirement other than pre-approved regular courses must be reviewed by a Data Science advisor. The course grade for an independent study must be based on a final project report documenting the activities undertaken, and the report must be provided to the DS program office.
+Other Department Policies
+For the purposes of fulfilling the 60-credits outside of the major requirement, all course work from the home departments of EECS and Statistics (EECS, STATS, and DATASCI subject areas) are to be considered inside the major department.
+For the purposes of calculating the major GPA, all course work from the home departments of EECS and Statistics (EECS, STATS, and DATASCI subject areas) are to be included in the major GPA.
+Residency
+A minimum of fifteen (15) credits for the major must be taken on the Ann Arbor campus.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS, DATASCI and EECS subject areas may not be used toward the Distribution Requirement.
+Honors
+Any LSA Data Science student with a current grade point average of at least 3.4 may apply for admission to the LSA Data Science Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program with an overall GPA of at least 3.5. In addition, LSA Data Science Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project or a thesis under the direction of a member of the Statistics Department or EECS faculty.
+Data Science (Major) (Winter 2024 - Summer 2024)
+Effective Winter 2024
+Exclusions:
+Those completing the major in Data Science may not earn a minor in Data Science, Computer Science or Statistics.
+Advising
+Faculty advisors are available on both Central and North campuses with a common coordinator across the two programs.
+Grade Policies
+A grade of C or higher is required for all the required courses including the four required mathematics courses, all the EECS and STATS courses used toward the degree requirements, all the advanced technical electives in Data Science used toward the degree requirements and the capstone experience course.
+The grade requirement applies to these courses irrespective of whether they are pre-major or major requirements.
+Prerequisites
+(each with minimum grade of C or higher)
+Calculus I:
+MATH 115, MATH 120, MATH 185, or MATH 295.
+Calculus II:
+MATH 121, MATH 116, MATH 156, MATH 186, or MATH 296.
+Multivariable Calculus:
+MATH 205, MATH 215, or MATH 285.
+Linear Algebra:
+MATH 214 or 217.
+Introductory Programming:
+EECS 183, ENGR 101, or ENGR 151.
+Introductory Data Science:
+DATASCI 101/STATS 206 (strongly recommended), STATS 250, STATS 280, IOE 265, or ECON 451.
+Requirements
+Minimum Credits:
+42
+A minimum of 42 credits is required (each with a minimum grade of C or higher), distributed as follows.
+1. Program Core
+EECS 203 (4 credits): Discrete Mathematics (Approved alternative: MATH 465)
+EECS 280 (4 credits): Programming and Elementary Data Structures
+EECS 281 (4 credits): Data Structures and Algorithms
+Statistical theory | Choose one of the following:
+STATS 412 (3 credits): Introduction to Probability and Statistics
+STATS/MATH 425 (3 credits): Introduction to Probability
+STATS 426 (3 credits): Introduction to Theoretical Statistics
+STATS/DATASCI 413 (4 credits): Applied Regression Analysis
+2. Additional required courses
+Machine learning and data mining elective (4 credits): EECS 445 or STATS 415
+Data management elective (4 credits): EECS 484 or EECS 485
+At least one course in each of the following categories. The same course cannot count in more than one category.
+One course from the Applications electives list. A list of approved courses is available
+here.
+One course from the Advanced technical electives list. A list of approve courses is available
+here.
+One course in Advanced statistical analysis from the following list:
+STATS/DATASCI 306
+STATS/DATASCI 315
+STATSDATASCI 415
+STATS 426
+STATS 449
+STATS/DATASCI 451
+STATS 470
+STATS 480
+STATS/DATASCI 485
+BIOINF 545/BIOSTAT 646/STATS 545
+BIOINF 547/MATH 547/STATS 547
+STATS/DATASCI 531
+Additional application electives, advanced technical electives, or advanced statistical analysis electives, as needed to satisfy the 42 credits for the major.
+3. Capstone experience
+A capstone data science course of at least 3 credits must be taken, typically during the senior year. A list of regular courses meeting the capstone requirement is available
+here
+.
+A course taken for capstone credit cannot also count in any of the above categories.
+Another way to meet the capstone experience requirement is to take an independent study (EECS 499 or STATS 489). The latter option will normally involve research in a core aspect of data science or research in a domain area making use of data science methods, possibly as part of an honors degree. The independent study may also document an internship experience that involved substantial activities relating to data science. Any path to meeting the capstone requirement other than pre-approved regular courses must be reviewed by a Data Science advisor. The course grade for an independent study must be based on a final project report documenting the activities undertaken, and the report must be provided to the DS program office.
+Other Department Policies
+For the purposes of fulfilling the 60-credits outside of the major requirement, all course work from the home departments of EECS and Statistics (EECS, STATS, and DATASCI subject areas) are to be considered inside the major department.
+For the purposes of calculating the major GPA, all course work from the home departments of EECS and Statistics (EECS, STATS, and DATASCI subject areas) are to be included in the major GPA.
+Residency
+A minimum of fifteen (15) credits for the major must be taken on the Ann Arbor campus.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS, DATASCI and EECS subject areas may not be used toward the Distribution Requirement.
+Honors
+Any LSA Data Science student with a current grade point average of at least 3.4 may apply for admission to the LSA Data Science Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program with an overall GPA of at least 3.5. In addition, LSA Data Science Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project or a thesis under the direction of a member of the Statistics Department or EECS faculty.
+Data Science (Major) (Winter 2023 - Fall 2023)
+Effective Winter 2023
+Exclusions:
+Those completing the major in Data Science may not earn a minor in Computer Science or Statistics.
+Advising
+Faculty advisors are available on both Central and North campuses with a common coordinator across the two programs.
+Grade Policies
+A grade of C or higher is required for all the required courses including the four required mathematics courses, all the EECS and STATS courses used toward the degree requirements, all the advanced technical electives in Data Science used toward the degree requirements and the capstone experience course.
+The grade requirement applies to these courses irrespective of whether they are pre-major or major requirements.
+Prerequisites
+(each with minimum grade of C or higher)
+Calculus:
+MATH 115, 116, and 215 (each competed with a minimum grade of C or higher)
+Linear Algebra:
+MATH 214 or 217 (competed with a minimum grade of C or higher)
+Introductory Programming:
+One of EECS 183, ENGR 101, or ENGR 151
+Requirements
+Minimum Credits:
+42
+A minimum of 42 credits is required (each with a minimum grade of C or higher), distributed as follows.
+Core:
+Computing and Discrete Mathematics
+EECS 203: Discrete Mathematics (preferred)
+or
+MATH 465: Introduction to Combinatorics
+EECS 280: Programming and Elementary Data Structures.
+Computing and Statistics
+EECS 281: Data Structures and Algorithms.
+STATS 412: Introduction to Probability and Statistics.
+STATS 413: The General Linear Model and Its Applications
+Machine learning and data mining
+(minimum 4 credits):
+EECS 445: Machine Learning
+or
+STATS 415: Data Mining
+Data management and applications
+(minimum 4 credits):
+EECS 484: Database Management Systems
+or
+EECS 485: Web Database and Information Systems
+Data Sciences Applied to a Domain
+(minimum 4 credits): A student must take at least one 400-level or higher course in which data science techniques are applied to a domain area.
+400+ courses in Statistics and CSE on analytics in healthcare human behavioral analytics, financial analytics
+400+ level courses in bioinformatics (specify: is this bioinformatics courses in any SUBJECT or courses in BIOINF)
+Capstone Experience.
+One course of at least 4 credits approved as satisfying the Data Science Capstone Experience requirement. STATS 485 and the proposed Data Science-oriented CSE courses that also meet the Major Design Experience (MDE) requirements as playing this role.
+If a student takes a required course that can also be used to provide capstone experience, the student must either not double count the credits or make up any overlapping credits by taking advanced elective courses.
+Advanced Technical Electives in Data Science:
+At least 8 credits of advanced technical electives (at the 300-level or higher) that build on the foundation provided by the core courses and includes courses in data collection methods, scientific visualization, algorithms, security and privacy, mathematical modeling in biology, biostatistics, and optimization techniques. These courses must be selected from the list of courses below, or other courses by exception selected with advisor approval prior to taking the course.
+BIOINF 463 / BIOPHYS 463 / MATH 463: Mathematical Modeling in Biology
+BIOINF 527: Introduction to Bioinformatics & Computational Biology
+BIOINF 528: Structural Bioinformatics
+BIOINF 545 / STATS 545 / BIOSTAT 646: High Throughput Molecular Genomic and Epigenomic Data Analysis
+BIOINF 547 / MATH 547 / STATS 547: Probabilistic Modeling in Bioinformatics
+BIOPHYS 463 / BIOINF 463 / MATH 463: Mathematical Modeling in Biology
+BIOSTAT 449 / STATS 449: Topics in Biostatistics
+BIOSTAT 646 / BIOINF 545 / STATS 545: High Throughput Molecular Genomic and Epigenomic Data Analysis
+COGSCI 445: Machin Learn for NLP
+EECS 388: Introduction to Computer Security
+EECS 442: Computer Vision
+EECS 444: Analysis of Societal Networks
+EECS 449: Conversational Artificial Intelligence
+EECS 467: Autonomous Robotics
+EECS 471: Applied Parallel Programming with GPUs
+EECS 476: Data Mining
+EECS 477: Introduction to Algorithms
+EECS 484: Database Management Systems
+EECS 485: Web Database and Information Systems
+EECS 487: Introduction to Natural Language Processing
+EECS 492: Introduction to Artificial Intelligence
+EECS 498: Special Topics (approved sections only. By default, EECS 498 sections will not count towards the Data Science advanced technical electives)
+EECS 505: Computational Data Science and Machine Learning
+EECS 545: Machine Learning
+EECS 549 / SI 650: Information Retrieval
+IOE 310: Introduction to Optimization Methods
+IOE 413: Optimization Modeling in Health Care
+MATH 420: Advanced Linear Algebra
+MATH 463 / BIOINF 463 / BIOPHYS 463: Mathematical Modeling in Biology
+MATH 472: Numerical Methods with Financial Applications
+MATH 547 / STATS 547 / BIOINF 547: Probabilistic Modeling in Bioinformatics
+MATH 548 / STATS 548: Computations in Probabilistic Modeling in Bioinformatics
+ROB 320: Robot Operating Systems
+SI 649: Information Visualization
+SI 650 / EECS 549: Information Retrieval
+STATS 406: Introduction to Statistical Computing
+STATS 415: Data Mining and Statistical Learning
+STATS 426: Introduction to Theoretical Statistics
+STATS 430: Applied Probability
+STATS 449 / BIOSTAT 449: Topics in Biostatistics
+STATS 451: Bayesian Data Analysis
+STATS 470: Introduction to Design of Experiments
+STATS 480: Survey Sampling Techniques
+STATS 531: Analysis of Time Series
+STATS 545 / BIOINF 545 / BIOSTAT 646: High Throughput Molecular Genomic and Epigenomic Data Analysis
+STATS 547 / MATH 547 / BIOINF 547: Probabilistic Modeling in Bioinformatics
+STATS 548 / MATH 548: Computations in Probabilistic Modeling in Bioinformatics
+Other Department Policies
+For the purposes of fulfilling the 60-credits outside of the major requirement, all course work from the home departments of EECS and Statistics (EECS, STATS, and DATASCI subject areas) are to be considered inside the major department.
+For the purposes of calculating the major GPA, all course work from the home departments of EECS and Statistics (EECS, STATS, and DATASCI subject areas) are to be included in the major GPA.
+Dual Majors with Computer Science
+For a dual major with Computer Science, the student will need to take an additional 14 credits in pertinent technical subjects, with advisor approval in both Computer Science and Data Science, beyond satisfying the requirements for each of the majors.
+Residency
+A minimum of fifteen (15) credits for the major must be taken on the Ann Arbor campus.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS, DATASCI and EECS subject areas may not be used toward the Distribution Requirement.
+Honors
+Any LSA Data Science student with a current grade point average of at least 3.4 may apply for admission to the LSA Data Science Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program with an overall GPA of at least 3.5. In addition, LSA Data Science Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project or a thesis under the direction of a member of the Statistics Department or EECS faculty.
+Data Science (Major) (Winter 2021 - Fall 2022)
+Effective Winter 2021
+Exclusions:
+Those completing the major in Data Science may not earn a minor in Computer Science or Statistics.
+Advising
+Faculty advisors are available on both Central and North campuses with a common coordinator across the two programs.
+Grade Policies
+A grade of C or higher is required for all the required courses including the four required mathematics courses, all the EECS and STATS courses used toward the degree requirements, all the advanced technical electives in Data Science used toward the degree requirements and the capstone experience course.
+The grade requirement applies to these courses irrespective of whether they are pre-major or major requirements.
+Prerequisites
+(each with minimum grade of C or higher)
+Calculus:
+MATH 115, 116, and 215 (each competed with a minimum grade of C or higher)
+Linear Algebra:
+MATH 214 or 217 (competed with a minimum grade of C or higher)
+Introductory Programming:
+One of EECS 183, ENGR 101, or ENGR 151
+Requirements
+Minimum Credits:
+42
+A minimum of 42 credits is required (each with a minimum grade of C or higher), distributed as follows.
+Core:
+Computing and Discrete Mathematics
+EECS 203: Discrete Mathematics (preferred)
+or
+MATH 465: Introduction to Combinatorics
+EECS 280: Programming and Elementary Data Structures.
+Computing and Statistics
+EECS 281: Data Structures and Algorithms.
+STATS 412: Introduction to Probability and Statistics.
+STATS 413: The General Linear Model and Its Applications
+Machine learning and data mining
+(minimum 4 credits):
+EECS 445: Machine Learning
+or
+STATS 415: Data Mining
+Data management and applications
+(minimum 4 credits):
+EECS 484: Database Management Systems
+or
+EECS 485: Web Database and Information Systems
+Data Sciences Applied to a Domain
+(minimum 4 credits): A student must take at least one 400-level or higher course in which data science techniques are applied to a domain area.
+400+ courses in Statistics and CSE on analytics in healthcare human behavioral analytics, financial analytics
+400+ level courses in bioinformatics (specify: is this bioinformatics courses in any SUBJECT or courses in BIOINF)
+Capstone Experience.
+One course of at least 4 credits approved as satisfying the Data Science Capstone Experience requirement. STATS 485 and the proposed Data Science-oriented CSE courses that also meet the Major Design Experience (MDE) requirements as playing this role.
+If a student takes a required course that can also be used to provide capstone experience, the student must either not double count the credits or make up any overlapping credits by taking advanced elective courses.
+Advanced Technical Electives in Data Science:
+At least 8 credits of advanced technical electives (at the 300-level or higher) that build on the foundation provided by the core courses and includes courses in data collection methods, scientific visualization, algorithms, security and privacy, mathematical modeling in biology, biostatistics, and optimization techniques. These courses must be selected from the list of courses below, or other courses by exception selected with advisor approval prior to taking the course.
+BIOINF 463 / BIOPHYS 463 / MATH 463: Mathematical Modeling in Biology
+BIOINF 527: Introduction to Bioinformatics & Computational Biology
+BIOINF 528: Structural Bioinf
+BIOINF 545 / STATS 545 / BIOSTAT 646: High Throughput Molecular Genomic and Epigenomic Data Analysis
+BIOINF 547 / MATH 547 / STATS 547: Probabilistic Modeling in Bioinformatics
+BIOPHYS 463 / BIOINF 463 / MATH 463: Mathematical Modeling in Biology
+BIOSTAT 449 / STATS 449: Topics in Biostatistics
+BIOSTAT 646 / BIOINF 545 / STATS 545: High Throughput Molecular Genomic and Epigenomic Data Analysis
+COGSCI 445: Machin Learn for NLP
+EECS 388: Introduction to Computer Security
+EECS 442: Computer Vision
+EECS 467: Autonomous Robotics
+EECS 477: Introduction to Algorithms
+EECS 484: Database Management Systems
+EECS 485: Web Database and Information Systems
+EECS 492: Introduction to Artificial Intelligence
+EECS 498: Special Topics (approved sections only. By default, EECS 498 sections will not count towards the Data Science advanced technical electives)
+EECS 545: Machine Learning
+EECS 549 / SI 650: Information Retrieval
+IOE 310: Introduction to Optimization Methods
+IOE 413: Optim Mod Hlth Care
+MATH 463 / BIOINF 463 / BIOPHYS 463: Mathematical Modeling in Biology
+MATH 547 / STATS 547 / BIOINF 547: Probabilistic Modeling in Bioinformatics
+MATH 548 / STATS 548: Computations in Probabilistic Modeling in Bioinformatics
+SI 639: Web Archiving
+SI 649: Information Visualization
+SI 650 / EECS 549: Information Retrieval
+STATS 403: Introduction to Quantitative Research Methods
+STATS 406: Introduction to Statistical Computing
+STATS 414: Special Topics in Statistics, section titled “ Introduction to Bayesian Data Analysis”
+STATS 426: Introduction to Theoretical Statistics
+STATS 449 / BIOSTAT 449: Topics in Biostatistics
+STATS 470: Introduction to Design of Experiments
+STATS 480: Survey Sampling Techniques
+STATS 508: Statistical Analysis of Financial Data
+STATS 531: Analysis of Time Series
+STATS 545 / BIOINF 545 / BIOSTAT 646: High Throughput Molecular Genomic and Epigenomic Data Analysis
+STATS 547 / MATH 547 / BIOINF 547: Probabilistic Modeling in Bioinformatics
+STATS 548 / MATH 548: Computations in Probabilistic Modeling in Bioinformatics
+Other Department Policies
+For the purposes of fulfilling the 60-credits outside of the major requirement, all course work from the home departments of EECS and Statistics (EECS, STATS, and DATASCI subject areas) are to be considered inside the major department.
+For the purposes of calculating the major GPA, all course work from the home departments of EECS and Statistics (EECS, STATS, and DATASCI subject areas) are to be included in the major GPA.
+Dual Majors with Computer Science
+For a dual major with Computer Science, the student will need to take an additional 14 credits in pertinent technical subjects, with advisor approval in both Computer Science and Data Science, beyond satisfying the requirements for each of the majors.
+Residency
+A minimum of fifteen (15) credits for the major must be taken on the Ann Arbor campus.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS, DATASCI and EECS subject areas may not be used toward the Distribution Requirement.
+Honors
+Any LSA Data Science student with a current grade point average of at least 3.4 may apply for admission to the LSA Data Science Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program with an overall GPA of at least 3.5. In addition, LSA Data Science Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project or a thesis under the direction of a member of the Statistics Department or EECS faculty.
+Data Science (Major) (Winter 2019 - Fall 2020)
+Effective Winter 2019
+Exclusions:
+Those completing the major in Data Science may not earn a minor in Computer Science or Statistics.
+Advising
+Faculty advisors are available on both Central and North campuses with a common coordinator across the two programs.
+Grade Policies
+A grade of C or higher is required for all the required courses including the four required mathematics courses, all the EECS and STATS courses used toward the degree requirements, all the advanced technical electives in Data Science used toward the degree requirements and the capstone experience course.
+The grade requirement applies to these courses irrespective of whether they are pre-major or major requirements.
+Prerequisites
+(each with minimum grade of C or higher)
+Calculus:
+MATH 115, 116, and 215 (each competed with a minimum grade of C or higher)
+Linear Algebra:
+MATH 214 or 217 (competed with a minimum grade of C or higher)
+Introductory Programming:
+One of EECS 183, ENGR 101, or ENGR 151
+Requirements
+Minimum Credits:
+42
+A minimum of 42 credits is required (each with a minimum grade of C or higher), distributed as follows.
+Core:
+Computing and Discrete Mathematics
+EECS 203: Discrete Mathematics (preferred)
+or
+MATH 465: Introduction to Combinatorics
+EECS 280: Programming and Elementary Data Structures.
+Computing and Statistics
+EECS 281: Data Structures and Algorithms.
+STATS 412: Introduction to Probability and Statistics.
+STATS 413: The General Linear Model and Its Applications
+Machine learning and data mining
+(minimum 4 credits):
+EECS 445: Machine Learning
+or
+STATS 415: Data Mining
+Data management and applications
+(minimum 4 credits):
+EECS 484: Database Management Systems
+or
+EECS 485: Web Database and Information Systems
+Data Sciences Applied to a Domain
+(minimum 4 credits): A student must take at least one 400-level or higher course in which data science techniques are applied to a domain area.
+400+ courses in Statistics and CSE on analytics in healthcare human behavioral analytics, financial analytics
+400+ level courses in bioinformatics (specify: is this bioinformatics courses in any SUBJECT or courses in BIOINF)
+Capstone Experience.
+One course of at least 4 credits approved as satisfying the Data Science Capstone Experience requirement. STATS 485 and the proposed Data Science-oriented CSE courses that also meet the Major Design Experience (MDE) requirements as playing this role.
+If a student takes a required course that can also be used to provide capstone experience, the student must either not double count the credits or make up any overlapping credits by taking advanced elective courses.
+Advanced Technical Electives in Data Science:
+At least 8 credits of advanced technical electives (at the 300-level or higher) that build on the foundation provided by the core courses and includes courses in data collection methods, scientific visualization, algorithms, security and privacy, mathematical modeling in biology, biostatistics, and optimization techniques. These courses must be selected from the list of courses below, or other courses by exception selected with advisor approval prior to taking the course.
+BIOINF 463 / BIOPHYS 463 / MATH 463: Mathematical Modeling in Biology
+BIOINF 527: Introduction to Bioinformatics & Computational Biology
+BIOINF 545 / STATS 545 / BIOSTAT 646: High Throughput Molecular Genomic and Epigenomic Data Analysis
+BIOINF 547 / MATH 547 / STATS 547: Probabilistic Modeling in Bioinformatics
+BIOPHYS 463 / BIOINF 463 / MATH 463: Mathematical Modeling in Biology
+BIOSTAT 449 / STATS 449: Topics in Biostatistics
+BIOSTAT 646 / BIOINF 545 / STATS 545: High Throughput Molecular Genomic and Epigenomic Data Analysis
+EECS 388: Introduction to Computer Security
+EECS 442: Computer Vision
+EECS 467: Autonomous Robotics
+EECS 477: Introduction to Algorithms
+EECS 484: Database Management Systems
+EECS 485: Web Database and Information Systems
+EECS 492: Introduction to Artificial Intelligence
+EECS 498: Special Topics (approved sections only. By default, EECS 498 sections will not count towards the Data Science advanced technical electives)
+EECS 4xx: Data Science and Healthcare
+EECS 4xx: Data Science and Human Behavior and Emotion Analytics
+EECS 545: Machine Learning
+EECS 549 / SI 650: Information Retrieval
+IOE 310: Introduction to Optimization Methods
+MATH 463 / BIOINF 463 / BIOPHYS 463: Mathematical Modeling in Biology
+MATH 547 / STATS 547 / BIOINF 547: Probabilistic Modeling in Bioinformatics
+MATH 548 / STATS 548: Computations in Probabilistic Modeling in Bioinformatics
+SI 639: Web Archiving
+SI 649: Information Visualization
+SI 650 / EECS 549: Information Retrieval
+STATS 403: Introduction to Quantitative Research Methods
+STATS 406: Introduction to Statistical Computing
+STATS 414: Special Topics in Statistics, section titled “ Introduction to Bayesian Data Analysis”
+STATS 426: Introduction to Theoretical Statistics
+STATS 449 / BIOSTAT 449: Topics in Biostatistics
+STATS 470: Introduction to Design of Experiments
+STATS 480: Survey Sampling Techniques
+STATS 508: Statistical Analysis of Financial Data
+STATS 531: Analysis of Time Series
+STATS 545 / BIOINF 545 / BIOSTAT 646: High Throughput Molecular Genomic and Epigenomic Data Analysis
+STATS 547 / MATH 547 / BIOINF 547: Probabilistic Modeling in Bioinformatics
+STATS 548 / MATH 548: Computations in Probabilistic Modeling in Bioinformatics
+Other Department Policies
+Dual Majors with Computer Science
+For a dual major with Computer Science, the student will need to take an additional 14 credits in pertinent technical subjects, with advisor approval in both Computer Science and Data Science, beyond satisfying the requirements for each of the majors.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS subject area may not be used toward the Distribution Requirement.
+Honors
+Any LSA Data Science student with a current grade point average of at least 3.4 may apply for admission to the LSA Data Science Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program with an overall GPA of at least 3.5. In addition, LSA Data Science Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project or a thesis under the direction of a member of the Statistics Department or EECS faculty.
+Data Science (Major) (Fall 2016 - Fall 2018)
+Effective Fall 2016
+Exclusions:
+Those completing the major in Data Science may not earn a minor in Computer Science or Statistics.
+Advising
+Faculty advisors are available on both Central and North campuses with a common coordinator across the two programs.
+Grade Policies
+A grade of C or higher is required for all the required courses including the four required mathematics courses, all the EECS and STATS courses used toward the degree requirements, all the advanced technical electives in Data Science used toward the degree requirements and the capstone experience course.
+The grade requirement applies to these courses irrespective of whether they are pre-major or major requirements.
+Prerequisites
+(each with minimum grade of C or higher)
+Calculus:
+MATH 115, 116, and 215 (each competed with a minimum grade of C or higher)
+Linear Algebra:
+MATH 214 or 217 (competed with a minimum grade of C or higher)
+Introductory Programming:
+One of EECS 183, ENGR 101, or ENGR 151
+Requirements
+Minimum Credits:
+42
+A minimum of 42 credits is required (each with a minimum grade of C or higher), distributed as follows.
+Core:
+Computing and Discrete Mathematics
+EECS 203: Discrete Mathematics (preferred)
+or
+MATH 465: Introduction to Combinatorics
+EECS 280: Programming and Elementary Data Structures.
+Computing and Statistics
+EECS 281: Data Structures and Algorithms.
+STATS 412: Introduction to Probability and Statistics.
+STATS 413: The General Linear Model and Its Applications
+Machine learning and data mining
+(minimum 4 credits):
+EECS 445: Machine Learning
+or
+STATS 415: Data Mining
+Data management and applications
+(minimum 4 credits):
+EECS 484: Database Management Systems
+or
+EECS 485: Web Database and Information Systems
+Data Sciences Applied to a Domain
+(minimum 4 credits): A student must take at least one 400-level or higher course in which data science techniques are applied to a domain area.
+400+ courses in Statistics and CSE on analytics in healthcare human behavioral analytics, financial analytics
+400+ level courses in bioinformatics (specify: is this bioinformatics courses in any SUBJECT or courses in BIOINF)
+Capstone Experience.
+One course of at least 4 credits approved as satisfying the Data Science Capstone Experience requirement. STATS 485 and the proposed Data Science-oriented CSE courses that also meet the Major Design Experience (MDE) requirements as playing this role.
+If a student takes a required course that can also be used to provide capstone experience, the student must either not double count the credits or make up any overlapping credits by taking advanced elective courses.
+Advanced Technical Electives in Data Science:
+At least 8 credits of advanced technical electives (at the 300-level or higher) that build on the foundation provided by the core courses and includes courses in data collection methods, scientific visualization, algorithms, security and privacy, mathematical modeling in biology, biostatistics, and optimization techniques. These courses must be selected from the list of courses below, or other courses by exception selected with advisor approval prior to taking the course.
+BIOINF 463 / BIOPHYS 463 / MATH 463: Mathematical Modeling in Biology
+BIOINF 527: Introduction to Bioinformatics & Computational Biology
+BIOINF 545 / STATS 545 / BIOSTAT 646: High Throughput Molecular Genomic and Epigenomic Data Analysis
+BIOINF 547 / MATH 547 / STATS 547: Probabilistic Modeling in Bioinformatics
+BIOPHYS 463 / BIOINF 463 / MATH 463: Mathematical Modeling in Biology
+BIOSTAT 449 / STATS 449: Topics in Biostatistics
+BIOSTAT 646 / BIOINF 545 / STATS 545: High Throughput Molecular Genomic and Epigenomic Data Analysis
+EECS 388: Introduction to Computer Security
+EECS 442: Computer Vision
+EECS 467: Autonomous Robotics
+EECS 477: Introduction to Algorithms
+EECS 484: Database Management Systems
+EECS 485: Web Database and Information Systems
+EECS 492: Introduction to Artificial Intelligence
+EECS 498: Special Topics (approved sections only. By default, EECS 498 sections will not count towards the Data Science advanced technical electives)
+EECS 4xx: Data Science and Healthcare
+EECS 4xx: Data Science and Human Behavior and Emotion Analytics
+EECS 545: Machine Learning
+EECS 549 / SI 650: Information Retrieval
+IOE 310: Introduction to Optimization Methods
+MATH 463 / BIOINF 463 / BIOPHYS 463: Mathematical Modeling in Biology
+MATH 547 / STATS 547 / BIOINF 547: Probabilistic Modeling in Bioinformatics
+MATH 548 / STATS 548: Computations in Probabilistic Modeling in Bioinformatics
+SI 639: Web Archiving
+SI 649: Information Visualization
+SI 650 / EECS 549: Information Retrieval
+STATS 403: Introduction to Quantitative Research Methods
+STATS 406: Introduction to Statistical Computing
+STATS 414: Special Topics in Statistics, section titled “ Introduction to Bayesian Data Analysis”
+STATS 426: Introduction to Theoretical Statistics
+STATS 449 / BIOSTAT 449: Topics in Biostatistics
+STATS 470: Introduction to Design of Experiments
+STATS 480: Survey Sampling Techniques
+STATS 508: Statistical Analysis of Financial Data
+STATS 531: Analysis of Time Series
+STATS 545 / BIOINF 545 / BIOSTAT 646: High Throughput Molecular Genomic and Epigenomic Data Analysis
+STATS 547 / MATH 547 / BIOINF 547: Probabilistic Modeling in Bioinformatics
+STATS 548 / MATH 548: Computations in Probabilistic Modeling in Bioinformatics
+Other Department Policies
+Dual Majors with Computer Science
+For a dual major with Computer Science, the student will need to take an additional 14 credits in pertinent technical subjects, with advisor approval in both Computer Science and Data Science, beyond satisfying the requirements for each of the majors.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS subject area may not be used toward the Distribution Requirement.
+Honors
+Students are responsible for finding a faculty mentor whose research area aligns with the student’s interest and who is willing to supervise their project. Statistics and CSE will designate a Capstone Thesis course that can be used to satisfy both the Data Science Honors requirement in LSA and the Capstone Experience requirement.
+Complete a research project under the direction of a faculty mentor in Computer Science or Statistics (and an optional a co-advisor from any department) by registering for a Capstone Thesis course in EECS or STATS. (The Capstone Thesis course, if completed successfully, will also count toward the Capstone Experience requirement, irrespective of whether the Honors designation is awarded.)
+Write an original thesis report on the research project and make a public presentation of the work. Satisfy the advisor and a second reader that the thesis report and the public presentation are worthy of the Honors designation.
+3.5 GPA in the major and pre-major courses
+3.4 overall U-M GPA (at the time of graduation)
+Data Science (Fall 2015-Summer 2016)
+Effective Fall 2015-Summer 2016
+May be elected as an interdepartmental major, administered by the department of Statistics and supervised by Data Science Program Committee.
+Those completing the major in Data Science may not earn a minor in Computer Science or Statistics.
+Minimum Grade Requirement
+A grade of C or higher is required for all the required courses including the four required mathematics courses, all the EECS and STATS courses used toward the degree requirements, all the advanced technical electives in Data Science used toward the degree requirements and the capstone experience course.
+The grade requirement applies to these courses irrespective of whether they are pre-major or major requirements.
+Prerequisites to the Major (each with minimum grade of C or higher)
+Calculus:
+MATH 115, 116, and 215 (each competed with a minimum grade of C or higher)
+Linear Algebra:
+MATH 214 or 217 (competed with a minimum grade of C or higher)
+Introductory Programming:
+One of EECS 183, ENGR 101, or ENGR 151
+Requirements for the Major
+A minimum of 42 credits is required (each with minimum grade of C or higher), distributed as follows.
+Core
+:
+Computing and Discrete Mathematics
+EECS 203 Discrete Mathematics (preferred)
+or
+MATH 465 Introduction to Combinatorics
+EECS 280 Programming and Elementary Data Structures.
+Computing and Statistics
+EECS 281 Data Structures and Algorithms.
+STATS 412 Introduction to Probability and Statistics.
+STATS 500 Applied Statistics I
+Machine learning and data mining
+(minimum 4 credits):
+EECS 445 Machine Learning
+or
+STATS 415 Data Mining
+Data management and applications
+(minimum 4 credits):
+EECS 484 Database Management Systems
+or
+EECS 485 Web Database and Information Systems
+Data Sciences Applied to a Domain
+(minimum 4 credits)
+:
+A student must take at least one 400-level or higher course in which data science techniques are applied to a domain area.
+400+ courses in Statistics and CSE on analytics in healthcare human behavioral analytics, financial analytics
+400+ level courses in bioinformatics (specify: is this bioinformatics courses in any SUBJECT or courses in BIOINF)
+Capstone Experience
+. One course of at least 4 credits approved as satisfying the Data Science Capstone Experience requirement. STATS 485 and the proposed Data Science-oriented CSE courses that also meet the Major Design Experience (MDE) requirements as playing this role.
+If a student takes a required course that can also be used to provide capstone experience, the student must either not double count the credits or make up any overlapping credits by taking advanced elective courses.
+Advanced Technical Electives in Data Science:
+At least 8 credits of advanced technical electives (at the 300-level or higher) that build on the foundation provided by the core courses and includes courses in data collection methods, scientific visualization, algorithms, security and privacy, mathematical modeling in biology, biostatistics, and optimization techniques. These courses must be selected from the following list of courses, or other courses by exception selected with advisor approval prior to taking the course.
+BIOINF 463 / BIOPHYS 463 / MATH 463 Mathematical Modeling in Biology
+BIOINF 527 Introduction to Bioinformatics & Computational Biology
+BIOINF 545 / STATS 545 / BIOSTAT 646 High Throughput Molecular Genomic and Epigenomic Data Analysis
+BIOINF 547 / MATH 547 / STATS 547 Probabilistic Modeling in Bioinformatics
+BIOPHYS 463 / BIOINF 463 / MATH 463 Mathematical Modeling in Biology
+BIOSTAT 449 / STATS 449 Topics in Biostatistics
+BIOSTAT 646 / BIOINF 545 / STATS 545  High Throughput Molecular Genomic and Epigenomic Data Analysis
+EECS 388 Introduction to Computer Security
+EECS 442 Computer Vision
+EECS 467 Autonomous Robotics
+EECS 477 Introduction to Algorithms
+EECS 484 Database Management Systems
+EECS 485 Web Database and Information Systems
+EECS 492 Introduction to Artificial Intelligence
+EECS 498 Special Topics (approved sections only. By default, EECS 498 sections will not count towards the Data Science advanced technical electives)
+EECS 4xx Data Science and Healthcare
+EECS 4xx Data Science and Human Behavior and Emotion Analytics
+EECS 545 Machine Learning
+EECS 549 / SI 650 Information Retrieval
+IOE 310 Introduction to Optimization Methods
+MATH 463 / BIOINF 463 / BIOPHYS 463 Mathematical Modeling in Biology
+MATH 547 / STATS 547 / BIOINF 547  Probabilistic Modeling in Bioinformatics
+MATH 548 / STATS 548 Computations in Probabilistic Modeling in Bioinformatics
+SI 639 Web Archiving
+SI 649 Information Visualization
+SI 650 / EECS 549 Information Retrieval
+STATS 403 Introduction to Quantitative Research Methods
+STATS 406 Introduction to Statistical Computing
+STATS 414 Special Topics in Statistics, section titled “ Introduction to Bayesian Data Analysis”
+STATS 426 Introduction to Theoretical Statistics
+STATS 449 / BIOSTAT 449 Topics in Biostatistics
+STATS 470 Introduction to Design of Experiments
+STATS 480 Survey Sampling Techniques
+STATS 508 Statistical Analysis of Financial Data
+STATS 531 Analysis of Time Series
+STATS 545 / BIOINF 545 / BIOSTAT 646 High Throughput Molecular Genomic and Epigenomic Data Analysis
+STATS 547 / MATH 547 / BIOINF 547 Probabilistic Modeling in Bioinformatics
+STATS 548 / MATH 548 Computations in Probabilistic Modeling in Bioinformatics
+Dual Majors with Computer Science
+For a dual major with Computer Science, the student will need to take an additional 14 credits in pertinent technical subjects, with advisor approval in both Computer Science and Data Science, beyond satisfying the requirements for each of the majors.
+Honors Plan
+Students are responsible for finding a faculty mentor whose research area aligns with the student’s interest and who is willing to supervise their project. Statistics and CSE will designate a Capstone Thesis course that can be used to satisfy both the Data Science Honors requirement in LSA and the Capstone Experience requirement.
+Complete a research project under the direction of a faculty mentor in Computer Science or Statistics (and an optional a co-advisor from any department) by registering for a Capstone Thesis course in EECS or STATS. (The Capstone Thesis course, if completed successfully, will also count toward the Capstone Experience requirement, irrespective of whether the Honors designation is awarded.)
+Write an original thesis report on the research project and make a public presentation of the work. Satisfy the advisor and a second reader that the thesis report and the public presentation are worthy of the Honors designation.
+3.5 GPA in the major and pre-major courses
+3.4 overall U-M GPA (at the time of graduation)
+Information for
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

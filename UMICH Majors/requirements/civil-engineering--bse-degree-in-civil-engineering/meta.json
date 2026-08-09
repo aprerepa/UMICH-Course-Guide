@@ -1,0 +1,17 @@
+{
+  "id": "civil-engineering--bse-degree-in-civil-engineering",
+  "name": "Civil Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://cee.engin.umich.edu/undergraduate-studies/bse-degree-in-civil-engineering/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://cee.engin.umich.edu/undergraduate-studies/major-in-civil-engineering/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://docs.google.com/spreadsheets/d/1-QNF4On-_HMpmoN8zlrrVnOKx-tfUAuHZFiHIN-saHA/edit?usp=sharing",
+  "requirements_link_text": "Editable sample schedule",
+  "requirements_link_score": 115,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://docs.google.com/spreadsheets/d/1-QNF4On-_HMpmoN8zlrrVnOKx-tfUAuHZFiHIN-saHA/edit?usp=sharing",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:33:17.126079+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "history--majors-minors-html-history-maj",
+  "name": "History",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#history-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#history-maj",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/history-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/history-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:40:18.767627+00:00",
+  "lsa_resolved_row_id": "history-maj"
+}

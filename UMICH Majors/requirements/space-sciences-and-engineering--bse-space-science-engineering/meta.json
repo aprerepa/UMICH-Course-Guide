@@ -1,0 +1,17 @@
+{
+  "id": "space-sciences-and-engineering--bse-space-science-engineering",
+  "name": "Space Sciences and Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/bse-space-science-engineering/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/bse-space-science-engineering/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+  "requirements_link_text": "Editable sample schedule",
+  "requirements_link_score": 115,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:49:48.752559+00:00"
+}

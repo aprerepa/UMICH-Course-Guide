@@ -1,0 +1,17 @@
+{
+  "id": "mathematics-of-finance-and-risk-management-sub-major-of-mathematics--mathematics-of-finance-and-risk-management-html",
+  "name": "Mathematics of Finance and Risk Management (Sub-major of Mathematics)",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematics-of-finance-and-risk-management.html",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (program URL)",
+  "program_final_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematics-of-finance-and-risk-management.html",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematics-of-finance-and-risk-management.html",
+  "requirements_link_text": "(program page is requirements)",
+  "requirements_link_score": 200,
+  "requirements_link_strategy": "program_is_requirements",
+  "requirements_final_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematics-of-finance-and-risk-management.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:44:47.976151+00:00"
+}

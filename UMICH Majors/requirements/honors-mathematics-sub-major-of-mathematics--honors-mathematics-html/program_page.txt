@@ -1,0 +1,310 @@
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Mathematics
+About Us
+People
+Centers & Outreach
+Seminars, Colloquia & Lectures
+News & Events
+for
+Undergraduates
+Graduates
+Alumni & Friends
+Research
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Keyword Search of math
+Home
+About Us
+People
+Centers & Outreach
+Seminars, Colloquia & Lectures
+News & Events
+for
+Undergraduates
+Graduates
+Alumni & Friends
+Research
+Your First Math Course at UofM:  A Guide for Incoming Students
+Advising
+Frequently Asked Questions
+Research and Career Opportunities
+Transfer Credit
+Undergraduate Math Courses
+Awards, Scholarships, and Prizes
+Graduation
+Resources
+Major and Minor Programs
+Extracurricular Activities
+Policies
+Student Spotlight
+Admissions
+Programs
+Students On the Job Market - AIM & Math
+Awards & Fellowships
+Recent Ph.D. Recipients
+Student Spotlight - AIM & Math
+Courses
+Student Handbook - AIM & Math
+Thesis Defense Schedule
+Newsletters
+Giving to Mathematics
+Algebra and Algebraic Geometry
+Combinatorics
+Financial and Actuarial Mathematics
+Mathematical Biology
+Number Theory
+Research Training Grant
+Analysis
+Computer Science
+Geometry & Topology
+Mathematical Physics
+Probability Theory
+Named Postdoctoral Fellows
+Applied Mathematics
+Differential Equations
+Logic and Foundations
+Mathematics Education
+Scientific Computing
+Skip to Page Content
+Undergraduates
+Major and Minor Programs
+Honors Mathematics
+...
+Honors Mathematics
+Undergraduates
+Major and Minor Programs
+[X] close
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+Undergraduate Math Courses
+Major and Minor Programs
+Declaring a Mathematics Major
+Actuarial Mathematics
+Honors Mathematics
+Mathematics of Finance and Risk Management
+Mathematical Sciences
+Pure Mathematics
+Secondary Mathematics Teaching Certificate
+Mathematics Minor
+Advising
+Awards, Scholarships, and Prizes
+Extracurricular Activities
+Frequently Asked Questions
+Graduation
+Policies
+Research and Career Opportunities
+Resources
+Student Spotlight
+Transfer Credit
+Honors Mathematics
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+Undergraduate Math Courses
+Major and Minor Programs
+Declaring a Mathematics Major
+Actuarial Mathematics
+Honors Mathematics
+Mathematics of Finance and Risk Management
+Mathematical Sciences
+Pure Mathematics
+Secondary Mathematics Teaching Certificate
+Mathematics Minor
+Advising
+Awards, Scholarships, and Prizes
+Extracurricular Activities
+Frequently Asked Questions
+Graduation
+Policies
+Research and Career Opportunities
+Resources
+Student Spotlight
+Transfer Credit
+Our honors program is ideal for students open to the challenges of higher mathematics. State-of-the-art courses are taught in small classes by leading faculty and cover a broad range of material in both pure and applied mathematics. Beyond the standard curriculum, we routinely offer courses on recent developments in cutting-edge fields such as algorithms, biomathematics, cryptography, and financial mathematics. Our honors students also often take advantage of our top-ranked graduate program; qualified students are welcome to take graduate courses. All in all, the honors mathematics program at the University of Michigan will prepare you well for the challenge of a graduate or professional school at the finest universities in the country or a rewarding career in a variety of fields.
+A student who is in the LSA
+Honors Program
+or approved by a math honors advisor may declare an Honors Major in mathematics. The Honors Mathematics Major
+will acquire a greater command of abstractions and of the subtleties of mathematical rigor. Honors students who complete an honors major with distinction may receive on their diplomas the designation “with honors,” “with high honors,” or “with highest honors.” An honors citation will be awarded to any Honors major who completes the honors major requirements with a major GPA of at least 3.25 and an LSA cumulative GPA of at least 3.4 at the time of graduation. Honors will automatically remove students with a GPA below 3.4. Citations of high and highest honors are awarded at the discretion of the Honors Committee on the basis of superior performance in advanced courses as attested by grades and individual faculty evaluations.
+Grade Policies
+All prerequisite courses must be satisfied with a grade of C– or above. Students with lower grades in prerequisite courses must receive special permission from the instructor to enroll in subsequent courses. For purposes of calculating grade point average, the term "field of the major" means the following:
+All MATH courses.
+All courses used to meet requirements for the major.
+All required cognate courses (if any).
+All mandatory prerequisites.
+EECS 183
+Printable Math Honors Checklist - Click Here
+Honors Subplan Checklist
+I. Prerequisites
+Students intending to pursue an Honors major are advised to take one of the
+Honors introductory sequences
+156, 285 and 286; 275, 276, 285, and 286; 185, 186, 285, and 286; 295,296, 395 and 396;  217and 297 (Math 395-396 strongly recommended), or some combination of these five. Please note that the sequence 295-396 is very theoretical. It is recommended that students in the 156-286, 275-286, and 185-286 tracks also complete Math 217.
+The Honors program must include at least nine courses: four basic courses (II.), four elective courses (III.), and one
+cognate course
+(IV.) as described below.
+II. Basic Courses
+The basic courses consist of one from each of groups 1, 2, 3, and 4 or groups 1, 2, 5, and 6 below,
+completed with a grade of at least C-:
+Linear Algebra:
+Math 420, 494, or 571
+Analysis:
+Math 451
+Modern Algebra:
+Math 493
+Geometry/Topology:
+Math 431, 433, 490, or 590
+Probability:
+Math 525
+Differential Equations:
+Math 404, 454, 556, 557, or 558
+A student who has completed Math 295-296 or 217-297, with a grade of at least a C- is exempt from Math 451.
+A student who has completed Math 296-395 or 297-395, with a grade of at least a C- is exempt from Math 420.
+III. Elective Courses
+The four elective courses must be chosen in consultation with an honors advisor to provide a cohesive program that explores an area of mathematics in some depth. There is a good deal of freedom allowed here, but a random selection of courses will not satisfy this requirement. The courses should be chosen from the following list or have a course number of 600 or above. Math 289 is a repeatable 1-credit course and can be used to satisfy the elective requirement
+only if taken three times
+. An honors counselor may approve another mathematics course or a course from another department with advanced mathematical content as one of these elective courses. The honors counselor may ask that the student arrange supplemental work in a given class not listed below to conform to expectations for an honors elective.
+A student who completes the requirements for the Basic Courses by choosing courses from groups 1, 2, 5 and 6 must complete a course in Complex Analysis.
+289
+Problem Solving
+389
+Explorations in Mathematics
+416
+Theory of Algorithms
+431
+Explorations in Euclidean Geometry
+433
+Intro. to Differential Geom.
+440
+Lab of Geometry - LoG(M)
+452
+Advanced Calculus II
+462
+Mathematical Models
+463
+Math Modeling in Biology
+464
+Inverse Problems
+465
+Intro to Combinatorics
+471
+Intro. to Numerical Methods
+481
+Intro. to Mathematical Logic
+490
+Introduction to Topology
+525
+Probability Theory
+526
+Disc. Stochastic Processes
+537
+Differentiable Manifolds
+551
+Intro to Real Analysis
+555
+Intro. to Complex Variables
+556
+Methods of Applied Math I
+557
+Methods of Applied Math II
+558
+Ordinary Diff. Equations
+559
+Topics in Applied Math
+561
+Linear Programming I
+563
+Adv. Mathematical Biology
+565
+Combin. and Graph Theory
+566
+Combinatorial Theory
+567
+Intro. to Coding Theory
+571
+Num. Meth. for Sci. Comp. I
+572
+Num. Meth. for Sci. Comp. II
+575
+Intro. to Theory of Numbers
+582
+Introduction to Set Theory
+590
+Intro to Topology
+591
+General and Diff. Topology
+592
+Intro to Algebraic Topology
+593
+Algebra I
+594
+Algebra II
+596
+Analysis I (Complex)
+597
+Analysis II (Real)
+IV. Cognate Courses
+One
+cognate course
+should be chosen from a field other than mathematics. Almost any field is acceptable, but the course must be at the 300 level or higher and should have significant mathematical content, at least at the level of Math 215. In all cases,
+approval of an advisor is required.
+Mathematics
+2074 East Hall
+530 Church Street
+Ann Arbor, MI 48109-1043
+Undergraduate Students:
+math-undergrad-office@umich.edu
+Graduate Students:
+math-grad-office@umich.edu
+Department Administration:
+math-admin-office@umich.edu
+Website Updates:
+math-comm-web@umich.edu
+Intranet
+Click to call 734.764.0335
+734.764.0335
+Sitemap
+Information For
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

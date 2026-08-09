@@ -1,0 +1,18 @@
+{
+  "id": "organizational-studies--majors-minors-html-organizational-studies-maj",
+  "name": "Organizational Studies",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#organizational_studies-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#organizational_studies-maj",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/organizational-studies-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/organizational-studies-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:46:34.664541+00:00",
+  "lsa_resolved_row_id": "organizational_studies-maj"
+}

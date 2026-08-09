@@ -1,0 +1,35 @@
+Page header:
+page title: Google Sheet export
+
+Visible page text:
+Course(s)	Title 	Credits	
+EECS 367/ROB 380	Introduction to Autonomous Robotics	4	
+EECS 373 	Introduction to Embedded System Design	4	
+EECS 388	Introduction to Computer Security	4	
+EECS 390	Programming Paradigms	4	
+EECS 404	Game Engine Architecture and Data-Oriented Programming	4	Begins WN27 
+EECS 427	VLSI Design I	4	
+EECS 442	Computer Vision	4	
+EECS 445	Introduction to Machine Learning	4	
+EECS 470 	Computer Architecture	4	
+EECS 471	Applied Parallel Programming with GPUs	4	
+EECS 474	Algorithms for Data Science	4	
+EECS 475 	Introduction to Cryptography	4	
+EECS 476	Data Mining	4	
+EECS 477	Introduction to Algorithms	4	
+EECS 478 	Logic Circuit Synthesis and Optimization	4	
+EECS 479	Introduction to Quantum Computing	4	
+EECS 481 	Software Engineering (taken FA17 or after)	4	
+EECS 482	Operating Systems	4	
+EECS 483 	Compiler Construction 	4	
+EECS 484	Database Management Systems	4	
+EECS 485	Web Database and Information Systems	4	
+EECS 486 	Information Retrieval & Web Search	4	
+EECS 487 	Introduction to Natural Language Processing	4	
+EECS 489	Computer Networks	4	
+EECS 490 	Programming Languages	4	
+EECS 491	Introduction to Distributed Systems	4	
+EECS 492	Introduction to Artificial Intelligence	4	
+EECS 493* 	User Interface Development	4	
+EECS 498 (when marked as ULCS here)	Special Topics		
+* Since Fall’22, the 493 instructor team have made substantial changes to the course curriculum which has led to an increased workload as reported by students. The changes include 1) more content on human-centered research and cutting-edge human-computer interaction research; 2) the web programming content is condensed and expedited; 3) one new assignment on user research methods, and one new assignment on prototyping; 4) more check-up milestones for the final projects so that students get more frequent feedback on their final projects. We believe the changes align the course better with cutting-edge research and practice in human-computer interaction and user research. Based on the feedback from Fall’22, students reported that the 3% workload as reflected in Atlas is inaccurate and does not depict the current workload of the course. Please keep this in mind when you register for EECS493.

@@ -1,0 +1,18 @@
+{
+  "id": "philosophy-politics-and-economics--majors-minors-html-philosophy-political-science-economics-maj",
+  "name": "Philosophy, Politics, and Economics",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#philosophy_political_science_economics-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#philosophy_political_science_economics-maj",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/philosophy-politics-and-economics-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/philosophy-politics-and-economics-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:46:54.346825+00:00",
+  "lsa_resolved_row_id": "philosophy_political_science_economics-maj"
+}

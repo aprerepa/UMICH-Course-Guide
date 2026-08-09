@@ -1,0 +1,1066 @@
+Page header:
+page title: Bachelor's Degree - Mechanical Engineering
+og:description: The Bachelors of Science in Engineering (BSE) degree in Mechanical Engineering (ME) at the University of Michigan requires students to complete 128 credit hours of courses in various categories, which […]
+
+Visible page text:
+Academics
+Undergraduate
+Undergrad Handbook
+Undergraduate Student Services
+Bachelor’s Degree
+Course Enrollment
+Transferring Credit from Another Institution
+Internship, Co-Op, & Career Guidance
+Research Opportunities
+Forms and Policies
+Graduation and Beyond
+Campus Community
+Frequently Asked Questions
+Undergrad Student Awards
+RISE (Research Projects)
+ME Undergrad Symposium
+Capstone Design (ME 450)
+SURE (Summer Research)
+Graduate
+Integrative Systems + Design
+ME Courses
+Accreditation
+Academic Advising
+ME Tutoring
+Contact Academic Services
+The Bachelors of Science in Engineering (BSE) degree in Mechanical Engineering (ME) at the University of Michigan requires students to complete 128 credit hours of courses in various categories, which include: College of Engineering (CoE) core, intellectual breadth, ME program specific courses, and general electives. Each of these categories and their corresponding requirements are described in the
+Program Requirements
+section. Information on how to declare ME, prerequisites and co-requisites, planning your schedule, and other general guidance are described below. For information on concentrations, minors, study abroad, dual and joint degrees, and combined undergraduate/graduate degrees please visit the
+Additional Academic Options
+section.
+Sections of this Page:
+How to Declare ME
+Program Requirements
+CoE Core Courses
+Intellectual Breadth
+ME Program Specific Courses
+ME Core Courses
+Specialization Elective (SE)
+Technical Electives (TEs)
+Advanced Math
+Electrical Circuits
+General Electives (GEs)
+How to Plan Your Schedule
+Prerequisites and Co-Requisites
+Sample Schedule
+Additional Academic Options
+How to Declare ME
+Before a student can declare Mechanical Engineering as their engineering program of study, the following requirements must be met:
+Students must have completed at least one full term of courses on the UM Ann Arbor campus (12 credits or more and must not have withdrawn for credit to count).
+Students must have an overall UM GPA of 2.0 or better in courses taken at the UM Ann Arbor campus and be in good standing.
+Students on Probation or Enrollment Withheld cannot declare a program
+.
+Students must earn a “C” or better in any CoE Common Requirement course or ME degree requirement taken prior to declaration.
+The most recent grade counts in repeated courses.
+Students must have completed (with a “C” or better), or earned credit by exam or transfer for, at least one course in each of the following categories:
+a. Calculus (Math 115, 116, 156, 215, 216)
+b. Calculus based lectures for physics (Physics 140, 160, 240) or chemistry (Chemistry 130, 210). Note: physics and chemistry labs are degree requirements.
+c. Required engineering courses (Engr. 100, 101, 151)
+For more information, see the CoE Bulletin’s
+Declaring (or Changing) Major
+section.
+If you have met the above requirements, please email a request to declare to the Academic Services Office (
+me-aso@umich.edu
+). We will review your degree audit, confirm your eligibility to declare, invite you to a Declaration Orientation, and complete a long-term degree plan with you.
+Program Requirements
+Grade Policy
+Grade Policy for students admitted to the CoE
+beginning and after
+Fall 2017:
+Course
+Minimum Required Grade
+All CoE Core Courses (see section below), ME 211, ME 235, ME 240, ME 320
+C
+ME 250, ME 350, ME 360, ME 382, ME 395
+C-
+ME 335, ME 450/455, ME 495, Technical Electives, Specialization Elective, EECS 314, Advanced Math
+D
+Intellectual Breadth and General Electives
+D-
+Grade Policy for students admitted to the CoE
+before
+Fall 2017:
+Course
+Minimum Required Grade for Undeclared Students
+Minimum Required Grade for Declared Students
+All CoE Core Courses (see section below)
+C
+C-
+ME 211, ME 235, ME 240 , ME 250, ME 320, ME 350*, ME 360, ME 382, ME 395*
+*Please note that you cannot enroll in ME 350 or ME 395 as an undeclared student
+C-
+C-
+ME 335, ME 450/455, ME 495, Technical Electives, Specialization Elective, EECS 314, Advanced Math, Intellectual Breadth, and General Electives
+N/A
+D
+CoE Core Courses
+The College of Engineering (CoE) requires that every engineering student, regardless of their proposed engineering major, complete specific courses in the core subjects of mathematics, engineering, chemistry, and physics.   Required CoE Core courses are listed below with the number of credits for each course given in parenthesis:
+Math 115 – Calculus I (4)
+Math 116 – Calculus II (4)
+Math 215 – Calculus III (4)
+Math 216 – Introduction to Differential Equations (4)
+Engineering 100 – Introduction to Engineering (4)
+*Engineering 101 – Introduction to Computers and Programming (4)
+Please see *notes below regarding AP Computer Science credit
+Chemistry 130 (3) with Chemistry 125/126 (2), or Chemistry 210 (4) with Chemistry 211 (1)
+Physics 140 (4) with Physics 141 (1)
+Physics 240 (4) with Physics 241 (1)
+*AP Computer Science credit (EECS 180) on its own does not fulfill the ME programming requirements.  All students need one programming class taken at the University of Michigan and documentation of some experience with MATLAB and C++ or closely related languages to fulfill the ME programming requirement.  ENGR 161 is a 2 credit MATLAB course is recommended. Other examples include ENGR 101, ENGR 151, and EECS 280, or their transfer credit equivalents.  These and other programming or computational classes can be considered by
+departmental petition
+.
+Students are recommended to discuss requirements further with the program advisor by first emailing me-aso@umich.edu.
+If the programming class is usable towards other degree requirements (e.g. the Specialization Elective), it is permissible to direct the class taken at U-M to fulfill that requirement and retroactively apply EECS 180 to the ENGR 101 requirements.
+For more information regarding the CoE Core course requirements, please visit the
+CoE Bulletin
+. As a general guide, the 100 level CoE Core courses should be completed during or before your freshman year, and the 200 level CoE Core courses should be completed during or before your sophomore year.
+As part of the above CoE Core requirements, the Accreditation Board for Engineering and Technology (ABET) requires that all CoE students complete 32 credits of non-engineering coursework in math and science during their undergraduate degree: with a minimum of 16 credits from math and including some laboratory-based science credits.
+For students who take all courses at UM, the CoE Core requirements account for the 16 credits of math, and 15 credits of science from the chemistry and physics courses; a total of 31 out of 32 required credits. The remaining 1 credit is satisfied by an additional 3 credit Advanced Math course required for ME students.
+For students who transfer credit for these courses from another institution and do not receive the full amount of credits from UM, an additional math or science course may be required to reach the 32 total credits.
+The attached list of
+ABET Science Courses
+lists the science courses that have been approved to fulfill the missing math or science credits. See the CoE Bulletin for more detailed information regarding this requirement via the “
+Transfer credits for Core Math and Science
+” section.
+Intellectual Breadth
+As an engineer, it is important that you learn different modes of thought and areas of human accomplishment to better understand the impact of engineering solutions in a global, economic, environmental, and societal context. To assist students to gain a greater scope of diverse knowledge and to facilitate creativity, the College of Engineering (CoE) requires that students, who have matriculated into the CoE for the Fall 2011 term or later, complete the Intellectual Breadth requirement. For students who have matriculated into the CoE before September 2011, the Humanities and Social Science Requirements apply. A grade of at least a “D” must be obtained, and
+can
+be taken
+Pass/Fail
+.
+Under the Intellectual Breadth requirement, each student must select 16 credits of intellectual breadth courses, subject to these rules:
+Humanities:
+At least 3 credits of Humanities classes marked HU in the
+LSA Course Guide
+; credit by test cannot be used to meet this requirement.
+Professional & Creative Development Courses (PCDC)
+:
+No more than 4 credits of PCDC. This means a student may count up to 4 credits of PCDC toward their Intellectual Breadth requirement, but completing a PCDC is not mandatory.
+Economics/Financials
+:
+The ME department requires each student to take at least 3 credits hours of economic or financial coursework from the approved list. Many courses on the approved list are from the College of Literature, Sciences, and the Arts (LSA) and falls into the Liberal Arts Course (LAC) category. Any course on the approved list outside of LSA may fall into the PCDC category, however, please review the LAC description in the
+CoE Bulletin
+.
+Liberal Arts Courses (LACs)
+:
+The remainder of the 16 credits is drawn from any of the LACs.
+At least 3 credits of Humanities or LACs must be at the 300 level or higher. This is known as the Upper Division requirement. Please note that PCDCs cannot fulfill this requirement.
+For a complete explanation of the Intellectual Breadth requirement, and a listing of PCDC and LAC courses, please refer to the
+Intellectual Breadth
+section of the CoE Bulletin.
+ME Program Specific Courses
+Within the ME program, there are additional categories of program specific courses. These include ME Core courses, Electives (400-level technical elective, core technical electives, and specialization elective), Advanced Math, and EECS 314/215. For detailed ME course descriptions, please visit the
+ME Course List
+.
+ME Core Courses
+The ME Core courses consist of five major areas: Design and Manufacturing, Mechanics and Materials, Dynamics and Controls, Thermal Sciences, and Laboratories and Technical Communication. In total, there are 45 credits of required ME Core courses; and together these subjects represent the fundamental technical competencies every mechanical engineering student must learn. A minimum letter grade, as noted in table above, must be obtained in each course, and it
+cannot
+be taken
+Pass/Fail
+. The chart below outlines the courses from each of the core areas:
+Specialization Elective (SE)
+All ME students are required to complete
+3 credits
+of a Specialization Elective. A grade of at least a “D” must be obtained, and it
+cannot
+be taken
+Pass/Fail
+. A Specialization Elective is a course intended to allow students to explore deeply a dimension of intellectual endeavor of their choosing, in both technical (including engineering) and non-technical fields across the University.
+A Specialization Elective is at least a 3 credit hour course that meets
+either
+of these requirements:
+1) have a 300-level+ mandatory prerequisite
+or
+2) be any 300-level+ ME course outside of the ME Core Courses
+If the course does not have a 300-level+ prerequisite mandated, then pre-approval must be granted via a petition to the ME Undergraduate Chair. Students must seek pre-approval via a petition to the ME Undergraduate Chair for courses not offered by University departments and experiential courses. To complete an online petition, please use this
+petition link
+. Please choose “Exception to Policy” and make a brief and thorough rationale describing your request and why this exception should be made for you.
+Notes: ENGR, ENTR, practicum, and seminar courses will not be accepted as a Specialization Elective. You may use any 3 or 4 credit course from the approved
+Advanced Math List
+to count as a Specialization Elective. This can count after completing the 3 credit
+Advanced Math
+requirement.
+Technical Electives (TEs)
+All ME students are required to complete
+9 credits
+of Advanced Technical Electives to deepen their knowledge within Mechanical Engineering. For ME course descriptions, visit the
+ME Course List
+. A grade of at least a “D” must be obtained in each course, and it
+cannot
+be taken
+Pass/Fail
+.
+The
+9
+credits of advanced TEs required must be taken in the ME Department via these 2 categories:
+400-level Technical Elective
+: One upper level elective must be a 400-level or higher ME class (at least 3 credit hours). This may include 400-level classes off the core TE list, but does not have to.
+Note: ME 490 or ME 491 can fulfill this requirement.
+Core Technical Elective
+: Two ME elective classes (totaling at least 6 credit hours) having a mechanical engineering prerequisite. See the following list for Core Technical Electives.
+Note: The MECHENG 500- and 600-level courses can also qualify as a Core Technical Elective if they have a MECHENG prerequisite. Please check the
+MECHENG Course Listing
+to see a list of MECHENG 500- and 600-level electives. If you would like to take one of these courses, please consult with the instructor of the course, as these are graduate level courses.
+Area
+Core Technical Electives
+Solid Mechanics and Materials
+ME 305, ME 311, ME 406, ME 412, ME 451, ME 456
+Design and Manufacturing
+ME 452, ME 457, ME 458, ME 481, ME 482, ME 483, ME 487, ME 489
+Thermal and Fluid Sciences
+ME 336, ME 420, ME 432, ME 433, ME 438, ME 476
+Dynamics, Systems, and Controls
+ME 424, ME 440, ME 461/EECS 460*
+Other
+ENGR 350**, ME 400
+*Students may not take both EECS 460 and ME 461 for Technical or Specialization Elective credit.
+**ENGR 350 is offered at Technical University of Berlin during the summer only. For ENGR 350 to be counted as an ME Technical Elective, the required sophomore-level ME courses (ME 211, ME 235, ME 240, & ME 250) must be taken
+before
+ENGR 350. Otherwise, ENGR 350 counts as a General Elective.
+Upper Level Electives
+Solid Mechanics and Materials
+Title
+Cr
+Description
+Prerequisites
+ME 305
+3
+Introduction to Finite Elements in ME
+ME 211
+ME 311
+3
+Strength of Materials
+ME 211 & MATH 216
+ME 406
+3
+Biomechanics for Engineering Students
+ME 320 & ME 382
+ME 412
+3
+Advanced Strengths of Materials
+ME 311
+ME 451
+3
+Properties of Advanced Materials for Design Engineers
+ME 382
+ME 456
+3
+Tissue Mechanics
+ME 211 & ME 240
+Design and Manufacturing
+Title
+Cr
+Description
+Prerequisites
+ME 401
+3
+Statistical Quality Control and Design
+Senior or graduate standing
+ME 452
+3
+Design for Manufacturability
+ME 350
+ME 458
+3
+Automotive Engineering
+ME 350
+ME 457
+3
+Front End Design
+ME 350
+ME 481
+3
+Manufacturing Processes
+ME 382
+ME 482
+3
+Machining Processes
+ME 382
+ME 483
+3
+Manufacturing System Design
+ME 250
+ME 487
+3
+Welding
+ME 382
+Thermal and Fluid Sciences
+Title
+Cr
+Description
+Prerequisites
+ME 401
+3
+Statistical Quality Control and Design
+Senior or graduate standing
+ME 336
+3
+Thermodynamics II
+ME 235
+ME 420
+3
+Fluid Mechanics II
+ME 320
+ME 432
+3
+Combustion
+ME 336, P/A ME 320
+ME 433
+3
+Advanced Energy Solutions
+ME 235
+ME 438
+4
+Internal Combustion Engines
+ME 235, ME 336, or permission of instructor
+ME 476
+4
+Bio-Fluid Mechanics
+ME 320
+Dynamics, Systems, and Controls
+Title
+Cr
+Description
+Prerequisites
+ME 424
+3
+Engineering Acoustics
+MATH 216 or PHYSICS 240
+ME 440
+4
+Intermediate Dynamics and Vibrations
+ME 240
+ME 461
+3
+Automatic Control
+ME 360
+Other
+Title
+Cr
+Description
+Prerequisites
+ME 400
+3
+Mechanical Engineering Analysis
+ME 240, ME 211, Math 216
+ME 490*
+3
+RISE
+Senior standing
+ME 499-001
+3
+Battery Systems and Controls
+Permission of Instructor
+*You should take this class if you are interested in gaining research experience. Contact a faculty member with whom you are interested in working. Alternatively, you may propose your own project and ask a faculty member to be your advisor. Research experience is encouraged if you are considering graduate school.
+See the RISE web page for details
+.
+Advanced Math
+In addition to the CoE Core math courses, the ME department requires students to complete at least 3 credits of Advanced Math. Students must earn a “D” grade or better to receive credit for the Advanced Math requirement, and it
+cannot
+be taken
+Pass/Fail
+. See the
+Approved Advanced Math List
+.
+Note:
+Students interested in the
+Sequential Undergraduate/Graduate Studies (SUGS)
+program who are thinking of double-counting their advanced math must select a course that has been approved as graduate level, which can be found on the
+Acceptable Graduate Math List
+.
+Electrical Circuits
+As part of the undergraduate ME degree, students must complete EECS 314 (4) – Electrical Circuits, Systems and Applications. Students must earn a “D” grade or better in EECS 314, and
+cannot
+take it
+Pass/Fail
+.
+Students that wish to complete an
+Electrical Engineering Minor
+should enroll in EECS 215 (4) – Introduction to Electronic Circuits, which will count in place of EECS 314 and follow the same grading rules. Students who are interested in the Electrical Engineering Minor should contact the
+EE Department
+for more information.
+General Electives (GEs)
+As part of the ME BSE degree, 119 required credits come from the CoE Core, Intellectual Breadth, and ME Program Specific categories. General Elective credits are the remaining credits needed to reach the minimum 128 total credits toward program required for graduation, which usually amounts to 9 to 12 credits of GEs. A grade of at least a “D” must be obtained, and
+can
+be taken
+Pass/Fail
+.
+For transfer students, students that received credit by exam, or students that transferred one or more courses from another institution, your total number of credits from the other categories may not equal 119 credits. As a result, you may have to enroll in more or less than 9 general elective credits, depending on how many credits are needed to reach the 128 credits required for graduation.
+For the description of what courses count as General Electives, please visit the
+CoE Bulletin
+.
+For more information, see the
+Requirement for a Bachelor’s Degree
+in the CoE Bulletin.
+How to Plan Your Schedule
+Each student is responsible for their academic career and progression to graduation. It is important to understand all policies, deadlines, and degree requirements. We understand that this process can be complex, so please visit the ME ASO. We are happy to help coach you along this important journey. We have several tools and guidelines, including the
+UG Degree Planning Tools
+, to help you select your courses in the proper sequence to complete your degree.
+Personal Degree Audit
+A great resource to take advantage of when planning your degree is the College of Engineering’s Personal Degree Audit. You can access your degree audit through your Wolverine Access under Student Business.
+General Scheduling Guidelines
+When planning your schedule to satisfy all of the degree requirements for the College of Engineering and the Mechanical Engineering department, there are several general guidelines you should follow:
+All
+CoE courses, including the 200 level Math and Physics courses, should be completed by the end of your sophomore year.
+The ME degree consists of three design courses (ME 250, ME 350, and ME 450/ME 455) and two laboratory courses (ME 395 and ME 495).
+NONE
+of these courses may be taken in the same semester. As a result, it is useful to start the planning process by placing these courses first, and then filling in the rest of your degree plan by following the prerequisites and co-requisites.
+Most students are eligible to declare ME at the start of their sophomore year. For a student following a traditional four-year college plan, this leaves six semesters to complete the ME curriculum. As none of the five design/laboratory courses can be taken in the same semester, there will be one semester in which you will not take a design/laboratory course; this is usually during the winter semester of your sophomore year. See study abroad information below.
+To maintain a more balanced schedule, we recommend students save some Intellectual Breadth and/or General Elective requirements for later in their degree when the majority of their schedule would otherwise be filled solely with ME courses.
+Intellectual Breadth and General Elective requirements can be fulfilled at community colleges over the spring/summer. This can be useful if a specific course will not fit into your schedule, or if you wish to maintain a lighter course load during the academic year. Many of these courses are offered in the evening, allowing for the simultaneous pursuit of a summer internship/co-op.
+Many students that come to the ASO early in their degree are determined to complete their BSE degree in exactly four years or less. While this is entirely achievable, an increasing number of our students prolong their degree a semester or two to pursue such things as study abroad or co-ops, both of which we highly encourage. Each student’s personal goals and interests will be different, so keep this in mind when planning your schedule.
+Prerequisites and Co-requisites
+Within the ME degree there are numerous prerequisites and co-requisites that every student must follow when enrolling for courses. These are illustrated in the table below:
+* For students minoring in Electrical Engineering, EECS 215 will count in place of EECS 314
+P/A – Preceded or Accompanied By (i.e. a co-requisite)
+Course Name (Credits)
+Course Description
+Requires
+Leads to
+Math 115 (4)
+Calculus I
+n/a
+Math 116, Phys 140/141, ME 320
+Math 116 (4)
+Calculus II
+Math 115
+Math 215, Math 216, ME 211, ME 235, ME 250
+Math 215 (4)
+Calculus III
+Math 116
+ME 320
+Math 216 (4)
+Differential Equations
+Math 116
+EECS 314, P/A: ME 240
+Engr 100 (4)
+Intro to Engineering
+n/a
+n/a
+Engr 101 (4)
+Intro to Computers and Programming
+n/a
+ME 250
+Chem 130 (3) / 125 (1) / 126 (1)
+General Chemistry and Lab
+n/a
+ME 235
+Phys 140 (4) / 141 (1)
+Physics I and Lab
+Math 115
+Phys 240/241, ME 211, ME 240
+Phys 240 (4) / 241 (1)
+Physics II and Lab
+Phys 140/141
+EECS 314, ME 395
+EECS 314* (4)
+Electrical Circuits
+Math 216, Phys 240/241
+P/A: ME 360
+ME 211 (4)
+Solid Mechanics
+Math 116, Phys 140/141
+ME 350, ME 382
+ME 235 (3)
+Thermodynamics I
+Math 116, Chem 130/125 or Chem 210/211
+ME 320
+ME 240 (4)
+Dynamics and Vibrations
+Phys 140/141, P/A: Math 216
+ME 320, ME 350, ME 360, ME 395
+ME 250 (4)
+Design and Manufacturing I
+Math 116, ENGR 101
+ME 350
+ME 320 (3)
+Fluid Mechanics I
+Math 215, ME 235, ME 240
+ME 335, ME 450
+ME 335 (3)
+Heat Transfer
+ME 320
+P/A: ME 495
+ME 350 (4)
+Design and Manufacturing II
+ME 211, ME 240, ME 250; Declared ME
+ME 450 / 455, P/A: ME 495
+ME 360 (4)
+Systems and Controls
+ME 240, P/A: EECS 314
+ME 450 / 455, ME 495
+ME 382 (4)
+Behavior of Materials
+ME 211
+P/A: ME 395
+ME 395 (4)
+Laboratory I
+Phys 240/241, ME 211, ME 235, ME 240,  P/A: ME 382; Declared ME
+ME 495
+ME 450 / 455 (4)
+Design and Manufacturing III
+ME 320, ME 350, ME 360, ME 395; Declared ME
+n/a
+ME 495 (4)
+Laboratory II
+ME 360, ME 395, P/A: ME 335, ME 350; Declared ME
+n/a
+For a visual representation of the prerequisites and co-requisites listed above, see the
+ME Course Flow Diagram
+shown below. Each row in the diagram represents a sample term within an eight term (four year) degree, and is laid out to show when a student might take each course to satisfy the prerequisites and co-requisites for the ME degree. Although the sample schedule detailed here would satisfy all requirements in the appropriate sequence, it is only a few of the many possible schedules that would work, depending on a student’s individual circumstances.
+Sample Schedule
+The sample schedule below lists all courses required to complete a BSE degree in Mechanical Engineering at the University of Michigan. This sample schedule is meant to be a guide only and will likely be different from most students’ long-term degree plans.
+The sample schedule assumes all courses will be taken at UM Ann Arbor and that the degree will be completed in four years.Many students enter the College of Engineering with AP credit from high school or transfer credits from another institution during their degree.
+Many students enter the College of Engineering with AP credit from high school or transfer credits from another institution during their degree.
+Additionally, students may prolong their degree past eight semesters to pursue co-op and/or study abroad opportunities.
+As ME courses are in high demand and can fill quickly, it is advisable that students remain flexible in their course selection for each term and have backup options.
+The Academic Services Office is happy to review degree plans, but each student is ultimately responsible for selecting a schedule that meets their needs, within the degree requirements.
+Mechanical Engineering Sample Schedule
+Total
+Terms:
+Credit Hours
+1
+2
+3
+4
+5
+6
+7
+8
+Subjects Required by all Programs (52-55 hours)
+Mathematics 115+, 116+, 215+, 216+
+16
+4
+4
+4
+4
+–
+–
+–
+–
+Engineering 100, Introduction to Engineering+
+4
+4
+–
+–
+–
+–
+–
+–
+–
+Engineering 101, Introduction to Computers+
+4
+–
+4
+–
+–
+–
+–
+–
+–
+Chemistry 125+/126+ and 130+ or Chemistry 210+ and 211
+1
++
+5
+5
+–
+–
+–
+–
+–
+–
+–
+Physics 140+ with lab 141
+2
++
+5
+–
+5
+–
+–
+–
+–
+–
+–
+Physics 240+ with lab 241
+2
++
+5
+–
+–
+5
+–
+–
+–
+–
+–
+Intellectual Breadth
+(including one course in economics)
+4
+16
+3
+4
+–
+–
+–
+3
+–
+6
+Related Program Subjects (7 hours)
+Advanced Mathematics
+3#
+3
+–
+–
+–
+–
+–
+3
+–
+–
+EECS 314, Circuits (or EECS 215)
+#
+4
+–
+–
+–
+–
+4
+–
+–
+–
+Program Subjects (45 hours)
+ME 211, Introduction to Solid Mechanics +
+4
+–
+–
+4
+–
+–
+–
+–
+–
+ME 235, Thermodynamics I +
+3
+–
+–
+–
+3
+–
+–
+–
+–
+ME 240, Introduction to Dynamics and Vibrations +
+4
+–
+–
+–
+4
+–
+–
+–
+–
+ME 250, Design and Manufacturing I +
+4
+–
+–
+–
+4
+–
+–
+–
+–
+ME 320, Fluids I +
+3
+–
+–
+–
+–
+3
+–
+–
+–
+ME 335, Heat Transfer
+#
+3
+–
+–
+–
+–
+–
+3
+–
+–
+ME 350, Design and Manufacturing II *
+4
+–
+–
+–
+–
+4
+–
+–
+–
+ME 360, Systems and Controls *
+4
+–
+–
+–
+–
+–
+4
+–
+–
+ME 382, Engineering Materials *
+4
+–
+–
+–
+–
+4
+–
+–
+–
+ME 395, Laboratory I *
+4
+–
+–
+–
+–
+–
+4
+–
+–
+ME 450/455, Design and Manufacturing III
+#
+4
+–
+–
+–
+–
+–
+–
+–
+4
+ME 495, Laboratory II
+#
+4
+–
+–
+–
+–
+–
+–
+4
+–
+Electives (21 to 24 hours)
+Technical Electives
+3#
+9
+–
+–
+–
+–
+–
+–
+6
+3
+Specialization Elective
+5#
+3
+3
+General Electives
+#
+9
+–
+–
+3
+–
+–
+6
+–
+Total
+128
+16
+17
+16
+15
+15
+17
+16
+16
+Notes:
+1. If you have a satisfactory score or grade in Chemistry AP, A-Level, IB Exams or transfer credit from another institution for Chemistry 130/125/126 or Chemistry 210/211, you will have met the Chemistry Core Requirement for the College of Engineering.
+2. If you have a satisfactory score or grade in Physics AP, A-Level, IB Exams or transfer credit from another institution for Physics 140/141 and/or Physics 240/241 you will have met the Physics Core Requirement for the College of Engineering.
+3.
+Advanced Mathematics
+and
+Technical Electives
+: A list of approved courses is available in this handbook. You can follow the links to their respective lists.
+4. The ME department requires each student to take at least 3 credit hours of economic or financial coursework as part of their Intellectual Breadth requirements. Any course on the supplied list within LSA fulfills the Intellectual Breadth as a LAC. Any course on the supplied list outside of LSA fulfills the Intellectual Breadth as a Professional & Creative Development Course (PCDC).
+5. A specialization elective is any three credit course that meets the requirement of either 1) having a 300 level or higher prerequisite or 2) being any 300 level or higher ME course.
+(+) Students must earn a “C” or better in prerequisite courses indicated by the (+) symbol;
+(*) Students must earn a “C-“ or better in prerequisite design/manufacturing or lab course indicated by (*) symbol;
+(#) Students must earn a “D” or better in advanced courses indicated by the (#) symbol.
+Any grade less than indicated must be repeated prior to taking a subsequent class for which the class is required; Students are limited to two “attempts” without permission from the ME Undergraduate Chair.
+“D” Rule: No grade less than a “D” shall be earned in any course used for degree credit.
+The Mechanical Engineering program offers several dual and joint degree programs. Also, minors through LS&A (see CoE Bulletin) and a Concentration in Manufacturing Systems Design or in Energy Systems are available. Refer to the ME website or consult with staff in the ASO.
+*There are Dual Degree programs with other Engineering Departments and Joint (MDDP) degrees with other Schools, such as Music and LS&A.
+Additional Academic Options
+Concentrations
+Within the undergraduate degree program, the ME department offers three Concentrations: Energy, Manufacturing Systems, and Robotics. These Concentrations are not required, however, they allow interested students to focus their upper level electives in a specific subject area. If you elect to pursue a Concentration, it is possible to satisfy both the ME
+Technical Elective
+and
+Specialization Elective
+requirements as well as the requirements for the Concentration, which are provided below.
+For students interested in declaring a Concentration, please visit the
+UG Degree Planning Tools
+section of the Student Intranet. Click on the Manage Concentration tab, choose the Concentration you would like from the drop-down box, and click Submit Request. After you graduate and the completion of the Concentration has been confirmed, you will see the Concentration on your official transcript, but not your diploma.
+If you have already declared a Concentration and wish to drop it, simply visit the UG Degree Planning Tools site, choose the concentration you wish to drop, and click Submit Remove Request.
+Energy Concentration
+Global economic, geopolitical, and environmental factors all suggest that improvements are needed in the way that energy is produced, converted, and utilized in the modern world. Mechanical systems are integral to all three of these activities. The undergraduate concentration in energy, consisting of 12 credit hours, is defined below. For more information, contact the advisors in the Academic Services Office or Professor Wooldridge
+(mswool@umich.edu)
+.
+Students must be in good standing to declare the concentration and must pass all classes with satisfactory grades. Students may not take courses for the energy concentration
+pass/fail
+. Students may petition to have alternate courses considered by emailing
+mswool@umich.edu
+and copying
+me-aso@umich.edu
+.
+Concentration requirements:
+Required Course (3 cr):
+ME 433 – Advanced Energy Solutions
+Choice of Engineering Science Courses (6 cr)
+AEROSP 335 – Aircraft and Spacecraft Propulsion
+AEROSP 533 – Combustion Processes
+CEE 365 – Environmental Engineering Principles
+CEE 465- Environmental Process Engineering
+CEE 480- Design of Environmental Engineering Systems
+CEE/ESENG 567 – Energy Infrastructure Systems
+CEE 565 / ESENG 501 – Seminars on Energy System Technology and Policy
+CLIMATE/SPACE/EARTH 350 – Atmospheric Thermodynamics
+CLIMATE 410/EARTH 409 – Earth System Modeling
+EECS 463 – Power System Design and Operation
+EECS 498-05 – Solid-State Lighting and Solar Cells
+MECHENG 336 – Advanced Thermodynamics
+MECHENG 420 – Fluid Mechanics II
+MECHENG 432 – Introduction to Combustion
+MECHENG 438 – Internal Combustion Engines
+MECHENG 489 – Sustainable Engineering and Design
+MECHENG 530 – Advanced Heat Transfer
+MECHENG 535 – Thermodynamics III
+MECHENG 537 – Advanced Combustion
+MECHENG 539 – Heat Transfer Physics
+MECHENG 565 – Battery Controls
+MECHENG 569 – Powertrain Control
+MECHENG 571 / ESENG 505 – Energy Generation and Storage Using Modern Materials
+MECHENG 589 – Sustainable Design
+MECHENG 599 – Fundamental Concepts in Electrochemical Energy Storage
+MATSCIE 555 – Materials Energy Conversion
+NERS 442 – Nuclear Power Reactors
+Choice of Natural Resource and Environment Courses (3 cr):
+EAS 475 / ENVIRON 475 / EHS 588 – Environmental Law
+EAS 480/ CLIMATE 480 – Climate Change
+EAS 512 + EAS 513 – Sus Dev I: Ent Intgr (1.5 credits) and Sus Dev II: Mkt Tran (1.5 credits)
+Both courses must be taken to satisfy requirement
+EAS 560 / ENVIRON 360 / PSYCH 360/ URP 544 / SW 710 – Behavior and Environment
+EAS 561- Psychology of Environmental Stewardship
+EAS 562 – Environmental Policy, Politics, and Organizations
+EAS 574/PUBPOL 519/RCNSCI 419 – Sustainable Energy Systems
+ECON 370 – Environment & Resources Economics (can count toward your upper division LAC requirement)
+ENVIRON 235- Environmental Economics and Policy
+ENVIRON 242 – Topics in Environmental Social Science
+ENVIRON 321 – Climate Change and Adaptation
+ENVIRON 412 – Environmental Values in Public Policy
+ENVIRON 441/EAS 541 – Remote Sensing of Environment
+ESENG 501/CEE 565 – Seminars on Energy Systems, Technology and Policy
+Please talk with an advisor if you’re unsure how to count the Concentration requirements towards the ME degree requirements.
+MANUFACTURING CONCENTRATION
+The cross-disciplinary Manufacturing Concentration (MC) in Mechanical Engineering is designed to help create leaders in advanced manufacturing for future research and industry positions. It allows students to take both free electives and advanced technical electives that lead to the MC being added to the BSE degree. This concentration is open to undergraduates pursuing a degree in the Mechanical Engineering department. For more information and details, please
+visit the MC Site
+.
+The concentration consists of at least 12 credit hours of graded coursework in manufacturing related areas; specifically, two concentration core courses and two elective courses. Students may petition to have alternate courses considered by emailing the MC Committee (see below)  and copying me-aso@umich.edu.
+MC committee:
+Chair: Professor Dan Cooper (drcooper@umich.edu)
+Vice-chair: Professor Chinedum Okwudire (okwudire@umich.edu)
+Professor Cooper offers a weekly Manufacturing Concentration
+office hour
+every Thursday at 4:00 PM during semester via
+Zoom
+or in 2458 GG Brown.
+Concentration Requirements:
+A. Required Core classes (6 credit hrs.):
+ME 481: Manufacturing Processes
+ISD 599: Smart Manufacturing Systems
+(
+available in Winter terms and distinct from
+ISD 599: Foundations in Smart Additive Manufacturing
+, which does
+NOT
+count as a core class
+).
+B. Choose any 6 credit hours from the following courses:
+ME 401: Statistical Quality Control and Design
+ME 452: Design for Manufacturability
+ME 489: Sustainable Design of Technology Systems
+ME 490: Manufacturing relevant research. Needs approval of MC committee.
+(Forward written approval to ME ASO)
+ME 552: Mechatronics Systems Design
+ME 567: Robot Kinematics and Dynamics
+ME 584: Advanced Mechatronics for Manufacturing
+ME 585: Machining Processes (To be first taught in W22)
+ME 587: Global Manufacturing
+ME 588: Assembly Modeling for Design and Manufacturing
+ME 599: Metals Manufacturing
+ME 599: Additive Manufacturing
+ME 599: Residual stresses and Distortions in Modern Manufacturing
+ME 599: Introduction to Robotic Manipulation
+ISD 599: Foundations in Smart Additive Manufacturing
+IOE 425: Manufacturing Strategies
+IOE 441: Production and Inventory Control
+IOE 447: Facility Planning
+IOE 449: Material Handling Systems
+IOE 466: Statistical Quality Control (students can not take both IOE 466 & ME 401 separately)
+EECS 569: Production Systems Engineering
+MSE 412: Polymeric Materials
+MSE 440: Ceramic Materials
+(MSE prerequisite – check with the instructor)
+MSE 514: Composite materials
+(MSE prerequisite – check with the instructor)
+Talk with your
+Undergraduate Academic Advisor
+to determine how these courses can work towards your degree requirements.
+The course matrix below may help you in exploring the manufacturing concentration course selection.
+ROBOTICS CONCENTRATION
+Mechanical engineers have a tremendous opportunity to play a key role in the transformation that robotics will bring to our society. Given their knowledge of dynamics/control, mechatronics/design/manufacturing, and mathematics, mechanical engineers are well-positioned to contribute to the
+sensing, reasoning, and acting
+paradigm underlying robotics. The Robotics Concentration will enable students to enhance their expertise in one or more of these areas, thus positioning them to contribute to the conception, design, development, control, and use of robots in the future, whether pursuing a career in Mechanical Engineering or Robotics.
+Open to Mechanical Engineering undergraduates, the Robotics concentration consists of 12 credit hours, with details below.
+Students must be in good academic standing to declare the concentration.
+Classes must be taken for a letter grade and passed with satisfactory grades relevant to its use in the degree. Please see
+ME Grade Policy
+.
+For more information, contact the advisors in the Academic Services Office or Professor Elliott Rouse (ejrouse@umich.edu).
+Students may petition to have alternate courses considered by emailing Prof. Elliott Rouse and cc’ing me-aso@umich.edu.
+Concentration Requirements (with number of credits and notable pre-reqs in parentheses. It is advised that students check course descriptions for full information regarding prerequisites):
+Requirement A:
+Choose one course among the following linear algebra courses:
+ROB 101 – Computational Linear Algebra
+Math 214 Applied Linear Algebra
+Math 217 Linear Algebra
+Math 417 Matrix Algebra I
+Math 419 Linear Spaces and Matrix Theory
+ME 564 (or EECS 560)  Linear Systems Theory
+Requirement B: Choose at least one course among the following core ME robotics-related courses:
+ME 440 Intermediate Dynamics and Vibrations
+ME 461 Automatic Control or EECS 460 Control Systems Analysis and Design
+Note: ME students can request the ECE Department for an override/permission to enroll after taking EECS 215 or EECS 314 and ME 360.
+ME 499 Mechatronics and Robotics or ME 552 Mechatronic Systems Design
+Requirement C: Choose any of the remaining credits from any of the following specialization courses:
+Dynamics and control
+ME 540 Intermediate Dynamics
+ME 543 Analytical and Computational Dynamics
+ME 560 Modeling Dynamic Systems
+ME 561 Design of Digital Control Systems
+ME 567 Robot Kinematics and Dynamics
+Mechatronics, Design, and Manufacturing
+ME 483 Manufacturing System Design
+ME 584 Advanced Mechatronics for Manufacturing
+Math, Computation, Machine Learning, and Data-Driven Modeling
+ME 499 Introduction to Computation and Machine Learning for Engineering
+ME 599 Computational and Data-Driven Methods in Engineering
+Other courses
+ME 490 Research, Innovation, Service, Entrepreneurship in Robotics
+ME 542 Vehicle Dynamics and Automation
+ME 545 Dynamics and Control of Connected Vehicles
+ME 565/499 Battery Systems and Control
+ME 566 Modeling, Analysis, and Control of Hybrid Electric Vehicles
+ME 569 Control of Advanced Powertrain Systems
+BME 442 Introduction to Biomedical Imaging
+EECS 464 Hands-on Robotics
+NAVARCH 565 Self Driving Cars: Perception and Control
+*BME 517 Neural Engineering
+*EECS 461 Embedded Control Systems
+ROB 416 Multi-Robot Systems
+ROB 430 Deep Learning for Robot Perception and Manipulation
+ROB 435 Quantifying Human Motion Through Wearable Sensors
+ROB 472 Marine Robotics
+*These courses have non-trivial pre-reqs
+For illustrative purposes, below are examples of specific paths within the present concentration:
+Robot dynamics and control: ME 440, ME 461, ME 567 + linear algebra
+Autonomous vehicles: ME 440, ME 542, NAVARC 565 + linear algebra
+Robot design and systems: ME 499, ME 483, ME 584 + linear algebra
+Fundamental Mechanical Engineering robotics: ME 440, ME 461, ME 499 + linear algebra
+Independent Study – ME490/ME491
+ME x90 (290, 390, 490) are individual or group project work where students apply mechanical engineering principles to research, innovation, service or entrepreneurship projects. Undergraduate students have the opportunity to work alongside world-renowned faculty in state-of-the -art facilities on real-world projects that impact our society and future. Students can participate in a RISE project a) individually with an ME professor, b) as a member of a larger multi-disciplinary project, or c) through their co-curricular experiences across the University (e.g. BLUELab, Multidisciplinary Design Program, International Programs or the College of Engineering Honors Program). Students may engage in the RISE program for one or several terms throughout their academic career. This unique experience teaches students to holistically connect all aspects of their UM life including coursework, co-curricular activities, and community to make a lasting difference in the world.
+Visit the RISE page for more information
+.
+Students with senior standing can receive
+Technical Elective
+credit for completing ME490 research. ME490 can count as a 400-level Technical Elective. It cannot count as a Core Technical Elective. For students interested in continuing their independent research project over two semesters, or completing two unique independent research projects, they can enroll in ME491.
+ME491 can be for Specialization Elective credit or General Elective credit if ME490 was counted as 400-level a Technical Elective.
+ME491 can be counted as a General Elective if ME490 was counted as a Specialization Elective.
+ME490 is required before ME491.
+Minors & Certifications
+For students looking to complement their Mechanical Engineering degree with additional coursework in another area of interest, there are several minors and programs available to choose from. In general, the department offering the minor is always the one responsible for establishing requirements for that minor and declaring students into the minor. Questions related to a minor should be directed to the specific department.
+Depending on the minor chosen and the amount of course overlap with
+ME degree requirements
+, some courses may be able to be counted for both the BSE degree and the minor. If a course required for a minor will not fit in any of the categories of requirements for the ME degree, it will likely count as a General Elective.
+Students interested in pursuing a minor should visit the websites listed below.
+CoE Concentrations, Minors, and Supplemental Studies
+Additional Approved Academic Minors
+Study Abroad
+Students who engage in Study Abroad opportunities gain first-hand knowledge of other cultures and learn to appreciate cultural diversity. In addition, from these experiences, students learn to approach engineering problems with new insight. This experience allows students to more readily adapt to new situations and successfully interact with colleagues from around the world.
+If you are interested in studying abroad and earning credit internationally, please visit the
+study abroad
+section of the International Programs in Engineering website. Keep in mind that it will be difficult to find any of our design or lab courses abroad (i.e. ME 250, ME 350, ME 395, ME 450/455, and ME 495). Because none of these courses can be taken in the same semester, we recommend that students planning to go abroad do so the winter semester of their sophomore year (e.g. take ME 250 in the fall semester) or go abroad over a summer.
+To determine if a study abroad course will transfer to the UM, please visit the
+CoE Equivalency Database
+and the
+OUA Equivalency Database
+.
+If you are planning a study abroad experience, but not through the University of Michigan, you should complete a
+Transfer Credit Approval Form
+(TCAF). The TCAF is designed for current College of Engineering students to have a course pre-approved before their enrollment as a guest student.
+Dual and Joint Undergraduate Degrees
+Dual Degrees
+Dual degrees may be obtained with Mechanical Engineering and other programs in the College of Engineering. These require 142 (minimum) credits hours, and result in the award of two BSE degrees (one in Mechanical Engineering and one in the other program). Since these programs involve a substantial amount of double-counting of credit, a dual degree student
+cannot
+enter the SUGS program. Transfer credit may also be limited.
+Admission to a dual degree program requires approval from both departments and is available for any student who has maintained a GPA of 3.0 or higher, both cumulative as well as in “core” subjects (2.7 cumulative GPA for MDDP).
+These Dual Degree programs currently exist:
+Aerospace Engineering
+Chemical Engineering
+Computer Engineering
+Computer Science
+Computer Science Engineering
+Civil and Environmental Engineering
+Electrical Engineering
+Engineering Physics
+Industrial and Operations Engineering
+Materials Science and Engineering
+Naval Architecture and Marine Architecture
+Nuclear Engineering and Radiological Sciences
+If you are interested in completing a dual degree with another undergraduate program within the College of Engineering that is not listed above, please send an email to me-aso@umich.edu. The ASO will work with you to determine whether a specialized program can be established.
+Joint Degrees
+Joint Degrees
+allow students to pursue two separate bachelor degrees simultaneously in two different colleges.
+LS&A
+School of Music
+Art and Design
+Ross School of Business
+Combined Undergraduate/Graduate Degrees
+Sequential Undergraduate/Graduate Studies (SUGS)
+The ME SUGS program allows qualified CoE students to pursue a five-year sequential Bachelor’s and Master’s degree. For more information, visit the
+Master’s Degree and SUGS
+section of the Graduate Handbook.
+Engineering Global Leadership (EGL) Honors Program
+The
+Engineering Global Leadership Honors Program (EGL)
+combines a traditional engineering undergraduate curriculum with courses in the Ross School of Business and the International Minor for Engineers. The EGL Honors Program leads to a Bachelor’s and Master’s degree from the College of Engineering.
+EGL students pursuing a Bachelor’s degree in Mechanical Engineering are required to meet all ME degree requirements. To identify coursework that can count toward both the ME BSE degree and EGL, please schedule an appointment with an EGL Advisor.

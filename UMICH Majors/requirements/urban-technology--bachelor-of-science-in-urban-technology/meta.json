@@ -1,0 +1,17 @@
+{
+  "id": "urban-technology--bachelor-of-science-in-urban-technology",
+  "name": "Urban Technology",
+  "school_college": "Taubman College of Architecture & Urban Planning",
+  "program_url": "https://taubmancollege.umich.edu/academics/urban-and-regional-planning/bachelor-of-science-in-urban-technology/",
+  "status": "fetched",
+  "message": "degree program page saved (no nested requirements link)",
+  "program_final_url": "https://taubmancollege.umich.edu/academics/urban-and-regional-planning/bachelor-of-science-in-urban-technology/",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://taubmancollege.umich.edu/news/2026/04/16/urban-technology-students-to-present-microgrid-interface-project-at-milan-design-week/",
+  "requirements_link_text": "Urban Technology students to present microgrid interface project at Milan Design Week",
+  "requirements_link_score": 115,
+  "requirements_link_strategy": "hub_program_page",
+  "requirements_final_url": "https://taubmancollege.umich.edu/news/2026/04/16/urban-technology-students-to-present-microgrid-interface-project-at-milan-design-week/",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:50:31.884131+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "social-theory-and-practice-administered-by-the-residential-college--social-theory-and-practice-stp-html",
+  "name": "Social Theory and Practice (Administered by the Residential College)",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/rc/curriculum/social-theory-and-practice--stp-.html",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (program URL)",
+  "program_final_url": "https://lsa.umich.edu/rc/curriculum/social-theory-and-practice--stp-.html",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/rc/curriculum/social-theory-and-practice--stp-.html",
+  "requirements_link_text": "(program page is requirements)",
+  "requirements_link_score": 200,
+  "requirements_link_strategy": "program_is_requirements",
+  "requirements_final_url": "https://lsa.umich.edu/rc/curriculum/social-theory-and-practice--stp-.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:48:56.253458+00:00"
+}

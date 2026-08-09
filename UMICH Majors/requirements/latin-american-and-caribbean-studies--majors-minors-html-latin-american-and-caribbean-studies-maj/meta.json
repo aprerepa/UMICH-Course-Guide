@@ -1,0 +1,18 @@
+{
+  "id": "latin-american-and-caribbean-studies--majors-minors-html-latin-american-and-caribbean-studies-maj",
+  "name": "Latin American and Caribbean Studies",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#latin_american_and_caribbean_studies-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#latin_american_and_caribbean_studies-maj",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/latin-american-and-caribbean-studies-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/latin-american-and-caribbean-studies-major.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:43:42.341893+00:00",
+  "lsa_resolved_row_id": "latin_american_and_caribbean_studies-maj"
+}

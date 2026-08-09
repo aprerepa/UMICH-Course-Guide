@@ -1,0 +1,443 @@
+Page header:
+page title: Linguistics Major | U-M LSA U-M College of LSA
+
+Visible page text:
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+About
+Academics
+Research
+News and Events
+Support LSA
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Course Catalog
+Give Online
+Keyword Search of en
+About
+Academics
+Research
+News and Events
+Support LSA
+Course Catalog
+Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+LSA 101: Info for Admitted Students
+Learn what it means to be a Wolverine and dig in to what the liberal arts are all about. View our presentations and information from wherever you are.
+Undergraduate
+Graduate
+Transfer
+International
+Student Life
+Admissions
+Student Stories
+Outcomes and Possibilities
+LSA delivers a purposeful, pragmatic liberal arts education that employers respect and seek out.
+Undergraduate
+Graduate
+Transfer
+Education
+Academic Advising
+Outcomes and Possibilities
+College Connections
+College Connections provides a space for alumni and families to share their student experiences with recent LSA graduates and provide feedback on the current and future state of the College.
+Get Connected
+Get Involved
+Get Informed
+College Connections
+Staff Achievement Awards Program
+This is an annual opportunity to acknowledge and celebrate exceptional staff contributions to the success of the College . Information regarding eligibility, nomination, selection, notification, and winners can be found here.
+Budget and Finance
+Chairs and Directors
+Facilities and Operations
+Faculty Academic Affairs
+Graduate Education
+Human Resources
+LSA Advancement
+LSA Research Office
+Office of the Dean
+Security and Safety
+Standard Practice Guide
+Student Academic Affairs
+Technology Services
+Undergraduate Education
+Skip to Page Content
+Academics
+Majors and Minors
+Linguistics Major
+...
+Linguistics Major
+Academics
+Majors and Minors
+[X] close
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Linguistics Major
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Advising
+Department Website
+Effective Fall 2023
+Advising
+Advising appointments can be made
+here
+or by contacting
+linguistics-ssc@umich.edu
+Prerequisites
+None; LING 111, 209, or 210 are recommended. (One of 209 or 210 may count toward the major, but not both)
+Requirements
+Minimum Credits:
+30
+Minimum Credits
+: 30
+The Linguistics major requires a total of 30 credits, subject to the constraints below.  All credits must be at the 300 level or higher, except for either LING 209 or 210, one of which may count towards the major.
+Required Core Courses (12 credits).
+All majors are required to take the following four courses in the Linguistics Department. The coursework in LING 313, 315, and 316 should be completed as soon as possible, to ensure that all students gain a solid understanding of Linguistics before electing further courses.
+LING 313
+: Sound Patterns. This course explores two fundamental aspects of sounds in language: speech sounds as physical entities (phonetics) and speech sounds as linguistic units (phonology).
+LING 315
+: Introduction to Syntax. This course examines the rule systems whereby words are organized into phrases and phrases into sentences in natural languages.
+LING 316
+: Aspects of Meaning. This course introduces students to the study of meaning in language (semantics).
+LING 497
+: Capstone Seminar. This seminar brings previous coursework, particularly the other required courses, to bear on a specific topic that may vary by term. LING 313, 315, and 316 are prerequisites for 497, but may be taken concurrently with the instructor’s permission.
+Students may request to replace a core course with an equivalent advanced, transfer, or study abroad course, but such substitutions are not guaranteed.
+Electives (18 credits)
+. Beyond the four core courses, majors fill out their program of 30 total credits, in consultation with a Linguistics advisor, using courses from the categories below:
+Other Linguistics Courses
+. Other courses at the 300-level or higher with a LING number, including cross-listed courses. Also, one of LING 209 or LING 210, but not both, may count toward the major.
+Cognate Courses
+. Each term, the Linguistics Department posts on its website a list of cognate courses from other departments that are pre-approved for the major. Students may also request that courses not on this list count towards the major, following the guidelines linked here.
+Independent Study/Experiential Coursework (at most 9 credits)
+. Independent study and experiential practice courses with a LING number may count towards the major, up to a combined total of 9 credits. For more details on independent studies,
+please see our guidelines
+.
+Study Abroad & Transfer Credit
+. Current students interested in studying abroad or taking courses at another institution must submit a request to pre-approve these courses. Upon completion, students must provide material from the courses (such as the syllabus, lecture notes, and graded homework, papers, and exams) to confirm this pre-approval.
+Other Department Policies
+Double Major
+. Because the study of language is quite often interdisciplinary, a major in Linguistics can be designed to integrate very well with other academic fields. As a result, it is very common for Linguistics majors to also major in a second field. An LSA double major requires satisfying all of the requirements for the major of both programs. However, neither LSA nor the Department of Linguistics imposes any limit on "double-counting" courses between majors, allowing students to double-major with substantially fewer than 60 total major credits. (Check with an advisor in the second major, though, to confirm their policy on shared courses)
+Residency
+Transfer Students
+. Upon matriculation, transfer students
+should submit a request for their transfer courses to receive Linguistics credit
+as soon as possible.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the LING subject area may not be used toward the Distribution Requirement.
+Honors
+The Honors major in Linguistics requires completion of the requirements for the major and, in addition, a senior Honors project leading to an Honors thesis. The thesis must be written under the supervision of a faculty member of the Department of Linguistics and with permission of a department advisor. Students may elect LING 495 and 496 when writing the Honors thesis (but are not required to do so). Finally, LSA requires students in an Honors major to maintain a GPA of 3.4 or higher overall (not just in Linguistics).
+Linguistics (Major) (Fall 2021 - Summer 2023)
+Effective Fall 2021
+Advising
+Advising appointments can be made
+here
+or by contacting
+linguistics@umich.edu
+Prerequisites
+None; LING 111, 209, or 210 are recommended.  (One of 209 or 210 may count toward the major, but not both.)
+Requirements
+Minimum Credits:
+30
+The Linguistics major requires a total of 30 credits at the 300 level or higher, subject to the constraints below.
+Required Core Courses (12 credits).
+All majors are required to take the following four courses in the Linguistics Department. The coursework in LING 313, 315, and 316 should be completed as soon as possible, to ensure that all students gain a solid understanding of Linguistics before electing further courses, especially 497.
+LING 313: Sound Patterns.
+This course explores two fundamental aspects of the sounds of the world’s languages: speech sounds as physical entities (phonetics) and speech sounds as linguistic units (phonology).
+LING 315: Introduction to Syntax.
+This course examines the rule systems whereby words are organized into phrases and phrases into sentences in natural languages.
+LING 316: Aspects of Meaning.
+This course introduces students to the study of meaning in language.
+LING 497: Capstone Seminar.
+This seminar brings previous coursework, particularly the other required courses, to bear on a specific topic that may vary by term. LING 313, 315, and 316 are prerequisites for 497, but may be taken concurrently with permission of instructor.
+In extraordinary circumstances, with permission of the Director of Undergraduate Studies, an advanced course in the area of phonetics/phonology, semantics, or syntax could satisfy the LING 313, 315, or 316 requirement.
+Electives (18 credits).
+Beyond the four core courses, majors are encouraged to fill out their program of 30 total credits, in consultation with a Linguistics advisor, using courses from the categories below.
+Regular Linguistics Classroom Courses (at least 6 additional credits).
+Majors must complete at least 18 total credits of traditional classroom courses offered by the Department of Linguistics. (The core courses account for 12 of these 18 credits.) Note that cross-listed courses count towards this category whether or not students enroll under the LING number, but meet-together courses only count when registered under the LING number.
+Any remaining credits (up to 12) may be met using the following flexible categories:
+Independent Study Courses (at most 6 credits).
+At most 6 credits of independent study or independent reading courses may count towards the major.  For more details, see our
+guidelines on independent studies
+.
+Experiential Practice Courses (at most 6 credits).
+At most 6 credits of experiential practice courses may count towards the major. (Note that this is calculated separately from the limit on independent studies; a student might theoretically take 6 credits of each.)
+Cognate and Transfer Courses.
+Subject to the limits above, approved cognate courses offered by another program or department and/or approved transfer credits from another institution may count towards the major. Each term, the Linguistics Department posts a list of cognates on its website that are pre-evaluated for the major. Students may also request that courses not on this list (including transfer credit) count towards the major. These requests must be individually evaluated by the Linguistics Director of Undergraduate Studies, who will generally follow
+the guidelines linked here
+.
+LING 209 or LING 210
+: One of these courses, but not both, may count toward the major.
+Other Department Policies
+Double Major.
+Because the study of language is quite often interdisciplinary, a major in Linguistics can be designed to integrate very well with other academic fields. As a result, it is very common for Linguistics majors to also major in a second field. An LSA double major requires satisfying all of the requirements for the major of both programs. However, neither LSA nor the Department of Linguistics imposes any limit on "double-counting" courses between majors, allowing students to double-major with substantially fewer than 60 total major credits. (Check with an advisor in the second major, though, to confirm their policy on jointly counted courses.)
+Residency
+Study Abroad / Transfer Credit
+Current students interested in pursuing a study-abroad program or taking any courses at another institution must first meet with the Linguistics Director of Undergraduate Studies to have their courses pre-evaluated for Linguistics major credit.  Upon completion of these courses, students must meet again with the Director of Undergraduate Studies to provide material from the course (such as the syllabus, lecture notes, and graded homework, papers, and exams).
+Although new transfer students cannot seek pre-evaluation for transfer courses, they should bring as much of this material as possible to the Director of Undergraduate Studies when seeking Linguistics major credit.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the LING subject area may not be used toward the Distribution Requirement.
+Honors
+The Honors major in Linguistics requires completion of the requirements for the major and, in addition, a senior Honors project leading to an Honors thesis. The thesis must be written under the supervision of a faculty member of the Department of Linguistics and with permission of a department advisor. Students may elect LING 495 and 496 when writing the Honors thesis (but are not required to do so). Finally, LSA requires students in an Honors major to maintain a GPA of 3.4 or higher overall (not just in Linguistics).
+Linguistics (Major) (Winter 2018 - Summer 2021)
+Effective Winter 2018
+Advising
+Advising appointments can be made
+here
+or by contacting
+linguistics@umich.edu
+Prerequisites
+None; LING 111, 209, 210 or 212 are recommended.
+Requirements
+Minimum Credits:
+30
+The Linguistics major requires a total of 30 credits at the 300 level or higher, subject to the constraints below.
+Required Core Courses (12 credits).
+All majors are required to take the following four courses in the Linguistics Department. The coursework in LING 313, 315, and 316 should be completed as soon as possible, to ensure that all students gain a solid understanding of Linguistics before electing further courses, especially 497.
+LING 313: Sound Patterns.
+This course explores two fundamental aspects of the sounds of the world’s languages: speech sounds as physical entities (phonetics) and speech sounds as linguistic units (phonology).
+LING 315: Introduction to Syntax.
+This course examines the rule systems whereby words are organized into phrases and phrases into sentences in natural languages.
+LING 316: Aspects of Meaning.
+This course introduces students to the study of meaning in language.
+LING 497: Capstone Seminar.
+This seminar brings previous coursework, particularly the other required courses, to bear on a specific topic that may vary by term. LING 313, 315, and 316 are prerequisites for 497, but may be taken concurrently with permission of instructor.
+In extraordinary circumstances, with permission of the Director of Undergraduate Studies, an advanced course in the area of phonetics/phonology, semantics, or syntax could satisfy the LING 313, 315, or 316 requirement.
+Electives (18 credits).
+Beyond the four core courses, majors are encouraged to fill out their program of 30 total credits, in consultation with a Linguistics advisor, using courses from the categories below.
+Regular Linguistics Classroom Courses (at least 6 additional credits).
+Majors must complete at least 18 total credits of traditional classroom courses offered by the Department of Linguistics. (The core courses account for 12 of these 18 credits.) Note that cross-listed courses count towards this category whether or not students enroll under the LING number, but meet-together courses only count when registered under the LING number.
+Any remaining credits (up to 12) may be met using the following flexible categories:
+Independent Study Courses (at most 6 credits).
+At most 6 credits of independent study or independent reading courses may count towards the major.  For more details, see our
+guidelines on independent studies
+.
+Experiential Practice Courses (at most 6 credits).
+At most 6 credits of experiential practice courses may count towards the major. (Note that this is calculated separately from the limit on independent studies; a student might theoretically take 6 credits of each.)
+Cognate and Transfer Courses.
+Subject to the limits above, approved cognate courses offered by another program or department and/or approved transfer credits from another institution may count towards the major. Each term, the Linguistics Department posts a list of cognates on its website that are pre-evaluated for the major. Students may also request that courses not on this list (including transfer credit) count towards the major. These requests must be individually evaluated by the Linguistics Director of Undergraduate Studies, who will generally follow
+the guidelines linked here
+.
+Other Department Policies
+Double Major.
+Because the study of language is quite often interdisciplinary, a major in Linguistics can be designed to integrate very well with other academic fields. As a result, it is very common for Linguistics majors to also major in a second field. An LSA double major requires satisfying all of the requirements for the major of both programs. However, neither LSA nor the Department of Linguistics imposes any limit on "double-counting" courses between majors, allowing students to double-major with substantially fewer than 60 total major credits. (Check with an advisor in the second major, though, to confirm their policy on jointly counted courses.)
+Residency
+Study Abroad / Transfer Credit
+Current students interested in pursuing a study-abroad program or taking any courses at another institution must first meet with the Linguistics Director of Undergraduate Studies to have their courses pre-evaluated for Linguistics major credit.  Upon completion of these courses, students must meet again with the Director of Undergraduate Studies to provide material from the course (such as the syllabus, lecture notes, and graded homework, papers, and exams).
+Although new transfer students cannot seek pre-evaluation for transfer courses, they should bring as much of this material as possible to the Director of Undergraduate Studies when seeking Linguistics major credit.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the LING subject area may not be used toward the Distribution Requirement.
+Honors
+The Honors major in Linguistics requires completion of the requirements for the major and, in addition, a senior Honors project leading to an Honors thesis. The thesis must be written under the supervision of a faculty member of the Department of Linguistics and with permission of a department advisor. Students may elect LING 495 and 496 when writing the Honors thesis (but are not required to do so). Finally, LSA requires students in an Honors major to maintain a GPA of 3.4 or higher overall (not just in Linguistics).
+Linguistics (Major) (Winter 2017 - Fall 2017)
+Effective Winter 2017
+Advising
+Advising appointments can be made
+here
+or by contacting
+linguistics@umich.edu
+Prerequisites
+None; LING 111, 209, 210 or 212 are recommended.
+Requirements
+Minimum Credits:
+30
+The Linguistics major requires a total of 30 credits at the 300 level or higher, subject to the constraints below.
+Required Core Courses (12 credits).
+All majors are required to take the following four courses in the Linguistics Department. The coursework in LING 313, 315, and 316 should be completed as soon as possible, to ensure that all students gain a solid understanding of Linguistics before electing further courses, especially 497.
+LING 313: Sound Patterns.
+This course explores two fundamental aspects of the sounds of the world’s languages: speech sounds as physical entities (phonetics) and speech sounds as linguistic units (phonology).
+LING 315: Introduction to Syntax.
+This course examines the rule systems whereby words are organized into phrases and phrases into sentences in natural languages.
+LING 316: Aspects of Meaning.
+This course introduces students to the study of meaning in language.
+LING 497: Capstone Seminar.
+This seminar brings previous coursework, particularly the other required courses, to bear on a specific topic that may vary by term. LING 313, 315, and 316 are prerequisites for 497, but may be taken concurrently.
+In extraordinary circumstances, with permission of the Director of Undergraduate Studies, an advanced course in the area of phonetics/phonology, semantics, or syntax could satisfy the LING 313, 315, or 316 requirement.
+Electives (18 credits).
+Beyond the four core courses, majors are encouraged to fill out their program of 30 total credits, in consultation with a Linguistics advisor, using courses from the categories below.
+Regular Linguistics Classroom Courses (at least 6 additional credits).
+Majors must complete at least 18 total credits of traditional classroom courses offered by the Department of Linguistics. (The core courses account for 12 of these 18 credits.) Note that cross-listed courses count towards this category whether or not students enroll under the LING number, but meet-together courses only count when registered under the LING number.
+Any remaining credits (up to 12) may be met using the following flexible categories:
+Independent Study Courses (at most 6 credits).
+At most 6 credits of independent study or independent reading courses may count towards the major.  For more details, see our
+guidelines on independent studies
+.
+Experiential Practice Courses (at most 6 credits).
+At most 6 credits of experiential practice courses may count towards the major. (Note that this is calculated separately from the limit on independent studies; a student might theoretically take 6 credits of each.)
+Cognate and Transfer Courses.
+Subject to the limits above, approved cognate courses offered by another program or department and/or approved transfer credits from another institution may count towards the major. Each term, the Linguistics Department posts a list of cognates on its website that are pre-approved for the major. Students may also request that courses not on this list (including transfer credit) count towards the major. These requests must be individually approved by the Director of Undergraduate Studies, who will generally follow
+the guidelines linked here
+.
+Other Department Policies
+Double Major.
+Because the study of language is quite often interdisciplinary, a major in Linguistics can be designed to integrate very well with other academic fields. As a result, it is very common for Linguistics majors to also major in a second field. An LSA double major requires satisfying all of the requirements for the major of both programs. However, neither LSA nor the Department of Linguistics imposes any limit on "double-counting" courses between majors, allowing students to double-major with substantially fewer than 60 total major credits. (Check with an advisor in the second major, though, to confirm their policy on jointly counted courses.)
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the LING subject area may not be used toward the Distribution Requirement.
+Honors
+The Honors major in Linguistics requires completion of the requirements for the major and, in addition, a senior Honors project leading to an Honors thesis. The thesis must be written under the supervision of a faculty member of the Department of Linguistics and with permission of a department advisor. Students may elect LING 495 and 496 when writing the Honors thesis (but are not required to do so). Finally, LSA requires students in an Honors major to maintain a GPA of 3.4 or higher overall (not just in Linguistics).
+Linguistics Major (Winter 2015-Fall 2016)
+Effective Winter 2015
+Prerequisites
+None; LING 209 or 210 or 212 are recommended.
+Requirements
+The Linguistics major requires a total of 30 credits at the 300 level or higher, subject to the constraints below.
+A. Required Core Courses (12 credits).
+All majors are required to take the following four courses. The coursework in LING 313, 315, and 316 should be completed as soon as possible, to ensure that all students gain a solid understanding of Linguistics before electing further courses, especially 497.
+LING 313 – Sound Patterns.
+This course explores two fundamental aspects of the sounds of the world’s languages: speech sounds as physical entities (phonetics) and speech sounds as linguistic units (phonology).
+LING 315 – Introduction to Syntax
+. This course examines the rule systems whereby words are organized into phrases and phrases into sentences in natural languages.
+LING 316 – Aspects of Meaning.
+This course introduces students to the study of meaning in language.
+LING 497 – Capstone Seminar
+. This seminar brings previous coursework, particularly the other required courses, to bear on a specific topic that may vary by term.  LING 313, 315, and 316 are prerequisites for 497, but may be taken concurrently.
+In extraordinary circumstances, with permission of the Director of Undergraduate Studies, an advanced course in the area of phonetics/phonology, semantics, or syntax could satisfy the LING 313, 315, or 316 requirement.
+B. Electives (18 credits).
+Beyond the three basic courses, majors are encouraged to fill out their program, in consultation with a linguistics department advisor, with courses that satisfy their own particular interests and goals. These courses may be offered by the Department of Linguistics or another program or department. Each term, the Linguistics Undergraduate Program distributes a list of courses offered by other units that are approved for credit in the major in Linguistics. Majors may request that courses not on this list also count towards the required credits; these requests must be approved by the Undergraduate Program chair.
+Double Major
+Because the study of language is quite often interdisciplinary, a major in Linguistics can be designed to integrate very well with other academic fields. As a result, it is very common for Linguistics majors to also major in a second field.  An LSA double major requires satisfying all of the requirements for the major of both programs.  However, neither LSA nor the Department of Linguistics imposes any limit on "double-counting" courses between majors, allowing students to double-major with substantially fewer than 60 total major credits.  (Check with an advisor in the second major, though, to confirm their policy on jointly counted courses.)
+Honors Plan
+The Honors major in Linguistics requires completion of the requirements for the major and, in addition, a senior Honors project leading to an Honors thesis. The thesis must be written under the supervision of a faculty member of the Department of Linguistics and with permission of a department advisor. Students may elect LING 495 and 496 when writing the Honors thesis (but are not required to do so).  Finally, LSA requires students in an Honors major to maintain a GPA of 3.4 or higher overall (not just in Linguistics).
+Linguistics Major (Fall 2012-Fall 2014)
+Effective Fall 2012-Fall 2014
+May be elected as an interdepartmental major
+Prerequisites to the Major
+None; LING 209 or 210 or 212 are recommended.
+Requirements for the Major
+The linguistics major requires a total of 30 credits at the 300 level or higher; at least 18 of these credits must be in Linguistics - or courses cross-listed with Linguistics. Students should consult with their advisor to ensure that their major program consists of a coherent set of courses. The interdisciplinary nature of the field of linguistics - and hence the interdisciplinary nature of the major - makes it particularly important that students are aware of the options available to them.
+Required Courses.
+All majors are required to take the following four courses. The coursework in LING 313, 315, and 316 should be completed as soon as possible, as it is intended to ensure that all students gain a solid understanding of the nature of language and the methods currently employed in the study of language.
+LING 313 - Sound Patterns.
+This course explores two fundamental aspects of the sounds of the world's languages: speech sounds as physical entities (phonetics) and speech sounds as linguistic units (phonology).
+LING 315 - Introduction to Syntax.
+This course examines the rule systems whereby words are organized into phrases and phrases into sentences in natural languages.
+LING 316 - Aspects of Meaning.
+This course introduces students to aspects of semantic and pragmatic systems in natural language, including logic and formal systems, reference/co-reference, and text analysis.
+LING 497 - Capstone Seminar.
+This seminar is designed to provide students with a unified experience that brings previous coursework, particularly the other required courses, to bear on a specific topic that may vary by term.
+In extraordinary circumstances, with permission of the undergraduate chair, an advanced course in the area of phonetics/phonology, semantics, or syntax could satisfy the LING 313, 315, or 316 requirement, respectively.
+Additional Courses.
+Beyond the three basic courses, majors are encouraged to fill out their program, in consultation with a linguistics department advisor, with courses that satisfy their own particular interests and goals. These courses may be offered by the Department of Linguistics or another program or department. Each term, the Linguistics Undergraduate Program distributes a list of courses offered by other units that are approved for major credit in Linguistics. Majors may request that courses not on this list also count towards the required credits; these requests must be approved by the Undergraduate Program chair. See under "
+Major Profiles
+" for three organized sub-plans that are available to majors whose interests fall into one of those areas.
+Double Major.
+Because the study of language is inherently interdisciplinary, a major in Linguistics can be designed to integrate very well with other academic fields. A large proportion of current linguistics majors (more than half) complete double majors.
+An LS&A double major requires satisfying all of the requirements for the major of both programs. However, since LSA places no limit on the number of credits that may be offered jointly for both majors, this allows students to double-concentrate with substantially fewer than 60 total major credits.
+Students considering a double major in Linguistics and another field in LS&A should consult department advisors in both fields.
+Honors Plan.
+The Honors major in Linguistics requires completion of the requirements for the major and, in addition, a senior Honors project leading to an Honors thesis. The thesis must be written under the supervision of a faculty member of the Department of Linguistics and with permission of a department advisor. Students may elect LING 495 and 496 when writing the Honors thesis (but are not required to do so).
+Major Profiles
+The Department of Linguistics offers three sub-plans within the major. These are optional: no concentrator is required to follow any sub-plan. They are offered for the benefit of those students who wish to have more structure in their major program than is provided by the default option, which comprises the four core courses plus seven electives.
+Applied Linguistics and Second Language Learning and Teaching
+The study of second/foreign language acquisition is a major focus of applied linguistics. Coursework in this area addresses both practical and theoretical issues. Although much of the emphasis in these courses is on teaching English as a Second Language (ESL), the principles and practices studied apply to instruction in any non-native language. A sequence of coursework in this area is especially useful for students interested in teaching ESL, particularly in international settings.
+Students will have opportunities to meet faculty members and observe language courses in the language departments and at the English Language Institute, a principal center of second language instructional research and curriculum development.
+Students following this major profile who seek a certificate* (issued upon graduation) stating that the student has completed a sequence of courses in this major area are required to take LING 350 and three approved courses (in addition to the four core courses required of all majors).
+*
+Note that this certificate is not legal certification in ESL for the public schools.
+Language and Mind
+The language and mind profile introduces students to the multidisciplinary investigation of human language and the mind/brain. Research within this enterprise attempts to characterize the acquisition/development, origin, representation and processing of linguistic knowledge through both theoretical and empirical/experimental investigation. Specific topics include, but are not limited to, linguistic theory, psycholinguistics, cognition, perception, reasoning, and formal and computational models of linguistic knowledge and processes. The sub-major focuses on the investigation both of universal aspects of human linguistic knowledge and of cognitive mechanisms that determine the observed diversity of human language.
+This profile is also relevant for students who wish to pursue graduate study in linguistics; psychology; cognitive science; speech, language and hearing science; philosophy; education; computer science and artificial intelligence; and related fields. In addition, it is of direct interest to students with applied career goals in domains that utilize the knowledge base from this track: natural language processing by computers, human computer interaction, teaching and learning languages, literacy and the diagnosis and treatment of language disorders.
+To follow this profile, students are advsied to take 12 credits, chosen from an approved list of courses (see the Department's website for the list). It is recommended that students interested in this track take LING 209(PSYCH 242), Language and Human Mind, as one of their first courses.
+Linguistics for a Multicultural World
+Courses in this profile focus on issues related to historical, sociocultural, and typological aspects of linguistics, particularly as these are relevant to multilingualism and multiculturalism. The sub-plan is designed to teach students to use the tools of linguistic inquiry to address questions of relationships among languages, cultures, and societies. Special attention is devoted to the emergence of global languages, particularly (nowadays) English. The courses in this track approach the study of language from a variety of perspectives and seek to equip students to become productive and informed citizens in an increasingly multicultural world.
+Students who follow this profile are advised to take 12 credits, chosen from an approved list of courses (see the Department's website for the list); we strongly recommend that LING 340, Introduction to Sociolinguistics, be one of these courses.
+Other Areas
+Students interested in combining linguistics with work in a particular language should take courses dealing with the history and structure of that language. Such a major assumes the ability to use the spoken and written language; courses that focus on learning the languages (generally 100- and 200-level) will not count as part of the requirements for the major in linguistics.
+Students interested in learning about issues in natural language and computation may combine courses in linguistics, philosophy, and computer science. These students may also choose to pursue a double major in Linguistics and either of these two fields.
+Students interested in applying the methods of linguistic analysis to spoken English discourse and to written English texts can combine the study of linguistics with courses in historical or discourse analysis.
+Information for
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

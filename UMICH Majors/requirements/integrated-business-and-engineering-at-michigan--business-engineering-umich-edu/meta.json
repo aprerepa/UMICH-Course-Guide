@@ -1,0 +1,17 @@
+{
+  "id": "integrated-business-and-engineering-at-michigan--business-engineering-umich-edu",
+  "name": "Integrated Business and Engineering at Michigan",
+  "school_college": "College of Engineering",
+  "program_url": "https://business-engineering.umich.edu",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://business-engineering.umich.edu",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://michiganross.umich.edu/undergraduate/bba/curriculum",
+  "requirements_link_text": "Bachelor of Business Administration",
+  "requirements_link_score": 150,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://michiganross.umich.edu/undergraduate/bba/curriculum",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:41:03.557009+00:00"
+}

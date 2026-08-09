@@ -1,0 +1,18 @@
+{
+  "id": "greek-modern-language-and-culture--majors-minors-html-greek-modern-language-and-culture-maj",
+  "name": "Greek (Modern) Language and Culture",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#greek_modern_language_and_culture-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#greek_modern_language_and_culture-maj",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/greek-modern-language-and-culture-major.html",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/greek-modern-language-and-culture-major.html",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:39:53.621834+00:00",
+  "lsa_resolved_row_id": "greek_modern_language_and_culture-maj"
+}

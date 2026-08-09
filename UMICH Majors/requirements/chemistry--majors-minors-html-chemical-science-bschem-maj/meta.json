@@ -1,0 +1,18 @@
+{
+  "id": "chemistry--majors-minors-html-chemical-science-bschem-maj",
+  "name": "Chemistry",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#chemical_science_bschem-maj",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#chemical_science_bschem-maj",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/chemistry-maj",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 110,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/chemistry-maj",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:33:05.047082+00:00",
+  "lsa_resolved_row_id": "chemistry-maj"
+}

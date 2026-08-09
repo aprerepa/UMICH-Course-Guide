@@ -1,0 +1,113 @@
+Page header:
+page title: Undergraduate - Michigan Aerospace Engineering
+
+Visible page text:
+Undergraduate
+Start your career in aerospace engineering
+Program Overview
+Admissions
+Degree Requirements
+Scholarships
+Study Abroad
+Co-ops & Internships
+Current Undergraduate Students
+Undergraduate FAQs
+Aerospace Engineering is the science and practice of flight split into two branches: Aeronautics – the study and design of aircraft within Earth’s atmosphere, and Astronautics – the study and design of spacecraft flying just outside our atmosphere and beyond.
+Aerospace engineers tackle the unique challenges that come with maneuvering vehicles safely and efficiently through the air. We combine advanced technologies and cutting-edge materials to design smaller, lighter, more efficient aircraft and spacecraft while finding innovative ways to power and control them. A degree in aerospace engineering prepares students for a variety of positions and career growth opportunities in the aerospace industry, as well as government agencies such as NASA.
+Aerospace Engineering Atlas Profile
+(current students only)
+Explore other majors
+Why Aerospace Engineering at Michigan?
+1914
+Founded as the nation’s first collegiate aeronautics program, providing the highest quality of education to future aerospace leaders.
+#7
+Undergraduate program
+among public and private institutions in the nation by U.S. News
+15:1
+Faculty-to-student ratio means that students get hands-on experience in the classroom and form close connections to their peers and faculty.
+What our graduates do
+Job titles
+Aerodynamicist, Spacecraft Systems Engineer, Principal Engineer, CEO, Systems Engineer, Propulsion Manager, Senior Technical Engineer, Systems Engineer of Product Development, Operation Integration Manager, +10,000 more
+Salary and job placement information
+(pdf)
+Source:  Michigan Engineering Career Resource Center
+Meet our alumni
+Alumna Aisha Bowe Ready to Launch on Historic All-Women Space Flight
+2024 Alumni Merit Award Winner Ben Marchionna Alumni Profile
+Alumni Profile: Michelle Banchy
+Academic concentrations
+Academic concentrations are topics in which a student, through the use of technical and free electives and in consultation with their advisor, could decide to focus. While students do not declare a formal concentration, our aerospace engineering program provides a robust and holistic dive into the aerospace engineering field, which includes aerodynamics and propulsion, autonomous systems and control, computation, space systems, and structures and materials. Students have the opportunity to tailor their studies and focus on a particular topic by utilizing technical electives and general electives to supplement their studies.
+Aerodynamics & Propulsion
+Aerodynamics and propulsion involve the study of flows: either around aerodynamic bodies (external flows, aerodynamics or fluid dynamics) or through engines (internal flows or propulsion). Aerodynamics and propulsion are important for numerous aspects of aerospace engineering, such as airplane aerodynamics, helicopter aerodynamics, jet propulsion, rocket propulsion, advanced propulsion, properties of the space environment and many others.
+Classes:
+Incompressible flow, compressible flow, viscous flow, turbulence, plasmadynamics, non-equilibrium and rarefied flows, jet and rocket propulsion, electric propulsion, and computational fluid dynamics.
+Aerodynamics & Propulsion
+Autonomous Systems & Control
+The field of autonomous systems and control deals with the motion of flight vehicles in the atmosphere and in space, as well as dynamics, control, and planning issues related to flight and space applications. The department has a long history of excellence in the areas of flight dynamics and control systems. It was one of the first engineering departments in the nation to offer courses in automatic control, flight dynamics, and simulation.
+Classes:
+Flight software systems, flight testing, control of aerospace vehicles, aerospace information systems.
+Autonomous Systems & Control
+Computation
+Computation plays a fundamental role in the design, analysis and operation of modern Aerospace systems. Applications include flight software, embedded computing for on-board control, virtual wind tunnel simulations, and optimization of structural, aerodynamic and propulsion systems. Particularly, modern aerospace systems are inherently cyber-physical systems, and with the emergence of powerful computers, abundant sensors, and autonomy, computation is defining and driving the future of aerospace engineering.
+Classes:
+Fundamentals of aerospace computing, computational methods for aerospace engineering.
+Aerodynamics & Propulsion
+Space Systems
+A subset of faculty members in Aerodynamics and Propulsion, and Dynamics and Controls develop spacecraft and advanced spacecraft subsystems, such as propulsion and control systems. Experimental and computational studies center around spacecraft electric propulsion (EP) systems, with projects ranging from developing systems small enough to fit on a chip for cubesat propulsion to large thrusters big enough to drive piloted missions.
+Classes:
+Flight software systems, flight testing, control of aerospace vehicles, aerospace information systems.
+Autonomous Systems & Control
+Structures & Materials
+Structural mechanics is the study of the mechanical behavior of solids and structures. Aerospace structures differ from other structures due to their high demands for performance and lightweight. Modern aerospace structures typically require the use of composite materials, advanced multifunctional materials and thin-walled constructions.
+Classes:
+Theory of plates & shells, space system design, structural dynamics, aeroelasticity, mechanics of composite & microstructured media.
+Structures & Materials
+Minors
+Engineering minors
+Minors offered by departments in the College
+Engineering minors
+Other minors
+The full list of approved minors for engineers
+Other approved minors
+Required courses
+Editable sample schedule
+(doc)
+Aerospace Engineering Course Guide
+Aerospace Engineering Atlas profile
+(current students only)
+The Atlas profile includes the number of people in the program, how many semesters it typically takes to complete, common minors, courses at each level and more.
+Contact an advisor
+Current students
+Stephanie Custer
+, Academic Advisor
+sbkaufma@umich.edu
+(734) 763-9300
+Megan Langille
+, Academic Services Manager
+mlangill@umich.edu
+(734) 764-3310
+Prospective students
+Academic Services Office,
+aerospace-aso@umich.edu
+Accelerated master’s
+Sequential Undergraduate-Graduate Studies (SUGS)
+Complete your bachelor’s and master’s degrees in only five years with SUGS by taking some graduate-level classes during your undergraduate years, so you can save yourself one semester and complete the master’s with only two additional semesters.This option is available to students who have at least a 3.5 GPA.
+SEE: Aerospace Engineering
+Sequential Undergraduate Graduate Studies (SUGS)
+Outside the classroom
+Experiential learning
+Student Teams & Projects
+Michigan Engineering Immersed
+Multidisciplinary Design Program
+Professional organizations
+Student Organizations
+Research
+Research Areas
+Shared Facilities
+Multidisciplinary Centers
+Research Opportunities for Students
+Looking for something else?
+Admissions
+Declare a major
+University Financial Aid
+Engineering Career Resource Center

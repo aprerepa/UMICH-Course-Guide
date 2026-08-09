@@ -1,0 +1,199 @@
+Page header:
+page title: Engineering Physics Major - Nuclear Engineering & Radiological Sciences
+og:description: Engineering physics is the study of applying advanced physics concepts and mathematical modeling to solve complex engineering problems across diverse fields such as energy, quantum computing, aerospace, and materials. If you’re fascinated by how the universe works and want to use that knowledge to build transformative technologies, consider majoring in engineering physics. This interdisciplinary program […]
+
+Visible page text:
+Engineering Physics Major
+Home
+/
+Academic Programs
+/
+Engineering Physics Major
+Engineering physics is the study of applying advanced physics concepts and mathematical modeling to solve complex engineering problems across diverse fields such as energy, quantum computing, aerospace, and materials.
+If you’re fascinated by how the universe works and want to use that knowledge to build transformative technologies, consider majoring in engineering physics. This interdisciplinary program is ideal for students who enjoy physics, math, and engineering—and want the flexibility to tackle research and design challenges in frontier industries.
+Why Engineering Physics at Michigan?
+Cross-Disciplinary Flexibility
+Students take foundational courses in physics, math, and engineering, then choose a concentration in an area such as quantum science, nuclear engineering, or space systems.
+Top Physics & Engineering Programs
+Study within one of the best physics departments in the country and alongside world-class faculty in top-ranked engineering disciplines.
+Research-Intensive Environment
+Undergraduates often contribute to groundbreaking research in areas like quantum materials, plasma science, and particle physics.
+What Our Graduates Do
+Job Titles
+Applications Engineer
+Camera Hardware Engineer
+Energy Markets & Innovation Analyst
+Geotech Project Manager
+GNC Engineer
+Instrumentation and Control Engineer
+Optical Engineer
+Quantitative Trader
+Research Assistant
+Software Developer
+Salary and job placement information
+(pdf)
+Source:  Michigan Engineering Career Resource Center
+Meet Our Students
+Engineering Physics students launch new society to build community and connection
+Founded in Fall 2025, the Society of Engineering Physics Students brings community, professional development, and…
+Desirae Krzeczkowski receives Roy G. Post Scholarship for nuclear waste siting research
+The U-M undergraduate has researched collaborative siting of spent nuclear fuel and has a double…
+Q&A with David Rizkalla
+The Engineering Physics student shares his journey from studying pure physics to leading the Vehicle…
+Isaac Sarbacker honored by Michigan Engineering
+The Engineering Physics student was given a Leaders & Honors Award for his outstanding achievements…
+NERS and EP undergrads receive University of Michigan Engineering Leaders & Honors Awards
+Corey Gui, Kyle Keipper, and Jeanie Qi were recognized for demonstrated excellence in their academic…
+Engineering Physics students launch new society to build community and connection
+Founded in Fall 2025, the Society of Engineering Physics Students brings community, professional development, and…
+Desirae Krzeczkowski receives Roy G. Post Scholarship for nuclear waste siting research
+The U-M undergraduate has researched collaborative siting of spent nuclear fuel and has a double…
+Q&A with David Rizkalla
+The Engineering Physics student shares his journey from studying pure physics to leading the Vehicle…
+Isaac Sarbacker honored by Michigan Engineering
+The Engineering Physics student was given a Leaders & Honors Award for his outstanding achievements…
+NERS and EP undergrads receive University of Michigan Engineering Leaders & Honors Awards
+Corey Gui, Kyle Keipper, and Jeanie Qi were recognized for demonstrated excellence in their academic…
+Engineering Physics students launch new society to build community and connection
+Founded in Fall 2025, the Society of Engineering Physics Students brings community, professional development, and…
+Desirae Krzeczkowski receives Roy G. Post Scholarship for nuclear waste siting research
+The U-M undergraduate has researched collaborative siting of spent nuclear fuel and has a double…
+Q&A with David Rizkalla
+The Engineering Physics student shares his journey from studying pure physics to leading the Vehicle…
+Academic Concentrations
+The cross-disciplinary nature of this Major allows students to select a concentration from any department.
+Aerospace Engineering
+The science and practice of flight, split into two branches: Aeronautics—the study and design of aircraft within Earth’s atmosphere; and Astronautics—the study and design of spacecraft that travel beyond Earth’s atmosphere.
+Classes:
+Solid Mechanics & Aerospace Structures, Aircraft & Spacecraft Propulsion, Control of Aerospace Vehicles
+Biomedical Engineering
+Applies life sciences and engineering principles to bridge the gap between medical technology and clinical practice.
+Classes:
+Circuits & Systems, Biomedical Design, Biophysical Chemistry & Thermodynamics
+Chemical Engineering
+Uses natural sciences, mathematics, and sometimes coding to develop cost-effective and sustainable materials and energy solutions.
+Classes:
+Material & Energy Balances, Mass & Heat Transfer, Reaction Engineering & Design
+Civil Engineering
+Designs structures and infrastructure that are safe and foundational to modern society.
+Classes:
+Sustainable Engineering Principles, Solid & Structural Mechanics, Statics & Dynamics
+Climate and Meteorology
+Studies the atmosphere and its properties to understand weather, climate, and planetary systems.
+Classes:
+Earth & Space System Evolution, Atmospheric Thermodynamics, Geophysical Fluid Dynamics
+Computer Engineering
+Designs and builds computing systems from hardware to software to drive technological innovation.
+Classes:
+Computer Organization, Signals & Systems, Programming & Elementary Data Structures
+Computer Science
+Develops new computational methods, architectures, and algorithms to solve complex problems and power modern applications.
+Classes:
+Data Structures & Algorithms, Computer Architecture, Programming & Elementary Data Structures
+Data Science
+Extracts actionable insights from complex datasets to solve societal challenges.
+Classes:
+Applied Regression Analysis, Probability & Statistics, Data Structures & Algorithms
+Electrical Engineering
+Applies the laws of electricity to develop systems that solve problems across diverse fields.
+Classes:
+Signals & Systems, Circuits, Electrical Engineering Systems Design
+Environmental Engineering
+Designs solutions to improve environmental quality and protect public health.
+Classes:
+Thermodynamics & the Environment, Sustainable Engineering Principles, Hydrology & Floodplain Hydraulics, Environmental Microbiology
+Industrial and Operations Engineering
+Optimizes complex systems of people, machines, and processes through creative, collaborative problem-solving.
+Classes:
+Industrial Operations Modeling, Ergonomics, Optimal Methods, Markov Processes
+Management Engineering and Finance
+Applies systems thinking, finance, and data analytics to optimize decision-making in engineering and business contexts.
+Classes:
+Economic Decision Making, Optimization and Computational Methods, Introduction to Engineering Analytics, Introduction to Probability, Mathematics of Finance, Corporate Finance, Advanced Laboratory I, Operations Engineering and Analytics, Lean Manufacturing and Services, Decision Analysis and Bounded Rationality
+Materials Science and Engineering
+Investigates the performance and failure of materials to engineer those with new, advanced properties.
+Classes:
+Physics of Materials, Solid Mechanics, Kinetics & Transitions in Materials Engineering
+Mechanical Engineering
+Applies principles of physical mechanics to design and create the technology of the future.
+Classes:
+Dynamics & Vibrations, Heat Transfer, Circuits, Fluids
+Naval Architecture and Marine Engineering
+Combines mechanical engineering with large-scale system integration to design marine vessels and ocean structures.
+Classes:
+Marine Thermodynamics, Vessel/Platform Design, Marine Structures, Marine Hydrodynamics
+Nuclear Engineering and Radiological Sciences
+Harnesses nuclear energy and radiation to solve problems in energy, health, security, and space.
+Classes:
+Nuclear Instrumentation Lab, Nuclear Reactor Theory, Thermo/Hydrodynamics in Nuclear Systems
+Nuclear Fission
+Explores the use of nuclear fission to produce clean energy and support applications in national security, medicine, and industry.
+Classes:
+Fundamentals of Nuclear Engineering, Elements of Nuclear Engineering I & II, Applied Mathematics for Engineering Physics, Nuclear Reactor Theory, Nuclear Instrumentation Lab, Nuclear Power Reactors, Reactor Safety Analysis, Applications of Radiation
+Optical Science and Technology
+Applies electromagnetic theory and photonics to design optical systems for communications, imaging, and computing.
+Classes:
+Electromagnetics, Antennas and Wireless Systems, Principles of Optics, Principles of Photonics, Advanced Laser and Optics Laboratory, Fourier Optics, Optics, Optical Waves in Crystals
+Plasma Science and Engineering
+Studies ionized gases in applications such as fusion energy, space propulsion, and advanced manufacturing.
+Classes:
+Introduction to Plasmas and Fusion, Fusion Reactor Technology, Intermediate Plasma Physics I & II, Plasma Engineering, Plasma Generation and Diagnostics Laboratory, Computational Plasma Physics, Space Plasma Physics, Physical Processes in Plasmas
+Polymer Science and Engineering
+Focuses on the design, synthesis, and analysis of polymers for use in medicine, energy, electronics, and structural materials.
+Classes:
+Structures of Materials, Design and Applications of Biomaterials, Polymeric Materials, Polymer Physics, Physical Metallurgy, Structural and Chemical Characterization, Kinetics and Transport in Materials Engineering, Ceramic Materials, Rheology of Polymeric Materials
+Quantum and Semiconductor Technology
+Combines quantum mechanics, nanotechnology, and semiconductor physics to power breakthroughs in computing, communication, and sensing.
+Classes:
+Semiconductor Devices, Quantum Mechanics I & II, Quantum Nanotechnology, Quantum Information Science, Applied Quantum Mechanics, Power Electronics, Semiconductor Optoelectronic Devices, Solid State Physics
+Radiological Health Engineering
+Applies radiation science to protect human health and improve medical imaging, safety, and environmental monitoring.
+Classes:
+Elements of Nuclear Engineering I & II, Nuclear Instrumentation Lab, Radiation Imaging, Radiological Health Engineering Fundamentals, Applications of Radiation, Applied Radiological Measurements, Computation Projects in Radiation Imaging, Medical Physics
+Robotics
+Integrates mechanical systems, electronics, control theory, and human-centered design to create autonomous and assistive robots.
+Classes:
+Human-Robot Systems, Robot Sensors and Signals, Robot Construction and Motion, Human-Robot Interaction, Hands-on Robotics, Design and Manufacturing, Probabilistic Methods in Engineering, Manufacturing System Design
+Space Sciences and Engineering
+Focuses on designing instruments and analyzing data to explore Earth and planetary space environments.
+Classes:
+Earth & Space System Evolution, Solar-Terrestrial Relations, Radiative Transfer
+Minors
+Engineering minors
+Minors offered by departments in the College
+Engineering minors
+Other minors
+The full list of approved minors for engineers
+Other approved minors
+Required courses
+Editable sample schedule
+(doc)
+Engineering Physics Course Guide
+Atlas Profile
+(current students only)
+The Atlas profile includes the number of people in the program, how may semesters it typically takes to complete, common minors, courses at each level and more.
+Contact an advisor
+Current students
+Michelle Sonderman
+Student Administration Manager
+mlwhit@umich.edu
+Prospective students
+Khan Nguyen
+Recruiting & Outreach Coordinator
+khanngu@umich.edu
+Outside the classroom
+Learn By Doing
+Biophysics Club
+Experiential Learning – Michigan Engineering Immersed
+Professional Organizations
+Society of Engineering Physics Students (SEPS)
+American Nuclear Society Student Chapter at the University of Michigan
+Society of Physics Students
+Women in Science and Engineering (WISE)
+Looking for something else?
+Experiential Learning
+– Michigan Engineering Immersed
+Admissions
+Declare a major
+University Financial Aid
+Engineering Career Resource Center

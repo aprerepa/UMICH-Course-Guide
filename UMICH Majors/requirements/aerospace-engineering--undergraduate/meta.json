@@ -1,0 +1,17 @@
+{
+  "id": "aerospace-engineering--undergraduate",
+  "name": "Aerospace Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://aero.engin.umich.edu/undergraduate/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://aero.engin.umich.edu/undergraduate/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://aero.engin.umich.edu/undergraduate/degree-requirements/",
+  "requirements_link_text": "Degree Requirements",
+  "requirements_link_score": 290,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://aero.engin.umich.edu/undergraduate/degree-requirements/",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:29:56.569910+00:00"
+}

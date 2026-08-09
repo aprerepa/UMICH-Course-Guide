@@ -1,0 +1,17 @@
+{
+  "id": "biological-physics-sub-major-of-biophysics--biological-physics-sub-major-html",
+  "name": "Biological Physics (Sub-major of Biophysics)",
+  "school_college": "College of Literature, Science, and the Arts (LSA)",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors/biological-physics-sub-major.html",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (program URL)",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/biological-physics-sub-major.html",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/biological-physics-sub-major.html",
+  "requirements_link_text": "(program page is requirements)",
+  "requirements_link_score": 200,
+  "requirements_link_strategy": "program_is_requirements",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/biological-physics-sub-major.html",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:32:09.804625+00:00"
+}

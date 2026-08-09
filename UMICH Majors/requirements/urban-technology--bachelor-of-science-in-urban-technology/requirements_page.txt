@@ -1,0 +1,50 @@
+News,
+Apr 16, 2026
+Urban Technology students to present microgrid interface project at Milan Design Week
+Three Taubman College students will travel to Milan next week to take part in the international
+UNFOLD competition
+and showcase. Launched three years ago by
+Domus Academy Milano
+as part of
+Milan Design Week
+, UNFOLD invites students and educators around the globe to reflect on design’s potential to confront tensions shaping today’s world.
+For this year’s theme of “ENGAGE FRICTION://designing through conflict,” B.S. Urban Tech ’27 students Jack Bernard, Pranav Boopalam, and Elijah Stowell will present their prototype of a user interface for a microgrid energy sharing system.
+“We’re excited to be there and represent,” Stowell said. “We’ll do our best with our presentation and try to represent UT the best we can.”
+The group’s project, “Community Energy Futures (CEF),” was originally completed for their UT330 course taught by
+Matthew Wizinsky
+, associate professor of practice in urban technology.
+CEF centers Ann Arbor’s new
+Sustainable Energy Utility
+(SEU), which voters approved in 2024. The opt-in utility will provide 100% renewable energy from local solar and battery systems to participating homes and businesses through “microgrid” sharing. The first U.S. attempt to produce and transmit energy through a community-owned utility operating parallel to existing options, Ann Arbor’s SEU could serve as a model for other cities integrating local renewables to accelerate decarbonization.
+To help in this effort, the team prototyped what the SEU’s user interface might look like, emphasizing the importance of residents sharing their energy and addressing important questions about access and power.
+“Do you have the power to say ‘I want to share it with this person and not that person,’” Stowell said. “Or do you just donate to an aggregated battery? This is what our whole project surrounds, and we’re trying to use UI/UX to tease out how these decisions work or how they can incentivize people to make certain decisions about how their energy is used.”
+Wizinsky, who encouraged the team to submit their work to UNFOLD, said their design pushed the boundaries of what he imagined would be possible in class.
+“(Their project) doesn’t work within the existing rules of this system,” Wizinsky said. “It seems like a really prime project to use interface design and user experience design to study things that don’t exist yet in order to maybe shape policy.”
+Milan isn’t the end of the road for CEF. The team recently received a Taubman College
+Climate Futures Research Grant
+, which will allow them to complete an 18-month-long research project to expand the potential of their design. During that time, they’ll interview more residents, redesign their prototypes, and write two papers that can be used for potential implementation by the SEU.
+“It’s literally such a dream,” Stowell said. “I’ve spent so much time on these prototypes — over 24 hours prototyping things that would never see the final — but that iteration is super important. There were times late at night when I was thinking, ‘Why am I doing this?’ But hard work will pay off eventually.”
+–
+Joshua Nicholson
+Left: A diagram of SEU user groups and potential issues to address. Right: Final user interface design representing how users would interact with the SEU in three different scenarios. Images courtesy of the Community Energy Futures team.
+Previous Post
+Next Post
+Recent News
+News, Jul 29, 2026
+Professional Intensive explores innovation across the built environment
+Professional Intensive explores innovation across the built environment
+Learn more
+Bryan Boyer
+News, Jul 29, 2026
+Taubman College students receive 2026 MAF Scholarships
+Taubman College students receive 2026 MAF Scholarships
+Learn more
+News, Jul 13, 2026
+Detroit resilience plan, Ann Arbor rain garden research earn M.U.R.P. students planning honors
+Detroit resilience plan, Ann Arbor rain garden research earn M.U.R.P. students planning honors
+Learn more
+News, Jul 10, 2026
+IN THE NEWS: Larsen discusses heat-trapping Detroit homes with Washington Post
+IN THE NEWS: Larsen discusses heat-trapping Detroit homes with Washington Post
+Learn more
+Larissa Larsen

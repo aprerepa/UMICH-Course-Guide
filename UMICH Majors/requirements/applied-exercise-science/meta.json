@@ -1,0 +1,17 @@
+{
+  "id": "applied-exercise-science",
+  "name": "Applied Exercise Science",
+  "school_college": "School of Kinesiology",
+  "program_url": "https://www.kines.umich.edu/academics/applied-exercise-science",
+  "status": "needs_review",
+  "message": "no requirements link found on program page",
+  "program_final_url": "https://www.kines.umich.edu/academics/applied-exercise-science",
+  "program_fetch_mode": "browser",
+  "requirements_url": null,
+  "requirements_link_text": null,
+  "requirements_link_score": null,
+  "requirements_link_strategy": null,
+  "requirements_final_url": null,
+  "requirements_fetch_mode": null,
+  "fetched_at": "2026-08-09T15:30:21.803887+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "materials-science-and-engineering--undergraduate",
+  "name": "Materials Science and Engineering",
+  "school_college": "College of Engineering",
+  "program_url": "https://mse.engin.umich.edu/undergraduate",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (via degree program hub)",
+  "program_final_url": "https://mse.engin.umich.edu/undergraduate",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://mse.engin.umich.edu/undergraduate/programs/major",
+  "requirements_link_text": "Major",
+  "requirements_link_score": 145,
+  "requirements_link_strategy": "hub_program_is_requirements",
+  "requirements_final_url": "https://mse.engin.umich.edu/undergraduate/programs/major",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:44:37.631012+00:00"
+}

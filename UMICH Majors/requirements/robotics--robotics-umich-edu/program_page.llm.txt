@@ -1,0 +1,49 @@
+Page header:
+page title: Michigan Robotics | University of Michigan
+og:description: Michigan Robotics creates and leads innovative initiatives and robust programs that elevate outcomes for both robotics and roboticists in research, academics, and society.
+
+Visible page text:
+Work together.
+Create smart machines.
+Serve society.
+The Robotics Department at the University of Michigan is creating the next generation of robotics and roboticists as force-multipliers for the benefit of society.
+Latest news
+Dawn Tilbury named Distinguished University Professor
+July 16, 2026
+The robotics department chair was appointed the Martha E. Pollack Distinguished University Professor of Robotics, recognizing research that has reshaped manufacturing systems, networked control, autonomous vehicles, and human-robot interaction.
+Robotics celebrates standout staff and faculty excellence in 2026
+Jun 29, 2026
+The department congratulates Ram Vasudevan on the Robotics Departmental Faculty Award and Samantha Price on the College of Engineering Staff Excellence Award.
+Artists paint with robots to study creative expression
+Jun 23, 2026
+U-M researchers paired eight abstract artists with a robot arm over three weeks, and their feedback reveals what it’s like to co-create a painting with a robot.
+An earthworm-inspired robot to inspect complex pipelines
+Jun 9, 2026
+An untethered robot can crawl along pipelines and maneuver around sharp turns and tight junctions to detect potential defects before they lead to costly failures.
+All news
+Learn about our robotics community
+Michigan Robotics creates and leads innovative initiatives and robust programs that elevate outcomes for both robotics and roboticists in research, academics, and society.
+Undergraduate major
+Graduate program
+Research focus areas
+Meet our roboticists
+Latest social media
+Instagram
+Aug 7, 2026
+This 67-gram robot can climb up plant stems and build a 3D model to autonomously navigate among branches and leaves.
+
+The hope? To eventuall…
+View on Instagram
+YouTube
+Aug 3, 2026
+Mohamad Louai Shehab: Robotics PhD Defense
+Watch on YouTube
+Jun 4, 2026
+Read what's been up recently, including:
+
+• 5 new concentrations for the undergrad robotics
+• An AI co-pilot for shipbuilders catching parts…
+Read on X
+Get the Michigan Robotics newsletter.
+Research, news, videos, and events from the frontier of robotics, delivered quarterly.
+Subscribe

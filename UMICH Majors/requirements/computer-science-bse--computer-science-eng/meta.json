@@ -1,0 +1,55 @@
+{
+  "id": "computer-science-bse--computer-science-eng",
+  "name": "Computer Science (BSE)",
+  "school_college": "College of Engineering",
+  "program_url": "https://cse.engin.umich.edu/academics/undergraduate/programs/computer-science-eng/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (+5 course-list supplements: ULCS list,, Expanded ULCS, EECS Capstone)",
+  "program_final_url": "https://cse.engin.umich.edu/academics/undergraduate/majors/computer-science-eng-major/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://docs.google.com/document/d/1NwoN3_o6L7BnFUqghdfaegEG34xBCi7zSLT6IOf4uPQ/preview?tab=t.0",
+  "requirements_link_text": "CS-Eng Program Guide",
+  "requirements_link_score": 385,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://docs.google.com/document/d/1NwoN3_o6L7BnFUqghdfaegEG34xBCi7zSLT6IOf4uPQ/preview?tab=t.0",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T17:15:02.475541+00:00",
+  "supplements_count": 5,
+  "supplements": [
+    {
+      "id": "01-preview-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview#gid=0",
+      "link_text": "ULCS list,",
+      "status": "fetched",
+      "chars": 2199
+    },
+    {
+      "id": "02-expanded-ulcs-gid1878635639",
+      "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview?urp=gmail_link#gid=1878635639",
+      "link_text": "Expanded ULCS",
+      "status": "fetched",
+      "chars": 1962
+    },
+    {
+      "id": "03-eecs-capstone-gid590577141",
+      "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview#gid=590577141",
+      "link_text": "EECS Capstone",
+      "status": "fetched",
+      "chars": 1399
+    },
+    {
+      "id": "04-flexible-cs-technical-electives-gid614866660",
+      "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview#gid=614866660",
+      "link_text": "Flexible CS Technical Electives",
+      "status": "fetched",
+      "chars": 11746
+    },
+    {
+      "id": "05-capstone",
+      "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview",
+      "link_text": "Capstone",
+      "status": "fetched",
+      "chars": 1399
+    }
+  ]
+}

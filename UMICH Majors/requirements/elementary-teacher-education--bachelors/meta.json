@@ -1,0 +1,17 @@
+{
+  "id": "elementary-teacher-education--bachelors",
+  "name": "Elementary Teacher Education",
+  "school_college": "Marsal Family School of Education",
+  "program_url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (via degree program hub)",
+  "program_final_url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors-certification/undergraduate-elementary-teacher-education",
+  "requirements_link_text": "Undergraduate Elementary Teacher Education",
+  "requirements_link_score": 80,
+  "requirements_link_strategy": "hub_program_is_requirements",
+  "requirements_final_url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors-certification/undergraduate-elementary-teacher-education",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:37:26.240896+00:00"
+}

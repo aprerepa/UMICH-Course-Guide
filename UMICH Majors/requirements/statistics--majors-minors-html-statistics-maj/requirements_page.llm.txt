@@ -1,0 +1,486 @@
+Page header:
+page title: Statistics Major | U-M LSA U-M College of LSA
+
+Visible page text:
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+About
+Academics
+Research
+News and Events
+Support LSA
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Course Catalog
+Give Online
+Keyword Search of en
+About
+Academics
+Research
+News and Events
+Support LSA
+Course Catalog
+Give Online
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+LSA 101: Info for Admitted Students
+Learn what it means to be a Wolverine and dig in to what the liberal arts are all about. View our presentations and information from wherever you are.
+Undergraduate
+Graduate
+Transfer
+International
+Student Life
+Admissions
+Student Stories
+Outcomes and Possibilities
+LSA delivers a purposeful, pragmatic liberal arts education that employers respect and seek out.
+Undergraduate
+Graduate
+Transfer
+Education
+Academic Advising
+Outcomes and Possibilities
+College Connections
+College Connections provides a space for alumni and families to share their student experiences with recent LSA graduates and provide feedback on the current and future state of the College.
+Get Connected
+Get Involved
+Get Informed
+College Connections
+Staff Achievement Awards Program
+This is an annual opportunity to acknowledge and celebrate exceptional staff contributions to the success of the College . Information regarding eligibility, nomination, selection, notification, and winners can be found here.
+Budget and Finance
+Chairs and Directors
+Facilities and Operations
+Faculty Academic Affairs
+Graduate Education
+Human Resources
+LSA Advancement
+LSA Research Office
+Office of the Dean
+Security and Safety
+Standard Practice Guide
+Student Academic Affairs
+Technology Services
+Undergraduate Education
+Skip to Page Content
+Academics
+Majors and Minors
+Statistics Major
+...
+Statistics Major
+Academics
+Majors and Minors
+[X] close
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Statistics Major
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Advising
+Department Website
+Effective Fall 2023
+Advising
+Most statistics courses are elected after taking an introductory course (DATASCI 101, STATS 206, 250, STATS 280 or STATS 412) and completing an introductory mathematics sequence or after consulting a department department advisor. Students wishing to pursue a major in Statistics must develop a specific plan for its completion in consultation with a Statistics Department undergraduate department advisor.
+Prerequisites
+Multivariable Calculus (MATH 205 or MATH 215 or MATH 285) and Linear Algebra (MATH 214 or MATH 217)
+Introductory Programming (EECS 183)
+Introductory Statistics (DATASCI 101 or STATS 206 or STATS 250 or STATS 280 or STATS 412)
+The prerequisites for the major may be taken as Pass/Fail (or P/F).
+To declare the Statistics major a student must have one statistics class (STATS 180/206/250/280/412/425) plus Calc II (MATH 121/116/156/176/186/296).
+Requirements
+Minimum Credits:
+29
+Core applied statistics course:
+STATS 413
+Core theoretical statistics courses:
+STATS 425, 426.
+Core statistical computing course:
+STATS 306.
+Additional advanced statistics courses:
+At least three of STATS 315, 406, 415, 430, 449, 451, 470, 480, or MATH/STATS 526.
+Capstone course:
+STATS 485
+Elective courses in Statistics, Mathematics, or EECS.
+These are advisor approved electives. These approved courses include:
+STATS 404
+any 500+ level Statistics courses
+any additional courses from #4 above
+400+ level
+advisor-approved
+MATH courses (except MATH 417 and 419)
+300+ level
+advisor-approved
+EECS course.
+Students interested in the application of statistics to various disciplines such as economics, biological sciences, and psychology are also encouraged to take courses in these areas.
+Residency
+A minimum of fifteen (15) credits towards the major must be taken on the Ann Arbor campus.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+.  In addition, courses in the STATS and DATASCI subject areas may not be used toward the Distribution Requirement.
+Honors
+LSA Distribution Requirement
+Any student with a current grade point average of at least 3.4 may apply for admission to the Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program above with the following modifications: (i) MATH 351 (Principles of Analysis) or MATH 451 (Advanced Calculus I); (ii) an overall GPA of at least 3.5; (iii) STATS 499 (Senior Honors Seminar) and completion of a project or a thesis under the direction of a member of the Statistics Department faculty. Note that MATH 351 and MATH 451 have MATH 217 as a prerequisite, so Statistics honors students should satisfy their linear algebra requirement by MATH 217 rather than MATH 214.
+Statistics (Major) (Winter 2023 - Summer 2023)
+Effective Winter 2023
+Advising
+Most statistics courses are elected after taking an introductory course (DATASCI 101, STATS 206, 250, STATS 280 or STATS 412) and completing an introductory mathematics sequence or after consulting a department department advisor. Students wishing to pursue a major in Statistics must develop a specific plan for its completion in consultation with a Statistics Department undergraduate department advisor.
+Prerequisites
+Multivariable Calculus (MATH 215 or MATH 285) and Linear Algebra (MATH 214 or MATH 217)
+Introductory Programming (EECS 183)
+Introductory Statistics (DATASCI 101 or STATS 206 or STATS 250 or STATS 280 or STATS 412)
+The prerequisites for the major may be taken as Pass/Fail (or P/F).
+Requirements
+Minimum Credits:
+29
+Core applied statistics course:
+STATS 413
+Core theoretical statistics courses:
+STATS 425, 426.
+Core statistical computing course:
+STATS 306.
+Additional advanced statistics courses:
+At least three of STATS 315, 406, 415, 430, 449, 451, 470, 480, or MATH/STATS 526.
+Capstone course:
+STATS 485
+Elective courses in Statistics, Mathematics, or EECS.
+These are advisor approved electives. These approved courses include:
+STATS 404
+any 500+ level Statistics courses
+any additional courses from #4 above
+400+ level
+advisor-approved
+MATH courses (except MATH 417 and 419)
+300+ level
+advisor-approved
+EECS course.
+Students interested in the application of statistics to various disciplines such as economics, biological sciences, and psychology are also encouraged to take courses in these areas.
+Residency
+A minimum of fifteen (15) credits towards the major must be taken on the Ann Arbor campus.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+.  In addition, courses in the STATS and DATASCI subject areas may not be used toward the Distribution Requirement.
+Honors
+LSA Distribution Requirement
+Any student with a current grade point average of at least 3.4 may apply for admission to the Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program above with the following modifications: (i) MATH 451 (Advanced Calculus I); (ii) an overall GPA of at least 3.5; (iii) STATS 499 (Senior Honors Seminar) and completion of a project or a thesis under the direction of a member of the Statistics Department faculty. Note that MATH 451 has MATH 217 as a prerequisite, so Statistics honors students should usually satisfy their linear algebra requirement by MATH 217 rather than MATH 214.
+Statistics (Major) (Fall 2021 - Fall 2022)
+Effective Fall 2021
+Advising
+Most statistics courses are elected after taking an introductory course (STATS 206, 250, STATS 280 or STATS 412) and completing an introductory mathematics sequence or after consulting a department department advisor. Students wishing to pursue a major in Statistics must develop a specific plan for its completion in consultation with a Statistics Department undergraduate department advisor.
+Prerequisites
+MATH 215 and (MATH 214 or MATH 217) (MATH 417 may not be substituted)
+EECS 183
+DATASCI 101 or STATS 206 or STATS 250 or STATS 280 or STATS 412
+Requirements
+Minimum Credits:
+26
+Core applied statistics course:
+STATS 413
+Core theoretical statistics courses:
+STATS 425, 426.
+Core statistical computing course:
+STATS 306.
+Additional advanced statistics courses:
+At least two of STATS 315 (
+FA22 or later
+), 406, 415, 430, 449 (
+FA22 or later
+), 451, 470, 480, or MATH/STATS 526.
+Capstone course:
+STATS 485
+Elective courses in Statistics, Mathematics, or EECS.
+These are advisor approved electives. These approved courses include:
+STATS 404, 408, 449
+any 500+ level Statistics courses
+any additional courses from #4 above
+400+ level
+advisor-approved
+MATH courses (except MATH 417 and 419)
+300+ level
+advisor-approved
+EECS course.
+Students interested in the application of statistics to various disciplines such as economics, biological sciences, and psychology are also encouraged to take courses in these areas.
+Residency
+A minimum of fifteen (15) credits towards the major must be taken on the Ann Arbor campus.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+.  In addition, courses in the STATS and DATASCI subject areas may not be used toward the Distribution Requirement.
+Honors
+LSA Distribution Requirement
+Any student with a current grade point average of at least 3.4 may apply for admission to the Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program above with the following modifications: (i) MATH 451 (Advanced Calculus I); (ii) an overall GPA of at least 3.5; (iii) STATS 499 (Senior Honors Seminar) and completion of a project or a thesis under the direction of a member of the Statistics Department faculty. Note that MATH 451 has MATH 217 as a prerequisite, so Statistics honors students should usually satisfy their linear algebra requirement by MATH 217 rather than MATH 214.
+Statistics (Major) (Winter 2021 - Summer 2021)
+Effective Winter 2021
+Advising
+Most statistics courses are elected after taking an introductory course (STATS 206, 250, STATS 280 or STATS 412) and completing an introductory mathematics sequence or after consulting a department department advisor. Students wishing to pursue a major in Statistics must develop a specific plan for its completion in consultation with a Statistics Department undergraduate department advisor.
+Prerequisites
+MATH 215 and 217 (MATH 214 and MATH 417 may not be substituted for MATH 217)
+EECS 183
+STATS 206, 250, 280, or 412
+Requirements
+Minimum Credits:
+26
+Core applied statistics course:
+STATS 413
+Core theoretical statistics courses:
+STATS 425, 426.
+Core statistical computing course:
+STATS 306.
+Additional advanced statistics courses:
+At least two of STATS 406, 415, 430, 451, 470, 480, or MATH/STATS 526
+(only if elected WN18 or later)
+.
+Capstone course:
+STATS 485
+Elective courses in Statistics, Mathematics, or EECS.
+These are advisor approved electives. These approved courses include:
+STATS 404, 408, 449
+any 500+ level Statistics courses
+any additional courses from #4 above
+400+ level
+advisor-approved
+MATH courses (except MATH 417 and 419)
+300+ level
+advisor-approved
+EECS course.
+Students interested in the application of statistics to various disciplines such as economics, biological sciences, and psychology are also encouraged to take courses in these areas.
+Residency
+A minimum of fifteen (15) credits towards the major must be taken on the Ann Arbor campus.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS subject area may not be used toward the Distribution Requirement.
+Honors
+Any student with a current overall grade point average of at least 3.4 may apply for admission to the Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program above with the following modifications: MATH 451 and an overall GPA of at least 3.5. In addition, Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project or a thesis under the direction of a member of the Statistics Department faculty.
+Statistics (Major) (Winter 2019 - Fall 2020)
+Effective Winter 2019
+Advising
+Most statistics courses are elected after taking an introductory course (STATS 250, STATS 280 or STATS 412) and completing an introductory mathematics sequence or after consulting a department department advisor. Students wishing to pursue a major in Statistics must develop a specific plan for its completion in consultation with a Statistics Department undergraduate department advisor.
+Prerequisites
+MATH 215 and 217 (MATH 214 and MATH 417 may not be substituted for MATH 217)
+EECS 183
+STATS 250, 280, or 412
+Requirements
+Minimum Credits:
+26
+Core applied statistics course:
+STATS 413
+Core theoretical statistics courses:
+STATS 425, 426.
+Core statistical computing course:
+STATS 306.
+Additional advanced statistics courses:
+At least two of STATS 406, 415, 430, 451, 470, 480, or MATH/STATS 526
+(only if elected WN18 or later)
+.
+Capstone course:
+STATS 485
+Elective courses in Statistics, Mathematics, or EECS.
+These are advisor approved electives. These approved courses include:
+STATS 404, 408, 449
+any 500+ level Statistics courses
+any additional courses from #4 above
+400+ level
+advisor-approved
+MATH courses (except MATH 417 and 419)
+300+ level
+advisor-approved
+EECS course.
+Students interested in the application of statistics to various disciplines such as economics, biological sciences, and psychology are also encouraged to take courses in these areas.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS subject area may not be used toward the Distribution Requirement.
+Honors
+Any student with a current overall grade point average of at least 3.4 may apply for admission to the Honors major program. Such application is made through a Statistics Department undergraduate advisor. Students in the Honors program must complete the regular major program above with the following modifications: MATH 451 and an overall GPA of at least 3.5. In addition, Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project or a thesis under the direction of a member of the Statistics Department faculty.
+Statistics (Major) (Winter 2018 - Fall 2018)
+Effective Winter 2018
+Advising
+Most statistics courses are elected after taking an introductory course (STATS 250, STATS 280 or STATS 412) and completing an introductory mathematics sequence or after consulting a department department advisor. Students wishing to pursue a major in Statistics must develop a specific plan for its completion in consultation with a Statistics Department undergraduate department advisor.
+Prerequisites
+MATH 215 and 217 (MATH 214 and MATH 417 may not be substituted for MATH 217)
+EECS 183
+STATS 250, 280, or 412
+Requirements
+Minimum Credits:
+26
+Core applied statistics course:
+STATS 413
+Core theoretical statistics courses:
+STATS 425, 426.
+Core statistical computing course:
+STATS 306.
+Additional advanced statistics courses:
+At least two of STATS 406, 415, 430, 451, 470, 480, or MATH/STATS 526 (only if elected WN18 or later).
+Capstone course:
+STATS 485
+Elective courses in Statistics, Mathematics, or EECS.
+These are advisor approved electives. These approved courses include:
+STATS 404, 408, 449
+any 500+ level Statistics courses
+any additional courses from #4 above
+400+ level
+advisor-approved
+MATH courses (except MATH 417 and 419)
+300+ level
+advisor-approved
+EECS course.
+Students interested in the application of statistics to various disciplines such as economics, biological sciences, and psychology are also encouraged to take courses in these areas.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS subject area may not be used toward the Distribution Requirement.
+Honors
+Any student who has maintained an overall grade point average of at least 3.4 through the sophomore year may apply for admission to the Honors major program. Such application is made through a Statistics Department undergraduate department advisor. Students in the Honors program must complete the regular major program above with the following modifications: MATH 451 and an overall GPA of at least 3.5. In addition, Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project or a thesis under the direction of a member of the faculty. This additional requirement should be arranged and discussed with a Statistics Department undergraduate department advisor.
+Statistics (Major) (Fall 2016 - Fall 2017)
+Effective Fall 2016
+Advising
+Normally, most statistics courses are elected after an introductory mathematics sequence has been completed or after consulting a department department advisor. See Department website for contact information:
+lsa.umich.edu/stats/undergraduate-students/advising
+Students wishing to pursue a minor in Statistics must develop a specific plan for its completion in consultation with a Statistics Department undergraduate department advisor. See Department website for contact information:
+lsa.umich.edu/stats/undergraduate-students/advising
+Computing.
+Computing is central to current statistical practice, both in and beyond universities. Modern statistical techniques often lend themselves to being understood in terms of algorithms and computation. Accordingly, instructors of courses serving statistics minors are increasingly integrating computation and algorithms into their instruction. We expect students to undertake the computing requirement prior to declaring a minor in the department.
+Prerequisites
+MATH 215 and 217 (MATH 417 may not be substituted for MATH 217)
+EECS 182 (preferred) or EECS 183
+STATS 250, 280, or 412
+Requirements
+Minimum Credits:
+26
+Core Statistics courses:
+STATS 413, 425, 426.
+Core Computing course:
+STATS 406.
+Additional Statistics courses:
+At least one of STATS 415, 430, 470, or 480.
+Capstone Course:
+STATS 485
+Elective courses in Statistics, Mathematics, or EECS.
+These are advisor approved electives. These approved courses include:
+STATS 404, 408, 449
+any 500+ level Statistics courses
+any additional courses from #3 above
+400+ level
+advisor-approved
+MATH courses (except MATH 417 and 419)
+300+ level
+advisor-approved
+EECS course.
+Students interested in the application of statistics to various disciplines such as economics, biological sciences, and psychology are also encouraged to take courses in these areas.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the STATS subject area may not be used toward the Distribution Requirement.
+Honors
+Any student who has maintained an overall grade point average of at least 3.4 through the sophomore year may apply for admission to the Honors major program. Such application is made through a Statistics Department undergraduate department advisor. Students in the Honors program must complete the regular major program above with the following modifications: MATH 451 and an overall GPA of at least 3.5. In addition, Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project under the direction of a member of the faculty. This additional requirement should be arranged and discussed with a Statistics Department undergraduate department advisor.
+Statistics Major (Fall 2012-Summer 2016)
+Prerequisites to the Major
+MATH 215 and 217 (MATH 417 may not be substituted for MATH 217)
+EECS 182 (preferred) or EECS 183
+STATS 250 or 412
+Requirements for the Major
+The Statistics major program consists of at least 26 credits, and must include the following:
+Core Statistics courses:
+STATS 425, 426, 500.
+Core Computing course:
+STATS 406.
+Additional Statistics courses:
+At least one of STATS 415, 430, 470, or 480.
+Capstone Course
+: STATS 485
+Elective courses in Statistics, Mathematics, or EECS.
+These are advisor approved electives. These approved courses include:
+STATS 404, 408, 449
+any 500+ level Statistics courses
+any additional courses from #3 above
+400+ level
+advisor-approved
+MATH courses (except MATH 417 and 419)
+300+ level
+advisor-approved
+EECS course.
+Students interested in the application of statistics to various disciplines such as economics, biological sciences, and psychology are also encouraged to take courses in these areas.
+Honors Plan
+Any student who has maintained an overall grade point average of at least 3.4 through the sophomore year may apply for admission to the Honors major program. Such application is made through a Statistics Department undergraduate department advisor. Students in the Honors program must complete the regular major program above with the following modifications: MATH 451 and an overall GPA of at least 3.5. In addition, Honors majors must elect the Senior Honors Seminar (STATS 499) and complete a project under the direction of a member of the faculty. This additional requirement should be arranged and discussed with a Statistics Department undergraduate department advisor.
+Information for
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

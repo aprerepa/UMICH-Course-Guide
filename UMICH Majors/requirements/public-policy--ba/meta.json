@@ -1,0 +1,17 @@
+{
+  "id": "public-policy--ba",
+  "name": "Public Policy",
+  "school_college": "Ford School of Public Policy",
+  "program_url": "https://fordschool.umich.edu/admissions/ba",
+  "status": "fetched",
+  "message": "degree program page saved (no nested requirements link)",
+  "program_final_url": "https://fordschool.umich.edu/admissions/ba",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://fordschool.umich.edu/ba/major",
+  "requirements_link_text": "Major in public policy",
+  "requirements_link_score": 180,
+  "requirements_link_strategy": "hub_program_page",
+  "requirements_final_url": "https://fordschool.umich.edu/ba/major",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:48:19.133259+00:00"
+}

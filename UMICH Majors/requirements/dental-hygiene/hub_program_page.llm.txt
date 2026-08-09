@@ -1,0 +1,13 @@
+Page header:
+page title: Just a moment...
+
+Visible page text:
+dent.umich.edu
+Performing security verification
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+Verification successful. Waiting for dent.umich.edu to respond
+Ray ID:
+a287d6ded8e0323c
+Performance and Security by
+Cloudflare
+Privacy

@@ -1,0 +1,17 @@
+{
+  "id": "community-and-global-public-health--phs",
+  "name": "Community and Global Public Health",
+  "school_college": "School of Public Health",
+  "program_url": "https://sph.umich.edu/undergrad/apply/#phs",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://sph.umich.edu/undergrad/apply/#phs",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://sph.umich.edu/undergrad/degrees/degree-requirements.html",
+  "requirements_link_text": "Degree Requirements",
+  "requirements_link_score": 215,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://sph.umich.edu/undergrad/degrees/degree-requirements.html",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:34:18.821856+00:00"
+}

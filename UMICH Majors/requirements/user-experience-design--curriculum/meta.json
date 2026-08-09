@@ -1,0 +1,17 @@
+{
+  "id": "user-experience-design--curriculum",
+  "name": "User Experience Design",
+  "school_college": "School of Information",
+  "program_url": "https://www.si.umich.edu/programs/bachelor-science-information/curriculum",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (program URL)",
+  "program_final_url": "https://www.si.umich.edu/programs/bachelor-science-information/bachelor-science-information-curriculum",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://www.si.umich.edu/programs/bachelor-science-information/bachelor-science-information-curriculum",
+  "requirements_link_text": "(program page is requirements)",
+  "requirements_link_score": 200,
+  "requirements_link_strategy": "program_is_requirements",
+  "requirements_final_url": "https://www.si.umich.edu/programs/bachelor-science-information/bachelor-science-information-curriculum",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:50:33.063432+00:00"
+}

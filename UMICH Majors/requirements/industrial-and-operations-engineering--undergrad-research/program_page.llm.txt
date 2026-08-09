@@ -1,0 +1,178 @@
+Page header:
+page title: Undergraduate research - Industrial & Operations Engineering
+og:description: Working with nationally recognized faculty our undergraduate students get real-world research experience in a variety of fields.
+
+Visible page text:
+Undergraduate research
+Home
+/
+Undergraduate
+/
+Undergraduate research
+We tackle important societal problems using mathematics.
+By working with nationally recognized faculty and graduate students, Industrial Operations and Engineering undergraduate students get real-world research experience in fields like healthcare, aviation, finance, transportation and more.
+Research Centers
+U-M IOE is home to two exciting research centers led by our very own faculty members and graduate students.
+Center for Ergonomics
+:
+The Center for Ergonomics is dedicated to gaining and sharing a better understanding of how tools, technologies and work practices affect health and performance and how they can be improved through human-centered design. Their research also advances basic knowledge about people’s psychological and physical abilities and limitations.
+Center for Healthcare Engineering and Patient Safety
+:
+applies operations engineering principles to pursue a healthcare system that more equitably and sustainably serves patients, providers, and institutions.
+Undergraduate research symposium
+Every year we host our annual research symposium exclusively to showcase undergraduate research. Students get to present their posters, see other student research, and network with faculty members.
+Read more about the 2025 symposium and see the winners.
+2026 IOE Summer Research Projects
+The University of Michigan and Michigan Engineering offer programs to provide undergraduate students with an opportunity to participate in summer research.
+Summer Research Opportunity Program (SROP)
+Summer Undergraduate Research in Engineering (SURE)
+Read more about SURE criteria and selection.
+All SURE projects are expected to be in-person
+IOE SURE Project 1:
+Influence of morphological variation on the brain’s response to impact: an AI-driven human digital twin study
+Faculty mentor:
+Jingwen Hu,
+jwhu@umich.edu
+Students needed:
+1-2
+Prerequisites:
+Proficiency in Matlab or other programming tools;
+interest in image analysis, machine learning, statistical modeling, and injury biomechanics. Demonstrated ability in 3D human geometry model and/or FE model development and application is a plus.
+Description:
+Concussion, or mild traumatic brain injury (mTBI), is a common injury in the United States associated with serious adverse short-and long-term effects. Asymptomatic brain anatomical variants (chiari malformation, cavum septum pellucidum, mega cisterna magna, etc.) are common in the general population and may influence brain tissue deformation, thereby affecting an individual’s concussion risk. We therefore propose this study that will use AI-driven human digital twins to create subject-specific finite element (FE) models across the range of human head/brain size using a set of individual MRIs with and without brain anatomical variants to determine the effect of head/brain morphology on brain tissue deformation patterns. In this study, students are expected to conduct AI-based medical image analysis to quantify morphological variations of the brain for adolescent and young adult populations, and develop statistical brain geometry models and FE models to represent population variations with and without anatomical variants.
+IOE SURE Project 2:
+Evaluating emotion regulation strategy selection for dynamic driving anger
+Faculty mentor:
+Manhua Wang,
+manhuaw@umich.edu
+Students needed:
+2
+Prerequisites:
+1.) Moderate programming skills in Python or R for building experimental testbed and data analysis. We expect students to work on developing scenarios using driving simulators and connecting them with various data collection devices.
+2.) Basic experience with R, Python, or MATLAB for analyzing behavioral or physiological data (e.g., time-series data, statistics) 3.) Research methods (highly preferred): familiarity with human subjects research, experimental design or psychology research methods (IOE, Psych or HF course background helpful) 4.) Understanding of descriptive statistics, t-tests, correlations, and/or ANOVA. 5.) A genuine interest in understanding human emotions and safety; willing to learn new analysis tools. 6.) Works independently, manages time effectively and takes ownership of assigned tasks. 7.) Attention to detail through careful data handling, accurate labeling and organized record-keeping. 8.) Strong written and verbal communication; able to proactively share progress, raise questions early, and seek feedback from mentors or teammates. 9.) Comfort working in a research team with graduate mentors.
+Description:
+Have you ever seen someone yelling or driving aggressively on the road? Driving anger and “road rage” have become serious safety concerns in the U.S., leading to crashes, stress and even violence. This project aims to better understand how anger develops while people are driving and how we might help calm drivers down before things escalate. In this project, students will design experimental materials and collect human-subjects data from driving simulator experiments, where participants experience controlled “anger-inducing” traffic situations (such as being cut off or stuck behind a slow driver). We will study how different intervention strategies—for example, calming messages or attention-redirecting prompts—affect drivers’ emotions and behaviors at different points in time. Using time-series data analysis, we will track changes in drivers’ emotions and actions to figure out when and how to deliver the most effective anger-management support. The results will help design smarter, real-time systems for emotion-aware vehicles that can detect and reduce road rage safely and effectively. Students on this project will gain hands-on experience with experimental data, human-factors research methods, driving simulator programming and translating data into meaningful insights. Students’ work will directly contribute to understanding how to make our roads safer and our technology more human-aware.
+IOE SURE Project 3:
+Improving radiotherapy treatments with optimization tools
+Faculty mentor:
+Marina Epelman,
+mepelman@umich.edu
+and
+Daniel Polan
+(co-supervisor)
+Students needed:
+1
+Prerequisites:
+Programming experience. Familiarity with optimization modeling is helpful, but willingness to learn is sufficient.
+Description:
+This is a joint project with Michigan Medicine Radiation Oncology group, co-supervised by Professor Daniel Polan. We will work on ways to use optimization modeling and computation techniques to improve treatment plans for cancer patients treated by radiotherapy. This research is a unique combination of mathematical modeling, algorithms, and computing applied to an important medical problem, and offers opportunities for interdisciplinary collaborations.
+IOE SURE Project 4: EV battery modeling, simulation and prognostic analysis
+Faculty mentor:
+Judy Jin,
+jhjin@umich.edu
+Students needed:
+1-2
+Prerequisites:
+Regression modeling, DOE/ANOVA, MATLAB or Python language. ML/DNN is a plus.
+Description:
+(1) Analyze experimental EIS signals
+(2) Fit Equivalent Circuit Models (ECM) using EIS signals
+(3) Conduct simulations based on various degradation modes
+(4) Develop and compare various ML models for prognostic predictions
+IOE SURE Project 5:
+Optimizing human-automation interaction: evaluating augmented reality and virtual reality display interfaces for enhanced performance
+Faculty mentor:
+Amelia Warden,
+acwarden@umich.ed
+u
+Students needed:
+2-3
+Prerequisites:
+The following are required
+An interest (or coursework) in human cognition, perception, attention and/or human-computer interaction
+Experience or interest in learning new tools and research methods, including human-participant experiments
+Detail-oriented and have the ability to work independently and communicate effectively in a collaborative research environment
+Literature review or academic writing experience
+Some experience with statistical analyses such as ANOVAs and t-tests
+Preferred but not required: Experience with Unity or other AR/VR development platforms, experience with programming languages such as C#, Python, or R. Familiarity with experimental design and data collection involving human participants.
+Description:
+The objective of this research is to evaluate display interfaces for enhanced performance in order to optimize human-automation interaction, specifically with augmented reality (AR) and virtual reality (VR) displays and automated aids presented with these displays. This research considers attentional processes, working memory, visual perception, decision-making and human-automation interaction. These aspects will be examined via tasks that will require processing of real-world information or simulated real-world in virtual reality (VR) and virtual information (presented with a computer display or AR/VR HMD).
+Students will contribute to research projects focused on understanding human perception, attention, and performance in emerging technology environments. Depending on individual interests and skills, student roles may include but are not limited to the following: developing mixed reality (AR/VR) applications using platforms like Unity, assisting in the design and execution of human-participant experiments, conducting literature reviews on relevant cognitive and human factors topics, and collecting and analyzing behavioral data. These projects are interdisciplinary in nature and offer hands-on experience at the intersection of psychology and engineering, with applications in safety-critical domains such as defense, healthcare, and transportation.
+IOE SURE Project 6:
+Exploring the role of clutter and salience with complex displays
+Faculty mentor:
+Amelia Warden,
+acwarden@umich.ed
+u
+Students needed:
+1-2
+Prerequisites:
+The following are required
+An interest (or coursework) in human cognition, perception, attention and/or human-computer interaction
+Experience or interest in learning new tools and research methods, including human-participant experiments
+Detail-oriented and have the ability to work independently and communicate effectively in a collaborative research environment
+Literature review or academic writing experience
+Some experience with statistical analyses, such as ANOVAs and t-test
+Preferred but not required: Experience with Unity or other game development platforms. Experience with programming languages such as C#, Python, or R. Familiarity with experimental design and data collection involving human participants.
+Description:
+This project examines how visual clutter and salience influence attention and decision-making with complex visualizations, such as weather and air-traffic displays. The goal of the work is to model human performance and attentional processes, particularly as the clutter and salience of information increase. During this project, we will (1) quantify clutter and salience using image-based metrics and controlled manipulations, (2) run behavioral studies to measure human performance and eye-tracking, (3) and develop a predictive model that links visual features to attention allocation and performance. The outcome of this work is a validated set of design principles and model-guided recommendations for complex visualizations.
+IOE SURE Project 7:
+Applications of industrial engineering and data analytics to medical decision making and health care
+Faculty mentor:
+Mariel Lavieri,
+lavieri@umich.edu
+Students needed:
+1
+Prerequisites:
+No prior medical/health care experience is necessary. Students with strong communication and programming skills, as well as a background in statistics or machine learning (or a willingness to acquire these skills), will be preferred.
+Description:
+This research team addresses a variety of questions related to the development and application of Industrial Engineering methodology to support medical decision-making and other health care decisions. Using large datasets, some of the sample questions investigated by our team include: when to monitor and treat patients with chronic conditions? How to plan the long-term supply and demand for transplant organs? How to identify patients with a concussion? These questions are addressed both from a patient’s and from a system’s perspective. Students involved will work actively with the research team and participate in our lab meetings, both in the engineering department and at the hospital. The student involved in this research will support model development, validation, and implementation, potentially including (but not limited to):
+Literature searches
+Data gathering/data mining
+Performance of statistical analysis/machine learning
+Development and coding of algorithms
+Development of simulation models
+Validation of findings
+Development of user-friendly tools to implement findings (through possibly web-based applications)
+IOE SURE Project 8:
+Advancing health care system efficiency and patient safety through applied engineering research
+Faculty mentor:
+Amy Cohn,
+amycohn@umich.edu
+Students needed:
+3
+Prerequisites:
+None
+Description:
+The Center for Healthcare Engineering and Patient Safety (CHEPS) invites motivated undergraduate students to participate in cutting-edge research projects aimed at improving health care delivery through innovative engineering and data science methodologies. CHEPS applies industrial and systems engineering, computer science and data analytics to address complex challenges in health care, such as patient flow, resource allocation, scheduling optimization and patient safety enhancement.
+Selected students will collaborate with interdisciplinary teams consisting of engineering faculty, clinicians, graduate researchers and fellow undergraduate students to identify problems, analyze data, model solutions and develop actionable recommendations. Projects may include optimizing perioperative clinic scheduling, predicting and mitigating bottlenecks in hospital units, and evaluating technology interventions to improve patient outcomes.
+Students will gain hands-on experience in quantitative modeling, algorithm development, data analysis, and the application of systems engineering tools to real-world health care scenarios. Participants will also attend professional development activities, interact with clinical stakeholders, and present their findings to diverse audiences. This full-time summer research experience is designed to help students assess their interest and potential for graduate studies in engineering, health informatics or related fields.
+IOE SURE Project 9:
+WinAI: Propelling UM Soccer with Data-Driven AI
+Faculty mentor:
+Albert Berahas,
+aberahas@umich.edu
+Students needed:
+1-2
+Prerequisites:
+Basic knowledge of Python and R.
+Description:
+Data analytics and AI are rapidly transforming competitive sports, enabling new approaches for real-time decision-making, performance optimization, and athlete well-being. In soccer, these tools have the potential to improve tactical planning, injury prevention, scouting, and player development. This project will leverage the extensive amounts of data available and will partner directly with the U-M Men’s and Women’s Soccer Teams to develop data-driven analytical tools, predictive models, and decision-support systems that translate high-dimensional soccer data into actionable insights. In this study, students will work with real-world collegiate performance, scouting, and tracking data to build and evaluate AI-enabled methodologies that support strategic coaching decisions, enhance training design, and improve competitive performance.
+IOE SURE Project 10:
+Evaluations of human-robot-automation teams
+Faculty mentor:
+Leia Stirling,
+leias@umich.edu
+Students needed:
+3
+Prerequisites:
+None
+Description:
+In this interdisciplinary research group, we bring together methods from human factors, biomechanics and robotics. We strive to understand the physical and cognitive interactions for goal-oriented human task performance and support operational decision-making that relies on manual task performance. These goals may include reducing musculoskeletal injury risks, supporting telehealth and improving technology usability.
+There are different projects students may support. In your application, please note which project(s) you are interested in joining.
+Home-based social robots:
+In this project, students will support software development for a social robot that aids in practicing mental health activities.
+Upper extremity exoskeletons for industrial applications:
+Exoskeletons are currently being evaluated for many different applications. In this project, the student may support the development of a study and/or data analysis related to a powered elbow exoskeleton designed to support activities of daily living.
+Aerospace human factors
+: In this project, the student may support the development of a study and/or data analysis related to studying a simulated lunar/Martian extravehicular activity.

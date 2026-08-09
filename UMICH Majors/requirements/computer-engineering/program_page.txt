@@ -1,0 +1,139 @@
+Academics
+Home
+>
+Academics
+>
+Undergraduate Programs
+>
+Majors and Minors
+>
+Computer Engineering Major
+Computer Engineering Major
+Computer engineering exists at the intersection of electrical engineering and computer science. The Computer Engineering Major takes its students deeper into the hardware and software that run our world, giving you broad experience with components, systems, and programs.
+The need for technological advancement never slows, and demand for CE majors is strong across a number of fields. Our graduates can be found building enterprise software, designing games, securing autonomous and connected vehicles, developing massive networks of embedded sensors, pushing robotics to the next level, and dreaming up the future standards for wireless communications.
+Atlas profile for Computer Engineering
+(current U-M students only)
+Please note: The Computer Engineering major is a joint program between the
+Computer Science and Engineering
+(CSE) Division of EECS and the
+Electrical and Computer Engineering
+(ECE) Division of EECS. Faculty from both divisions develop the curriculum, teach the courses, and mentor students. Student advising is managed by the ECE Undergraduate Advising Office.
+Why computer engineering at Michigan?
+Jobs
+: Michigan computer engineers are highly recruited by a wide variety of industries.
+Industry ties
+: Michigan computer engineering faculty have close ties with industry and give students relevant tools to use in class.
+Impact
+: Michigan’s computer engineers founded Google, created the iPod, are key to the auto industry, and are helping run the state of Michigan.
+Top Ranked
+CE is a top 10 ranked department by
+U.S. News & World Report.
+100+
+World-class faculty who win awards for teaching and research, start companies, and inspire students.
+DEEP EXPERTISE
+in all areas of computer engineering.
+Curriculum
+Program information
+CE Program Guide
+Editable CE Sample Schedule
+Enrollment & Graduation Data
+Advising
+The
+ECE Undergraduate Advising Office
+can help with advising appointments, drop-in advising, email support, and more.
+Sign up for a CE Group Declaration session
+Academic concentrations
+The
+Computer Engineering Program Guide
+describes 8 different paths of study that students may use as a guide to planning their courses. These are optional. The program guide provides an overview and a list of related courses for each of these paths of study:
+Computer Architecture
+Computer-Aided Design
+Computer-Based Control Systems
+Digital Signals and Systems
+Embedded Systems
+Robotics and Vision
+System Software
+VLSI Systems (Chip Design)
+Every Computer Engineering student takes a Major Design Experience (MDE) course, typically in their last year of undergraduate studies. These are the MDE courses offered for Computer Engineering students:
+EECS 427: VLSI Design
+Design and build the circuits needed to create an entire digital system, such as a microprocessor that will go into a smartphone, wearable tech, or a media player.
+EECS 427 Course overview
+EECS 452: Digital Signal Processing
+Design and implement a real-time software package or hardware device. Examples include a low-cost hearing aid, a guitar autotuner, and a wireless electrocardiogram with biosensors.
+EECS 452 Course overview
+EECS 467: Autonomous Robotics
+Design and program a robotic system and learn about related topics such as embedded systems, sensors, artificial intelligence, and kinematics.
+EECS 467 Course overview (in CoE Bulletin)
+EECS 470: Computer Architecture
+Design and build a dynamically scheduled processor while exploring modern computer architecture.
+EECS 470 Course overview
+EECS 473: Advanced Embedded Systems
+Design and implement the hardware and software for a modern embedded system. Students design a complete embedded system.
+EECS 473 Course overview
+Accelerated master’s degrees: SUGS and 3.4 Programs
+Computer Engineering students have the opportunity to either complete their bachelor’s and master’s degrees in a total of five years through the
+Sequential Undergraduate/Graduate (SUGS) program
+. They can opt to receive a master’s degree in either
+Computer Science and Engineering
+, or
+Electrical and Computer Engineering
+. The process for each is a little different; please read each set of requirements carefully.
+In addition Computer Engineering students wanting to pursue a master’s degree in Electrical and Computer Engineering can take advantage of the
+3.4 program
+. With the 3.4 program, current University of Michigan undergraduate students with at least a 3.4 GPA can apply for admission to the master’s program in Electrical and Computer Engineering without taking the GRE or sending in letters of recommendation.
+Outside the classroom
+Learn by doing
+CSE-focused Student Groups and Teams
+ECE-focused Student Groups and Teams
+Michigan Engineering Immersed
+Professional Organizations
+CSE Student Groups and Teams
+ECE Student Groups and Teams
+Research
+CSE UG research opportunities
+ECE UG research opportunities
+CSE Research Areas
+ECE Research Areas
+What our graduates do
+Job titles
+Computer systems design
+Computer equipment manufacturing
+Corporate management and consulting
+Data processing and software industries
+Federal government
+Navigational, measuring, electromedical, and control systems manufacturing
+Scientific research
+Wireless telecommunications industry
+Many more!
+Salary information
+Meet our alumni
+Paul Debevec
+Paul Debevec honored with Emmy Lifetime Achievement Award for inventing a new kind of movie magic
+Tony Fadell
+Tony Fadell, Mastermind Behind the Apple iPod, Offers Advice for Students
+Read more stories about our ECE alumni
+Read more stories about our CSE alumni
+Read more stories about our future ECE alumni
+Read more stories about our future CSE alumni
+Mission and goals
+The Computer Engineering (B.S.E.) program is accredited by the Engineering Accreditation Commission of ABET,
+https://www.abet.org
+, under the General Criteria and the Program Criteria for Electrical, Computer, Communications, Telecommunication(s) and similarly named engineering programs.
+View details
+Mission
+: To provide a solid technical foundation that prepares students for a career that can adapt to rapidly changing technology in computer engineering.
+Goals
+: To educate students with a broad and in-depth knowledge of computing systems, and to develop leaders in this field.
+Objectives
+: Within 5 years after graduating:
+Graduates should be able to apply the technical skills necessary to design and implement low level computer systems and applications.
+Graduates should have the theoretical and practical skills needed for advanced graduate education.
+Graduates should be able to work effectively on teams, to communicate in written and oral form, to practice life-long learning, and to develop the professional responsibility needed for successful technical leadership positions.
+All Computer Engineering graduates should have:
+An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics;
+An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors;
+An ability to communicate effectively with a range of audiences;
+An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts;
+An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives;
+An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions; and
+An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.

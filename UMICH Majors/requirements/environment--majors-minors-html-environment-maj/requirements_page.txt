@@ -1,0 +1,815 @@
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+About
+Academics
+Research
+News and Events
+Support LSA
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Course Catalog
+Give Online
+Keyword Search of en
+About
+Academics
+Research
+News and Events
+Support LSA
+Course Catalog
+Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+LSA 101: Info for Admitted Students
+Learn what it means to be a Wolverine and dig in to what the liberal arts are all about. View our presentations and information from wherever you are.
+Undergraduate
+Graduate
+Transfer
+International
+Student Life
+Admissions
+Student Stories
+Outcomes and Possibilities
+LSA delivers a purposeful, pragmatic liberal arts education that employers respect and seek out.
+Undergraduate
+Graduate
+Transfer
+Education
+Academic Advising
+Outcomes and Possibilities
+College Connections
+College Connections provides a space for alumni and families to share their student experiences with recent LSA graduates and provide feedback on the current and future state of the College.
+Get Connected
+Get Involved
+Get Informed
+College Connections
+Staff Achievement Awards Program
+This is an annual opportunity to acknowledge and celebrate exceptional staff contributions to the success of the College . Information regarding eligibility, nomination, selection, notification, and winners can be found here.
+Budget and Finance
+Chairs and Directors
+Facilities and Operations
+Faculty Academic Affairs
+Graduate Education
+Human Resources
+LSA Advancement
+LSA Research Office
+Office of the Dean
+Security and Safety
+Standard Practice Guide
+Student Academic Affairs
+Technology Services
+Undergraduate Education
+Skip to Page Content
+Academics
+Majors and Minors
+The Environment Major
+...
+The Environment Major
+Academics
+Majors and Minors
+[X] close
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+The Environment Major
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Advising
+Department Website
+Effective Fall 2025
+Advising
+Students interested in declaring either a major or a minor must attend an information session. Information sessions are held throughout the Fall and Winter terms. Appointments may be scheduled with Program advisors on-line at:
+https://lsa.umich.edu/pite/majors/advising.html
+Grade Policies
+Prerequisites for the Environment major may be taken for a grade or taken Pass/Fail. All other requirements for the major must be taken for a grade per LSA policy.
+Prerequisites
+Prerequisites need not be completed prior to declaring an Environment major. Prerequisites for the Environment major may be taken for a grade or taken Pass/Fail. To ensure a common background and understanding of disciplines relevant to environmental study, students take all of the following (many of these courses also satisfy LSA area distribution):
+One Introductory Interdisciplinary Course
+(one of the following):
+ANTHRARC 180: First-Year Seminar in Anthropological Archaeology,
+section titled "Food at the University of Michigan" (only if taken WN17 or later)
+ANTHRBIO / ENVIRON 167: Evolution, Environment, and Global Health
+(only if taken FA18 or later)
+BIOLOGY 109: Ecological Knowledge and Environmental Problem Solving
+(only if taken FA16 or later)
+EARTH 144: Climate Change in the Age of Humans
+(only if taken FA16 or later)
+EARTH 158: Environmental Impact of Energy Systems:  What are the Risks?
+(only if taken FA16 or later)
+EARTH / GEOG 201 / ENVIRON 209: Introduction Physical Geography
+(only if taken FA16 or later)
+EARTH 219 / ENVIRON 229: Introduction to Environmental Science
+(only if taken FA18 or later)
+ENVIRON / BIOLOGY 101: Food, Energy, and Environmental Justice
+ENVIRON 110 / AOSS 171 / BIOLOGY 110 / EARTH / ENSCEN 171 / RCNSCI 110: Introduction to Global Change: The Science Behind Sustainability
+ENVIRON 111 / AOSS / EARTH / ENSCEN 172 / GEOG 111: Global Change: The Sustainability Challenge
+ENVIRON 139: First-Year Seminar in the Environment
+ENVIRON 201 / RCNSCI 202: Ecological Issues
+ENVIRON 270: Our Common Future
+CEE 230: Thermodynamics and the Environment
+CEE 265: Sustainable Engineering Principles
+One Introductory Biology Course:
+BIOLOGY 171: Introductory Biology:  Ecology and Evolution; or
+BIOLOGY 195:Introductory Biology (AP)
+One Introductory Geology Course:
+EARTH 116: Introductory Geology in the Field
+EARTH 118: Introductory Geology Laboratory
+AND
+EARTH 119: Introductory Geology Lectures; or
+EARTH / ENVIRON 120: Geology of National Parks and Monuments
+EARTH / ENVIRON 202:Introduction to Earth and Environmental Sciences in the Rockies
+EARTH 296: Topics in the Earth and Environmental Sciences,
+(section titled "Earth and Environmental Science Around Us") (only if elected SU20 or later)
+One Environmental Social Science Course:
+ECON 101: Principles of Economics I
+(only if taken FA17 or later)
+ENVIRON 207: Sustainability and Society
+(only if taken FA17 or later)
+ENVIRON / ORGSTUDY 208: Business and the Natural Environment
+ENVIRON / RCSSCI 211: Social Sciences and Environmental Problems
+ENVIRON 222: Introduction to Environmental Justice
+(only if taken FA17 or later)
+ENVIRON 235: Economics of Natural Resources and Environment
+ENVIRON 290: Food:  The Ecology, Economics, and Ethics of Growing and Eating
+ENVIRON / HISTORY 236: Environment and History in Preindustrial Europe
+(only if taken FA17 or later)
+ENVIRON / HISTORY 237: Global Environmental History
+(only if taken FA17 or later)
+HISTORY 232: Interdisciplinary Topics in History,
+section titled "Histories of Global Health" (only if taken FA17 or later)
+Requirements
+Minimum Credits:
+32
+These courses expand students knowledge of environmental problems and solutions by exposing them to a wide range of natural science, social science, and humanistic disciplines. Students select one course at the 200 level or above in each of the following categories.
+General Ecology
+(one of the following):
+BIOLOGY/ENVIRON 281: General Ecology
+AND
+BIOLOGY / EEB 372: General Ecology Laboratory; or
+BIOLOGY/ENVIRON 282
+AND
+ENVIRON/EEB 373:General Ecology at UM Biological Station (or ENVIRON/EEB 381 prior to SP22); or
+EARTH / ENVIRON 450: Ecosystem Science in the Rockies at Camp Davis, Wyoming
+Analytics
+(one of the following):
+STATS 250: Introduction to Statistics and Data Analysis
+STATS 280: Honors Introduction to Statistics and Data Analysis
+SOC 210: Elementary Statistics
+TO 301: Business Analytics and Statistics
+Culture and Environment
+choose one from approved list or in consultation with a department advisor:
+AAS 409, 432
+AMCULT 284, 311
+section titled, "Green Indigeneity"
+, 373
+ANTHRBIO 364, 365, 373
+ANTHRCUL 256, 328, 408, 439, 440
+ARCH 209
+section titled "Experiencing Architecture"
+, 212, 213, 357, 423
+ARTDES 250
+ASIAN 257, 258
+CLARCH 222, 382, 350
+section titled "The Art and Life in Roman Villas"
+CLCIV 382
+EARTH 238
+EEB 455
+ENGLISH 290
+section titled "American Environments: History, Thinking, Reps"
+, 317
+section titled "Greek Indigeneity"
+, 319
+section titled "Literature of Climate Change"
+, 328, 346
+section titled "Embodiment / Environment / Community"
+ENVIRON 221, 223, 238, 240, 244, 256, 270, 284, 301, 304, 320, 350, 370, 376, 377, 464
+HISTART 212, 213, 222, 243, 301, 394
+section titled "The Art and Life in Roman Villas"
+HISTORY 222, 223, 238, 284, 285, 373
+ITALIAN 310
+MOVESCI 241
+PHIL 224, 240, 355, 356, 359, 361, 366, 376
+RCHUMS 334
+section titled "Experiencing Architecture"
+RCIDIV 305
+UC 254
+section titled "Much Depends on Dinner"
+UP 357, 423
+WGS 344 (WOMENSTD 344)
+section titled "Embodiment / Environment / Community"
+Natural and Earth Systems Science:
+choose one 200 level or above Natural Science course or chosen in consultation with the department advisor.
+(NOTE: ENVIRON 201 does NOT count)
+Social Science
+choose two - one must be 300 level or above:
+ARCH 423
+ANTHRCUL 256
+CEE 307
+COMM 413
+ECON 330, 360, 370
+EDCURINS 382
+EEB 316, 318
+EHS 588
+ENVIRON 203, 207, 208, 211, 222, 223, 237, 242, 256, 270, 290, 302, 306, 308, 312, 313, 316, 318, 320, 321, 335, 345, 350, 356, 367, 370, 375, 382, 390, 391, 405, 407, 408, 412, 413, 448, 449, 462, 475, 490
+HISTORY 223, 237
+NRE 449, 475
+ORGSTUDY 203, 208
+POLSCI 331, 380, 394
+PSYCH 384, 385
+PUBPOL 312, 412
+RCIDIV 316, 318, 390
+RCSSCI 211, 222
+SOC 222, 380
+UP 423
+Senior Capstone:
+One course chosen in consultation with the department advisor.
+Practical Experience:
+The experience can be satisfied by an internship or a residential field course that is taken for 3 credits or more.
+Specialization:
+To gain a deeper understanding of applicable skills in one discipline of environmental study, students take three related courses at the 300-level or above, approved by the specialization committee, in one of the following areas: Environmental Science, Environmental Social Science, or Culture and the Environment.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the ENVIRON subject area may not be used toward the Distribution Requirement.
+Honors
+The Honors Program is open to all students who have achieved a cumulative grade point average of 3.50 or better. These students are automatically admitted into the Honors Program. (However, completion of the Honors Program requires the student to find a faculty advisor for their research.) Other students may request admission to the Honors Program by completing an application form available from the Program in the Environment office.
+The application and faculty recommendation (if needed) must be submitted by December 1 of the junior year.
+In order to remain in Honors and also to graduate with any level of Honors, all Honors student must have a cumulative GPA of at least 3.4.
+Honors Course Sequence
+Junior Year, Fall Term:
+Students hoping to pursue the Honors Program meet with the advisor(s) and instructor of the Junior Honors Seminar (ENVIRON 399). Students planning to study abroad will not be able to during the Winter semester of their Junior year.
+Junior Year, Winter Term:
+Junior Honors Seminar (ENVIRON 399). The goals of this 3-credit course are to develop research skills, identify a faculty advisor who will provide guidance and encouragement, and prepare the proposal for the thesis project. Students MAY NOT study abroad during this semester. ENV 399 will not be waived for study abroad because of the detailed instruction and information the student must gain from this course.
+Senior Year, Fall and Winter Terms:
+Seniors will register for independent study credits (ENVIRON 499) with their advisor during their senior year (6 credits over the Fall and Winter terms). The primary goal of the independent study is to carry out the Honors thesis research. In addition to regular meetings with their advisor, students will also meet monthly with the other Senior Honors students in the winter term. These sessions will be facilitated by the instructor(s) of ENVIRON 399 and provide an opportunity to talk about thesis progress and obstacles, discuss how to present findings in the written document and orally, and other concerns related to the trials and tribulations of getting the thesis done on time.
+Oral Presentation:
+A public oral presentation of a student’s thesis research will be arranged by the Program in the Environment staff in consultation with the instructors of ENVIRON 399 and the faculty advisors for ENVIRON 499.
+Teaching Certificate
+Teacher Certification
+For information about teaching certificates, please contact the Program in the Environment.
+Environment (Major) (Fall 2024 - Summer 2025)
+Effective Fall 2024
+Advising
+Students interested in declaring either a major or a minor must attend an information session. Information sessions are held throughout the Fall and Winter terms. Appointments may be scheduled with Program advisors on-line at:
+https://lsa.umich.edu/pite/majors/advising.html
+Prerequisites
+Prerequisites need not be completed prior to declaring an Environment major. To ensure a common background and understanding of disciplines relevant to environmental study, students take all of the following (many of these courses also satisfy LSA area distribution):
+One Introductory Interdisciplinary Course
+(one of the following):
+ANTHRARC 180: First-Year Seminar in Anthropological Archaeology,
+section titled "Food at the University of Michigan" (only if taken WN17 or later)
+ANTHRBIO / ENVIRON 167: Evolution, Environment, and Global Health
+(only if taken FA18 or later)
+BIOLOGY 109: Ecological Knowledge and Environmental Problem Solving
+(only if taken FA16 or later)
+EARTH 144: Climate Change in the Age of Humans
+(only if taken FA16 or later)
+EARTH 158: Environmental Impact of Energy Systems:  What are the Risks?
+(only if taken FA16 or later)
+EARTH / GEOG 201 / ENVIRON 209: Introduction Physical Geography
+(only if taken FA16 or later)
+EARTH 219 / ENVIRON 229: Introduction to Environmental Science
+(only if taken FA18 or later)
+ENVIRON / BIOLOGY 101: Food, Energy, and Environmental Justice
+ENVIRON 110 / AOSS 171 / BIOLOGY 110 / EARTH / ENSCEN 171 / RCNSCI 110: Introduction to Global Change: The Science Behind Sustainability
+ENVIRON 111 / AOSS / EARTH / ENSCEN 172 / GEOG 111: Global Change: The Sustainability Challenge
+ENVIRON 139: First-Year Seminar in the Environment
+ENVIRON 201 / RCNSCI 202: Ecological Issues
+ENVIRON 270: Our Common Future
+CEE 230: Thermodynamics and the Environment
+CEE 265: Sustainable Engineering Principles
+One Introductory Biology Course:
+BIOLOGY 171: Introductory Biology:  Ecology and Evolution; or
+BIOLOGY 195:Introductory Biology (AP)
+One Introductory Geology Course:
+EARTH 116: Introductory Geology in the Field
+EARTH 118: Introductory Geology Laboratory
+AND
+EARTH 119: Introductory Geology Lectures; or
+EARTH / ENVIRON 120: Geology of National Parks and Monuments
+EARTH / ENVIRON 202:Introduction to Earth and Environmental Sciences in the Rockies
+EARTH 296: Topics in the Earth and Environmental Sciences,
+(section titled "Earth and Environmental Science Around Us") (only if elected SU20 or later)
+One Environmental Social Science Course:
+ECON 101: Principles of Economics I
+(only if taken FA17 or later)
+ENVIRON 207: Sustainability and Society
+(only if taken FA17 or later)
+ENVIRON / ORGSTUDY 208: Business and the Natural Environment
+ENVIRON / RCSSCI 211: Social Sciences and Environmental Problems
+ENVIRON 222: Introduction to Environmental Justice
+(only if taken FA17 or later)
+ENVIRON 235: Economics of Natural Resources and Environment
+ENVIRON 290: Food:  The Ecology, Economics, and Ethics of Growing and Eating
+ENVIRON / HISTORY 236: Environment and History in Preindustrial Europe
+(only if taken FA17 or later)
+ENVIRON / HISTORY 237: Global Environmental History
+(only if taken FA17 or later)
+HISTORY 232: Interdisciplinary Topics in History,
+section titled "Histories of Global Health" (only if taken FA17 or later)
+Requirements
+Minimum Credits:
+32
+These courses expand students knowledge of environmental problems and solutions by exposing them to a wide range of natural science, social science, and humanistic disciplines. Students select one course at the 200 level or above in each of the following categories.
+General Ecology
+(one of the following):
+BIOLOGY/ENVIRON 281: General Ecology
+AND
+BIOLOGY / EEB 372: General Ecology Laboratory; or
+BIOLOGY/ENVIRON 282
+AND
+ENVIRON/EEB 373:General Ecology at UM Biological Station (or ENVIRON/EEB 381 prior to SP22); or
+EARTH / ENVIRON 450: Ecosystem Science in the Rockies at Camp Davis, Wyoming
+Analytics
+(one of the following):
+STATS 250: Introduction to Statistics and Data Analysis
+STATS 280: Honors Introduction to Statistics and Data Analysis
+SOC 210: Elementary Statistics
+TO 301: Business Analytics and Statistics
+Culture and Environment
+choose one from approved list or in consultation with a department advisor:
+AAS 409, 432
+AMCULT 284, 311
+section titled, "Green Indigeneity"
+, 373
+ANTHRBIO 364, 365, 373
+ANTHRCUL 256, 328, 408, 439, 440
+ARCH 209
+section titled "Experiencing Architecture"
+, 212, 213, 357, 423
+ARTDES 250
+ASIAN 257, 258
+CLARCH 222, 382, 350
+section titled "The Art and Life in Roman Villas"
+CLCIV 382
+EARTH 238
+EEB 455
+ENGLISH 290
+section titled "American Environments: History, Thinking, Reps"
+, 317
+section titled "Greek Indigeneity"
+, 319
+section titled "Literature of Climate Change"
+, 328, 346
+section titled "Embodiment / Environment / Community"
+ENVIRON 221, 223, 238, 240, 244, 256, 270, 284, 301, 304, 320, 350, 370, 376, 377, 464
+HISTART 212, 213, 222, 243, 301, 394
+section titled "The Art and Life in Roman Villas"
+HISTORY 222, 223, 238, 284, 285, 373
+ITALIAN 310
+MOVESCI 241
+PHIL 224, 240, 355, 356, 359, 361, 366, 376
+RCHUMS 334
+section titled "Experiencing Architecture"
+RCIDIV 305
+UC 254
+section titled "Much Depends on Dinner"
+UP 357, 423
+WGS 344 (WOMENSTD 344)
+section titled "Embodiment / Environment / Community"
+Natural and Earth Systems Science:
+choose one 200 level or above Natural Science course or chosen in consultation with the department advisor.
+(NOTE: ENVIRON 201 does NOT count)
+Social Science
+choose two - one must be 300 level or above:
+ARCH 423
+ANTHRCUL 256
+CEE 307
+COMM 413
+ECON 330, 360, 370
+EDCURINS 382
+EEB 316, 318
+EHS 588
+ENVIRON 203, 207, 208, 211, 222, 223, 237, 242, 256, 270, 290, 302, 306, 308, 312, 313, 316, 318, 320, 321, 335, 345, 350, 356, 367, 370, 375, 382, 390, 391, 405, 407, 408, 412, 413, 448, 449, 462, 475, 490
+HISTORY 223, 237
+NRE 449, 475
+ORGSTUDY 203, 208
+POLSCI 331, 380, 394
+PSYCH 384, 385
+PUBPOL 312, 412
+RCIDIV 316, 318, 390
+RCSSCI 211, 222
+SOC 222, 380
+UP 423
+Senior Capstone:
+One course chosen in consultation with the department advisor.
+Practical Experience:
+The experience can be satisfied by an internship or a residential field course that is taken for 3 credits or more.
+Specialization:
+To gain a deeper understanding of applicable skills in one discipline of environmental study, students take three related courses at the 300-level or above, approved by the specialization committee, in one of the following areas: Environmental Science, Environmental Social Science, or Culture and the Environment.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the ENVIRON subject area may not be used toward the Distribution Requirement.
+Honors
+The Honors Program is open to all students who have achieved a cumulative grade point average of 3.50 or better. These students are automatically admitted into the Honors Program. (However, completion of the Honors Program requires the student to find a faculty advisor for their research.) Other students may request admission to the Honors Program by completing an application form available from the Program in the Environment office.
+The application and faculty recommendation (if needed) must be submitted by December 1 of the junior year.
+In order to remain in Honors and also to graduate with any level of Honors, all Honors student must have a cumulative GPA of at least 3.4.
+Honors Course Sequence
+Junior Year, Fall Term:
+Students hoping to pursue the Honors Program meet with the advisor(s) and instructor of the Junior Honors Seminar (ENVIRON 399). Students planning to study abroad will not be able to during the Winter semester of their Junior year.
+Junior Year, Winter Term:
+Junior Honors Seminar (ENVIRON 399). The goals of this 3-credit course are to develop research skills, identify a faculty advisor who will provide guidance and encouragement, and prepare the proposal for the thesis project. Students MAY NOT study abroad during this semester. ENV 399 will not be waived for study abroad because of the detailed instruction and information the student must gain from this course.
+Senior Year, Fall and Winter Terms:
+Seniors will register for independent study credits (ENVIRON 499) with their advisor during their senior year (6 credits over the Fall and Winter terms). The primary goal of the independent study is to carry out the Honors thesis research. In addition to regular meetings with their advisor, students will also meet monthly with the other Senior Honors students in the winter term. These sessions will be facilitated by the instructor(s) of ENVIRON 399 and provide an opportunity to talk about thesis progress and obstacles, discuss how to present findings in the written document and orally, and other concerns related to the trials and tribulations of getting the thesis done on time.
+Oral Presentation:
+A public oral presentation of a student’s thesis research will be arranged by the Program in the Environment staff in consultation with the instructors of ENVIRON 399 and the faculty advisors for ENVIRON 499.
+Teaching Certificate
+Teacher Certification
+For information about teaching certificates, please contact the Program in the Environment.
+Environment (Major) (Fall 2017 - Summer 2024)
+Effective Fall 2017
+Advising
+Students interested in declaring either a major or a minor must attend an information session. Information sessions are held throughout the Fall and Winter terms. Appointments may be scheduled with Program advisors on-line at:
+/lsa.umich.edu/pite/majors/advising.html
+Prerequisites
+Prerequisites need not be completed prior to declaring an Environment major. To ensure a common background and understanding of disciplines relevant to environmental study, students take all of the following (many of these courses also satisfy LSA area distribution):
+One Introductory Interdisciplinary Course
+(one of the following):
+ANTHRARC 180: First-Year Seminar in Anthropological Archaeology,
+section titled "Food at the University of Michigan" (only if taken WN17 or later)
+ANTHRBIO / ENVIRON 167: Evolution, Environment, and Global Health
+(only if taken FA18 or later)
+BIOLOGY 109: Ecological Knowledge and Environmental Problem Solving
+(only if taken FA16 or later)
+EARTH 144: Climate Change in the Age of Humans
+(only if taken FA16 or later)
+EARTH 158: Environmental Impact of Energy Systems:  What are the Risks?
+(only if taken FA16 or later)
+EARTH / GEOG 201 / ENVIRON 209: Introduction Physical Geography
+(only if taken FA16 or later)
+EARTH 219 / ENVIRON 229: Introduction to Environmental Science
+(only if taken FA18 or later)
+ENVIRON / BIOLOGY 101: Food, Energy, and Environmental Justice
+ENVIRON 110 / AOSS 171 / BIOLOGY 110 / EARTH / ENSCEN 171 / RCNSCI 110: Introduction to Global Change: The Science Behind Sustainability
+ENVIRON 111 / AOSS / EARTH / ENSCEN 172 / GEOG 111: Global Change: The Sustainability Challenge
+ENVIRON 139: First-Year Seminar in the Environment
+ENVIRON 201 / RCNSCI 202: Ecological Issues
+ENVIRON 270: Our Common Future
+CEE 230: Thermodynamics and the Environment
+CEE 265: Sustainable Engineering Principles
+One Introductory Biology Course:
+BIOLOGY 171: Introductory Biology:  Ecology and Evolution; or
+BIOLOGY 195:Introductory Biology (AP)
+One Introductory Geology Course:
+EARTH 116: Introductory Geology in the Field
+EARTH 118: Introductory Geology Laboratory
+AND
+EARTH 119: Introductory Geology Lectures; or
+EARTH / ENVIRON 120: Geology of National Parks and Monuments
+EARTH / ENVIRON 202:Introduction to Earth and Environmental Sciences in the Rockies
+EARTH 296: Topics in the Earth and Environmental Sciences,
+(section titled "Earth and Environmental Science Around Us") (only if elected SU20 or later)
+One Environmental Social Science Course:
+ECON 101: Principles of Economics I
+(only if taken FA17 or later)
+ENVIRON 207: Sustainability and Society
+(only if taken FA17 or later)
+ENVIRON / ORGSTUDY 208: Business and the Natural Environment
+ENVIRON / RCSSCI 211: Social Sciences and Environmental Problems
+ENVIRON 222: Introduction to Environmental Justice
+(only if taken FA17 or later)
+ENVIRON 235: Economics of Natural Resources and Environment
+ENVIRON 290: Food:  The Ecology, Economics, and Ethics of Growing and Eating
+ENVIRON / HISTORY 236: Environment and History in Preindustrial Europe
+(only if taken FA17 or later)
+ENVIRON / HISTORY 237: Global Environmental History
+(only if taken FA17 or later)
+HISTORY 232: Interdisciplinary Topics in History,
+section titled "Histories of Global Health" (only if taken FA17 or later)
+Requirements
+Minimum Credits:
+32
+These courses expand students knowledge of environmental problems and solutions by exposing them to a wide range of natural science, social science, and humanistic disciplines. Students select one course at the 200 level or above in each of the following categories.
+General Ecology
+(one of the following):
+BIOLOGY/ENVIRON 281: General Ecology
+AND
+BIOLOGY / EEB 372: General Ecology Laboratory; or
+BIOLOGY/ENVIRON 282
+AND
+ENVIRON/EEB 373:General Ecology at UM Biological Station (or ENVIRON/EEB 381 prior to SP22); or
+EARTH / ENVIRON 450: Ecosystem Science in the Rockies at Camp Davis, Wyoming
+Analytics
+(one of the following):
+STATS 250: Introduction to Statistics and Data Analysis
+STATS 280: Honors Introduction to Statistics and Data Analysis
+SOC 210: Elementary Statistics
+Culture and Environment
+choose one from approved list or in consultation with a department advisor:
+AAS 409, 432
+AMCULT 284, 311
+section titled, "Green Indigeneity"
+, 373
+ANTHRBIO 364, 365, 373
+ANTHRCUL 256, 328, 408, 439, 440
+ARCH 209
+section titled "Experiencing Architecture"
+, 212, 213, 357, 423
+ARTDES 250
+ASIAN 257, 258
+CLARCH 222, 382, 350
+section titled "The Art and Life in Roman Villas"
+CLCIV 382
+EARTH 238
+ENGLISH 290
+section titled "American Environments: History, Thinking, Reps"
+, 317
+section titled "Greek Indigenety"
+, 319
+section titled "Literature of Climate Change"
+, 328, 346
+section titled "Embodiment / Environment / Community"
+ENVIRON 221, 223, 238, 240, 244, 256, 270, 284, 301, 304, 320, 350, 370, 376, 377, 464
+HISTART 212, 213, 222, 243, 301, 394
+section titled "The Art and Life in Roman Villas"
+HISTORY 222, 223, 238, 284, 285, 373
+ITALIAN 310
+MOVESCI 241
+PHIL 224, 240, 355, 356, 359, 361, 366, 376
+RCHUMS 334
+section titled "Experiencing Architecture"
+RCIDIV 305
+STRATEGY 411, 445
+UC
+254 section titled "Much Depends on Dinner"
+UP 357, 423
+WGS 344 (WOMENSTD 344)
+section titled "Embodiment / Environment / Community"
+Natural and Earth Systems Science:
+choose one 200 level or above Natural Science course or chosen in consultation with the department advisor.
+(NOTE: ENVIRON 201 does NOT count)
+Social Science
+choose two - one must be 300 level or above:
+ARCH 423
+ANTHRCUL 256
+CEE 307
+COMM 413
+ECON 330, 360, 370
+EDCURINS 382
+EEB 316, 318
+EHS 588
+ENVIRON 203, 207, 208, 211, 222, 223, 237, 242, 256, 270, 290, 302, 306, 308, 312, 313, 316, 318, 320, 321, 335, 345, 350, 356, 367, 370, 375, 382, 390, 391, 405, 407, 408, 412, 413, 448, 449, 462, 475, 490
+HISTORY 223, 237
+NRE 449, 475
+ORGSTUDY 203, 208
+POLSCI 331, 380, 394
+PSYCH 384, 385
+PUBPOL 312, 412
+RCIDIV 316, 318, 390
+RCSSCI 211, 222
+SOC 222, 380
+UP 423
+Senior Capstone:
+One course chosen in consultation with the department advisor.
+Practical Experience:
+The experience can be satisfied by an internship or a residential field course that is taken for 3 credits or more.
+Specialization:
+To gain a deeper understanding of applicable skills in one discipline of environmental study, students take three related courses at the 300-level or above, approved by the specialization committee, in one of the following areas: Environmental Science, Environmental Social Science, or Culture and the Environment.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the ENVIRON subject area may not be used toward the Distribution Requirement.
+Honors
+The Honors Program is open to all students who have achieved a cumulative grade point average of 3.50 or better. These students are automatically admitted into the Honors Program. (However, completion of the Honors Program requires the student to find a faculty advisor for their research.) Other students may request admission to the Honors Program by completing an application form available from the Program in the Environment office.
+The application and faculty recommendation (if needed) must be submitted by December 1 of the junior year.
+In order to remain in Honors and also to graduate with any level of Honors, all Honors student must have a cumulative GPA of at least 3.4.
+Honors Course Sequence
+Junior Year, Fall Term:
+Students hoping to pursue the Honors Program meet with the advisor(s) and instructor of the Junior Honors Seminar (ENVIRON 399). Students planning to study abroad will not be able to during the Winter semester of their Junior year.
+Junior Year, Winter Term:
+Junior Honors Seminar (ENVIRON 399). The goals of this 3-credit course are to develop research skills, identify a faculty advisor who will provide guidance and encouragement, and prepare the proposal for the thesis project. Students MAY NOT study abroad during this semester. ENV 399 will not be waived for study abroad because of the detailed instruction and information the student must gain from this course.
+Senior Year, Fall and Winter Terms:
+Seniors will register for independent study credits (ENVIRON 499) with their advisor during their senior year (6 credits over the Fall and Winter terms). The primary goal of the independent study is to carry out the Honors thesis research. In addition to regular meetings with their advisor, students will also meet monthly with the other Senior Honors students in the winter term. These sessions will be facilitated by the instructor(s) of ENVIRON 399 and provide an opportunity to talk about thesis progress and obstacles, discuss how to present findings in the written document and orally, and other concerns related to the trials and tribulations of getting the thesis done on time.
+Oral Presentation:
+A public oral presentation of a student’s thesis research will be arranged by the Program in the Environment staff in consultation with the instructors of ENVIRON 399 and the faculty advisors for ENVIRON 499.
+Teaching Certificate
+Teacher Certification
+For information about teaching certificates, please contact the Program in the Environment.
+The Environment Major (Fall 2015 - Summer 2017)
+Effective:  Fall 2015
+May be elected as an interdepartmental major
+The major in Environment is intended to ensure scientific literacy, familiarity with advanced problem-solving techniques, and an ability to integrate scientific and social scientific approaches in addressing environmental problems. It serves students interested in environmental literacy as well as those interested in a wide range of career tracks related to environmental issues.
+Prerequisites to the Major
+Prerequisites need not be completed prior to declaring an Environment major. To ensure a common background and understanding of disciplines relevant to environmental study, students take all of the following (many of these courses also satisfy LSA area distribution):
+Introductory Interdisciplinary Course
+(one of the following):
+ENVIRON 110 / AOSS 171 / BIOLOGY 110 / EARTH 171 / ENSCEN 171 / RCNSCI 110: Introduction to Global Change: The Science Behind Sustainability
+ENVIRON 111 / AOSS 172 / EARTH 172 / ENSCEN 172 / GEOG 111: Global Change: The Sustainability Challenge
+ENVIRON 201 / RCNSCI 202: Ecological Issues
+ENVIRON 270. Our Common Future
+CEE 260. Environmental Principles
+BIOLOGY 162 OR 163 OR 171, OR 100 & 111 (Introductory Biology)
+CHEM 130 (General Chemistry)
+ENVIRON 117 / EARTH 117 or ENVIRON 116 / EARTH 116 (Introduction to Geology)
+ECON 101 (Principles of Economics I) or ENVIRON / RCSSCI 211 (Social Sciences and Environmental Problems)
+MATH 115 (Calculus I)
+Requirements for the Major
+A minimum of 32 credits required.
+Core Courses.
+These courses expand students knowledge of environmental problems and solutions by exposing them to a wide range of natural science, social science, and humanistic disciplines. Students select one course at the 200 level or above in each of the following categories.
+Analytics
+: One course chosen from: STATS  250 or SOC 210.
+General Ecology.
+One of the following:
+BIOLOGY 281 / ENVIRON 281 and BIOLOGY 282 / ENVIRON 282, General Ecology and Lab
+EEB 381 / ENVIRON 381, General Ecology
+Social Science:
+Two courses chosen in consultation with the department advisor. One course must be at the 300 level or above.
+ARCH 423
+ANTHRCUL 256
+CEE 307
+COMM 413
+ECON 330, 360, 370
+EDCURINS 382
+EEB 316, 318
+EHS 588
+ENVIRON 203, 207, 208, 211, 222, 223, 237, 242, 256, 270, 290, 302, 306, 308, 312, 313, 316, 318, 320, 321, 335, 345, 350, 356, 367, 370, 375, 382, 390, 391, 405, 407, 408, 412, 413, 448, 449, 462, 475, 490
+HISTORY 223, 237
+NRE 449, 475
+ORGSTUDY 203, 208
+POLSCI 331, 380, 394
+PSYCH 384, 385
+PUBPOL 312, 412
+RCIDIV 316, 318, 390
+RCSSCI 211, 222
+SOC 222, 380
+UP 423
+Natural and Earth Systems Science
+(AOSS, BIOLOGY, CHEM, ENVIRON, EARTH, PHYSICS): One course chosen in consultation with the department advisor.
+Culture and Environment
+: One course chosen in consultation with the department advisor.
+AAS 409, 432
+AMCULT 284, 311
+section titled, "Green Indigeneity"
+, 373
+ANTHRBIO 364, 365, 373
+ANTHRCUL 256, 328, 408, 439, 440
+ARCH 209
+section titled "Experiencing Architecture"
+, 212, 213, 357, 423
+ARTDES 250
+ASIAN 257, 258
+CLARCH 222, 382, 350
+section titled "The Art and Life in Roman Villas"
+CLCIV 382
+EARTH 238
+ENGLISH 290
+section titled "American Environments: History, Thinking, Reps"
+, 317
+section titled "Greek Indigenety"
+, 319
+section titled "Literature of Climate Change"
+, 328, 346
+section titled "Embodiment / Environment / Community"
+ENVIRON 221, 223, 238, 240, 244, 256, 270, 284, 301, 304, 320, 350, 370, 376, 377, 464
+HISTART 212, 213, 222, 243, 301, 394
+section titled "The Art and Life in Roman Villas"
+HISTORY 222, 223, 238, 284, 285, 373
+ITALIAN 310
+MOVESCI 241
+PHIL 224, 240, 355, 356, 359, 361, 366, 376
+RCHUMS 334
+section titled "Experiencing Architecture"
+RCIDIV 305
+STRATEGY 411, 445
+UC 254
+section titled "Much Depends on Dinner"
+UP 357, 423
+WOMENSTD 344
+section titled "Embodiment / Environment / Community"
+Senior Capstone Course
+: One course chosen in consultation with the department advisor.
+Field Experience Requirement.
+Students are required to spend time off-campus participating in a pre-approved Internship or Field/Study Abroad course.
+Specializations.
+To gain a deeper understanding of applicable skills in one discipline of environmental study, students take three courses at the 300-level or above, approved by the specialization committee, in one of the following areas: Environmental Science, Environmental Social Science, or Culture and the Environment.
+Honors Plan
+The Honors major is open to students who have achieved a GPA of 3.5 or better. Request for admission should be made by completing an application available from the program office by October 15 of the junior year. Honors majors will normally take a junior Honors seminar (ENVIRON 399) in which they develop research skills, identify a faculty advisor, and prepare the proposal for the Honors thesis project. In the senior year students enroll in ENVIRON 499 (thesis). The final version of the thesis is due on the last day of classes in the winter term of the senior year.
+The Environment Major (Fall 2008 - Summer 2015)
+May be elected as an interdepartmental major
+The major in Environment is intended to ensure base scientific literacy, familiarity with advanced problem-solving techniques, and an ability to integrate scientific and social scientific approaches in addressing environmental problems. It serves students interested in environmental literacy as well as those interested in a wide range of career tracks related in some way to the environment.
+Prerequisites to the Major
+Prerequisites need not be completed prior to declaring an Environment major. To ensure a common background and understanding of disciplines relevant to environmental study, students take all of the following (many of these courses also satisfy LSA area distribution):
+Introductory Interdisciplinary Course
+(one of the following):
+ENVIRON 110 / BIOLOGY 110 / EARTH 171 / AOSS 171 / ENSCEN 171. Introduction to Global Change I. Physical Impacts
+ENVIRON 111 / SOC 111 / GEOG 111 / AOSS 172 / ENSCEN 172. Introduction to Global Change II. Human Impacts
+ENVIRON 201. Ecological Issues
+ENVIRON 270. Our Common Future
+CEE 260. Environmental Principles
+BIOLOGY 162 OR 163 OR 171, OR 100 & 111 (Introductory Biology)
+CHEM 130 (General Chemistry)
+ENVIRON 117 / EARTH 117 or ENVIRON 116 / EARTH 116 (Introduction to Geology)
+ECON 101 (Principles of Economics I) or ENVIRON 211 (Social Sciences and Environmental Problems)
+MATH 115 (Calculus I)
+Requirements for the major
+A minimum of 32 credits required.
+Core Courses.
+These courses expand students knowledge of environmental problems and solutions by exposing them to a wide range of natural science, social science, and humanistic disciplines. Students select one course at the 200 level or above in each of the following categories.
+Analytics
+: One course chosen from: STATS  250 (or 350), 265, 400, 405, 412; ECON 404, 405; or IOE 265).
+General Ecology.
+One of the following:
+BIOLOGY 281 / ENVIRON 281 and BIOLOGY 282 / ENVIRON 282, General Ecology and Lab
+EEB 381 / ENVIRON 381, General Ecology
+Social Science:
+Two courses chosen in consultation with the department advisor. One course must be at the 300 level or above.
+Natural and Earth Systems Science
+(AOSS, BIOLOGY, CHEM, ENVIRON, EARTH, PHYSICS): One course chosen in consultation with the department advisor.
+Culture and Environment
+: One course chosen in consultation with the department advisor.
+Senior Capstone Course
+: One course chosen in consultation with the department advisor.
+Field Experience Requirement.
+Students are required to spend time off-campus participating in a pre-approved Internship or Field/Study Abroad course.
+Specializations.
+To gain a deeper understanding of applicable skills in one discipline of environmental study, students take three courses at the 300-level or above, approved by thespecialization committee, in one of the following areas: Environmental Science, Environmental Social Science, or Culture and the Environment.
+Honors Plan
+The Honors major is open to students who have achieved a GPA of 3.5 or better. Request for admission should be made by completing an application available from the program office by October 15 of the junior year. Honors majors will normally take a junior Honors seminar (ENVIRON 399) in which they develop research skills, identify a faculty advisor, and prepare the proposal for the Honors thesis project. In the senior year students enroll in ENVIRON 499 (thesis). The final version of the thesis is due on the last day of classes in the winter term of the senior year.
+Information for
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

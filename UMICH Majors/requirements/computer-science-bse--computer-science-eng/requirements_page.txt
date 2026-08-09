@@ -1,0 +1,482 @@
+​​
+Computer Science Program – Engineering
+__________________________________________________________________________________________________________________________________________________________________________________________________
+Fall 2025-Summer 2026 Program Guide
+__________________________________________________________________________________________________________________________________________________________________________________________________
+Welcome!
+Thank you for your interest in the EECS Department's Computer Science program in the College of Engineering. The fast rate of innovation in computer technology has created many new, exciting opportunities for students with Computer Science undergraduate degrees. Employment opportunities include: software development, game design, medicine, computer graphics, security, business management, consulting, computer systems analysis, data communications administration, robotics, artificial intelligence, knowledge engineering, hardware development, and many others. In addition, an undergraduate degree in Computer Science provides opportunities for masters, doctoral, and professional studies in various fields.
+Computer science is an exceptional field. Computers have been around for only 70 years while most other scientific disciplines have been around for centuries. Progress in computer science has been extraordinarily rapid during this period, and computers have had a profound impact on society (can you envision life without text messaging, social networking, and Wifi?). Computer science research has provided much of the intellectual foundation and creative energy that fueled that transformation, and it continues to be an extremely exciting field.
+Advising
+If you are a CS-Eng Major or considering becoming one,
+you should meet with a CSE Advisor
+every semester, even if you know what courses you want to take. There may be options or constraints of which you are unaware. Frequent meetings with an advisor will help ensure that you get the most out of your education here and that there are no surprises when you apply for graduation. You can schedule an advising appointment online.
+Check the
+CSE Advising site
+for information about registration procedures, course offerings, drop-in advising hours, and career information. You may contact the CSE Undergraduate Advising Office at 1270 Leinweber,
+ugadmin@eecs.umich.edu,
+or (734) 763-6563.
+Declaration Requirements
+To declare a major in CS-Eng, you must be a College of Engineering student and:
+Have completed at least one full term or 12 total credits at UM Ann Arbor
+Have an overall UM GPA of 2.0 or better in courses taken at the UM Ann Arbor campus and be in good standing
+Have completed or earned credit by exam or transfer for at least one course in each of these categories all with a grade of C or better (no Optional P/F):
+Calculus (e.g. Math 115, 116 or 156)
+Calculus-based physics lectures (e.g. Physics 140 or 160) or chemistry lectures (e.g. Chem 130)
+Required engineering courses (Engr 100, 101, or 151)
+Please note: As of 04/10/26, the following is no longer a pre-declaration requirement:
+Students admitted to the University of Michigan Fall 2023 or later: must be selected to study CS through one of the
+approved selection pathways
+in order to declare CS-LSA.
+CS-Eng & CoE Program Requirements and Grade Policies
+College of Engineering Core Requirements
+Engineering 100, and [Engineering 101 or Engineering 151 or EECS 180 AP credit or EECS 183 or Robotics 102]
+[Chemistry 125, Chemistry 126, and Chemistry 130] or [Chemistry 210 and Chemistry 211]
+Physics 140, Physics 141, Physics 240, and Physics 241
+Math:
+Math 115 (can also be satisfied with Math 120 (AP), 185, or 295)
+Math 116 (can also be satisfied with Math 121 (AP), 156, 186, 276, or 296)
+Math 214 (can also be satisfied with Math 217, Math 417, Math 419, or ROB 101)
+Math 215 or Math 216 (can also be satisfied with Math 205, 285, 286, or 316. If both Math 215 and Math 216 are taken, Math 216 can count as a Flexible Technical Elective.)
+Intellectual Breadth: rules for this College requirement can be found in the
+CoE Bulletin
+under the “Intellectual Breadth” heading.
+General Electives: 16 credits are “required”; CoE degrees require 128 total credits, and more or fewer GE credits may be needed to achieve this total depending on individual factors in a student’s record.
+CS-Eng Program Requirements
+Program Core:
+All of the following courses are required:
+Computer Science: EECS 203 (or MATH 465/565*), EECS 280, EECS 281, EECS 370, and EECS 376
+*Note that MATH 465/565 requires significantly more mathematical background than does EECS 203. Speak to an advisor before selecting these courses.
+Probability and Statistics
+: STATS 250 or DATASCI 101 or STATS 280 or STATS 412 or STATS 426 or EECS 301 or ECON 451 or IOE 265 or TO 301 or MATH/STATS 425 or MATH/STATS 525 or MATH/STATS 526. (IOE 265 is generally open only to undeclared or IOE students. Students with credit from Statistics AP exams should pursue STATS 280 for this requirement.
+)
+Technical Communications: TCHNCLCM 300 (for students taking ROB 204 as a Flexible Technical Elective, the TCHNCLCM 300 requirement will be waived)
+EECS 496, EECS 295, or equivalent
+Technical Electives:
+A minimum of 25 additional credits of technical electives is required:
+Students must take at least 15 credits of Upper-Level CS (ULCS) Electives.
+At least 12 credits must be from the
+ULCS list,
+while the remaining 3 credits can be from the
+Expanded ULCS
+list.
+Please note:
+all ULCS are included in the Expanded ULCS list.
+The remainder of the technical elective credits may be chosen from the approved
+Flexible Technical Electives
+lists.
+Capstone:
+The Capstone is recommended to be taken during one of your final two semesters. The technical writing requirement (2., below) must be taken in the same or later semester as the Capstone (preferably the same semester).
+Approved CS Capstone course
+Technical writing and oral presentation: TCHNCLCM 497.
+Dual major/dual degree students, see “
+Dual Majoring in CSE
+” for possible substitutions.
+CS-Eng Technical Electives
+A minimum of 25 credits of technical electives is required. At least 12 credits must be from the
+ULCS list,
+while the remaining 3 credits can be from the
+Expanded ULCS
+list.
+Please note:
+all ULCS are included in the Expanded ULCS list.
+Discuss your elective choices with a CSE staff or faculty advisor. Note: An EECS course may only count toward one requirement—either ULCS
+or
+Capstone, not both.
+Upper-Level CS (ULCS) Electives
+Students must take at least 15 credits of
+Upper-Level CS (ULCS) Electives.
+At least 12 credits must be from the
+ULCS list,
+while the remaining 3 credits can be from the
+Expanded ULCS
+list. Please note: all ULCS are included in the Expanded ULCS list.
+Capstone
+Students must take an approved
+EECS Capstone
+. A Capstone is often taken during the final year in order to take the best advantage of technical knowledge gained in all previous courses. Some
+special topics
+courses are designated as Capstone in certain terms. Please see details on how to complete the Capstone requirement on an MDP project
+here
+.
+Senior Thesis Option
+The Senior Thesis option is open to students completing the Computer Science Engineering program and can satisfy the Capstone requirement. Students are responsible for finding a faculty mentor whose research area aligns with their interest(s) and who is willing to oversee the thesis project. A summary of requirements is below; see the
+CS Thesis handout
+for more detailed information:
+Have an overall GPA of 3.4 or higher.
+Have a GPA of 3.5 or higher in the Computer Science major.
+Flexible CS Technical Electives
+Students must take up to 10 credits of
+Flexible Technical Electives
+to reach 25 total credits of Technical Electives for Computer Science
+. This list includes courses at the graduate level (numbered 500 and above). Students with interests in research, graduate school, and/or specific areas should discuss this with the Chief Program Advisor, who may approve graduate courses on a per-student basis for use as ULCS (approval must be obtained before registering for one).
+Note: EECS 398, 498, and 598
+are
+Special Topics courses
+. Individual sections may carry approvals as Capstone, ULCS elective credit, or CS Flexible Technical elective credit. Approved requirements for each section are listed
+online
+every term.
+CSE Course Tagging
+The CS course list includes a tab for
+CSE Course Tagging
+. Based on instructor feedback each course on the list has been tagged with one or more concepts that are covered in the course. For full course information, always check with individual instructions (listed in WA) or course sites available via
+CSE Course Info Page
+(eecs.io). Note that Capstone courses may have an overrepresentation of tags given the wide range of topics that can be pursued in course projects.
+Elective Groups
+The CS program has no official specializations, and we encourage students to take electives across a broad range of topics in computer science. However, if you want to specialize in a specific topic, consider these groupings:
+Computer hardware
+: 270, 373, 427, 470, 478
+System software
+: 482, 483, 484, 489, 491
+Intelligent systems
+: 442, 445, 467, 486, 492
+Software development
+: 390, 482, 484, 485, 494
+Theory of computation
+: 475, 477, 490
+Web technology & applications
+: 285, 388, 485, 493, 486
+Major Grading & Repeat Policies
+Grades of “C” or better must be achieved in all courses used to satisfy the pre-declaration and other major requirements. A grade of “C-” or below is considered a failing grade and the course must be repeated or substituted with another class.
+If you currently have an Incomplete grade due to an Honor Code violation, you may proceed with the EECS coursework via override. Please
+submit an override request
+to enroll in courses that your Incomplete grade serves as a prerequisite to. If this Honor Code Incomplete is in a pre-declaration requirement, you can proceed with declaring CS-Eng as your major once all other pre-declaration requirements are met. However, if you receive a final grade below a C after an Honor Code violation, you are required to retake the course for a C or higher letter grade. This retake must be completed as soon as possible, and can be taken alongside other EECS courses, even if your failed class typically serves as a prerequisite. If an override is needed, please
+submit one here
+and attach any communication about your Honor Code decision in the form.
+For questions about your case, please contact
+honorcouncil-admin@umich.edu
+.
+Prerequisites
+Prerequisites
+EECS 281
+EECS 370
+EECS 376
+Linear Algebra
+Additional requirements
+EECS 367
+●
+●
+EECS 373
+●
+EECS 270
+EECS 388
+●
+Advisory
+EECS 201 Advisory
+EECS 390
+●
+EECS 427
+EECS 270, 312
+EECS 440
+●
+EECS 441
+●
+See CoE Bulletin
+EECS 442
+●
+●
+EECS 445
+●
+●
+EECS 448
+●
+●
+EECS 449
+●
+EECS 467
+●
+●
+EECS 367
+EECS 470
+●
+EECS 270
+EECS 471
+●
+●
+EECS 472
+EECS 470
+EECS 473
+●
+EECS 373
+EECS 474
+Advisory
+●
+Probability/Stats
+EECS 475
+●
+Advisory
+EECS 476
+●
+●
+EECS 477
+●
+Advisory
+EECS 478
+EECS 203, 270
+EECS 479
+●
+Advisory
+EECS 280
+EECS 480
+EECS 485 or 493
+EECS 481
+●
+EECS 482
+●
+●
+EECS 483
+●
+●
+EECS 484
+●
+EECS 485
+●
+EECS 486
+●
+EECS 487
+●
+EECS 489
+●
+●
+EECS 490
+●
+EECS 491
+●
+EECS 492
+●
+EECS 493
+●
+EECS 494
+●
+EECS 495
+●
+EECS 497
+●
+CSE 596
+EECS 281 or 373
+College of Engineering Policies
+Intellectual Breadth:
+Intellectual Breadth requirements are complex and not always intuitive.  For details, see the CoE Bulletin under the “Intellectual Breadth” heading
+here
+. Further questions about this requirement can be directed to the CSE Undergraduate Advising Office. [Note that
+Test Credit for Foreign Languages
+(AP credits and credits by exam) at the 100-level count only as general electives.]
+Dual majors:
+To earn dual majors within Engineering, you must satisfy the requirements for both programs and take at least 142 credits total. You should schedule advising appointments
+at both departments
+to determine allowable overlap among requirements.
+In CSE:
+Dual majors
+must complete 142 total credits. Students pursuing two EECS majors must take 14 additional credits of technical coursework beyond what's shared between the two majors.
+Pass/Fail
+is only allowed for Intellectual Breadth requirements and general electives. You may take at most 2 courses pass/fail per term (1 during Spring or Summer half-terms) and at most 14 credits total. This can be a good way to maintain a good GPA while exploring different types of courses within the University.
+Transfer credit:
+UM maintains:
+A list of approved transfer courses
+A list of transfer courses from international institutions
+A list of non-CoE transfer courses
+Courses that do not appear on one of these lists may still transfer but will need to be reviewed.
+Keep in mind that you must take 50 credits hours on the Ann Arbor campus.
+This includes the Computer Science Residency requirement, which requires 30 credit hours of 300 or higher technical courses taken at UM-AA while enrolled in CoE. These 30 credits come from UM-AA courses at the 300+ level satisfying Program Subjects (EECS 370, EECS 376, EECS 496, TCHNCLCM 300, TCHNCLCM 497, 300+ STATS), Technical Electives (ULCS and FTE), and Capstone.
+Course Planning
+Students can reference the
+EECS course descriptions
+and
+Atlas
+for a basic introduction to our courses. CSE Peer Advisors have also developed an
+ULCS/Senior Design Info Sheet
+providing student narratives about their experiences in our courses. Several
+core course syllabi
+are also available at the link provided. For more planning assistance, students should schedule an appointment with an advisor through the CSE undergraduate website.
+CS-Eng Sample Schedule
+Below is an eight-semester (four-year) plan to help students envision how requirements may fit together over the course of their time at Michigan. This plan is only a sample; it is not necessary to follow the below plan exactly outside of following prerequisite chains.
+Total
+Credits
+Terms
+1
+2
+3
+4
+5
+6
+7
+8
+Subjects Required by all Programs (55 hours)
+Mathematics 115, 116, and 214
+1
+12
+4
+4
+4
+Mathematics 215 or 216
+2
+4
+4
+Engineering 100, Introduction to Engineering
+4
+4
+Engineering 101, Introduction to Computers
+6
+4
+4
+Chemistry [125/126 and 130] or Chemistry [210 and 211]
+5
+5
+Physics 140 and Lab 141
+5
+5
+Physics 240 and Lab 241
+5
+5
+Intellectual Breadth
+16
+4
+4
+4
+4
+Program Subjects (26 hours)
+EECS 203, Discrete Mathematics (or MATH 465/565)
+4
+4
+EECS 280, Programming and Elementary Data Structures
+4
+4
+EECS 281, Data Structures and Algorithms
+4
+4
+EECS 370, Introduction to Computer Organization
+4
+4
+STATS 250 or DATASCI 101 or  STATS 280 or STATS 412 or STATS 426 or EECS 301 or ECON 451 or TO 301 or IOE 265
+3
+3
+EECS 376, Foundations of Computer Science
+4
+4
+TCHNCLCM 300
+1
+1
+EECS 496, EECS 295, (or ENGR 499-002, or COMPFOR 111, or CSE 543, or COMM 349, or
+approved Special Topics sections
+)
+2
+2
+Capstone Experience (6 hours)
+Approved CS Capstone course
+3
+4
+4
+TCHNCLCM 497
+2
+2
+Technical Electives (25 hours)
+Upper Level CS Technical Electives
+4
+15
+4
+4
+7
+Flexible Technical Electives
+5
+10
+4
+4
+2
+General Electives (16 hours)
+16
+3
+4
+4
+5
+Total
+128
+17
+17
+16
+16
+16
+16
+16
+14
+Notes:
+Credits from a course may only be used to fulfill a single requirement (no double-counting).
+The requirements for MATH 214 can alternatively be satisfied by MATH 217, 417, 419, or ROB 101.
+If both MATH 215 and MATH 216 are taken, MATH 216 can count as a Flexible Technical Elective.
+See page 5 for the current list. TCHNCLCM 497 must be taken in the same or later semester as the Capstone (preferably the same semester).
+This includes 12 credits of ULCS and 3 credits of Expanded ULCS. See page 3 for the current lists.
+A maximum of 4 credits of EECS 499/399 (or other upper-level directed/independent study) may count in Flexible Technical Electives; additional credits will count as general electives. Check with an advisor to ensure you are not in violation of this policy.
+The requirement for ENGR 101 can also be satisfied by Engineering 151, EECS 180 AP credit, EECS 183, or Robotics 102
+General Advice and Departmental Opportunities
+General Advice
+Mental Health
+:
+If you’re feeling stressed, depressed, or just need someone to talk to, there are many places to find support on campus.
+Information from Friends:
+Your friends can be a good source of information on certain topics, like the workload in courses they have taken. However, they can be an unreliable source of information for details of program and college requirements. For specific questions about program requirements, always check with the advising office rather than relying on word-of-mouth.
+Directed / Independent Study and Research:
+Only 4 hours of directed/independent study or research courses (total across all depts., i.e. EECS, ENGR, IOE, Civil, etc.) can count toward Flexible Technical Electives. EECS 499 is only open to seniors; sophomores & juniors should consider EECS 399 (either can count as Flexible Technical Elective credit, up to 4 credits).
+Course Sequencing and Workload
+:
+Student feedback about workload in CS courses can be found online. There is considerable variance for courses because different students find different aspects of courses challenging (writing complicated programs, understanding math concepts, etc.) Below is a summary synthesizing workload survey data with other relevant course information to estimate workload:
+Extremely heavy workload:
+427, 467, 470, 473, 482, 494
+Heavy workload:
+281, 373, 445, 483, 485, 491
+Moderate workload:
+183, 203, 280, 285, 367, 370, 376, 388, 390, 441, 442, 448, 471, 475, 477, 478, 481, 484, 487, 489, 490, 492, 493
+Light workload:
+449, 486, 495, 496, 497
+CS courses can be more demanding relative to many courses at the University, so we advise students to avoid overloading themselves. For most CS students, a load of 2 CS courses in the same semester is normal, but that can vary based on the combination of CS courses chosen (e.g., a CS course with an extremely heavy load should only be paired with one with a moderate load or less), as well as what non-CS courses are being taken at the same time. We encourage students to talk with CSE advisors if they have questions about the course load they are considering.
+EECS 203 & EECS 280:
+Taking EECS 203 (Discrete Mathematics) and EECS 280 (Programming) simultaneously often works well, and these are the prereqs for the "gateway" course, EECS 281 (Data Structures & Algorithms).
+EECS 281:
+Take EECS 281 as soon as you can. This is the "gateway" course to all Upper Level CS Courses.
+EECS 270 & 370:
+Many students say that EECS 270 (which counts as a CS Flexible Tech Elective) makes EECS 370 easier. Others say that the 203 prerequisite is good enough and don’t want to use a flexible technical elective on 270. You will probably get more out of 370 by taking 270 first, but this is not required.
+TCHNCLCM 300 is a prerequisite for TCHNCLCM 497
+. The Technical Communications department manages all TCHNCLCM courses. Please visit
+https://techcom.engin.umich.edu/
+for questions or issues with registration of these courses.
+Double-majoring in CS-ENG and DS-ENG is not allowed.
+Departmental Opportunities
+Research
+:
+A great deal of leading-edge academic research is carried out at UM. If you show that you can do the work, you can get involved in this research as an undergraduate, which will provide you with extraordinarily valuable training for future work in the field.
+Teaching—Become an Instructional Aid:
+The discussion sections for EECS 183, EECS 280, EECS 281, and ENGR 100 (CSE-based topics) are led primarily by undergraduates. As a section leader, you will have the chance to teach the next generation of CSE majors and get them excited about computing. Look for IA hiring announcements via email each term.
+Mentoring—Become a Peer Advisor:
+Share your experiences with other undergraduates. If you are interested, check in with the CSE Undergraduate Advising Office for information. Opportunities are available at both the department and CoE levels.
+Getting Involved—Join an EECS Student Group
+:
+Enhance your undergraduate experience and resume by joining a student group.
+Getting Experience—Internships, Co-ops, and Job Opportunities:
+Many companies hire students for internships upon completion of EECS 281
+(for some, even after EECS 280!). You can view current CS intern & job opportunities through the
+Engineering Career Resource Center (ECRC)
+or through the fall and winter
+Career Fairs
+.
+CS-Eng Tracks
+While pursuing a major in Computer Science (CS-Eng or CS-LSA), students have the option to focus the direction of their study by selecting a track, which is a pre-defined grouping of Upper-Level Computer Science (ULCS and eULCS) courses that help you to gain expertise in a specific area of interest.
+Completing a track is entirely optional and not required to complete a CS degree. Students who complete their degree with a track can request to receive a letter indicating this Track. Note: Tracks will not appear on a student's transcript.
+Track descriptions can be found below. For track course lists, please check explore the
+Tracks webpage
+.
+Declared Computer Science majors who are pursuing a track should
+fill out this form
+to notify the Undergraduate Advising Office of your intended Track.
+Artificial Intelligence
+Artificial intelligence is a broadly based multidisciplinary area comprising theoretical, experimental, and applied investigations of intelligent systems. Choose this track to learn the fundamentals of the field and then go on to more advanced study in a current research area.
+Data and Information
+Fast information storage and retrieval are crucial to many computer applications, and manipulating large data collections on servers or networks poses difficult challenges for computer professionals. Choose this track to gain a background in algorithms for information management, and in database design and implementation.
+Game Development
+From medical care, marketing, visualization, and extended reality to artistic expression, education, national defense, and – of course – entertainment, the techniques and technologies that power modern digital games are transforming our world and how we connect to it. Choose this track to immerse yourself at the intersection of performance-critical engineering, user experience, art, music, narrative, and more.
+Robotics and Vision
+Robotic systems are rapidly evolving as mobile information gathering and decision-making platforms, with vision being perhaps their most important information gathering capability. Choose this track to gain a basic understanding of current work in this fast-moving field.
+Security
+Security for hardware, software, and networked systems is one of the fastest-growing areas of computer science. Choose this track to study fundamental concepts of secure hardware and software design, modern cryptography and its applications, and an application area where security is an important issue.
+Software Development
+Designing and developing large software systems is a formidable engineering challenge and the primary enterprise of the software industry. Choose this track to learn how to analyze, design, test, and maintain large software systems, and develop the team skills needed to engage in these efforts.
+Software Systems
+Software systems are the tools and applications we use when we compute. Choose this track to study the design, analysis, and implementation of software systems such as operating systems, compilers, database systems, and computer networks.
+Theory of Computation
+Research on mathematical foundations has enormously influenced the development of computer science, yielding advances in data management, communications, security, and many other areas. Choose this track to gain a rigorous mathematical training that can be applied to many different computing problems. Well-suited for students with a strong interest in mathematics or statistics.

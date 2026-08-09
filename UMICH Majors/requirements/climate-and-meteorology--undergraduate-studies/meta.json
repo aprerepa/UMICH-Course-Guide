@@ -1,0 +1,17 @@
+{
+  "id": "climate-and-meteorology--undergraduate-studies",
+  "name": "Climate and Meteorology",
+  "school_college": "College of Engineering",
+  "program_url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+  "requirements_link_text": "BSE Climate and Meteorology \u2192 Editable sample schedule",
+  "requirements_link_score": 115,
+  "requirements_link_strategy": "hub:BSE Climate and Meteorology\u2192page",
+  "requirements_final_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-09T15:33:55.697794+00:00"
+}

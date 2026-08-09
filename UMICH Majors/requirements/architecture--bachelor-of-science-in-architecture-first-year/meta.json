@@ -1,0 +1,17 @@
+{
+  "id": "architecture--bachelor-of-science-in-architecture-first-year",
+  "name": "Architecture",
+  "school_college": "Taubman College of Architecture & Urban Planning",
+  "program_url": "https://taubmancollege.umich.edu/admissions/apply/bachelor-of-science-in-architecture-first-year/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM",
+  "program_final_url": "https://taubmancollege.umich.edu/admissions/apply/bachelor-of-science-in-architecture-first-year/",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://docs.google.com/document/d/1clM3sEk4xFyH5D3Up34VEkkOOLtU5hzUvICkhQ7y7_s/edit",
+  "requirements_link_text": "one-page checklist",
+  "requirements_link_score": 65,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://docs.google.com/document/d/1clM3sEk4xFyH5D3Up34VEkkOOLtU5hzUvICkhQ7y7_s/edit?tab=t.0",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-09T15:31:00.690210+00:00"
+}

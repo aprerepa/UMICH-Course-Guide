@@ -1,0 +1,604 @@
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+About
+Academics
+Research
+News and Events
+Support LSA
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Course Catalog
+Give Online
+Keyword Search of en
+About
+Academics
+Research
+News and Events
+Support LSA
+Course Catalog
+Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+LSA 101: Info for Admitted Students
+Learn what it means to be a Wolverine and dig in to what the liberal arts are all about. View our presentations and information from wherever you are.
+Undergraduate
+Graduate
+Transfer
+International
+Student Life
+Admissions
+Student Stories
+Outcomes and Possibilities
+LSA delivers a purposeful, pragmatic liberal arts education that employers respect and seek out.
+Undergraduate
+Graduate
+Transfer
+Education
+Academic Advising
+Outcomes and Possibilities
+College Connections
+College Connections provides a space for alumni and families to share their student experiences with recent LSA graduates and provide feedback on the current and future state of the College.
+Get Connected
+Get Involved
+Get Informed
+College Connections
+Staff Achievement Awards Program
+This is an annual opportunity to acknowledge and celebrate exceptional staff contributions to the success of the College . Information regarding eligibility, nomination, selection, notification, and winners can be found here.
+Budget and Finance
+Chairs and Directors
+Facilities and Operations
+Faculty Academic Affairs
+Graduate Education
+Human Resources
+LSA Advancement
+LSA Research Office
+Office of the Dean
+Security and Safety
+Standard Practice Guide
+Student Academic Affairs
+Technology Services
+Undergraduate Education
+Skip to Page Content
+Academics
+Majors and Minors
+Physics Major
+...
+Physics Major
+Academics
+Majors and Minors
+[X] close
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Physics Major
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Advising
+Department Website
+Effective Fall 2026
+Advising
+Students with any questions about courses or majors in Physics should speak with Physics department advisors.
+Students wishing to pursue a minor in Physics must develop a specific plan for its completion in consultation with a Physics advisor.
+Advising appointments can be scheduled in the Physics Student Services Office, 1440 Randall Lab [(734) 764-5539] or through the
+Physics advising website
+.
+Grade Policies
+Students must earn at least a C- in all courses they plan to include in the major, including the prerequisites.
+Prerequisites
+Students prepare for the study of physics by completing the following introductory sequences (four courses total):
+One of the following 100 level lectures:
+PHYSICS 140: General Physics I (should be elected concurrently with PHYSICS 141)
+PHYSICS 160: Honors Physics I (should be elected concurrently with PHYSICS 141 or 161)
+One of the following 100 level labs:
+PHYSICS 141: Elementary Laboratory I (should be elected concurrently with PHYSICS 140 or 160)
+PHYSICS 161: Honors Introductory Mechanics Lab (should be elected concurrently with PHYSICS 160)
+One of the following 200 level lectures:
+PHYSICS 240: General Physics II (should be elected concurrently with PHYSICS 241)
+PHYSICS 260: Honors Physics II (should be elected concurrently with PHYSICS 241 or 261)
+One of the following 200 level labs:
+PHYSICS 241: Elementary Laboratory I (should be elected concurrently with PHYSICS 240 or 260)
+PHYSICS 261: Honors Electricity and Magnetism Lab (should be elected concurrently with PHYSICS 260)
+Students pursuing a Physics major should also pursue the calculus course sequence as they progress in their PHYSICS courses. Students are expected to have a strong understanding of calculus up through multivariate calculus, differential equations, and linear algebra. The recommended MATH courses are:
+MATH 115 or 185
+MATH 116 or 186
+MATH 215 or 285
+MATH 216, 286, or 316
+Test credit (AP, IB, etc.) does not fulfill any requirements for the Physics major. Students with advanced preparation in physics are strongly encouraged to elect the honors introductory sequence (PHYSICS 160, 161, 260, and 261).
+It is not necessary to complete all courses in the prerequisite sequences in order to declare the physics major. Students are encouraged to officially declare as soon as they make the decision.
+Requirements
+Minimum Credits:
+35
+Once a student has mastered introductory content and declared the major, they prepare for advanced study of the discipline by fulfilling the Intermediate Courses Requirement (three courses), then move on to master advanced concepts, skills, problems, and topics of the discipline by completing the Advanced Courses Requirement (five courses), and Elective Requirement (four courses).
+Intermediate Courses Requirement
+Students must complete all of the following:
+PHYSICS 316: Mathematical Methods for Physics & Engineering
+PHYSICS 390: Introduction to Modern Physics
+PHYSICS 391: Introduction to Modern Physics Lab
+Ideally, PHYSICS 316 is elected no later than the second semester of the sophomore year. PHYSICS 390 and 391 can be elected concurrently with PHYSICS 401 or 405 (part of the Advanced Courses Requirement).
+Advanced Courses Requirement
+Students must complete all of the following:
+PHYSICS 401: Intermediate Mechanics
+PHYSICS 405: Intermediate Electricity and Magnetism
+PHYSICS 406: Statistical and Thermal Physics
+PHYSICS 441: Advanced Laboratory I
+PHYSICS 453: Quantum Mechanics
+Students are encouraged to complete both PHYSICS 401 and 405 before electing PHYSICS 453.
+Elective Requirement
+Students round out their study of physics by taking a minimum of four elective courses (totaling at least twelve credits) of the choices listed below. Note that any course used in the Intermediate and/or Advanced Course requirements cannot also fulfill an elective.
+PHYSICS 340: Waves, Heat, and Light
+PHYSICS 360: Honors Physics III
+PHYSICS 380: Intermediate Topics in Physics, section titled "Introduction to Quantum Computing" (Note: other topics taught as PHYSICS 380 are not automatically included in the major; see an advisor)
+CMPLXSYS 335: Networks
+Any PHYSICS course numbered at the 400- or 500-level, excluding PHYSICS 501, 517, 518 and 590
+Constraints
+Courses elected as pass/fail may not be included in the major.
+Students may use a maximum of three credits of independent study, such as PHYSICS 415, 495, 496, or 497, towards the major requirements. This includes students pursuing an honors major. Honors majors should not elect PHYSICS 495 as it does not fulfill any requirements for the honors major.
+Residency
+A minimum of 15 credits at the 300 level or above must be completed in residence. Courses elected on the Ann Arbor campus or at off-campus sites directed by Ann Arbor faculty are considered in residence. This includes STDABRD, Camp Davis, Biological Station, and Michigan-in-Washington.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the PHYSICS subject area may not be used toward the Distribution Requirement.
+Honors
+Highly motivated students who have an interest in conducting independent research are encouraged to complete an honors major. In addition to the requirements for major, honors majors must complete an additional six PHYSICS credits numbered at the 400 level or above (excluding PHYSICS 415, 501, 517, 518 and 590), maintain a cumulative GPA of 3.4 or above, and produce a senior thesis under the supervision of a faculty member. Honors students have the option to enroll in PHYSICS 496 and/or 497 if they wish to earn credit for their research. They should not enroll in PHYSICS 495 as it does not fulfill any requirements for honors major. Students seeking to complete an Honors senior thesis with a faculty member outside the Physics Department must also secure a co-advisor from within Physics. For more information, including important deadlines, visit the
+Physics honors website
+.
+Physics (Major) (Fall 2025 - Summer 2026)
+Effective Fall 2025
+Advising
+Students with any questions about courses or majors in Physics should speak with Physics department advisors.
+Students wishing to pursue a minor in Physics must develop a specific plan for its completion in consultation with the department's designated advisor.
+Advising appointments can be scheduled in the Physics Student Services Office, 1440 Randall Lab [(734) 764-5539] or via the online advising calendar
+http://lsa.umich.edu/physics/undergraduate-students/major---minor-programs.html
+Grade Policies
+Students must earn at least a C-in all courses they plan to include in the major, including the prerequisites.
+Prerequisites
+Students prepare for the study of physics by completing the following introductory sequences (four courses total).
+One of the following 100 level lectures:
+PHYSICS 140: General Physics I (should be taken concurrently with PHYSICS 141)
+PHYSICS 150: Fundamental Physics for the Life Sciences I (should be elected concurrently with PHYSICS 151)
+PHYSICS 160: Honors Physics I (should be elected concurrently with PHYSICS 141 or 161)
+One of the following 100 level labs:
+PHYSICS 141: Elementary Laboratory I (should be taken concurrently with PHYSICS 140)
+PHYSICS 151: Physics for the Life Sciences Laboratory I (should be elected concurrently with PHYSICS 150)
+PHYSICS 161: Honors Introductory Mechanics Lab (should be elected concurrently with PHYSICS 160)
+One of the following 200 level lectures:
+PHYSICS 240: General Physics II (should be elected concurrently with PHYSICS 241)
+PHYSICS 250: Fundamental Physics for the Life Sciences II (should be elected concurrently with PHYSICS 251)
+PHYSICS 260: Honors Physics II (should be elected concurrently with PHYSICS 241 or 261)
+One of the following 200 level labs:
+PHYSICS 241: Elementary Laboratory I (should be elected concurrently with PHYSICS 240)
+PHYSICS 251: Physics for the Life Sciences Laboratory II (should be elected concurrently with PHYSICS 250)
+PHYSICS 261: Honors Electricity and Magnetism Lab (should be elected concurrently with PHYSICS 260)
+Students who begin the introductory sequence should have completed at least one semester of calculus (MATH 115 or equivalent). Students who have not already done so should continue their study of mathematics concurrently with their PHYSICS coursework, progressing through differential equations (typically the fourth semester of calculus).
+Students who passed one or more AP Physics exams with a score of 5 or higher or who passed the IB HL exam with a 4 or higher are strongly encouraged to elect the honors introductory sequence (PHYSICS 160, 161, 260, and 261).
+It is not necessary to complete all courses in the prerequisite sequences in order to declare the physics major. Students are encouraged to officially declare as soon as they make the decision.
+Requirements
+Minimum Credits:
+29
+Once a student has mastered introductory content and declared the major, they prepare for advanced study of the discipline by fulfilling the Intermediate Courses Requirement (four courses), then move on to master advanced concepts, skills, problems, and topics of the discipline by completing the Advanced Courses Requirement (five courses), an Elective Requirement (two courses), and Advanced Elective Requirement (one course).
+Intermediate Courses Requirement
+Students must complete all of the following:
+PHYSICS 316: Mathematical Methods for Physics & Engineering
+PHYSICS 340: Waves, Heat, and Light –OR– PHYSICS 360: Honors Physics III
+PHYSICS 390: Introduction to Modern Physics
+PHYSICS 391: Introduction to Modern Physics Lab
+Ideally, PHYSICS 316 is elected no later than the second semester of the sophomore year. PHYSICS 390 and 391 can be elected concurrently with PHYSICS 401 or 405 (part of the Advanced Courses Requirement).
+Advanced Courses Requirement
+Students must complete all of the following:
+PHYSICS 401: Intermediate Mechanics
+PHYSICS 405: Intermediate Electricity and Magnetism
+PHYSICS 406: Statistical and Thermal Physics
+PHYSICS 441: Advanced Laboratory I
+PHYSICS 453: Quantum Mechanics
+Students are encouraged to complete both PHYSICS 401 and 405 before electing PHYSICS 453.
+Elective Requirement
+Students round out their study of physics by taking two of the following elective courses:
+PHYSICS 380: Intermediate Topics in Physics,
+section titled "Introduction to Quantum Computing"
+PHYSICS 402: Optics
+PHYSICS 411: Introduction to Computational Physics*
+PHYSICS 413 / CMPLXSYS 541: Introduction to Nonlinear Dynamics and the Physics of Complexity
+PHYSICS / BIOPHYS / CHEM 417: Dynamical Processes in Biophysics
+PHYSICS / BIOPHYS 433: Biocomplexity
+PHYSICS 435: Gravitational Physics
+PHYSICS 438: Electromagnetic Radiation
+PHYSICS 442: Advanced Laboratory II*
+PHYSICS / BIOPHYS 450: Laboratory Techniques in Biophysics
+PHYSICS 452: Methods of Theoretical Physics II
+PHYSICS 460: Quantum Mechanics II (requires previous completion of PHYSICS 453)
+PHYSICS 463: Introduction to Solid State Physics (requires previous completion of PHYSICS 453)
+Advanced Elective Requirement
+Students complete their study of physics by taking one of the following advanced elective courses:
+PHYSICS 411: Introduction to Computational Physics*
+PHYSICS 440: Instrumentation for the Physical Sciences
+PHYSICS 442: Advanced Laboratory II*
+PHYSICS 495: Physics Research Capstone
+Physics Honors students are ineligible to elect PHYSICS 495 as their Advanced Elective Requirement. Honors students should elect PHYSICS 496/497.
+*If either PHYSICS 411 or PHYSICS 442 are being used to meet the Elective Requirement, the course cannot be used to also meet the Advanced Elective Requirement.
+Constraints
+Courses elected as pass/fail may not be included in the major.
+Residency
+A minimum of 15 credits at the 300 level or above must be completed in residence.
+In-residence:
+Courses elected on the Ann Arbor campus or at off-campus sites directed by Ann Arbor faculty. This includes STDABRD, Camp Davis, Biological Station, Michigan-in-Washington
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the PHYSICS subject area may not be used toward the Distribution Requirement.
+Honors
+Talented and highly motivated students who have an interest in conducting independent research are encouraged to complete an honors major. In addition to the requirements for major, honors majors must complete an additional six PHYSICS credits numbered at the 400 level or above and produce a senior thesis under the supervision of a faculty member. PHYSICS 495 cannot be used towards an Honors major. Instead, students may count up to 3-credits of PHYSICS 496/497: Senior Thesis upon department advisor approval. (Note: PHYSICS 415 will not count toward a Physics Honors major.)
+Physics (Major) (Winter 2024 - Summer 2025)
+Effective Winter 2024
+Exclusions:
+Students declared within Engineering Physics may not also pursue an undergraduate program in LSA Physics.
+Advising
+Students with any questions about courses or majors in Physics should speak with Physics department advisors.
+Students wishing to pursue a minor in Physics must develop a specific plan for its completion in consultation with the department's designated advisor.
+Advising appointments can be scheduled in the Physics Student Services Office, 1440 Randall Lab [(734) 764-5539] or via the online advising calendar
+http://lsa.umich.edu/physics/undergraduate-students/major---minor-programs.html
+Grade Policies
+Students must earn at least a C-in all courses they plan to include in the major, including the prerequisites.
+Prerequisites
+Students prepare for the study of physics by completing the following introductory sequences (four courses total).
+One of the following 100 level lectures:
+PHYSICS 140: General Physics I (should be taken concurrently with PHYSICS 141)
+PHYSICS 150: Fundamental Physics for the Life Sciences I (should be elected concurrently with PHYSICS 151)
+PHYSICS 160: Honors Physics I (should be elected concurrently with PHYSICS 141 or 161)
+One of the following 100 level labs:
+PHYSICS 141: Elementary Laboratory I (should be taken concurrently with PHYSICS 140)
+PHYSICS 151: Physics for the Life Sciences Laboratory I (should be elected concurrently with PHYSICS 150)
+PHYSICS 161: Honors Introductory Mechanics Lab (should be elected concurrently with PHYSICS 160)
+One of the following 200 level lectures:
+PHYSICS 240: General Physics II (should be elected concurrently with PHYSICS 241)
+PHYSICS 250: Fundamental Physics for the Life Sciences II (should be elected concurrently with PHYSICS 251)
+PHYSICS 260: Honors Physics II (should be elected concurrently with PHYSICS 241 or 261)
+One of the following 200 level labs:
+PHYSICS 241: Elementary Laboratory I (should be elected concurrently with PHYSICS 240)
+PHYSICS 251: Physics for the Life Sciences Laboratory II (should be elected concurrently with PHYSICS 250)
+PHYSICS 261: Honors Electricity and Magnetism Lab (should be elected concurrently with PHYSICS 260)
+Students who begin the introductory sequence should have completed at least one semester of calculus (MATH 115 or equivalent). Students who have not already done so should continue their study of mathematics concurrently with their PHYSICS coursework, progressing through differential equations (typically the fourth semester of calculus).
+Students who passed one or more AP Physics exams with a score of 5 or higher or who passed the IB HL exam with a 4 or higher are strongly encouraged to elect the honors introductory sequence (PHYSICS 160, 161, 260, and 261).
+It is not necessary to complete all courses in the prerequisite sequences in order to declare the physics major. Students are encouraged to officially declare as soon as they make the decision.
+Requirements
+Minimum Credits:
+29
+Once a student has mastered introductory content and declared the major, they prepare for advanced study of the discipline by fulfilling the Intermediate Courses Requirement (four courses), then move on to master advanced concepts, skills, problems, and topics of the discipline by completing the Advanced Courses Requirement (five courses), an Elective Requirement (two courses), and Advanced Elective Requirement (one course).
+Intermediate Courses Requirement
+Students must complete all of the following:
+PHYSICS 340: Waves, Heat, and Light –OR– PHYSICS 360: Honors Physics III
+PHYSICS 351: Methods of Theoretical Physics I
+PHYSICS 390: Introduction to Modern Physics
+PHYSICS 391: Introduction to Modern Physics Lab
+Ideally, PHYSICS 351 is elected no later than the second semester of the sophomore year. PHYSICS 390 and 391 can be elected concurrently with PHYSICS 401 or 405 (part of the Advanced Courses Requirement).
+Advanced Courses Requirement
+Students must complete all of the following:
+PHYSICS 401: Intermediate Mechanics
+PHYSICS 405: Intermediate Electricity and Magnetism
+PHYSICS 406: Statistical and Thermal Physics
+PHYSICS 441: Advanced Laboratory I
+PHYSICS 453: Quantum Mechanics
+Students are encouraged to complete both PHYSICS 401 and 405 before electing PHYSICS 453.
+Elective Requirement
+Students round out their study of physics by taking two of the following elective courses:
+PHYSICS 402: Optics
+PHYSICS 411: Introduction to Computational Physics*
+PHYSICS 413 / CMPLXSYS 541: Introduction to Nonlinear Dynamics and the Physics of Complexity
+PHYSICS / BIOPHYS / CHEM 417: Dynamical Processes in Biophysics
+PHYSICS / BIOPHYS 433: Biocomplexity
+PHYSICS 435: Gravitational Physics
+PHYSICS 438: Electromagnetic Radiation
+PHYSICS 442: Advanced Laboratory II*
+PHYSICS / BIOPHYS 450: Laboratory Techniques in Biophysics
+PHYSICS 452: Methods of Theoretical Physics II
+PHYSICS 460: Quantum Mechanics II (requires previous completion of PHYSICS 453)
+PHYSICS 463: Introduction to Solid State Physics (requires previous completion of PHYSICS 453)
+Advanced Elective Requirement
+Students complete their study of physics by taking one of the following advanced elective courses:
+PHYSICS 411: Introduction to Computational Physics*
+PHYSICS 440: Instrumentation for the Physical Sciences
+PHYSICS 442: Advanced Laboratory II*
+PHYSICS 495: Physics Research Capstone
+Physics Honors students are ineligible to elect PHYSICS 495 as their Advanced Elective Requirement. Honors students should elect PHYSICS 496/497.
+*If either PHYSICS 411 or PHYSICS 442 are being used to meet the Elective Requirement, the course cannot be used to also meet the Advanced Elective Requirement.
+Constraints
+Courses elected as pass/fail may not be included in the major.
+Residency
+A minimum of 15 credits at the 300 level or above must be completed in residence.
+In-residence:
+Courses elected on the Ann Arbor campus or at off-campus sites directed by Ann Arbor faculty. This includes STDABRD, Camp Davis, Biological Station, Michigan-in-Washington
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the PHYSICS subject area may not be used toward the Distribution Requirement.
+Honors
+Talented and highly motivated students who have an interest in conducting independent research are encouraged to complete an honors major. In addition to the requirements for major, honors majors must complete an additional six PHYSICS credits numbered at the 400 level or above and produce a senior thesis under the supervision of a faculty member. PHYSICS 495 cannot be used towards an Honors major. Instead, students may count up to 3-credits of PHYSICS 496/497: Senior Thesis upon department advisor approval. (Note: PHYSICS 415 will not count toward a Physics Honors major.)
+Physics (Major) (Fall 2021 - Fall 2023)
+Effective Fall 2021
+Advising
+Students with any questions about courses or majors in Physics should speak with Physics department advisors.
+Students wishing to pursue a minor in Physics must develop a specific plan for its completion in consultation with the department's designated advisor.
+Advising appointments can be scheduled in the Physics Student Services Office, 1440 Randall Lab [(734) 764-5539] or via the online advising calendar
+http://lsa.umich.edu/physics/undergraduate-students/major---minor-programs.html
+Grade Policies
+Students must earn at least a C-in all courses they plan to include in the major, including the prerequisites.
+Prerequisites
+Students prepare for the study of physics by completing the following introductory sequences (four courses total).
+One of the following 100 level lectures:
+PHYSICS 140: General Physics I (should be taken concurrently with PHYSICS 141)
+PHYSICS 150: Fundamental Physics for the Life Sciences I (should be elected concurrently with PHYSICS 151)
+PHYSICS 160: Honors Physics I (should be elected concurrently with PHYSICS 141 or 161)
+One of the following 100 level labs:
+PHYSICS 141: Elementary Laboratory I (should be taken concurrently with PHYSICS 140)
+PHYSICS 151: Physics for the Life Sciences Laboratory I (should be elected concurrently with PHYSICS 150)
+PHYSICS 161: Honors Introductory Mechanics Lab (should be elected concurrently with PHYSICS 160)
+One of the following 200 level lectures:
+PHYSICS 240: General Physics II (should be elected concurrently with PHYSICS 241)
+PHYSICS 250: Fundamental Physics for the Life Sciences II (should be elected concurrently with PHYSICS 251)
+PHYSICS 260: Honors Physics II (should be elected concurrently with PHYSICS 241 or 261)
+One of the following 200 level labs:
+PHYSICS 241: Elementary Laboratory I (should be elected concurrently with PHYSICS 240)
+PHYSICS 251: Physics for the Life Sciences Laboratory II (should be elected concurrently with PHYSICS 250)
+PHYSICS 261: Honors Electricity and Magnetism Lab (should be elected concurrently with PHYSICS 260)
+Students who begin the introductory sequence should have completed at least one semester of calculus (MATH 115 or equivalent). Students who have not already done so should continue their study of mathematics concurrently with their PHYSICS coursework, progressing through differential equations (typically the fourth semester of calculus).
+Students who passed one or more AP Physics exams with a score of 5 or higher or who passed the IB HL exam with a 4 or higher are strongly encouraged to elect the honors introductory sequence (PHYSICS 160, 161, 260, and 261).
+It is not necessary to complete all courses in the prerequisite sequences in order to declare the physics major. Students are encouraged to officially declare as soon as they make the decision.
+Requirements
+Minimum Credits:
+29
+Once a student has mastered introductory content and declared the major, they prepare for advanced study of the discipline by fulfilling the Intermediate Courses Requirement (four courses), then move on to master advanced concepts, skills, problems, and topics of the discipline by completing the Advanced Courses Requirement (five courses), an Elective Requirement (two courses), and Advanced Elective Requirement (one course).
+Intermediate Courses Requirement
+Students must complete all of the following:
+PHYSICS 340: Waves, Heat, and Light –OR– PHYSICS 360: Honors Physics III
+PHYSICS 351: Methods of Theoretical Physics I
+PHYSICS 390: Introduction to Modern Physics (must be taken concurrently with PHYSICS 391)
+PHYSICS 391: Introduction to Modern Physics Lab (must be taken concurrently with PHYSICS 390)
+Ideally, PHYSICS 351 is elected no later than the second semester of the sophomore year. It is an enforced prerequisite for PHYSICS 390 and the Advanced Courses Requirement. PHYSICS 390 and 391 can be elected concurrently with PHYSICS 401 or 405 (part of the Advanced Courses Requirement).
+Advanced Courses Requirement
+Students must complete all of the following:
+PHYSICS 401: Intermediate Mechanics
+PHYSICS 405: Intermediate Electricity and Magnetism
+PHYSICS 406: Statistical and Thermal Physics
+PHYSICS 441: Advanced Laboratory I
+PHYSICS 453: Quantum Mechanics
+Students are encouraged to complete both PHYSICS 401 and 405 before electing PHYSICS 453.
+Elective Requirement
+Students round out their study of physics by taking two of the following elective courses:
+PHYSICS 402: Optics
+PHYSICS 411: Introduction to Computational Physics*
+PHYSICS 413 / CMPLXSYS 541: Introduction to Nonlinear Dynamics and the Physics of Complexity
+PHYSICS / BIOPHYS / CHEM 417: Dynamical Processes in Biophysics
+PHYSICS / BIOPHYS 433: Biocomplexity
+PHYSICS 435: Gravitational Physics
+PHYSICS 438: Electromagnetic Radiation
+PHYSICS 442: Advanced Laboratory II*
+PHYSICS / BIOPHYS 450: Laboratory Techniques in Biophysics
+PHYSICS 452: Methods of Theoretical Physics II
+PHYSICS 460: Quantum Mechanics II (requires previous completion of PHYSICS 453)
+PHYSICS 463: Introduction to Solid State Physics (requires previous completion of PHYSICS 453)
+Advanced Elective Requirement
+Students complete their study of physics by taking one of the following advanced elective courses:
+PHYSICS 411: Introduction to Computational Physics*
+PHYSICS 442: Advanced Laboratory II*
+PHYSICS 495: Physics Research Capstone
+Physics Honors students are ineligible to elect PHYSICS 495 as their Advanced Elective Requirement. Honors students should elect PHYSICS 496/497.
+*If either PHYSICS 411 or PHYSICS 442 are being used to meet the Elective Requirement, the course cannot be used to also meet the Advanced Elective Requirement.
+Constraints
+Courses elected as pass/fail may not be included in the major.
+Residency
+A minimum of 15 credits at the 300 level or above must be completed in residence.
+In-residence:
+Courses elected on the Ann Arbor campus or at off-campus sites directed by Ann Arbor faculty. This includes STDABRD, Camp Davis, Biological Station, Michigan-in-Washington
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the PHYSICS subject area may not be used toward the Distribution Requirement.
+Honors
+Talented and highly motivated students who have an interest in conducting independent research are encouraged to complete an honors major. In addition to the requirements for major, honors majors must complete an additional six PHYSICS credits numbered at the 400 level or above and produce a senior thesis under the supervision of a faculty member. PHYSICS 495 cannot be used towards an Honors major. Instead, students may count up to 3-credits of PHYSICS 496/497: Senior Thesis upon department advisor approval. (Note: PHYSICS 415 will not count toward a Physics Honors major.)
+Physics (Major) (Winter 2017 - Summer 2021)
+Effective Winter 2017
+Advising
+Students with any questions about courses or majors in Physics should speak with Physics department advisors.
+Students wishing to pursue a minor in Physics must develop a specific plan for its completion in consultation with the department's designated advisor.
+Advising appointments can be scheduled in the Physics Student Services Office, 1440 Randall Lab [(734) 764-5539] or via the online advising calendar
+http://lsa.umich.edu/physics/undergraduate-students/major---minor-programs.html
+Grade Policies
+Students must earn at least a C-in all courses they plan to include in the major, including the prerequisites.
+Prerequisites
+Students prepare for the study of physics by completing the following introductory sequences (four courses total).
+One of the following 100 level lectures:
+PHYSICS 135: Physics for the Life Sciences I (should be elected concurrently with PHYSICS 136)
+PHYSICS 140: General Physics I (should be taken concurrently with PHYSICS 141)
+PHYSICS 160: Honors Physics I (should be elected concurrently with PHYSICS 141 or 161)
+One of the following 100 level labs:
+PHYSICS 136 Physics for the Life Sciences Laboratory I (should be elected concurrently with PHYSICS 135)
+PHYSICS 141: Elementary Laboratory I (should be taken concurrently with PHYSICS 140)
+PHYSICS 161: Honors Introductory Mechanics Lab (should be elected concurrently with PHYSICS 160)
+One of the following 200 level lectures:
+PHYSICS 235: Physics for the Life Sciences II (should be elected concurrently with PHYSICS 236)
+PHYSICS 240: General Physics II (should be elected concurrently with PHYSICS 241)
+PHYSICS 260: Honors Physics II (should be elected concurrently with PHYSICS 241 or 261)
+One of the following 200 level labs:
+PHYSICS 236: Physics for the Life Sciences Laboratory II (should be elected concurrently with PHYSICS 235)
+PHYSICS 241: Elementary Laboratory I (should be elected concurrently with PHYSICS 240)
+PHYSICS 261: Honors Electricity and Magnetism Lab (should be elected concurrently with PHYSICS 260)
+Students who begin the introductory sequence should have completed at least one semester of calculus (MATH 115 or equivalent). Students who have not already done so should continue their study of mathematics concurrently with their PHYSICS coursework, progressing through differential equations (typically the fourth semester of calculus).
+Students who passed one or more AP Physics exams with a score of 5 or higher or who passed the IB HL exam with a 4 or higher are strongly encouraged to elect the honors introductory sequence (PHYSICS 160, 161, 260, and 261).
+It is not necessary to complete all courses in the prerequisite sequences in order to declare the physics major. Students are encouraged to officially declare as soon as they make the decision.
+Requirements
+Minimum Credits:
+29
+Once a student has mastered introductory content and declared the major, they prepare for advanced study of the discipline by fulfilling the Intermediate Courses Requirement (four courses), then move on to master advanced concepts, skills, problems, and topics of the discipline by completing the Advanced Courses Requirement (four courses), Advanced Laboratory Requirement (two courses), and an Advanced Elective Requirement (two courses).
+Intermediate Courses Requirement
+Students must complete all of the following:
+PHYSICS 340: Waves, Heat, and Light –OR– PHYSICS 360: Honors Physics III
+PHYSICS 351: Methods of Theoretical Physics I
+PHYSICS 390: Introduction to Modern Physics (must be taken concurrently with PHYSICS 391)
+PHYSICS 391: Introduction to Modern Physics Lab (must be taken concurrently with PHYSICS 390)
+Ideally, PHYSICS 351 is elected no later than the second semester of the sophomore year. It is an enforced prerequisite for PHYSICS 390 and the Advanced Courses Requirement. PHYSICS 390 and 391 can be elected concurrently with PHYSICS 401 or 405 (part of the Advanced Courses Requirement).
+Advanced Courses Requirement
+Students must complete all of the following:
+PHYSICS 401: Intermediate Mechanics
+PHYSICS 405: Intermediate Electricity and Magnetism
+PHYSICS 406: Statistical and Thermal Physics
+PHYSICS 453: Quantum Mechanics
+Students are encouraged to complete both PHYSICS 401 and 405 before electing PHYSICS 453.
+Advanced Laboratory Requirement
+Students must complete the following two courses:
+PHYSICS 441: Advanced Laboratory I
+PHYSICS 442: Advanced Laboratory II
+Elective Requirement
+Students round out their study of physics by taking two of the following elective courses:
+PHYSICS 402: Optics
+PHYSICS 411: Introduction to Computational Physics
+PHYSICS 413 / CMPLXSYS 541: Introduction to Nonlinear Dynamics and the Physics of Complexity
+PHYSICS / BIOPHYS / CHEM 417: Dynamical Processes in Biophysics
+PHYSICS / BIOPHYS 433: Biocomplexity
+PHYSICS 435: Gravitational Physics
+PHYSICS 438: Electromagnetic Radiation
+PHYSICS / BIOPHYS 450: Laboratory Techniques in Biophysics
+PHYSICS 452: Methods of Theoretical Physics II
+PHYSICS 460: Quantum Mechanics II (requires previous completion of PHYSICS 453)
+PHYSICS 463: Introduction to Solid State Physics (requires previous completion of PHYSICS 453)
+PHYSICS / CMPLXSYS 470: Experiments in Nonlinear Dynamics
+Constraints
+Courses elected as pass/fail may not be included in the major.
+Residency
+A minimum of 15 credits at the 300 level or above must be completed in residence.
+Distribution Policy
+No course used to fulfill a major requirement may be used toward the
+LSA Distribution Requirement
+. In addition, courses in the PHYSICS subject area may not be used toward the Distribution Requirement.
+Honors
+Talented and highly motivated students who have an interest in conducting independent research are encouraged to complete an honors major. In addition to the requirements for major, honors majors must complete an additional six PHYSICS credits numbered at the 400 level or above and produce a senior thesis under the supervision of a faculty member.
+(Note: PHYSICS 415 will not count toward a Physics Honors major).
+Physics Major (Fall 2015-Fall 2016)
+Effective Date: Fall 2015
+The undergraduate curriculum in Physics is designed to provide a thorough introduction to our current understanding of the physical world. It prepares students for quantitative analysis of the world. The Physics BS degree provides strong preparation for graduate study in Physics and related fields. It also prepares students for direct entry into the job market in a wide variety of technical, analytic, and education settings.
+Prerequisites to the Major
+PHYSICS 135/136 and 235/236 or PHYSICS 140/141 and 240/241 (or PHYSICS 160/161 and 260/261)
+PHYSICS 340 and PHYSICS 351.
+Student interested in concentrating in physics should have an understanding of mathematics through differential equations.
+Requirements for the Major
+At least 29 credits in PHYSICS numbered 390/391 and above. The Physics Department requires no less than 15 credits toward the major program be completed in residence.
+The major must include:
+Core.
+PHYSICS 390/391, 401, 405, 406, and 453.
+PHYSICS 390, 401, 405, 406, and 453 must be completed with a minimum grade of a C- in each course and a cumulative average of C or higher.
+PHYSICS 390/391 can be elected concurrently with PHYICS 401 or 405; PHYSICS 401 and 405 should precede PHYSICS 453; PHYSICS 453 is a prerequisite to most courses numbered above.
+Advanced Laboratory.
+Any two of PHYSICS 441, 442 or 450.
+Electives.
+Two courses from among PHYSICS 402, 411, 413, 417, 430, 433, 435,  438, 452, 457, 460,  463, and 470.
+PHYSICS 419, 420, 481, and 489 may not be used to satisfy the B.S. degree requirements.
+Honors Plan
+Students who have a cumulative grade point average of at least 3.4 are encouraged to elect an Honors major in Physics. In addition to the regular departmental requirements for major, candidates for an Honors major must elect six credits of PHYSICS from courses numbered 401 and above which are not otherwise required and must also complete a senior Honors thesis based on research (PHYSICS 498/499) done under the supervision of a faculty member.
+Physics Major (Fall 2012-Summer 2015)
+Effective Date: Fall 2012-Summer 2015
+May be elected as a departmental major.
+The undergraduate curriculum in Physics is designed to provide a thorough introduction to our current understanding of the physical world. It prepares students for quantitative analysis of the world. The Physics BS degree provides strong preparation for graduate study in Physics and related fields. It also prepares students for direct entry into the job market in a wide variety of technical, analytic, and education settings.
+Prerequisites to the Major
+PHYSICS 135/136 and 235/236 or PHYSICS 140/141 and 240/241 (or PHYSICS 160/161 and 260/261)
+PHYSICS 340/341 and PHYSICS 351.
+Student interested in concentrating in physics should have an understanding of mathematics through differential equations.
+Requirements for the Major
+At least 27 credits in PHYSICS numbered 390 and above. The Physics Department requires no less than 15 credits toward the major program be completed in residence.
+A plan for the major must include:
+Core.
+PHYSICS 390, 401, 405, 406, and 453.
+PHYSICS 390, 401, 405, 406, and 453 must be completed with a minimum grade of a C- in each course and a cumulative average of C or higher.
+PHYSICS 401 and 405 should precede PHYSICS 453; PHYSICS 453 is a prerequisite to most courses numbered above.
+Advanced Laboratory.
+Any two of PHYSICS 441, 442 or 450.
+Electives.
+Two courses from among PHYSICS 402, 411, 413, 417, 430, 433, 435,  438, 452, 457, 460,  463, and 470.
+PHYSICS 419, 420, 481, and 489 may not be used to satisfy the B.S. degree requirements.
+Honors Plan
+Students who have a cumulative grade point average of at least 3.4 are encouraged to elect an Honors major in Physics. In addition to the regular departmental requirements for major, candidates for an Honors major must elect six credits of PHYSICS from courses numbered 401 and above which are not otherwise required and must also complete a senior Honors thesis based on research (PHYSICS 498/499) done under the supervision of a faculty member.
+Information for
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

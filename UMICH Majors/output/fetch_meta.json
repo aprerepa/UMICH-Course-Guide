@@ -1,0 +1,8 @@
+{
+  "source_url": "https://admissions.umich.edu/academics-majors/majors-degrees",
+  "final_url": "https://admissions.umich.edu/academics-majors/majors-degrees",
+  "status_code": 200,
+  "fetch_mode": "browser",
+  "fetched_at": "2026-08-08T02:17:24.090742+00:00",
+  "major_count": 154
+}
