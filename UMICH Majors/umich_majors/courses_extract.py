@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -15,6 +16,35 @@ from umich_majors.pipeline import load_listing
 from umich_majors.requirements_fetch import find_major, major_dir
 from umich_majors.requirements_supplements import load_supplements_llm_text
 import re
+
+# Schools with no reliable public requirements → course extract (skip in batch)
+SKIP_SCHOOLS = {
+    "School of Kinesiology",
+    "School of Music, Theatre & Dance (SMTD)",
+}
+
+# Hand-curated majors already in the live guide — never overwrite / re-extract
+PROTECTED_MAJOR_IDS = {
+    "biology-health-and-society--majors-minors-html-general-biology-maj",
+    "computer-science-bse--computer-science-eng",
+    "computer-science-lsa",
+    # Listing id for LSA CS (hand file is computer-science-lsa.json)
+    "computer-science-bs--majors-minors-html-computer-science-maj",
+    "data-science",
+    "data-science--preview",
+    "data-science-bs--majors-minors-html-data-science-maj",
+    "industrial-and-operations-engineering--undergrad-research",
+}
+
+PROTECTED_DISPLAY_NAMES = {
+    "biology, health, and society",
+    "computer science (bse)",
+    "computer science (lsa)",
+    "computer science (bs)",
+    "data science",
+    "data science (bs)",
+    "industrial and operations engineering",
+}
 
 
 def _now() -> str:
@@ -99,6 +129,17 @@ def _requirements_text(mid: str, meta: dict[str, Any]) -> tuple[str, str]:
     return main, source
 
 
+def _is_protected(major: dict) -> bool:
+    """Hand-curated live-guide majors — never re-extract or overwrite."""
+    mid = (major.get("id") or "").strip()
+    name = (major.get("name") or "").strip().lower()
+    if mid in PROTECTED_MAJOR_IDS:
+        return True
+    if name in PROTECTED_DISPLAY_NAMES:
+        return True
+    return False
+
+
 def extract_courses_one(
     major: dict,
     *,
@@ -121,6 +162,17 @@ def extract_courses_one(
         "extracted_at": _now(),
     }
 
+    school = (major.get("school_college") or "").strip()
+    if school in SKIP_SCHOOLS:
+        row["status"] = "skipped"
+        row["message"] = f"school excluded from extract: {school}"
+        return row
+
+    if _is_protected(major):
+        row["status"] = "skipped"
+        row["message"] = "protected hand-curated major (already in live guide)"
+        return row
+
     meta = _load_meta(mid)
     if not meta:
         row["status"] = "needs_requirements"
@@ -138,6 +190,12 @@ def extract_courses_one(
     if out_path.exists() and not force:
         row["status"] = "skipped"
         row["message"] = f"exists (pass --force to overwrite): {out_path}"
+        return row
+
+    # Never allow --force to clobber protected majors
+    if force and mid in PROTECTED_MAJOR_IDS:
+        row["status"] = "skipped"
+        row["message"] = "refusing --force on protected major"
         return row
 
     try:
@@ -212,6 +270,12 @@ def extract_courses_batch(
     only_fetched: bool = True,
 ) -> Path:
     majors = load_listing()
+    majors = [
+        m
+        for m in majors
+        if (m.get("school_college") or "").strip() not in SKIP_SCHOOLS
+        and not _is_protected(m)
+    ]
     if only_fetched:
         fetched_ids = set()
         for meta_path in REQUIREMENTS.glob("*/meta.json"):
@@ -229,9 +293,12 @@ def extract_courses_batch(
 
     with index_path.open("a", encoding="utf-8") as out:
         for i, major in enumerate(slice_, start=1):
-            print(f"[{i}/{len(slice_)}] {major['name']}")
+            print(f"[{i}/{len(slice_)}] {major['name']} ({major.get('school_college')})")
             row = extract_courses_one(major, force=force)
             out.write(json.dumps(row, ensure_ascii=False) + "\n")
             print(f"  → {row['status']}: {row.get('message')}")
+            # Pace LLM calls to reduce 429s (skipped rows are instant)
+            if row["status"] not in ("skipped",):
+                time.sleep(20)
 
     return index_path

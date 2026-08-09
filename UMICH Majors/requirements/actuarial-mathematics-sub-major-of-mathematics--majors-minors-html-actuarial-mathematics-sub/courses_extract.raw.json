@@ -1,0 +1,43 @@
+{
+  "id": "actuarial-mathematics-sub-major-of-mathematics",
+  "displayName": "Actuarial Mathematics (Sub-major of Mathematics)",
+  "requirementGroups": {
+    "Prerequisites": [
+      "COMPFOR 131",
+      "COMPFOR 133",
+      "ECON 101",
+      "ECON 102",
+      "EECS 183",
+      "EECS 280",
+      "ENGR 101",
+      "MATH 205",
+      "MATH 215",
+      "MATH 217",
+      "MATH 255",
+      "MATH 256",
+      "MATH 285",
+      "MATH 295",
+      "MATH 296",
+      "MATH 395",
+      "MATH 396",
+      "SI 101"
+    ],
+    "Basic Courses": [
+      "MATH 286",
+      "MATH 316",
+      "MATH 351",
+      "MATH 425",
+      "MATH 451",
+      "STATS 426"
+    ],
+    "Special Courses for Actuarial Mathematics": [
+      "MATH 423",
+      "MATH 424",
+      "MATH 520",
+      "MATH 521",
+      "MATH 523",
+      "MATH 524",
+      "MATH 528"
+    ]
+  }
+}

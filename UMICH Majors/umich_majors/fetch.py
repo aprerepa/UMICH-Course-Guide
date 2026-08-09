@@ -162,7 +162,20 @@ def google_slides_export_url(url: str) -> str | None:
 
 def is_pdf_url(url: str) -> bool:
     path = urlparse(url).path.lower()
-    return path.endswith(".pdf")
+    if path.endswith(".pdf"):
+        return True
+    # Google Drive file shares are usually PDFs for checklists / guides
+    if re.search(r"drive\.google\.com/file/d/", url, re.I):
+        return True
+    return False
+
+
+def google_drive_file_export_url(url: str) -> str | None:
+    """Direct-download URL for a Google Drive file share."""
+    m = re.search(r"drive\.google\.com/file/d/([a-zA-Z0-9_-]+)", url or "")
+    if not m:
+        return None
+    return f"https://drive.google.com/uc?export=download&id={m.group(1)}"
 
 
 def fetch_pdf(url: str, *, timeout: float = DEFAULT_TIMEOUT) -> FetchResult:
@@ -175,12 +188,18 @@ def fetch_pdf(url: str, *, timeout: float = DEFAULT_TIMEOUT) -> FetchResult:
         "User-Agent": USER_AGENT,
         "Accept": "application/pdf,*/*",
     }
+    download_url = google_drive_file_export_url(url) or url
     with httpx.Client(timeout=timeout, follow_redirects=True, headers=headers) as client:
-        resp = client.get(url)
+        resp = client.get(download_url)
         resp.raise_for_status()
         data = resp.content
         final_url = str(resp.url)
         status = resp.status_code
+    if not data.startswith(b"%PDF"):
+        raise ValueError(
+            f"Expected PDF bytes from {download_url}, got "
+            f"{resp.headers.get('content-type')!r} ({len(data)} bytes)"
+        )
     reader = PdfReader(io.BytesIO(data))
     parts: list[str] = []
     for page in reader.pages:

@@ -1,0 +1,78 @@
+{
+  "id": "actuarial-mathematics-sub-major-of-mathematics--majors-minors-html-actuarial-mathematics-sub",
+  "displayName": "Actuarial Mathematics (Sub-major of Mathematics)",
+  "requirementGroups": {
+    "Prerequisites": [
+      "MATH 205",
+      "MATH 215",
+      "MATH 217",
+      "MATH 255",
+      "MATH 256",
+      "MATH 285",
+      "MATH 295",
+      "MATH 296",
+      "ECON 101",
+      "ECON 102",
+      "EECS 183",
+      "EECS 280",
+      "COMPFOR 131",
+      "COMPFOR 133",
+      "ENGR 101",
+      "SI 101"
+    ],
+    "Basic Courses": [
+      "MATH 286",
+      "MATH 316",
+      "MATH 425",
+      "STATS 426",
+      "MATH 351",
+      "MATH 451"
+    ],
+    "Special Courses for Actuarial Mathematics": [
+      "MATH 424",
+      "MATH 520",
+      "MATH 523",
+      "MATH 423",
+      "MATH 521",
+      "MATH 524",
+      "MATH 528"
+    ],
+    "Advanced Courses": [
+      "MATH 422",
+      "MATH 427",
+      "MATH 462",
+      "MATH 623",
+      "ECON 401",
+      "ECON 402",
+      "ECON 409",
+      "ECON 452",
+      "FIN 302",
+      "FIN 317",
+      "FIN 408",
+      "FIN 409",
+      "IOE 310",
+      "IOE 452",
+      "DATASCI 406",
+      "DATASCI 415",
+      "DATASCI 451",
+      "DATASCI 470",
+      "STATS 413",
+      "STATS 480",
+      "STATS 500",
+      "STATS 501",
+      "STATS 503",
+      "STATS 505",
+      "STATS 531",
+      "ACC 300"
+    ]
+  },
+  "openGroups": {
+    "Advanced Courses": {
+      "subjects": [
+        "ACC"
+      ],
+      "minLevel": 300,
+      "exclude": []
+    }
+  }
+}

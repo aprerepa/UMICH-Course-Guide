@@ -1,0 +1,32 @@
+{
+  "id": "art-and-design",
+  "displayName": "Art and Design",
+  "requirementGroups": {
+    "Required Studio Courses": [
+      "ARTDES 100",
+      "ARTDES 105",
+      "ARTDES 115",
+      "ARTDES 120",
+      "ARTDES 125",
+      "ARTDES 130",
+      "ARTDES 220"
+    ],
+    "Elective Studio Courses": [
+      "ARTDES 498"
+    ],
+    "Required Academic Courses": [
+      "ARTDES 150",
+      "ARTDES 151",
+      "ARTDES 160",
+      "ARTDES 399"
+    ]
+  },
+  "openGroups": {
+    "Elective Studio Courses": {
+      "subjects": [
+        "ARTDES"
+      ],
+      "minLevel": 200
+    }
+  }
+}

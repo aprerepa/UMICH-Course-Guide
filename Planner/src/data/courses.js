@@ -1,11 +1,25 @@
 import data from "./courses.json";
 
 const SEMESTER_MAP = {
-  "2610": "Fall 2026",
+  "2510": "Fall 2024",
+  "2520": "Winter 2025",
+  "2560": "Fall 2025",
   "2570": "Winter 2026",
   "2580": "Spring 2026",
   "2590": "Spring/Summer 2026",
   "2600": "Summer 2026",
+  "2610": "Fall 2026",
+};
+
+const SEMESTER_SHORT = {
+  "2510": "FA24",
+  "2520": "WN25",
+  "2560": "FA25",
+  "2570": "WN26",
+  "2580": "SP26",
+  "2590": "SS26",
+  "2600": "SU26",
+  "2610": "FA26",
 };
 
 function mapSemesters(courses) {
@@ -13,6 +27,7 @@ function mapSemesters(courses) {
   return courses.map(course => ({
     ...course,
     semester: SEMESTER_MAP[course.semester] || course.semester,
+    termCode: String(course.semester),
   }));
 }
 
@@ -29,7 +44,9 @@ export const COURSES_DATA = Object.fromEntries(
   ])
 );
 
-export const MAJORS = Object.keys(COURSES_DATA);
+export const MAJORS = Object.keys(COURSES_DATA).sort((a, b) =>
+  a.localeCompare(b, undefined, { sensitivity: "base" })
+);
 
 export const LEVELS = [
   { label: "All levels", value: "all" },
@@ -71,9 +88,29 @@ export function getCourses(major, group) {
   return COURSES_DATA[major][group] || [];
 }
 
+/** Short labels for every term a course code appears in this major (chronological). */
+export function getOfferingPattern(major, code) {
+  if (!major || !code) return [];
+  const terms = new Set();
+  for (const courses of Object.values(COURSES_DATA[major] || {})) {
+    for (const c of courses) {
+      if (c.code === code && c.termCode) terms.add(c.termCode);
+    }
+  }
+  return [...terms]
+    .sort((a, b) => Number(a) - Number(b))
+    .map(t => SEMESTER_SHORT[t] || SEMESTER_MAP[t] || t);
+}
+
 const semesterSet = new Set(
   Object.values(COURSES_DATA)
     .flatMap(groups => Object.values(groups).flat())
     .map(c => c.semester)
 );
-export const SEMESTERS = ["All semesters", ...Array.from(semesterSet).sort()];
+export const SEMESTERS = ["All semesters", ...Array.from(semesterSet).sort((a, b) => {
+  // Prefer reverse chronological by underlying term code when possible
+  const rev = Object.fromEntries(
+    Object.entries(SEMESTER_MAP).map(([code, label]) => [label, Number(code)])
+  );
+  return (rev[b] || 0) - (rev[a] || 0);
+})];

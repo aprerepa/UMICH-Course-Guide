@@ -67,6 +67,7 @@ export default function App() {
 
         <CourseList
           majorSelected={!!selectedMajor}
+          major={selectedMajor}
           totalCount={filteredCourses.length}
           groupedCourses={groupedCourses}
         />

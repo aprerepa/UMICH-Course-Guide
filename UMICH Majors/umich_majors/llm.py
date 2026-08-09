@@ -19,7 +19,7 @@ def chat(
     max_tokens: int = 2000,
     temperature: float = 0,
     model: str | None = None,
-    retries: int = 4,
+    retries: int = 8,
     timeout: int = 120,
 ) -> str:
     base, key, default_model = llm_config()
@@ -31,6 +31,7 @@ def chat(
     }
     body = json.dumps(payload).encode()
     url = base.rstrip("/") + "/chat/completions"
+    last_err: Exception | None = None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(
@@ -49,8 +50,22 @@ def chat(
             USAGE["total"] += usage.get("total_tokens", 0)
             USAGE["calls"] += 1
             return data["choices"][0]["message"].get("content") or ""
+        except urllib.error.HTTPError as e:
+            last_err = e
+            if attempt == retries - 1:
+                raise
+            # Rate limits need longer backoff than transient errors
+            if e.code == 429:
+                retry_after = e.headers.get("Retry-After") if e.headers else None
+                try:
+                    wait = float(retry_after) if retry_after else min(120.0, 15 * (2**attempt))
+                except ValueError:
+                    wait = min(120.0, 15 * (2**attempt))
+                print(f"  LLM 429 — waiting {wait:.0f}s (attempt {attempt + 1}/{retries})")
+                time.sleep(wait)
+            else:
+                time.sleep(min(60.0, 2**attempt))
         except (
-            urllib.error.HTTPError,
             urllib.error.URLError,
             TimeoutError,
             socket.timeout,
@@ -58,10 +73,13 @@ def chat(
             json.JSONDecodeError,
             KeyError,
             IndexError,
-        ):
+        ) as e:
+            last_err = e
             if attempt == retries - 1:
                 raise
             time.sleep(2**attempt)
+    if last_err:
+        raise last_err
     return ""
 
 

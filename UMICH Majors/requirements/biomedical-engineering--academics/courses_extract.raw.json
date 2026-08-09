@@ -1,0 +1,16 @@
+{
+  "id": "biomedical-engineering",
+  "displayName": "Biomedical Engineering",
+  "requirementGroups": {
+    "College of Engineering Core Requirements": [
+      "MATH 115",
+      "MATH 120",
+      "MATH 185",
+      "MATH 116",
+      "MATH 121",
+      "MATH 156",
+      "MATH 186",
+      "MATH 215"
+    ]
+  }
+}

@@ -21,11 +21,12 @@ export function useCourseFilter() {
 
         let courses = getCourses(selectedMajor, selectedGroup);
 
-        // Deduplicate by course code (same course can appear in multiple groups)
+        // Deduplicate by course code + semester (same code can appear in multiple groups)
         const seen = new Set();
         courses = courses.filter(c => {
-            if (seen.has(c.code)) return false;
-            seen.add(c.code);
+            const key = `${c.code}|${c.termCode || c.semester}`;
+            if (seen.has(key)) return false;
+            seen.add(key);
             return true;
         });
 

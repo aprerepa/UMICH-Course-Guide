@@ -33,11 +33,32 @@ if not CLIENT_ID or not CLIENT_SECRET:
         "Copy Planner/.env.example to Planner/.env and fill in your SOC API credentials."
     )
 
-BASE_URL      = "https://gw.api.it.umich.edu/um/Curriculum/SOC"  # base URL for all endpoints
-TERM_CODE     = "2610"   # identifies Fall 2026 in UMich's system
+BASE_URL = "https://gw.api.it.umich.edu/um/Curriculum/SOC"
+
+# Live term(s) — re-fetchable as schedules change
+CURRENT_TERMS = ["2610"]  # Fall 2026
+
+# Historical Fall/Winter (~2 years) — fetch once; schedules do not change
+# WN26, FA25, WN25, FA24
+HISTORY_TERMS = ["2570", "2560", "2520", "2510"]
+
+ALL_TERMS = HISTORY_TERMS + CURRENT_TERMS
+
+# Expand openGroups against the live catalog
+TERM_CODE = CURRENT_TERMS[0]
+
+TERM_LABELS = {
+    "2510": "Fall 2024",
+    "2520": "Winter 2025",
+    "2560": "Fall 2025",
+    "2570": "Winter 2026",
+    "2610": "Fall 2026",
+}
 
 # UMich API limit is 500 calls/minute — stay under with headroom
 MAX_CALLS_PER_MINUTE = 450
+
+FETCH_LOG_PATH = Path(__file__).resolve().parents[1] / "src" / "data" / "soc_term_fetch_log.json"
 
 # ── Subject -> School code mapping ────────────────────────────────────────────
 
@@ -241,11 +262,12 @@ def get_instructor(section):
         return ci.get("InstrName", "")
     return ""
 
-def fetch_all_courses_for_subject(token, subject, min_level=0, exclusions=None):
+def fetch_all_courses_for_subject(token, subject, min_level=0, exclusions=None, term_code=None):
+    term_code = term_code or TERM_CODE
     school = SUBJECT_SCHOOL.get(subject, "LS")
-    cache_key = f"{school}:{subject}"
+    cache_key = f"{term_code}:{school}:{subject}"
     if cache_key not in _catalog_nbrs_cache:
-        path = f"/Terms/{TERM_CODE}/Schools/{school}/Subjects/{subject}/CatalogNbrs"
+        path = f"/Terms/{term_code}/Schools/{school}/Subjects/{subject}/CatalogNbrs"
         try:
             data = api_get(token, path)
         except requests.HTTPError as e:
@@ -328,11 +350,44 @@ def expand_open_groups(token, major_courses, open_specs):
 
 # ── Course fetcher ────────────────────────────────────────────────────────────
 
-def fetch_course(token, subject, catalog_num):
+def offering_key(code: str, term: str) -> str:
+    return f"{code}|{term}"
+
+
+def load_fetch_log(path: Path = FETCH_LOG_PATH) -> dict:
+    if not path.is_file():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else {}
+    except json.JSONDecodeError:
+        return {}
+
+
+def save_fetch_log(log: dict, path: Path = FETCH_LOG_PATH) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(log, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+
+
+def seed_fetch_log_from_courses(output: dict, log: dict) -> dict:
+    """Mark existing offerings as fetched so history is not re-pulled."""
+    for groups in (output or {}).values():
+        for courses in (groups or {}).values():
+            for c in courses or []:
+                if not isinstance(c, dict):
+                    continue
+                code, term = c.get("code"), str(c.get("semester") or "")
+                if code and term:
+                    log[offering_key(code, term)] = "ok"
+    return log
+
+
+def fetch_course(token, subject, catalog_num, term_code=None):
+    term_code = str(term_code or TERM_CODE)
     school = SUBJECT_SCHOOL.get(subject, "LS")
 
     desc_path = (
-        f"/Terms/{TERM_CODE}/Schools/{school}"
+        f"/Terms/{term_code}/Schools/{school}"
         f"/Subjects/{subject}/CatalogNbrs/{catalog_num}"
     )
     try:
@@ -343,14 +398,14 @@ def fetch_course(token, subject, catalog_num):
         title = ""
 
     sections_path = (
-        f"/Terms/{TERM_CODE}/Schools/{school}"
+        f"/Terms/{term_code}/Schools/{school}"
         f"/Subjects/{subject}/CatalogNbrs/{catalog_num}"
         f"/Sections?IncludeAllSections=Y"
     )
     try:
         data = api_get(token, sections_path)
     except requests.HTTPError as e:
-        print(f"    Skipping {subject} {catalog_num}: {e}")
+        print(f"    Skipping {subject} {catalog_num} ({term_code}): {e}")
         return None
 
     sections = data.get("getSOCSectionsResponse", {}).get("Section", [])
@@ -369,7 +424,7 @@ def fetch_course(token, subject, catalog_num):
         "code":             f"{subject} {catalog_num}",
         "title":            title,
         "credits":          first.get("CreditHours", 0),
-        "semester":         TERM_CODE,
+        "semester":         term_code,
         "sections":         len(lectures),
         "seats":            sum(s.get("AvailableSeats", 0) for s in lectures),
         "enrollmentStatus": first.get("EnrollmentStatus", ""),
@@ -409,26 +464,42 @@ def _parse_codes_arg(raw):
 
 
 def _index_courses(output: dict) -> dict:
-    """code → course object from any major/group in courses.json."""
+    """(code|semester) → course object from any major/group in courses.json."""
     index = {}
     for groups in (output or {}).values():
         for courses in (groups or {}).values():
             for c in courses or []:
-                if isinstance(c, dict) and c.get("code"):
-                    index[c["code"]] = c
+                if not isinstance(c, dict) or not c.get("code"):
+                    continue
+                term = str(c.get("semester") or "")
+                if not term:
+                    continue
+                index[offering_key(c["code"], term)] = c
     return index
+
+
+def _courses_by_code(index: dict) -> dict:
+    """code → list of course offerings sorted by term."""
+    by_code = defaultdict(list)
+    for c in index.values():
+        by_code[c["code"]].append(c)
+    for code, offerings in by_code.items():
+        offerings.sort(key=lambda x: str(x.get("semester") or ""))
+    return by_code
 
 
 def _rebuild_majors_from_cache(output: dict, course_cache: dict) -> dict:
     """
-    Rebuild every major/group from config, preferring freshly fetched courses,
-    then any course already present anywhere in courses.json.
+    Rebuild every major/group from config, attaching every known semester
+    offering for each course code.
 
     Also keeps previously stored courses in a group that are not in the explicit
     config list (e.g. openGroups expansions), so a resync does not wipe them.
     """
     global_cache = _index_courses(output)
     global_cache.update(course_cache)
+    by_code = _courses_by_code(global_cache)
+
     for major, groups in MAJOR_COURSES.items():
         prev_groups = output.get(major) or {}
         major_out = {}
@@ -436,21 +507,48 @@ def _rebuild_majors_from_cache(output: dict, course_cache: dict) -> dict:
             merged = []
             seen = set()
             for code in codes:
-                if code in global_cache and code not in seen:
-                    merged.append(global_cache[code])
-                    seen.add(code)
+                for c in by_code.get(code, []):
+                    key = offering_key(c["code"], str(c.get("semester") or ""))
+                    if key not in seen:
+                        merged.append(c)
+                        seen.add(key)
             for c in prev_groups.get(group) or []:
                 if not isinstance(c, dict):
                     continue
                 code = c.get("code")
-                if code and code not in seen:
+                term = str(c.get("semester") or "")
+                if not code or not term:
+                    continue
+                key = offering_key(code, term)
+                if key not in seen:
                     merged.append(c)
-                    seen.add(code)
+                    seen.add(key)
             if merged:
                 major_out[group] = merged
         if major_out:
             output[major] = major_out
     return output
+
+
+def _iter_config_codes():
+    codes = set()
+    for groups in MAJOR_COURSES.values():
+        for group_codes in groups.values():
+            codes.update(group_codes)
+    return codes
+
+
+def _missing_offerings(codes, terms, fetch_log, force_terms=None):
+    """Return sorted list of (code, term) still needing a SOC fetch."""
+    force_terms = set(force_terms or [])
+    needed = []
+    for code in codes:
+        for term in terms:
+            key = offering_key(code, term)
+            if term in force_terms or key not in fetch_log:
+                needed.append((code, term))
+    needed.sort(key=lambda x: (x[1], x[0]))
+    return needed
 
 
 if __name__ == "__main__":
@@ -469,8 +567,18 @@ if __name__ == "__main__":
     parser.add_argument(
         "--missing",
         action="store_true",
-        help="Only fetch codes listed in config/majors that are not yet in "
-             "src/data/courses.json, then rebuild all majors from cache",
+        help="Fetch (code, term) pairs not yet recorded in the fetch log "
+             "(history once + any missing current-term rows), then rebuild",
+    )
+    parser.add_argument(
+        "--current-only",
+        action="store_true",
+        help="Only consider CURRENT_TERMS (skip history backfill)",
+    )
+    parser.add_argument(
+        "--refresh-current",
+        action="store_true",
+        help="Re-fetch CURRENT_TERMS for all config codes even if already logged",
     )
     parser.add_argument(
         "--resync",
@@ -481,6 +589,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     only_codes = _parse_codes_arg(args.codes)
     out_path = Path("src/data/courses.json")
+    terms = list(CURRENT_TERMS) if args.current_only else list(ALL_TERMS)
+    force_terms = set(CURRENT_TERMS) if args.refresh_current else set()
 
     if args.resync:
         if not out_path.exists():
@@ -502,88 +612,66 @@ if __name__ == "__main__":
     print("Getting token...")
     token = get_token()
 
-    if args.missing or only_codes is None:
+    fetch_log = load_fetch_log()
+    existing = json.loads(out_path.read_text(encoding="utf-8")) if out_path.exists() else {}
+    fetch_log = seed_fetch_log_from_courses(existing, fetch_log)
+
+    if args.missing or only_codes is None or args.refresh_current:
         # Expand openGroups into MAJOR_COURSES so bands are included
         if OPEN_GROUP_SPECS:
             print("\nExpanding openGroups via SOC catalog…")
             expand_open_groups(token, MAJOR_COURSES, OPEN_GROUP_SPECS)
 
-    if args.missing:
-        have = set()
-        if out_path.exists():
-            existing = json.loads(out_path.read_text(encoding="utf-8"))
-            have = set(_index_courses(existing))
-        needed = set()
-        for groups in MAJOR_COURSES.values():
-            for codes in groups.values():
-                needed.update(codes)
-        only_codes = needed - have
-        if not only_codes:
-            print("No new SOC fetches needed — resyncing groups from cache…")
-            output = json.loads(out_path.read_text(encoding="utf-8")) if out_path.exists() else {}
-            output = _rebuild_majors_from_cache(output, {})
-            with out_path.open("w", encoding="utf-8") as f:
-                json.dump(output, f, indent=2)
-            print(f"Done — wrote {out_path}")
-            raise SystemExit(0)
-        print(f"Will fetch {len(only_codes)} missing course(s)")
-
-    if only_codes:
-        print(
-            f"\nFetching {len(only_codes)} course(s) only "
-            f"(≤{MAX_CALLS_PER_MINUTE} API calls/min)..."
-        )
-        course_cache = {}
-        for code in sorted(only_codes):
-            parts = code.strip().split()
-            if len(parts) != 2:
-                print(f"  Skipping malformed code: {code!r}")
-                continue
-            subject, catalog_num = parts
-            print(f"  {code}")
-            course = fetch_course(token, subject, catalog_num)
-            if course:
-                course_cache[code] = course
-            else:
-                print("    (not found / skipped)")
-
-        output = json.loads(out_path.read_text(encoding="utf-8")) if out_path.exists() else {}
-        output = _rebuild_majors_from_cache(output, course_cache)
-
-        with out_path.open("w", encoding="utf-8") as f:
-            json.dump(output, f, indent=2)
-        print(f"\nDone — merged {len(course_cache)} newly fetched + resynced all majors → {out_path}")
+    config_codes = _iter_config_codes()
+    if only_codes is not None:
+        target_codes = only_codes
     else:
-        all_codes = set()
-        for groups in MAJOR_COURSES.values():
-            for codes in groups.values():
-                all_codes.update(codes)
+        target_codes = config_codes
 
-        print(
-            f"\nFetching {len(all_codes)} unique courses "
-            f"(≤{MAX_CALLS_PER_MINUTE} API calls/min)..."
-        )
-        course_cache = {}
-        for code in sorted(all_codes):
-            subject, catalog_num = code.strip().split()
-            print(f"  {code}")
-            course = fetch_course(token, subject, catalog_num)
-            if course:
-                course_cache[code] = course
-
-        output = {}
-        for major, groups in MAJOR_COURSES.items():
-            output[major] = {}
-            for group, codes in groups.items():
-                group_courses = [
-                    course_cache[code]
-                    for code in codes
-                    if code in course_cache
-                ]
-                if group_courses:
-                    output[major][group] = group_courses
-
+    # Default / --missing / --codes / --refresh-current all use the pair queue
+    pairs = _missing_offerings(target_codes, terms, fetch_log, force_terms=force_terms)
+    if not pairs:
+        print("No new SOC fetches needed — resyncing groups from cache…")
+        output = _rebuild_majors_from_cache(existing, {})
         with out_path.open("w", encoding="utf-8") as f:
             json.dump(output, f, indent=2)
+        save_fetch_log(fetch_log)
+        print(f"Done — wrote {out_path}")
+        raise SystemExit(0)
 
-        print(f"\nDone — wrote {out_path}")
+    print(
+        f"\nFetching {len(pairs)} offering(s) "
+        f"across terms {[TERM_LABELS.get(t, t) for t in terms]} "
+        f"(≤{MAX_CALLS_PER_MINUTE} API calls/min)..."
+    )
+    course_cache = {}
+    found = 0
+    missing = 0
+    for code, term in pairs:
+        parts = code.strip().split()
+        if len(parts) != 2:
+            print(f"  Skipping malformed code: {code!r}")
+            continue
+        subject, catalog_num = parts
+        label = TERM_LABELS.get(term, term)
+        print(f"  {code} @ {label} ({term})")
+        course = fetch_course(token, subject, catalog_num, term_code=term)
+        key = offering_key(code, term)
+        if course:
+            course_cache[key] = course
+            fetch_log[key] = "ok"
+            found += 1
+        else:
+            fetch_log[key] = "missing"
+            missing += 1
+            print("    (not offered / skipped)")
+
+    output = existing
+    output = _rebuild_majors_from_cache(output, course_cache)
+    with out_path.open("w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2)
+    save_fetch_log(fetch_log)
+    print(
+        f"\nDone — merged {found} offerings "
+        f"({missing} not offered), wrote {out_path}"
+    )

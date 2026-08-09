@@ -38,6 +38,9 @@ _POSITIVE: list[tuple[re.Pattern[str], int]] = [
     (re.compile(r"\bflexible\s+(?:cs\s+)?technical\s+electives?\b", re.I), 120),
     (re.compile(r"\bapproved\s+list\b", re.I), 120),
     (re.compile(r"\bapproved\s+courses?\b", re.I), 110),
+    (re.compile(r"\bprintable\s+.*(?:checklist|plan|subplan)\b", re.I), 120),
+    (re.compile(r"\b(?:subplan|sub-?major)\s+checklist\b", re.I), 120),
+    (re.compile(r"\bchecklist\b", re.I), 115),
     (re.compile(r"\belective\s+list\b", re.I), 110),
     (re.compile(r"\blist\s+of\s+(?:approved\s+)?courses?\b", re.I), 110),
     (re.compile(r"\bcourse\s+list\b", re.I), 100),
@@ -49,7 +52,15 @@ _POSITIVE: list[tuple[re.Pattern[str], int]] = [
     (re.compile(r"electives?(?:\.html|/|[-_])", re.I), 50),
     (re.compile(r"approved[-_]?list|course[-_]?list", re.I), 80),
     (re.compile(r"spreadsheets/d/", re.I), 60),
+    (re.compile(r"drive\.google\.com/file/", re.I), 95),
 ]
+
+# Hub pages that often link to the real checklist / approved list
+_HUB_PAGE = re.compile(
+    r"checklist|subplan|sub-?major|major-and-minor-programs|"
+    r"/math/undergraduates|/undergraduates/major",
+    re.I,
+)
 
 _MIN_SCORE = 55
 _MAX_SUPPLEMENTS = 8
@@ -103,8 +114,12 @@ def _score_supplement(text: str, url: str) -> int:
     for pat, pts in _POSITIVE:
         if pat.search(blob):
             score = max(score, pts)
-    # PDF / sheet course lists
-    if score and (url.lower().endswith(".pdf") or "docs.google.com" in url.lower()):
+    # PDF / Drive / sheet course lists
+    if score and (
+        url.lower().endswith(".pdf")
+        or "docs.google.com" in url.lower()
+        or "drive.google.com/file/" in url.lower()
+    ):
         score += 15
     # Prefer a specific sheet tab (gid) over the workbook root
     if score and re.search(r"[#&?]gid=\d+", url):
@@ -180,52 +195,113 @@ def find_supplement_links(
     is_submajor: bool = False,
     primary_url: str | None = None,
     limit: int = _MAX_SUPPLEMENTS,
+    extra_html: list[tuple[str, str]] | None = None,
 ) -> list[dict[str, Any]]:
     """
     Return ranked course-list supplement candidates:
     [{url, link_text, score}, ...]
+
+    extra_html: optional [(html, base_url), ...] pages to mine as well
+    (e.g. program_page.html, department major pages).
     """
-    scoped = _scope_html_for_major(
-        html, major_name=major_name, is_submajor=is_submajor
-    )
-    soup = BeautifulSoup(scoped, "lxml")
+    pages: list[tuple[str, str]] = [(html, base_url or "")]
+    for eh, eu in extra_html or []:
+        if eh and eh.strip():
+            pages.append((eh, eu or base_url or ""))
+
     primary = _norm_url(primary_url or base_url or "")
-    page_key = _norm_url(base_url or "")
     found: list[tuple[int, str, str]] = []
     seen: set[str] = set()
+    hub_candidates: list[tuple[int, str, str]] = []
+    generic_label = re.compile(
+        r"^(?:course\s+lists?|link|here|click\s+here|download(?:\s+now)?|more|read\s+more)$",
+        re.I,
+    )
 
-    def _consider(text: str, href: str) -> None:
+    def _consider(text: str, href: str, page_base: str) -> None:
         href = _unwrap_url((href or "").strip())
         if not href or _SKIP_HREF.match(href):
             return
-        absolute = _unwrap_url(urljoin((base_url or "").split("#")[0], href))
+        absolute = _unwrap_url(urljoin((page_base or "").split("#")[0], href))
         key = _norm_url(absolute)
         if not key or key in seen:
             return
+        page_key = _norm_url(page_base or "")
         if key == primary or key == page_key:
             return
-        score = _score_supplement(text, absolute)
+        label = text.strip()
+        if generic_label.match(label or ""):
+            if not re.search(
+                r"drive\.google\.com/file/|docs\.google\.com/|spreadsheets/d/|"
+                r"\.pdf(?:$|\?)|approved|checklist|ulcs|capstone|elective",
+                absolute,
+                re.I,
+            ):
+                return
+        score = _score_supplement(label, absolute)
+        blob = f"{label} {absolute}"
         if score < _MIN_SCORE:
+            name_hit = False
+            if major_name:
+                tokens = [
+                    t
+                    for t in re.split(r"[^a-z0-9]+", major_name.lower())
+                    if len(t) > 3
+                    and t
+                    not in {
+                        "major",
+                        "minor",
+                        "sub",
+                        "plan",
+                        "college",
+                        "school",
+                        "administered",
+                    }
+                ]
+                name_hit = sum(1 for t in tokens if t in blob.lower()) >= min(
+                    2, max(1, len(tokens))
+                )
+            if name_hit or _HUB_PAGE.search(blob):
+                if "umich.edu" in absolute.lower() or "drive.google.com" in absolute.lower():
+                    hub_candidates.append((40, absolute, label or "program page"))
+                    seen.add(key)
             return
         seen.add(key)
-        found.append((score, absolute, text.strip() or "course list"))
+        found.append((score, absolute, label or "course list"))
 
-    for a in soup.find_all("a", href=True):
-        href = (a.get("href") or "").strip()
-        data_src = (a.get("data-source") or "").strip()
-        if data_src and (_SKIP_HREF.match(href) or not href):
-            _consider(_nearby_label(a), data_src)
-        else:
-            _consider(_nearby_label(a), href)
-            if data_src:
-                _consider(_nearby_label(a), data_src)
+    for page_html, page_base in pages:
+        scoped = _scope_html_for_major(
+            page_html, major_name=major_name, is_submajor=is_submajor
+        )
+        soup = BeautifulSoup(scoped, "lxml")
+        for a in soup.find_all("a", href=True):
+            href = (a.get("href") or "").strip()
+            data_src = (a.get("data-source") or "").strip()
+            if data_src and (_SKIP_HREF.match(href) or not href):
+                _consider(_nearby_label(a), data_src, page_base)
+            else:
+                _consider(_nearby_label(a), href, page_base)
+                if data_src:
+                    _consider(_nearby_label(a), data_src, page_base)
+        for el in soup.find_all(attrs={"data-source": True}):
+            if el.name == "a":
+                continue
+            src = (el.get("data-source") or "").strip()
+            if src:
+                _consider(_nearby_label(el), src, page_base)
 
-    for el in soup.find_all(attrs={"data-source": True}):
-        if el.name == "a":
+    # One-hop: mine hub pages for checklist / Drive / approved-list links
+    for _score, hub_url, _text in hub_candidates[:3]:
+        try:
+            fetched, _llm = fetch_page(hub_url, force_browser=False)
+        except Exception:
             continue
-        src = (el.get("data-source") or "").strip()
-        if src:
-            _consider(_nearby_label(el), src)
+        hub_html = fetched.html or ""
+        if len(hub_html) < 200:
+            continue
+        soup = BeautifulSoup(hub_html, "lxml")
+        for a in soup.find_all("a", href=True):
+            _consider(_nearby_label(a), a.get("href") or "", hub_url)
 
     found.sort(key=lambda x: (-x[0], x[1]))
     out: list[dict[str, Any]] = []
@@ -243,18 +319,26 @@ def fetch_supplements_for_major(
     is_submajor: bool = False,
     primary_url: str | None = None,
     force_browser: bool = False,
+    extra_html: list[tuple[str, str]] | None = None,
 ) -> list[dict[str, Any]]:
     """
     Discover + fetch supplements into out_dir/supplements/.
     Returns list of supplement meta rows (also written to supplements/index.json).
     Does not modify requirements_url.
     """
+    # Always also mine the saved program page when present
+    extras = list(extra_html or [])
+    prog = out_dir / "program_page.html"
+    if prog.exists():
+        extras.append((prog.read_text(encoding="utf-8", errors="replace"), base_url))
+
     links = find_supplement_links(
         html,
         base_url,
         major_name=major_name,
         is_submajor=is_submajor,
         primary_url=primary_url or base_url,
+        extra_html=extras,
     )
     supp_dir = out_dir / "supplements"
     if supp_dir.exists():

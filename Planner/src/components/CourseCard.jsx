@@ -1,16 +1,7 @@
 import { useState } from "react";
 import { SectionRow } from "./SectionRow";
-import { TrendIcon, ChevronDownIcon } from "./Icons";
-
-const SEMESTER_MAP = {
-  "2420": "Fall 2026",
-  "2510": "Winter 2027",
-  "2490": "Spring/Summer 2026",
-};
-
-function formatSemester(termCode) {
-  return SEMESTER_MAP[termCode] || termCode;
-}
+import { ChevronDownIcon } from "./Icons";
+import { getOfferingPattern } from "../data/courses";
 
 const SEMESTER_BADGE = {
   fall: {
@@ -23,12 +14,18 @@ const SEMESTER_BADGE = {
     color: "#2a52be",
     border: "1px solid #c0d0f8",
   },
+  other: {
+    background: "#f3f3f3",
+    color: "#555",
+    border: "1px solid #ddd",
+  },
 };
 
 function getSemesterStyle(semester) {
-  return semester.toLowerCase().startsWith("fall")
-    ? SEMESTER_BADGE.fall
-    : SEMESTER_BADGE.winter;
+  const s = String(semester || "").toLowerCase();
+  if (s.startsWith("fall") || s.startsWith("fa")) return SEMESTER_BADGE.fall;
+  if (s.startsWith("winter") || s.startsWith("wn")) return SEMESTER_BADGE.winter;
+  return SEMESTER_BADGE.other;
 }
 
 const styles = {
@@ -77,6 +74,15 @@ const styles = {
     color: "#222",
     marginBottom: "3px",
   },
+  pattern: {
+    fontSize: "12.5px",
+    color: "#777",
+    marginTop: "2px",
+    fontFamily: "system-ui, sans-serif",
+  },
+  patternLabel: {
+    color: "#999",
+  },
   professors: {
     fontSize: "13px",
     color: "#777",
@@ -100,9 +106,10 @@ const styles = {
   },
 };
 
-export function CourseCard({ course }) {
+export function CourseCard({ course, major }) {
   const [expanded, setExpanded] = useState(false);
-  const semesterLabel = formatSemester(course.semester);
+  const semesterLabel = course.semester;
+  const pattern = getOfferingPattern(major, course.code);
 
   return (
     <div style={styles.card}>
@@ -115,6 +122,12 @@ export function CourseCard({ course }) {
             <span style={styles.sectionCount}>{course.sections} sections</span>
           </div>
           <div style={styles.title}>{course.title}</div>
+          {pattern.length > 0 && (
+            <div style={styles.pattern}>
+              <span style={styles.patternLabel}>Offered: </span>
+              {pattern.join(" · ")}
+            </div>
+          )}
           <div style={styles.professors}>{course.instructor || ""}</div>
         </div>
         <div style={styles.right}>

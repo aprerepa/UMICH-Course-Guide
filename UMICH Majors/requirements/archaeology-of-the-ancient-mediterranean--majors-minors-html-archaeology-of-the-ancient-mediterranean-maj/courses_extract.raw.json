@@ -1,0 +1,43 @@
+{
+  "id": "archaeology-of-the-ancient-mediterranean",
+  "displayName": "Archaeology of the Ancient Mediterranean",
+  "requirementGroups": {
+    "Introductory Courses": [
+      "ARCHAM 221",
+      "ARCHAM 222",
+      "ARCHAM 228"
+    ],
+    "Greek or Roman History or Civilization": [
+      "CLCIV 202",
+      "CLCIV 302",
+      "HISTORY 200",
+      "HISTORY 201"
+    ],
+    "Upper-Level ARCHAM": [],
+    "Ancient Greek or Latin Language Proficiency": [
+      "GREEK 301",
+      "LATIN 231"
+    ],
+    "Additional 400-Level Course": [
+      "ARCHAM 499"
+    ]
+  },
+  "openGroups": {
+    "Greek or Roman History or Civilization": {
+      "subjects": [
+        "CLCIV",
+        "HISTORY"
+      ],
+      "minLevel": 200
+    },
+    "Upper-Level ARCHAM": {
+      "subjects": [
+        "ARCHAM"
+      ],
+      "minLevel": 325
+    },
+    "Additional 400-Level Course": {
+      "minLevel": 400
+    }
+  }
+}

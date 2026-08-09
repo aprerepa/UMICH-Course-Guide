@@ -34,7 +34,8 @@ const styles = {
     border: "1px solid #444",
     borderRadius: "8px",
     zIndex: 100,
-    overflow: "hidden",
+    maxHeight: "240px",
+    overflowY: "auto",
     boxShadow: "0 8px 24px rgba(0,0,0,0.2)",
   },
   menuItemBase: {

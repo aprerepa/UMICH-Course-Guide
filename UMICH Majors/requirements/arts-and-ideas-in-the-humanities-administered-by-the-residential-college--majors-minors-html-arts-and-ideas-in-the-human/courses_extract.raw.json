@@ -1,0 +1,101 @@
+{
+  "id": "arts-and-ideas-in-the-humanities",
+  "displayName": "Arts and Ideas in the Humanities (Administered by the Residential College)",
+  "requirementGroups": {
+    "How to think in the Arts and Humanities": [
+      "RCHUMS 201",
+      "RCHUMS 202"
+    ],
+    "Core Humanities": [
+      "RCHUMS 214",
+      "RCHUMS 217",
+      "RCHUMS 218",
+      "RCHUMS 230",
+      "RCHUMS 235",
+      "RCHUMS 251",
+      "RCHUMS 255",
+      "RCHUMS 256",
+      "RCHUMS 257",
+      "RCHUMS 260",
+      "DANCE 260",
+      "RCHUMS 275",
+      "RCHUMS 290",
+      "RCHUMS 291",
+      "RCHUMS 304",
+      "RCHUMS 305",
+      "RCHUMS 306",
+      "RCHUMS 308",
+      "ASIAN 308",
+      "RCHUMS 309",
+      "RCHUMS 312",
+      "SLAVIC 312",
+      "RCHUMS 315",
+      "RCHUMS 317",
+      "RCHUMS 318",
+      "RCHUMS 319",
+      "RCHUMS 331",
+      "THTREMUS 333",
+      "RCHUMS 333",
+      "RCHUMS 334",
+      "RCHUMS 335",
+      "THTREMUS 335",
+      "RCHUMS 336",
+      "LATINOAM 336",
+      "THTREMUS 336",
+      "RCHUMS 337",
+      "ENVIRON 337",
+      "RCHUMS 338",
+      "RCHUMS 340",
+      "RCHUMS 341",
+      "RCHUMS 342",
+      "RCHUMS 344",
+      "HISTART 342",
+      "RCHUMS 346",
+      "HISTART 352",
+      "RCHUMS 354",
+      "AAS 354",
+      "HONORS 354",
+      "WGS 354",
+      "WOMENSTD 354",
+      "RCHUMS 355",
+      "RCHUMS 356",
+      "RCHUMS 357",
+      "RCHUMS 360",
+      "RCHUMS 361",
+      "RCHUMS 364",
+      "RCHUMS 365",
+      "RELIGION 360",
+      "RCHUMS 371",
+      "RCHUMS 372",
+      "RCHUMS 373",
+      "ASIAN 373",
+      "RCHUMS 380",
+      "RCHUMS 410",
+      "RCHUMS 411",
+      "RCHUMS 444",
+      "RCHUMS 457",
+      "RCHUMS 470",
+      "RCHUMS 472"
+    ],
+    "Core Arts": [],
+    "Focus": []
+  },
+  "openGroups": {
+    "Core Arts": {
+      "subjects": [
+        "RCHUMS",
+        "RCARTS",
+        "RCMUSIC"
+      ],
+      "minLevel": 200
+    },
+    "Focus": {
+      "subjects": [
+        "RCARTS",
+        "RCHUMS",
+        "RCMUSIC"
+      ],
+      "minLevel": 300
+    }
+  }
+}

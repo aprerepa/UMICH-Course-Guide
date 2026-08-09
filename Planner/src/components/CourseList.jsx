@@ -91,7 +91,7 @@ function NoResults() {
   );
 }
 
-function SemesterGroup({ semester, courses }) {
+function SemesterGroup({ semester, courses, major }) {
   return (
     <div style={styles.semesterGroup}>
       <div style={styles.groupHeader}>
@@ -104,8 +104,12 @@ function SemesterGroup({ semester, courses }) {
         </span>
       </div>
       <div style={styles.cardList}>
-        {courses.map((course, i) => (
-          <CourseCard key={`${course.code}-${i}`} course={course} />
+        {courses.map((course) => (
+          <CourseCard
+            key={`${course.code}-${course.termCode || course.semester}`}
+            course={course}
+            major={major}
+          />
         ))}
       </div>
     </div>
@@ -114,11 +118,12 @@ function SemesterGroup({ semester, courses }) {
 
 /**
  * @param {boolean} majorSelected    - Whether a major has been chosen
+ * @param {string}  major            - Selected major display name
  * @param {number}  totalCount       - Total filtered courses across all semesters
  * @param {object}  groupedCourses   - { [semester]: Course[] }
  * @param {Function} onDismissDropdowns - Callback to close any open dropdowns on click
  */
-export function CourseList({ majorSelected, totalCount, groupedCourses, onDismissDropdowns }) {
+export function CourseList({ majorSelected, major, totalCount, groupedCourses, onDismissDropdowns }) {
   const hasContent = majorSelected && totalCount > 0;
 
   return (
@@ -129,7 +134,7 @@ export function CourseList({ majorSelected, totalCount, groupedCourses, onDismis
         <NoResults />
       ) : (
         Object.entries(groupedCourses).map(([semester, courses]) => (
-          <SemesterGroup key={semester} semester={semester} courses={courses} />
+          <SemesterGroup key={semester} semester={semester} courses={courses} major={major} />
         ))
       )}
     </div>

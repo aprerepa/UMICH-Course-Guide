@@ -18,6 +18,8 @@ build/
 .cache/
 *.tsbuildinfo
 
+# Keep Planner/src/data/soc_term_fetch_log.json tracked (history-once fetch ledger)
+
 # Python
 __pycache__/
 *.py[cod]

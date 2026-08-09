@@ -1,0 +1,35 @@
+{
+  "id": "biopsychology-cognition-and-neuroscience",
+  "displayName": "Biopsychology, Cognition, and Neuroscience",
+  "requirementGroups": {
+    "Prerequisites": [
+      "PSYCH 111",
+      "PSYCH 112",
+      "PSYCH 114",
+      "DATASCI 101",
+      "STATS 250",
+      "STATS 280"
+    ],
+    "Core course requirement": [
+      "PSYCH 230",
+      "PSYCH 240"
+    ],
+    "Breadth course requirement": [
+      "PSYCH 235",
+      "PSYCH 250",
+      "PSYCH 270",
+      "PSYCH 280",
+      "PSYCH 290",
+      "PSYCH 291"
+    ],
+    "Cognate course requirement": []
+  },
+  "openGroups": {
+    "Cognate course requirement": {
+      "subjects": [
+        "PSYCH"
+      ],
+      "minLevel": 300
+    }
+  }
+}

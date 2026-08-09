@@ -1,0 +1,24 @@
+{
+  "id": "american-culture",
+  "displayName": "American Culture",
+  "requirementGroups": {
+    "Core Course": [
+      "AMCULT 300"
+    ],
+    "Capstone": [
+      "AMCULT 498"
+    ]
+  },
+  "openGroups": {
+    "Electives": {
+      "subjects": [
+        "AMCULT",
+        "LATINOAM",
+        "ASIANPAM",
+        "NATIVEAM",
+        "ARABAM"
+      ],
+      "minLevel": 200
+    }
+  }
+}

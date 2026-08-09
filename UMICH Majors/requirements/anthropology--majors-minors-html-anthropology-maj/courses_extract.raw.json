@@ -1,0 +1,34 @@
+{
+  "id": "anthropology",
+  "displayName": "Anthropology",
+  "requirementGroups": {
+    "Anthropological Archaeology": [
+      "ANTHRARC 282",
+      "ANTHRARC 386"
+    ],
+    "Biological Anthropology": [
+      "ANTHRBIO 201"
+    ],
+    "Linguistic Anthropology": [
+      "ANTHRCUL 272",
+      "ANTHRCUL 374"
+    ],
+    "Sociocultural Anthropology": [
+      "ANTHRCUL 222",
+      "ANTHRCUL 226",
+      "ANTHRCUL 230",
+      "ANTHRCUL 330"
+    ],
+    "Electives": []
+  },
+  "openGroups": {
+    "Electives": {
+      "subjects": [
+        "ANTHRARC",
+        "ANTHRBIO",
+        "ANTHRCUL"
+      ],
+      "minLevel": 200
+    }
+  }
+}

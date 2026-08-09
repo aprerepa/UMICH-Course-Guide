@@ -1,0 +1,39 @@
+{
+  "id": "afroamerican-and-african-studies--majors-minors-html-afroamerican-and-african-studies-maj",
+  "displayName": "Afroamerican and African Studies",
+  "requirementGroups": {
+    "Gateway Courses": [
+      "AAS 200",
+      "AAS 201",
+      "AAS 202"
+    ],
+    "Comparative or Global Courses": [
+      "AAS 304",
+      "AAS 309",
+      "AAS 322",
+      "AAS 323",
+      "AAS 324",
+      "AAS 346",
+      "AAS 357",
+      "AAS 359",
+      "AAS 362",
+      "AAS 365",
+      "AAS 381",
+      "AAS 384",
+      "AAS 441"
+    ],
+    "DAAS-In-Action": [
+      "AAS 498"
+    ],
+    "Electives": []
+  },
+  "openGroups": {
+    "Electives": {
+      "subjects": [
+        "AAS"
+      ],
+      "minLevel": 0,
+      "exclude": []
+    }
+  }
+}
