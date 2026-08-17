@@ -1,0 +1,14 @@
+# Deploy the transcript PDF parser separately from the Vercel frontend.
+# Dashboard: New → Blueprint → connect this repo, or create a Web Service manually.
+services:
+  - type: web
+    name: umich-transcript-api
+    runtime: python
+    rootDir: Planner/transcript_api
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12"
+      - key: ALLOWED_ORIGINS
+        value: https://umich-course-guide.vercel.app,http://localhost:5173,http://127.0.0.1:5173
