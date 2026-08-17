@@ -90,3 +90,11 @@ export function CalendarEmptyIcon({ size = 48, color = "currentColor" }) {
     </svg>
   );
 }
+
+/** Initials from an email local-part, e.g. aprerepa@ → AP */
+export function emailInitials(email) {
+  const local = String(email || "").split("@")[0].replace(/[^a-zA-Z]/g, "");
+  if (!local) return "?";
+  if (local.length === 1) return local.toUpperCase();
+  return (local[0] + local[1]).toUpperCase();
+}

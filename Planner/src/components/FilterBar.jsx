@@ -1,12 +1,7 @@
 import { useState } from "react";
 import { Dropdown } from "./Dropdown";
 import { SearchIcon } from "./Icons";
-import { MAJORS, SEMESTERS, LEVELS } from "../data/courses";
-
-const majorOptions = [
-  { label: "Choose a major...", value: "" },
-  ...MAJORS.map((m) => ({ label: m, value: m })),
-];
+import { SEMESTERS, LEVELS } from "../data/courses";
 
 const semesterOptions = SEMESTERS.map((s) => ({ label: s, value: s }));
 const levelOptions = LEVELS;
@@ -58,6 +53,13 @@ const styles = {
     fontFamily: "system-ui, sans-serif",
     backgroundColor: "#fff",
   }),
+  hint: {
+    gridColumn: "1 / -1",
+    fontSize: "12.5px",
+    color: "#888",
+    fontFamily: "system-ui, sans-serif",
+    marginTop: "-8px",
+  },
 };
 
 export function FilterBar({
@@ -66,40 +68,62 @@ export function FilterBar({
   selectedGroup,
   onGroupChange,
   groups,
+  completedGroups,
   selectedLevel,
   onLevelChange,
   selectedSemester,
   onSemesterChange,
   searchQuery,
   onSearchChange,
+  availableMajors = [],
+  personalized = false,
 }) {
   const [openDropdown, setOpenDropdown] = useState(null);
 
-  const toggle = (name) => setOpenDropdown((prev) => (prev === name ? null : name));
+  const toggle = (name) =>
+    setOpenDropdown((prev) => (prev === name ? null : name));
 
-  const groupOptions = (groups || []).map((g) => ({ label: g, value: g }));
+  const majorOptions = [
+    {
+      label: personalized ? "Choose one of your majors..." : "Choose a major...",
+      value: "",
+    },
+    ...availableMajors.map((m) => ({ label: m, value: m })),
+  ];
+
+  const groupOptions = (groups || []).map((g) => ({
+    label: g,
+    value: g,
+    muted: g !== "All" && completedGroups?.has?.(g),
+  }));
 
   return (
     <div style={styles.container} onClick={() => setOpenDropdown(null)}>
-      {/* Major */}
       <div style={styles.fieldWrapper} onClick={(e) => e.stopPropagation()}>
         <label style={styles.label}>Select Major</label>
         <Dropdown
           value={selectedMajor}
-          onChange={(v) => { onMajorChange(v); setOpenDropdown(null); }}
+          onChange={(v) => {
+            onMajorChange(v);
+            setOpenDropdown(null);
+          }}
           options={majorOptions}
-          placeholder="Choose a major..."
+          placeholder={
+            personalized ? "Choose one of your majors..." : "Choose a major..."
+          }
           isOpen={openDropdown === "major"}
           onToggle={() => toggle("major")}
         />
       </div>
 
-      {/* Requirement Group */}
       <div style={styles.fieldWrapper} onClick={(e) => e.stopPropagation()}>
         <label style={styles.label}>Requirement Group</label>
         <Dropdown
           value={selectedGroup}
-          onChange={(v) => { onGroupChange(v); setOpenDropdown(null); }}
+          onChange={(v) => {
+            onGroupChange(v);
+            setOpenDropdown(null);
+          }}
           options={groupOptions}
           placeholder="All"
           isOpen={openDropdown === "group"}
@@ -107,12 +131,14 @@ export function FilterBar({
         />
       </div>
 
-      {/* Course Level */}
       <div style={styles.fieldWrapper} onClick={(e) => e.stopPropagation()}>
         <label style={styles.label}>Course Level</label>
         <Dropdown
           value={selectedLevel}
-          onChange={(v) => { onLevelChange(v); setOpenDropdown(null); }}
+          onChange={(v) => {
+            onLevelChange(v);
+            setOpenDropdown(null);
+          }}
           options={levelOptions}
           placeholder="Undergrad (100–499)"
           isOpen={openDropdown === "level"}
@@ -120,12 +146,14 @@ export function FilterBar({
         />
       </div>
 
-      {/* Semester */}
       <div style={styles.fieldWrapper} onClick={(e) => e.stopPropagation()}>
         <label style={styles.label}>Select Semester</label>
         <Dropdown
           value={selectedSemester}
-          onChange={(v) => { onSemesterChange(v); setOpenDropdown(null); }}
+          onChange={(v) => {
+            onSemesterChange(v);
+            setOpenDropdown(null);
+          }}
           options={semesterOptions}
           placeholder="All semesters"
           isOpen={openDropdown === "semester"}
@@ -133,7 +161,16 @@ export function FilterBar({
         />
       </div>
 
-      {/* Search */}
+      {personalized && (
+        <div style={styles.hint}>
+          Showing only majors you selected at signup
+          {availableMajors.length === 0 ? " — none saved yet." : "."}
+          {completedGroups?.size
+            ? " Completed requirement groups stay in the list, marked as done."
+            : ""}
+        </div>
+      )}
+
       <div style={{ ...styles.fieldWrapper, ...styles.searchField }}>
         <label style={styles.label}>Search Courses</label>
         <div style={styles.searchWrapper}>

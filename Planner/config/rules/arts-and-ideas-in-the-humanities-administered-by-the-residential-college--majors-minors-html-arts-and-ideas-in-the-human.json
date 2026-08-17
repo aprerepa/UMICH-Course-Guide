@@ -1,0 +1,23 @@
+{
+  "id": "arts-and-ideas-in-the-humanities-administered-by-the-residential-college--majors-minors-html-arts-and-ideas-in-the-human",
+  "displayName": "Arts and Ideas in the Humanities (Administered by the Residential College)",
+  "groupRules": {
+    "How to think in the Arts and Humanities": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Core Humanities": {
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Core Arts": {
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Focus": {
+      "minCredits": 15,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

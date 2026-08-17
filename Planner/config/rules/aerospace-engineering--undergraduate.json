@@ -1,0 +1,26 @@
+{
+  "id": "aerospace-engineering--undergraduate",
+  "displayName": "Aerospace Engineering",
+  "groupRules": {
+    "Mathematics, Chemistry, Physics, and Engineering": {
+      "minCredits": 55,
+      "countsTowardMajorTotal": true
+    },
+    "Related Technical Core": {
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Aerospace Science": {
+      "minCredits": 26,
+      "countsTowardMajorTotal": true
+    },
+    "Aerospace Engineering": {
+      "minCredits": 17,
+      "countsTowardMajorTotal": true
+    },
+    "Technical Electives": {
+      "minCredits": 9,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

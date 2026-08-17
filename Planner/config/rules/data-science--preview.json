@@ -1,0 +1,26 @@
+{
+  "id": "data-science--preview",
+  "displayName": "Data Science",
+  "groupRules": {
+    "Advanced Technical Electives": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Advanced Statistical Analysis": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Application Electives": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Capstone": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "DS-Eng Flexible Technical Elect": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

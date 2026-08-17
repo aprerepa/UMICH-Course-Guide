@@ -1,6 +1,12 @@
 import { FilterBar } from "./components/FilterBar";
 import { CourseList } from "./components/CourseList";
+import { GuideHeader } from "./components/GuideHeader";
+import { LoginPage } from "./components/LoginPage";
+import { SettingsPage } from "./components/SettingsPage";
+import { TakenCoursesPanel } from "./components/TakenCoursesPanel";
 import { useCourseFilter } from "./hooks/useCourseFilter";
+import { useAuth } from "./context/AuthContext";
+import { useState } from "react";
 
 const styles = {
   page: {
@@ -26,15 +32,27 @@ const styles = {
     margin: "0 0 28px 0",
     fontFamily: "system-ui, sans-serif",
   },
+  centered: {
+    fontFamily: "system-ui, sans-serif",
+    minHeight: "100vh",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    color: "#888",
+    backgroundColor: "#f5f5f3",
+  },
 };
 
-export default function App() {
+function CourseGuide() {
+  const { user } = useAuth();
+  const [page, setPage] = useState("guide");
   const {
     selectedMajor,
     setSelectedMajor,
     selectedGroup,
     setSelectedGroup,
     groups,
+    completedGroups,
     selectedLevel,
     setSelectedLevel,
     selectedSemester,
@@ -43,35 +61,70 @@ export default function App() {
     setSearchQuery,
     filteredCourses,
     groupedCourses,
+    availableMajors,
+    personalized,
+    setTakenCodes,
   } = useCourseFilter();
 
   return (
     <div style={styles.page}>
       <div style={styles.inner}>
-        <h1 style={styles.heading}>UMich Course Guide</h1>
-        <p style={styles.subheading}>Filter courses by major and view historic offerings</p>
+        <GuideHeader page={page} onNavigate={setPage} />
+        {page === "settings" ? (
+          <>
+            <h1 style={styles.heading}>Settings</h1>
+            <p style={styles.subheading}>Account and declared programs</p>
+            <SettingsPage onBack={() => setPage("guide")} />
+          </>
+        ) : (
+          <>
+            <h1 style={styles.heading}>UMich Course Guide</h1>
+            <p style={styles.subheading}>
+              Filter courses by major and view historic offerings
+            </p>
 
-        <FilterBar
-          selectedMajor={selectedMajor}
-          onMajorChange={setSelectedMajor}
-          selectedGroup={selectedGroup}
-          onGroupChange={setSelectedGroup}
-          groups={groups}
-          selectedLevel={selectedLevel}
-          onLevelChange={setSelectedLevel}
-          selectedSemester={selectedSemester}
-          onSemesterChange={setSelectedSemester}
-          searchQuery={searchQuery}
-          onSearchChange={setSearchQuery}
-        />
+            {user && <TakenCoursesPanel onChange={setTakenCodes} />}
 
-        <CourseList
-          majorSelected={!!selectedMajor}
-          major={selectedMajor}
-          totalCount={filteredCourses.length}
-          groupedCourses={groupedCourses}
-        />
+            <FilterBar
+              selectedMajor={selectedMajor}
+              onMajorChange={setSelectedMajor}
+              selectedGroup={selectedGroup}
+              onGroupChange={setSelectedGroup}
+              groups={groups}
+              completedGroups={completedGroups}
+              selectedLevel={selectedLevel}
+              onLevelChange={setSelectedLevel}
+              selectedSemester={selectedSemester}
+              onSemesterChange={setSelectedSemester}
+              searchQuery={searchQuery}
+              onSearchChange={setSearchQuery}
+              availableMajors={availableMajors}
+              personalized={personalized}
+            />
+
+            <CourseList
+              majorSelected={!!selectedMajor}
+              major={selectedMajor}
+              totalCount={filteredCourses.length}
+              groupedCourses={groupedCourses}
+            />
+          </>
+        )}
       </div>
     </div>
   );
+}
+
+export default function App() {
+  const { loading, inApp } = useAuth();
+
+  if (loading) {
+    return <div style={styles.centered}>Loading…</div>;
+  }
+
+  if (!inApp) {
+    return <LoginPage />;
+  }
+
+  return <CourseGuide />;
 }

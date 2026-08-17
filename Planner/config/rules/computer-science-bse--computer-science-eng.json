@@ -1,0 +1,30 @@
+{
+  "id": "computer-science-bse--computer-science-eng",
+  "displayName": "Computer Science (BSE)",
+  "groupRules": {
+    "Engineering Core Requirements": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Program Core": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "ULCS Electives": {
+      "minCredits": 15,
+      "countsTowardMajorTotal": true
+    },
+    "Expanded ULCS": {
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Capstone": {
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Flexible Technical Electives": {
+      "minCredits": 10,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

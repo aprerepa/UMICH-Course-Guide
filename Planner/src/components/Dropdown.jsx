@@ -51,19 +51,29 @@ const styles = {
 /**
  * @param {string}   value          - Currently selected value (empty string = none)
  * @param {Function} onChange        - Called with the new value when an option is selected
- * @param {Array}    options         - Array of { label, value } objects
+ * @param {Array}    options         - Array of { label, value, muted? }
  * @param {string}   placeholder     - Shown when value is empty
  * @param {boolean}  isOpen          - Whether the dropdown menu is visible
  * @param {Function} onToggle        - Called when the trigger is clicked
  */
 export function Dropdown({ value, onChange, options, placeholder, isOpen, onToggle }) {
-  const selectedLabel = options.find((o) => o.value === value)?.label ?? "";
+  const selected = options.find((o) => o.value === value);
+  const selectedLabel = selected?.label ?? "";
 
   return (
     <div style={styles.wrapper}>
       <div style={styles.trigger(isOpen)} onClick={onToggle}>
-        <span style={!value ? styles.triggerPlaceholder : {}}>
+        <span
+          style={
+            !value
+              ? styles.triggerPlaceholder
+              : selected?.muted
+                ? { color: "#999" }
+                : {}
+          }
+        >
           {selectedLabel || placeholder}
+          {selected?.muted ? " · done" : ""}
         </span>
         <ChevronDownIcon size={14} />
       </div>
@@ -72,14 +82,17 @@ export function Dropdown({ value, onChange, options, placeholder, isOpen, onTogg
         <div style={styles.menu}>
           {options.map((opt) => {
             const isSelected = opt.value === value;
+            const muted = Boolean(opt.muted);
             return (
               <div
                 key={opt.value}
                 style={{
                   ...styles.menuItemBase,
                   paddingLeft: isSelected ? "16px" : "28px",
-                  color: isSelected ? "#fff" : "#e0e0e0",
+                  color: isSelected ? "#fff" : muted ? "#888" : "#e0e0e0",
                   backgroundColor: isSelected ? "#4a7cf6" : "transparent",
+                  fontStyle: muted ? "italic" : "normal",
+                  opacity: muted && !isSelected ? 0.75 : 1,
                 }}
                 onMouseEnter={(e) => {
                   if (!isSelected) e.currentTarget.style.backgroundColor = "#3a3a3a";
@@ -90,7 +103,17 @@ export function Dropdown({ value, onChange, options, placeholder, isOpen, onTogg
                 onClick={() => onChange(opt.value)}
               >
                 {isSelected && <span style={{ fontSize: "11px" }}>✓</span>}
-                {opt.label}
+                <span style={{ flex: 1 }}>{opt.label}</span>
+                {muted && (
+                  <span
+                    style={{
+                      fontSize: "11px",
+                      color: isSelected ? "#dce6ff" : "#777",
+                    }}
+                  >
+                    completed
+                  </span>
+                )}
               </div>
             );
           })}

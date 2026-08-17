@@ -1,0 +1,66 @@
+{
+  "id": "computer-science-bs--majors-minors-html-computer-science-maj",
+  "displayName": "Computer Science (BS)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "EECS 203",
+              "MATH 465",
+              "MATH 565"
+            ]
+          },
+          "EECS 280",
+          {
+            "minOf": 2,
+            "options": [
+              "MATH 115",
+              "MATH 116",
+              "MATH 214",
+              "MATH 215",
+              "MATH 216"
+            ]
+          }
+        ]
+      }
+    },
+    "Core Courses": {
+      "require": {
+        "allOf": [
+          "EECS 281",
+          "EECS 370",
+          "EECS 376",
+          {
+            "anyOf": [
+              "STATS 250",
+              "DATASCI 101",
+              "STATS 280",
+              "STATS 412",
+              "STATS 426",
+              "EECS 301",
+              "ECON 451",
+              "IOE 265",
+              "MATH 425",
+              "STATS 425",
+              "MATH 525",
+              "STATS 525",
+              "MATH 526",
+              "STATS 526"
+            ]
+          }
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Capstone Course": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Upper-Level CS Technical Electives": {
+      "minCredits": 15,
+      "countsTowardMajorTotal": true
+    }
+  }
+}
