@@ -1,5 +1,7 @@
-"""Local transcript parse API — PDF in, course JSON out."""
+"""Transcript parse API — PDF in, course JSON out."""
 from __future__ import annotations
+
+import os
 
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
@@ -8,13 +10,32 @@ from parse import parse_transcript_pdf
 
 MAX_BYTES = 10 * 1024 * 1024
 
+DEFAULT_ORIGINS = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "https://umich-course-guide.vercel.app",
+]
+
+
+def _allowed_origins() -> list[str]:
+    raw = os.environ.get("ALLOWED_ORIGINS", "").strip()
+    if not raw:
+        return DEFAULT_ORIGINS
+    return [o.strip() for o in raw.split(",") if o.strip()]
+
+
 app = FastAPI(title="UMich transcript parser")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
-    allow_methods=["POST", "OPTIONS"],
+    allow_origins=_allowed_origins(),
+    allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
 )
+
+
+@app.get("/")
+def health():
+    return {"ok": True, "service": "transcript-parser"}
 
 
 @app.post("/parse")

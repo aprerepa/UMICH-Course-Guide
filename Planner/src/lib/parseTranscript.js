@@ -1,4 +1,4 @@
-/** POST a transcript PDF to the local pdfplumber API. */
+/** POST a transcript PDF to the pdfplumber parse API. */
 
 /**
  * @typedef {{
@@ -11,6 +11,13 @@
  * }} ParsedCourse
  */
 
+function parseEndpoint() {
+  const base = import.meta.env.VITE_TRANSCRIPT_API_URL?.trim().replace(/\/$/, "");
+  if (base) return `${base}/parse`;
+  // Local dev: Vite proxies /api/transcript → localhost:8787
+  return "/api/transcript/parse";
+}
+
 /**
  * @param {File} file
  * @returns {Promise<{ courses: ParsedCourse[], counts: Record<string, number> }>}
@@ -18,7 +25,7 @@
 export async function parseTranscriptPdf(file) {
   const body = new FormData();
   body.append("file", file);
-  const res = await fetch("/api/transcript/parse", {
+  const res = await fetch(parseEndpoint(), {
     method: "POST",
     body,
   });
