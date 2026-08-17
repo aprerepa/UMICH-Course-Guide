@@ -1,0 +1,10 @@
+{
+  "id": "climate-and-meteorology--undergraduate-studies",
+  "displayName": "Climate and Meteorology",
+  "groupRules": {
+    "Degree Requirements": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

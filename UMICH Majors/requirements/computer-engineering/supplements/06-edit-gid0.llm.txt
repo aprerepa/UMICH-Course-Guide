@@ -1,0 +1,60 @@
+Page header:
+page title: Google Sheet export
+
+Visible page text:
+Computer Engineering Sample Schedule							
+To edit this CE schedule, you can make a copy of this sheet to your own Google Drive (click FIle > Make a copy)							
+							
+							
+Pre-UM Credit (if applicable)	Course	Credits	Course	Credits	Course	Credits	Pre-UM Credit (if applicable)
+							
+							
+							
+							
+	Total	0	Total	0	Total	0	
+							
+	Cumulative Totals:	0		0		0	
+							
+First Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	First Year
+	Math 115	4	Math 116	4			
+	Phys 140/141	5	Chem 130/125/126 or 210/211	5			
+	Engr 100	4	Engr 101	4			
+	Intellectual Breadth	4	Intellectual Breadth	4			
+							
+							
+	Term Totals:	17		17		0	
+							
+	Cumulative Totals:	17		34		34	
+							
+Second Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Second Year
+	Physics 240/241	5	Math 214, 215, 217, 417 or 419	4			
+	EECS 203	4	Intellectual Breadth	4			
+	EECS 270	4	EECS 215	4			
+	General Elective	3	EECS 280	4			
+							
+							
+	Term Totals:	16		16		0	
+							
+	Cumulative Totals:	50		66		66	
+							
+Third Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Third Year
+	Math 216	4	Intellectual Breadth	4			
+	EECS 216	4	EECS 301/Math 425/Stats 412	3			
+	EECS 370	4	Core Electives	8			
+	TCHNCLCM 300	1					
+	General Electives	3					
+							
+	Term Totals:	16		15		0	
+							
+	Cumulative Totals:	82		97		97	
+							
+Fourth Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Fourth Year
+	Flexible Technical Electives	4	TCHNCLCM 496	2			
+	EECS Elective	4	EECS 400	2			
+	Upper Level CE Electives	4	Upper Level CE Electives (including at least one MDE course)	8			
+	General Electives	4	General Electives	3			
+							
+							
+	Term Totals:	16		15		0	
+							
+	Cumulative Totals:	113		128		128

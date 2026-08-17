@@ -125,6 +125,31 @@ def cmd_extract(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_extract_rules(args: argparse.Namespace) -> int:
+    """LLM: requirements page → groupRules → Planner/config/rules/<id>.json."""
+    from umich_majors.pipeline import load_listing
+    from umich_majors.requirements_fetch import find_major
+    from umich_majors.rules_extract import extract_rules_batch, extract_rules_one
+
+    if args.id:
+        majors = load_listing()
+        match = find_major(majors, args.id)
+        if not match:
+            print(f"No major matching id/name: {args.id}", file=sys.stderr)
+            return 1
+        row = extract_rules_one(match, force=args.force)
+        print(json.dumps(row, indent=2))
+        return 0 if row["status"] in ("extracted", "skipped") else 1
+
+    path = extract_rules_batch(
+        limit=args.limit,
+        offset=args.offset,
+        force=args.force,
+    )
+    print(f"index → {path}")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(description="UMich majors fetch / enrich (personal LLM keys)")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -170,6 +195,20 @@ def main(argv: list[str] | None = None) -> int:
         help="Overwrite existing Planner/config/majors/<id>.json",
     )
     ex.set_defaults(func=cmd_extract)
+
+    rx = sub.add_parser(
+        "extract-rules",
+        help="LLM extract group quotas → Planner/config/rules/<id>.json",
+    )
+    rx.add_argument("--id", default="", help="Single major id or exact name")
+    rx.add_argument("--limit", type=int, default=None, help="Batch: first N fetched majors")
+    rx.add_argument("--offset", type=int, default=0)
+    rx.add_argument(
+        "--force",
+        action="store_true",
+        help="Overwrite existing Planner/config/rules/<id>.json",
+    )
+    rx.set_defaults(func=cmd_extract_rules)
 
     args = p.parse_args(argv)
     return args.func(args)

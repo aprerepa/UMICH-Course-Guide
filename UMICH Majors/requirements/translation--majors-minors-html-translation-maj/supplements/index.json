@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-capstone-projects",
+    "url": "https://lsa.umich.edu/complit/undergraduates/translation-major/capstone-project.html",
+    "link_text": "Capstone Projects",
+    "score": 120,
+    "status": "fetched",
+    "message": "ok (4224 chars)",
+    "final_url": "https://lsa.umich.edu/complit/undergraduates/translation-major/capstone-project.html",
+    "fetch_mode": "browser",
+    "chars": 4224
+  },
+  {
+    "id": "02-course-list",
+    "url": "https://docs.google.com/",
+    "link_text": "course list",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (257 chars)",
+    "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S-1811474294%3A1786380061454976&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=Ac50bxvaVJz4BUNznrHyOM88oyDCAgKre7b9WsTa8OSiOa6t-YZeFWrPxQ6LZPRmKHMtvSrVhga2ig",
+    "fetch_mode": "browser",
+    "chars": 257
+  },
+  {
+    "id": "03-course-list",
+    "url": "https://docs.google.com/lsa/alumni-friends/get-connected/college-connections.html",
+    "link_text": "course list",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://docs.google.com/lsa/alumni-friends/get-connected/college-connections.html",
+    "fetch_mode": "browser",
+    "chars": 89
+  },
+  {
+    "id": "04-course-list",
+    "url": "https://docs.google.com/lsa/current-students/undergraduate-students/outcomes-and-possibilities.html",
+    "link_text": "course list",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://docs.google.com/lsa/current-students/undergraduate-students/outcomes-and-possibilities.html",
+    "fetch_mode": "browser",
+    "chars": 89
+  },
+  {
+    "id": "05-course-list",
+    "url": "https://docs.google.com/lsa/faculty-staff/human-resources/staff-achievement/staff-recognition.html",
+    "link_text": "course list",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://docs.google.com/lsa/faculty-staff/human-resources/staff-achievement/staff-recognition.html",
+    "fetch_mode": "browser",
+    "chars": 89
+  },
+  {
+    "id": "06-course-list",
+    "url": "https://docs.google.com/lsa/prospective-students/lsa101.html",
+    "link_text": "course list",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://docs.google.com/lsa/prospective-students/lsa101.html",
+    "fetch_mode": "browser",
+    "chars": 89
+  },
+  {
+    "id": "07-courses",
+    "url": "https://docs.google.com/lsa/academics/courses.html",
+    "link_text": "Courses",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://docs.google.com/lsa/academics/courses.html",
+    "fetch_mode": "browser",
+    "chars": 89
+  },
+  {
+    "id": "08-browse-copies-of-past-lsa-bulletins",
+    "url": "https://docs.google.com/lsa/academics/courses/course-bulletin-archive.html",
+    "link_text": "Browse copies of past LSA bulletins",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://docs.google.com/lsa/academics/courses/course-bulletin-archive.html",
+    "fetch_mode": "browser",
+    "chars": 89
+  }
+]

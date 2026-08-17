@@ -1,0 +1,23 @@
+{
+  "id": "medical-anthropology-sub-major-of-anthropology--majors-minors-html-medical-anthropology-sub",
+  "displayName": "Medical Anthropology (Sub-major of Anthropology)",
+  "groupRules": {
+    "Anthropological Archaeology": {
+      "minCourses": 1
+    },
+    "Biological Anthropology": {
+      "minCourses": 1
+    },
+    "Linguistic Anthropology": {
+      "minCourses": 1
+    },
+    "Sociocultural Anthropology": {
+      "minCourses": 1
+    },
+    "Medical Anthropology Sub-Major": {
+      "completion": "manual",
+      "minCredits": 16,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

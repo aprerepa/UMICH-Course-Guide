@@ -23,6 +23,11 @@ SKIP_SCHOOLS = {
     "School of Music, Theatre & Dance (SMTD)",
 }
 
+# Graduate / non-undergrad programs that appear on the admissions listing
+SKIP_MAJOR_IDS = {
+    "dental-hygiene",  # MS / degree-completion — not a standard undergrad major
+}
+
 # Hand-curated majors already in the live guide — never overwrite / re-extract
 PROTECTED_MAJOR_IDS = {
     "biology-health-and-society--majors-minors-html-general-biology-maj",
@@ -168,6 +173,11 @@ def extract_courses_one(
         row["message"] = f"school excluded from extract: {school}"
         return row
 
+    if mid in SKIP_MAJOR_IDS:
+        row["status"] = "skipped"
+        row["message"] = "excluded non-undergrad / graduate listing entry"
+        return row
+
     if _is_protected(major):
         row["status"] = "skipped"
         row["message"] = "protected hand-curated major (already in live guide)"
@@ -274,6 +284,7 @@ def extract_courses_batch(
         m
         for m in majors
         if (m.get("school_college") or "").strip() not in SKIP_SCHOOLS
+        and m.get("id") not in SKIP_MAJOR_IDS
         and not _is_protected(m)
     ]
     if only_fetched:

@@ -4,15 +4,74 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#psychology_general_social_science-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+8 course-list supplements: BCN Major Worksheet, Accessible Version (EXCEL), Accessible Version (excel))",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#psychology_general_social_science-maj",
-  "program_fetch_mode": "http",
+  "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/psychology-general-social-science-major.html",
   "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
+  "requirements_link_score": 65,
   "requirements_link_strategy": "lsa_listing:lsa_detail",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/psychology-general-social-science-major.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:48:09.016706+00:00",
-  "lsa_resolved_row_id": "psychology_general_social_science-maj"
+  "fetched_at": "2026-08-10T16:33:47.644756+00:00",
+  "lsa_resolved_row_id": "psychology_general_social_science-maj",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-bcn-major-worksheet",
+      "url": "https://lsa.umich.edu/content/dam/psychassets/psychdocuments/BCNWSFa21%20-%20Stats%20Update.pdf",
+      "link_text": "BCN Major Worksheet",
+      "status": "fetched",
+      "chars": 13962
+    },
+    {
+      "id": "02-accessible-version-excel",
+      "url": "https://lsa.umich.edu/content/dam/psychassets/psychdocuments/MajorInBCNPsych/ACCESSABLEPsychologyWSFa21.xlsx",
+      "link_text": "Accessible Version (EXCEL)",
+      "status": "fetched",
+      "chars": 10202
+    },
+    {
+      "id": "03-accessible-version-excel",
+      "url": "https://lsa.umich.edu/content/dam/psychassets/psychdocuments/MajorInBCNPsych/ACCESSIBLEBCNWSFa21.xlsx",
+      "link_text": "Accessible Version (excel)",
+      "status": "fetched",
+      "chars": 14259
+    },
+    {
+      "id": "04-psychology-major-worksheet",
+      "url": "https://lsa.umich.edu/content/dam/psychassets/psychdocuments/MajorInBCNPsych/PsychologyWSFa21_Stats%20update.pdf",
+      "link_text": "Psychology Major Worksheet",
+      "status": "fetched",
+      "chars": 10051
+    },
+    {
+      "id": "05-course-information-page",
+      "url": "https://lsa.umich.edu/psych/undergraduates/major-in-psychology-or-bcn/course-info.html",
+      "link_text": "Course Information page",
+      "status": "fetched",
+      "chars": 3993
+    },
+    {
+      "id": "06-courses-per-term-charts",
+      "url": "http://lsa.umich.edu/psych/undergraduates/major-in-psychology-or-bcn/course-per-term.html",
+      "link_text": "Courses Per Term Charts",
+      "status": "fetched",
+      "chars": 1000
+    },
+    {
+      "id": "07-psychology-dept-course-charts",
+      "url": "https://lsa.umich.edu/psych/undergraduates/major-in-psychology-or-bcn/course-per-term.html",
+      "link_text": "Psychology dept. course charts",
+      "status": "fetched",
+      "chars": 1000
+    },
+    {
+      "id": "08-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4071
+    }
+  ]
 }

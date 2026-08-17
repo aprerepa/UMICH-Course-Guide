@@ -1,0 +1,57 @@
+[
+  {
+    "id": "01-editable-sample-schedule-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/19GZ6q-Wf0HUgKaHqFyCClZad5sJnez3M1tbKOdHZ_5s/edit?gid=0#gid=0",
+    "link_text": "Editable sample schedule",
+    "score": 150,
+    "status": "fetched",
+    "message": "ok (3655 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/19GZ6q-Wf0HUgKaHqFyCClZad5sJnez3M1tbKOdHZ_5s/edit?gid=0#gid=0",
+    "fetch_mode": "http",
+    "chars": 3655
+  },
+  {
+    "id": "02-sample-schedule-pdf",
+    "url": "https://cee.engin.umich.edu/wp-content/uploads/sites/4/2025/09/Environmental-Sample-Schedule-10.21.2025.pdf",
+    "link_text": "Sample Schedule (PDF)",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (6406 chars)",
+    "final_url": "https://cee.engin.umich.edu/wp-content/uploads/sites/4/2025/09/Environmental-Sample-Schedule-10.21.2025.pdf",
+    "fetch_mode": "http",
+    "chars": 6406
+  },
+  {
+    "id": "03-sample-schedule-for-students-declaring-winter-2027-and-after",
+    "url": "https://cee.engin.umich.edu/wp-content/uploads/sites/4/2026/08/08.06.2026-Environmental-Engineering-Sample-Schedule-Winter-2027.pdf",
+    "link_text": "Sample Schedule (for students declaring Winter 2027 and after)",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (7464 chars)",
+    "final_url": "https://cee.engin.umich.edu/wp-content/uploads/sites/4/2026/08/08.06.2026-Environmental-Engineering-Sample-Schedule-Winter-2027.pdf",
+    "fetch_mode": "http",
+    "chars": 7464
+  },
+  {
+    "id": "04-schedule-of-classes-office-of-the-registrar",
+    "url": "http://www.ro.umich.edu/schedule",
+    "link_text": "Schedule of Classes | Office of the Registrar",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (1878 chars)",
+    "final_url": "https://ro.umich.edu/calendars/schedule-classes",
+    "fetch_mode": "http",
+    "chars": 1878
+  },
+  {
+    "id": "05-cee-course-guide",
+    "url": "https://bulletin.engin.umich.edu/courses/cee/",
+    "link_text": "CEE Course Guide",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/cee/",
+    "fetch_mode": "http",
+    "chars": 40024
+  }
+]

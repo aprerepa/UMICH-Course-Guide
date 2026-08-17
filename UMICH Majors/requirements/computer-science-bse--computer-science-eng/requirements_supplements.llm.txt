@@ -248,24 +248,1052 @@ Technology & Operations (Ross School of Business)     	TO 302: Managing Business
 Source: https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview
 
 Page header:
-page title: Google Sheet export
+page title: Google Sheet export (all tabs)
 
 Visible page text:
-Course	Title 	Credit 	Notes
-EECS 440*	Extended Reality for Social Impact (new FA24) 	4	
-EECS 441*	Mobile App Development for Entrepreneurs	4	
-EECS 443  	CS Thesis Course	3	CS-LSA Honors Details  CS-Eng Thesis Details
-EECS 447 	Machine Learning Research Experience 	4	Begins WN27 
-EECS 448*	Applied Machine Learning for Modeling Human Behavior	4	
-EECS 449*	Conversational Artificial Intelligence	4	
-EECS 467*	Autonomous Robotics	4	
-EECS 472	Computer Architecture Project	4	Replaces EECS 470 as an MDE/Capstone starting in WN26
-EECS 473	Advanced Embedded Systems	4	
-EECS 480*	Social Computing Systems	4	
-EECS 494	Computer Game Design and Development	4	
-EECS 495*	Accessible Computing	4	
-EECS 497*	Human-Centered Software Design & Development	4	
-EECS 498 (when marked as MDE/Capstone here)*	Special Topics		
-CSE 596	Engineering Interactive Systems	4	
-AEROSP 388 (CS approved projects only) 	Systems Engineering Processes and Digital Tools (MBSE) 	7 credits over 2 terms	During FA25-WN26, pre-approved CS related projects are eligible to earn both MDE/Capstone and Flexible Technical Elective credits. Once two semesters are completed, 4 credits can be used toward MDE/Capstone and 3 credits can be used toward FTE. Contact the CSE advising office at the beginning of the Fall term for eligible projects.
-For CS-Eng: *Beginning Winter 2024, MDEs with a * no longer count as Flexible Technical Electives.
+### Sheet: Capstone
+Course	Title 	Credit 	Notes																							
+EECS 440*	Extended Reality for Social Impact (new FA24) 	4.0																								
+EECS 441*	Mobile App Development for Entrepreneurs	4.0																								
+EECS 443  	CS Thesis Course	3.0	CS-LSA Honors Details
+
+CS-Eng Thesis Details																							
+EECS 447 	Machine Learning Research Experience 	4.0	Begins WN27 																							
+EECS 448*	Applied Machine Learning for Modeling Human Behavior	4.0																								
+EECS 449*	Conversational Artificial Intelligence	4.0																								
+EECS 467*	Autonomous Robotics	4.0																								
+EECS 472	Computer Architecture Project	4.0	Replaces EECS 470 as an MDE/Capstone starting in WN26																							
+EECS 473	Advanced Embedded Systems	4.0																								
+EECS 480*	Social Computing Systems	4.0																								
+EECS 494	Computer Game Design and Development	4.0																								
+EECS 495*	Accessible Computing	4.0																								
+EECS 497*	Human-Centered Software Design & Development	4.0																								
+EECS 498 (when marked as MDE/Capstone here)*	Special Topics																									
+CSE 596	Engineering Interactive Systems	4.0																								
+AEROSP 388 (CS approved projects only) 	Systems Engineering Processes and Digital Tools (MBSE) 	7 credits over 2 terms	During FA25-WN26, pre-approved CS related projects are eligible to earn both MDE/Capstone and Flexible Technical Elective credits. Once two semesters are completed, 4 credits can be used toward MDE/Capstone and 3 credits can be used toward FTE. Contact the CSE advising office at the beginning of the Fall term for eligible projects.																							
+For CS-Eng: *Beginning Winter 2024, MDEs with a * no longer count as Flexible Technical Electives. 																										
+
+### Sheet: ULCS
+Course(s)	Title 	Credits																								
+EECS 367/ROB 380	Introduction to Autonomous Robotics	4.0																								
+EECS 373 	Introduction to Embedded System Design	4.0																								
+EECS 388	Introduction to Computer Security	4.0																								
+EECS 390	Programming Paradigms	4.0																								
+EECS 404	Game Engine Architecture and Data-Oriented Programming	4.0	Begins WN27 																							
+EECS 427	VLSI Design I	4.0																								
+EECS 442	Computer Vision	4.0																								
+EECS 445	Introduction to Machine Learning	4.0																								
+EECS 470 	Computer Architecture	4.0																								
+EECS 471	Applied Parallel Programming with GPUs	4.0																								
+EECS 474	Algorithms for Data Science	4.0																								
+EECS 475 	Introduction to Cryptography	4.0																								
+EECS 476	Data Mining	4.0																								
+EECS 477	Introduction to Algorithms	4.0																								
+EECS 478 	Logic Circuit Synthesis and Optimization	4.0																								
+EECS 479	Introduction to Quantum Computing	4.0																								
+EECS 481 	Software Engineering (taken FA17 or after)	4.0																								
+EECS 482	Operating Systems	4.0																								
+EECS 483 	Compiler Construction 	4.0																								
+EECS 484	Database Management Systems	4.0																								
+EECS 485	Web Database and Information Systems	4.0																								
+EECS 486 	Information Retrieval & Web Search	4.0																								
+EECS 487 	Introduction to Natural Language Processing	4.0																								
+EECS 489	Computer Networks	4.0																								
+EECS 490 	Programming Languages	4.0																								
+EECS 491	Introduction to Distributed Systems	4.0																								
+EECS 492	Introduction to Artificial Intelligence	4.0																								
+EECS 493* 	User Interface Development	4.0																								
+EECS 498 (when marked as ULCS here)	Special Topics																									
+* Since Fall’22, the 493 instructor team have made substantial changes to the course curriculum which has led to an increased workload as reported by students. The changes include 1) more content on human-centered research and cutting-edge human-computer interaction research; 2) the web programming content is condensed and expedited; 3) one new assignment on user research methods, and one new assignment on prototyping; 4) more check-up milestones for the final projects so that students get more frequent feedback on their final projects. We believe the changes align the course better with cutting-edge research and practice in human-computer interaction and user research. Based on the feedback from Fall’22, students reported that the 3% workload as reflected in Atlas is inaccurate and does not depict the current workload of the course. Please keep this in mind when you register for EECS493. 																							
+
+### Sheet: Expanded ULCS
+Students pursuing expanded ULCS must satisfy 3 credits of expanded ULCS for the major. 
+
+*If a CSE 401X transfer course is less than 3 credits, students will need to take an additional course from this expanded ULCS list to get to at least 3 credits. 
+Please note: Courses that transfer is as EECS 401X are not currently approved to satisfy Expanded ULCS and would require petition approval to use toward this requirement. 
+
+Most graduate (500-lvl and above) level courses require instructor permission to enroll as an undergraduate student. Students should reach out to the course instructor for permission into a graduate level course.
+Course(s)	Title 	Credits
+Any course listed on the ULCS tab		4.0
+CSE 401X*	CSE Departmental Credit (CS-LSA students: please note, CSE 401X is considered non-LSA credit and does not contribute to the 100 LSA credit requirement) 	44930.0
+Beginning WN26, any CSE course at the 500-level is approved to count as Expanded ULCS. Please note: Undergraduates are not guaranteed seats in graduate level courses. To request access to a Graduate CSE course, contact the instructor directly.
+
+CSE 572	Randomness and Computation	4.0
+CSE 574	Computational Complexity	4.0
+CSE 575	Advanced Cryptography	4.0
+CSE 577 	Formal Verification of Hardware and Software Systems	4.0
+CSE 598 (when marked as Expanded ULCS here)	Special Topics	44989.0
+ECE 544 	Analysis of Societal Networks	
+EECS 444	Analysis of Societal Networks	
+EECS 453	Principles of Machine Learning	4.0
+EECS 460	Control Systems Analysis and Design	4.0
+EECS 461	Embedded Control System	4.0
+EECS 465/ROB 422	Introduction to Algorithmic Robotics	3.0
+EECS 498 (when marked as ULCS or Expanded ULCS here)	Special Topics	44989.0
+Beginning WN26, any EECS course at the 500-level is approved to count as Expanded ULCS. Please note: Undergraduates are not guaranteed seats in graduate level courses. To request access to a Graduate EECS course, contact the instructor directly.
+
+EECS 553	Machine Learning (ECE) 	3.0
+
+### Sheet: CS-Eng Flexible Technical Elect
+Course Category 	Course Details 																								
+The Curriculum Committees may approve other courses on a term-by-term basis. To see which EECS 398 or 498 Special Topics courses are approved to satisfy this and other requirements, click here.
+
+Please note: Some courses require specific permissions or are limited to major declared students only. For questions related to course permissions, please reach out to the course department directly. In addition, if there are specific prerequisites for a flexible technical elective, please ensure that you have met the necessary requirements to register for a course.
+
+When subjects have been approved at the 300-level or higher, departmental credit in that category (301X, 401X, etc.) can be used as FTE credit.
+
+Directed/Independent Study Rule: At most, 4 credits count toward the Technical Electives requirement. This applies to all independent/directed study or research courses as listed below (including those from other departments). Any additional credits count toward free electives.																								
+Aerospace Engineering	AEROSP 215: Introduction to Solid Mechanics and Aerospace Structures (3 credits)																								
+AEROSP 225: Introduction to Gas Dynamics (4 credits)																								
+	Any AEROSP course at the 300-level or higher [AEROSP 390 & 490: see Directed Study Rule above.]																								
+Astronomy	ASTRO 201: Introduction to Astrophysics (4 credits) 																								
+ASTRO 205: Exploring the X-Ray Universe (3 credits) 																								
+ASTRO 206: Black Holes (3 credits) 																								
+ASTRO 361: Astronomical Techniques (4 credits) 																								
+ASTRO 404: Galaxies and the Universe (3 credits)																								
+	Any ASTRO course at the 400-level (except 429 and 461)																								
+Bioinformatics	BIOINF 463: Mathematical Modeling in Biology 																								
+	BIOINF 501: Mathematical Foundations for Bioinformatics (3 credits)																								
+Biology	BIOLOGY 305: Genetics (3 credits)																								
+Any BIOLOGY, EEB, or MCDB course at the 400-level or higher																								
+Biomedical Engineering	BIOMEDE 221: Biophysical Chemistry and Thermodynamics (4 credits)																								
+BIOMEDE 231: Introduction to Biomechanics (4 credits)																								
+Any BIOMEDE course at the 300-level or higher [BIOMEDE 490: see Directed Study Rule above.]																								
+Chemical Engineering	CHE 230: Material and Energy Balances  (4 credits)																								
+	Any CHE course at the 300-level or higher [except CHE 405. CHE 490: see Directed Study Rule above.]																								
+Chemistry	CHEM 210: Structure and Reactivity I (4 credits)																								
+CHEM 211: Investigations in Chemistry (1-2 credits)																								
+CHEM 215: Structure and Reactivity II (3 credits)																								
+CHEM 216: Synthesis and Characterization of Organic Compounds (2 credits)																								
+CHEM 230: Physical Chemical Principles and Applications (3 credits)																								
+CHEM 241: Introduction to Chemical Analysis (2 credits)																								
+CHEM 242: Introduction to Chemical Analysis Laboratory (2 credits)																								
+CHEM 260: Chemical Principles (3 credits)																								
+	Any CHEM course at the 300-level or higher [CHEM 398, 399, 498, & 499: see Directed Study Rule above.]																								
+Civil and Environmental Engineering	CEE 211: Statics and Dynamics (4 credits)																								
+CEE 212: Solid and Structural Mechanics (4 credits)																								
+CEE 230: Energy and Environment (3 credits)																								
+CEE 265: Sustainable Engineering Principles (3 credits)																								
+	Any CEE course at the 300-level or higher (except 303) [CEE 490: see Directed Study Rule above.]																								
+Climate and Space	Any CLIMATE or SPACE course at the 300-level or higher [CLIMATE/SPACE 499: see Directed Study Rule above.]																								
+Complex Systems	CMPLXSYS 250: Energy and Climate Change: Technology, Markets, and Policy (3 credits)																								
+CMPLXSYS/SOC 251: Computational Social Sciences																								
+CMPLXSYS 260: Tipping Points, Bandwagons and Cascades: From Individual Behavior to Social Dynamics (3 credits)																								
+CMPLXSYS 270: Agent Based Modeling (3 credits)																								
+Any CMPLXSYS course at the 300-lvl or higher																								
+Program for Computing in the Arts and Sciences 	COMPFOR 221: Python Programming for Digital Media (3 credits) 																								
+Data Science	DATASCI 306: Introduction to Statistical Computing 																								
+DATASCI 315: Statistics and Artificial Intelligence 																								
+DATASCI 415: Data Mining and Statistical Learning																								
+	DATSCI 470: Introduction to the Design of Experiments																								
+Economics	ECON 401: Intermed Micro Thry (4 credits) 																								
+ECON 402: Intermed Macro Thry (4 credits) 																								
+ECON 409: Game Theory (4 credits)																								
+	ECON 452: Intermediate Introduction to Statistics and Econometrics II  (4 credits)																								
+Electrical Engineering and Computer Science	EECS 201: Computer Science Pragmatics (2 credits)																								
+EECS 215: Introduction to Electronic Circuits (4 credits)																								
+EECS 216: Introduction to Signals and Systems (4 credits)																								
+EECS 230: Electromagnetics I  (4 credits)																								
+EECS 245: Mathematics for Machine Learning (4 credits) 
+Please note: EECS 245 can satisfy either the CS Linear Algebra requirement or a Flexible Technical Elective. Email ugadmin@eecs.umich.edu if you would like it to count toward Flexible Technical Elective.  																								
+EECS 250: Electronic Sensing Systems (only if taken WN17 or before)																								
+EECS 270: Introduction to Logic Design (4 credits)																								
+EECS 285: Practical Programming in Java (2 credits)																								
+EECS 408: Advanced Operating Systems Projects (2 credits) Please note: This course requires concurrent enrollment in EECS 482. 																								
+Any EECS or CSE or ECE course at the 300-level or higher (except 398*, 402, 406, 409, 410, 496, 498*, 
+and MDE courses**) [EECS 399 (FA’14 or later)/499: see Directed Study Rule above.] 																								
+Each special topics course is reviewed for possible FTE/ULCS credit for the term/topic offered; see the 
+Advising Office for details.																								
+*Special topics course approvals for possible use toward program requirements, evaluated 
+each term, can be found here.																								
+	**MDE courses do not count towards FTE if taken in WN'24 or later (except 470, 473, and 494, 
+which continue to count as FTE).																								
+Engineering	ENGR 350: International Lab. Experience for Engineers [See Directed Study Rule above.]																								
+ENGR 355: Intermediate Multidisciplinary Engineering Project [See Directed Study Rule above.] (1-4 credits)*																								
+ENGR 403: Scientific Visualization																								
+ENGR 450: Multidisciplinary Design [See Directed Study Rule above.] (4 credits)																								
+ENGR 455: Advanced Multidisciplinary Engineering Project [See Directed Study Rule above.] (1-4 credits)*																								
+ENGR 480: Global Synthesis Project (Tauber Institute) [See Directed Study Rule above.] (4 credits)																								
+	*For MDP industry-sponsored projects, ENGR 355 and 455 can only count towards Flex Tech if both semesters of MDP project are completed. See CS-Eng MDP page (point #3). MDP faculty research projects for ENGR 355/455 can also count as Flex Tech.																								
+Entrepreneurship	ENTR 475: TechLab: Entrepreneurial Exploration and Development [See Directed Study Rule above.] (Up to 4 credits)																								
+	ENTR 485: Only sections of TechLab MCity, PJTL Climate Change, PJTL Electrification, and PJTL: MCity [See Directed Study Rule above.] (Up to 4 credits)																								
+Finance	FIN 302: Making Financial Decisions (3 credits) 																								
+FIN 342: Big Data in Finance (3 credits) 																								
+FIN 427: Artificial Intelligence and Machine Learning in Investment Strategies (3 credits)																								
+	FIN 428: FinTech Innovations (3 credits) 																								
+Industrial and Operations Engineering	IOE 202: Operations Modeling (course is not open to students with 85 credits or more) (2 credits)																								
+	Any IOE course at the 300-level or higher (except 422) [IOE 490: see Directed Study Rule above.]																								
+Linguistics	LING 441: Introduction to Computational Linguistics (3 credits)																								
+LING 442: Computational Linguistics II (3 credits)																								
+	LING 445: Introduction to Machine Learning for Natural Language Processing (3 credits) 																								
+Manufacturing 	MFG 504: Tauber Institute Project (3 credits)																								
+Marketing 	MKT 425: New Products and Innovation Management (with AI) (3 credits)  																								
+Materials Science and Engineering	MATSCIE 220: Introduction to Materials and Manufacturing (4 credits)																								
+MATSCIE 242: Physics of Materials (4 credits)																								
+MATSCIE 250: Principles of Engineering Materials (4 credits)																								
+	Any MATSCIE course at the 300-level or higher [MATSCIE 490: see Directed Study Rule above.]																								
+Mathematics	MATH 214: Applied Linear Algebra (if not used for CoE Math Core) (4 credits) 																								
+MATH 215: Calculus III (if not used for CoE Math Core) (4 credits) 																								
+MATH 216: Introduction to Differential Equations																								
+MATH 217: Linear Algebra (if not used for CoE Math Core) (4 credits) 																								
+MATH 285: Honors Multivariable and Vector Calculus (if not used for CoE Math Core) (4 credits) 																								
+MATH 286: Honors Differential Equations (if not used for CoE Math Core) (3 credits) 																								
+MATH 297: Introduction to Analysis																								
+	Any MATH course at the 300-level or higher (except 310, 327, 333, 385, 389, 399, 417, 419, 422, 429, 431, 485, 486, 489, 497)																								
+Mechanical Engineering	MECHENG 211: Introduction to Solid Mechanics (4 credits)																								
+MECHENG 235: Thermodynamics (3 credits)																								
+MECHENG 240: Introduction to Dynamics and Vibrations (4 credits)																								
+MECHENG 250: Design and Manufacturing I  (4 credits)																								
+	Any MECHENG course at the 300-level or higher [MECHENG 490 & 491: see Directed Study Rule above.]																								
+Molecular, Cellular, and Developmental Biology (MCBD)	MCDB 306: Introductory Genetics Laboratory (3 credits)																								
+	MCDB 310: Introductory Biochemistry (3 credits)																								
+Naval Architecture and Marine Engineering 	NAVARCH 270: Marine Design (4 credits)																								
+	Any NAVARCH course at the 300-level or higher [NAVARCH 490: see Directed Study Rule above.]																								
+Nuclear Engineering and Radiological Sciences	NERS 211: Introduction to Nuclear Engineering and Radiological Sciences (4 credits)																								
+NERS 250: Fundamentals of Nuclear Engineering and Radiological Sciences (4 credits)																								
+	Any NERS course at the 300-level or higher [NERS 499: see Directed Study Rule above.]																								
+Performing Arts Technology	PAT 204: Creative Coding (3 credits) 																								
+PAT 452: Interactive Music Design II (3 credits)																								
+PAT 462: Digital Sound Synthesis (3 credits)																								
+PAT 463: Music and AI (3 credits) 																								
+	PAT 464: Generative AI for Music and Audio Creation																								
+Philosophy	PHIL 414: Mathematical Logic (3 credits)																								
+	PHIL 417: Logic, Computation, and Learning (3 credits) 																								
+Physics	Any PHYSICS course at the 300-level or higher (except 333, 334, 420, and 481). [PHYS 496, 497, 498, 499: see 
+Directed Study Rule above.]																								
+Political Science	POLSCI 490: Game Theory and Formal Models (4 credits)																								
+Psychology 	PSYCH 449: Decision Processes (3 credits) 																								
+Robotics	ROB 204: Introduction to Human-Robot Systems (4 credits)																								
+	Any ROB course at the 300-level or higher [ROB 490: see Directed Study Rule above.]																								
+School of Information	SI 201: Data Oriented Prog (4 credits)																								
+SI 303: Introducion to Qualitative Methods (3 credits)																								
+Winter 2026 only SI 311.062: Casual Inference 																								
+SI 313: Introduction to Quantitative Methods (3 credits) 																								
+SI 315: Models of Social Information Processing (4 credits)																								
+SI 338: Web Design, Development, and Accessibility (4 credits)																								
+SI 342: Games and UX (3 credits) 																								
+SI 357: Introduction to Development (3 credits)																								
+SI 465: Applied AI: Machine Learning 																								
+	SI 630: Natural Language Processing: Algorithms and People (3 credits)																								
+Statistics	STATS 401: Applied Statistical Methods II (4 credits) 																								
+STATS 403: Introduction to Quantitative Research Methods (4 credits)																								
+STATS 406: Computational Methods in Statistics and Data Science (4 credits)																								
+STATS 413: Applied Regression Analysis (4 credits) 																								
+STATS 425: Introduction to Probability (cross-listed with MATH 425) (3 credits) 																								
+STATS 426: Introduction to Theoretical Statistics (3 credits)																								
+STATS 430: Applied Probability (3 credits)																								
+STATS 449: Topics in Biostatistics (cross-listed with BIOSTAT 449) (3 credits) 																								
+	STATS 531: Analysis of Time Series (3 credits) 																								
+Technology & Operations (Ross School of Business)
+
+	TO 302: Managing Business Operations (3 credits) 																								
+TO 313: Operations Management (3 credits) 																								
+TO 414: Advanced Analytics For Management Consulting (3 credits)																								
+TO 428: FinTech: Blockchain, Cryptocurrencies, and Other Technology Innovations In and Out of Finance (3 credits) 																								
+TO 450: Business Intelligence and Data Visualization (3 credits) 																								
+	TO 605/MFG 605: Manufacturing and Supply Operations (1.5-3 credits)																								
+
+### Sheet: CSE Course Sorting
+CSE Course Sorting Tool 
+Tags are used to provide general categorization of topics covered in our courses. For example, two courses sharing the 'AI' tag will not address Artificial Intellience in the same volume or depth. For full course information, always check with individual instructors (listed in WA) or course sites, as available. Courses that can count for Capstone/MDE requirements may have an overrepresentation of tags given the wide range of topics that can be pursued in course projects.
+Course Tag Descriptions
+
+### Supplement: click here to see all projects pre-approved for CS Capstone / MDE
+Source: https://mdp.engin.umich.edu/all-projects/?_course_substitution=cs-capstone
+
+Page header:
+page title: All Projects | Multidisciplinary Design Program
+
+Visible page text:
+Type
+Sponsor Teams
+Type
+No results found
+Sponsor Teams (14)
+Major/Minor
+Aerospace (AERO)
+Architecture (ARCH)
+Art and Design (ARTDES)
+Automotive Engineering Program
+Biomedical Engineering (BME)
+Business Administration (BBA)
+Chemical Engineering (ChE)
+Civil And Environmental Engineering (CEE)
+Cognitive Science (COGSCI)
+Computer Engineering (CE)
+Computer Sci & Eng-Master (CSE)
+Computer Science (CS)
+Data Science (DATA)
+Design Science (DESCI)
+Electrical & Computer Eng-Master (ECE)
+Electrical Engineering (EE)
+Industrial And Operations Engineering (IOE)
+Information (SI)
+Mathematics (MATH)
+Mechanical Engineering (ME)
+Naval Arch and Marine Eng (NAME)
+Robotics (ROB)
+School for Environment and Sustainability (SEAS)
+Statistics (STATS)
+Urban Planning (URP)
+Major/Minor
+No results found
+Aerospace (AERO) (1)
+Architecture (ARCH) (1)
+Art and Design (ARTDES) (1)
+Automotive Engineering Program (2)
+Biomedical Engineering (BME) (2)
+Business Administration (BBA) (3)
+Chemical Engineering (ChE) (1)
+Civil And Environmental Engineering (CEE) (2)
+Cognitive Science (COGSCI) (1)
+Computer Engineering (CE) (9)
+Computer Sci & Eng-Master (CSE) (10)
+Computer Science (CS) (14)
+Data Science (DATA) (13)
+Design Science (DESCI) (1)
+Electrical & Computer Eng-Master (ECE) (11)
+Electrical Engineering (EE) (5)
+Industrial And Operations Engineering (IOE) (5)
+Information (SI) (5)
+Mathematics (MATH) (1)
+Mechanical Engineering (ME) (2)
+Naval Arch and Marine Eng (NAME) (1)
+Robotics (ROB) (8)
+School for Environment and Sustainability (SEAS) (2)
+Statistics (STATS) (2)
+Urban Planning (URP) (4)
+Interests
+Agentic AI
+AI for Optimization
+Automation/Robotics/UAV
+Business
+Climate/Environment/Sustainability
+Computer Vision / ML
+Control system
+Data Analytics / Modeling
+Electrical/Embedded Systems
+Full Stack Development
+GIS Data/Systems
+Guaranteed Internship
+Hardware
+Health Biomed/Medicine/Healthcare
+Industrial Design/Consumer Products
+Mobile/Web App Development
+Modeling / ML
+Natural Language Programming (NLP)
+Open-Source
+Optimization
+Physical Prototype/Mechanical Design
+Real-Time Systems
+Sensor Integration
+Signal/Image and A/V Processing
+Simulation/Modelling/Forecasting
+Software Engineering/DevOps
+Strategic Planning Tools
+Thermodynamics/Fluid Dynamics
+UI/UX Design/Human Factors
+Urban Planning
+Web and App Development
+Interests
+No results found
+Agentic AI (5)
+AI for Optimization (4)
+Automation/Robotics/UAV (1)
+Business (5)
+Climate/Environment/Sustainability (2)
+Computer Vision / ML (4)
+Control system (2)
+Data Analytics / Modeling (8)
+Electrical/Embedded Systems (3)
+Full Stack Development (5)
+GIS Data/Systems (3)
+Guaranteed Internship (1)
+Hardware (1)
+Health Biomed/Medicine/Healthcare (1)
+Industrial Design/Consumer Products (1)
+Mobile/Web App Development (5)
+Modeling / ML (6)
+Natural Language Programming (NLP) (5)
+Open-Source (1)
+Optimization (1)
+Physical Prototype/Mechanical Design (1)
+Real-Time Systems (5)
+Sensor Integration (5)
+Signal/Image and A/V Processing (2)
+Simulation/Modelling/Forecasting (5)
+Software Engineering/DevOps (11)
+Strategic Planning Tools (3)
+Thermodynamics/Fluid Dynamics (1)
+UI/UX Design/Human Factors (5)
+Urban Planning (2)
+Web and App Development (5)
+Course Substitutions
+AUTO 503
+BME CD or PIP
+CE MDE
+ChE Elective
+CoE Honors
+CS Capstone/MDE
+DATA Capstone
+DATA Graduate Capstone
+DESCI 503
+EE MDE
+GAME 503
+IOE Senior Design
+MECHENG 490
+MECHENG 590
+ROB 590
+ROB Flex Tech
+CS Capstone/MDE
+No results found
+AUTO 503 (2)
+BME CD or PIP (2)
+CE MDE (8)
+ChE Elective (14)
+CoE Honors (14)
+CS Capstone/MDE (14)
+DATA Capstone (7)
+DATA Graduate Capstone (8)
+DESCI 503 (1)
+EE MDE (4)
+GAME 503 (2)
+IOE Senior Design (4)
+MECHENG 490 (2)
+MECHENG 590 (6)
+ROB 590 (5)
+ROB Flex Tech (8)
+Citizenship
+Any Citizenship; No Int’l restrictions
+Any; F-1 Visa requires part-time CPT
+US/Permanent Resident Only
+Citizenship
+No results found
+Any Citizenship; No Int’l restrictions (2)
+Any; F-1 Visa requires part-time CPT (11)
+US/Permanent Resident Only (1)
+– Clear
+
+### Supplement: CSE Course Info Page
+Source: https://cse.engin.umich.edu/academics/course-resources/cse-course-info/
+
+Page header:
+page title: CSE Course Info | Computer Science and Engineering at Michigan
+
+Visible page text:
+Academics
+Home
+>
+Academics
+>
+Course Resources
+>
+CSE Course Info
+CSE Course Info
+Curious about classes in our curriculum? Look below to see a sampling of course descriptions and to navigate to course websites where you can learn more. Additional information on all EECS courses is available from the
+Course resources page
+.
+For up-to-date information on how courses can count for major requirements, see our course lists:
+Computer Science course lists
+Data Science course lists
+For additional course options towards requirements
+, check out
+EECS special topics courses
+, with offerings varying from semester to semester.
+CSE course sorting tool
+Want to find courses in CSE that match your interest areas and satisfy major requirements? This interactive tool allows you to sort and filter courses by requirement satisfied and content area tags. The new ULCS & MDE/Capstone Student Feedback resource is now linked to each ULCS & MDE/Capstone course card in the sorting tools. Once you click on the button below, the tool will open in a new window.
+CSE course sorting tool
+Course workload data
+Historical EECS workload data can be found on the
+Undergrad Workload Info page
+. Given the nature of the industry, courses are subject to regular change. Many students utilize Atlas for course workload data, with each individual course page containing workload data from course evaluations.
+Atlas
+EECS workload data
+CSE ULCS & Capstone Student Feedback
+Interested in reading qualitative feedback about other students’ experiences in Upper-Level Computer Science (ULCS) and Capstone courses? The CSE ULCS & Capstone Student Feedback was compiled directly from feedback submitted by current CSE students via the
+CSE ULCS & Capstone Student Feedback Survey
+. Click the button below to open this resource in a new window.
+CSE ULCS & Capstone Student Feedback
+Termly course policy
+This spreadsheet
+provides details from instructors about Fall 2025 course policies. For example, attendance policies, lecture/lab/discussion format, course content changes, and more.
+Course descriptions and websites
+See collected course websites, syllabi, and other general course info below. Current semester course websites received from instructors are prioritized, but resources from the recent past are still maintained here to provide some insight into courses. Course instructors should be contacted for additional information on their courses.
+ENGR 101: Introduction to Computers and Programming
+Solving engineering problems with computer programming in MATLAB and C++.
+Learn More
+>
+EECS 183: Elementary Programming Concepts in C++
+An introductory course to computer science and programming, covering the basics of computing as well as problem-solving and algorithmic thinking using C++.
+Learn More
+>
+EECS  183: Elementary Programming Concepts in Python
+An introductory course to computer science and programming, covering the basics of computing as well as problem-solving and algorithmic thinking using Python.
+Learn More
+>
+EECS 201: Computer Science Pragmatics
+The essentials of using a computer effectively. Topics covered include shells, environment, scripting, Makefiles, compilers, debugging tools, and version control.
+Learn More
+>
+EECS 203: Discrete Math
+Introduction to the mathematical foundations of computer science.
+Learn More
+>
+EECS 245: Mathematics for Machine Learning
+Mathematical foundations of machine learning and artificial intelligence, focusing primarily on linear algebra, along with select topics from calculus and probability. Topics include matrices, vectors, projections, spans, least squares, and eigenvalue and eigenvector problems. Includes mathematical theory as well as application to concrete data sets in a modern programming language.
+Learn More
+>
+EECS 280: Programming and Introductory Data Structures
+Computer science fundamentals, with programming in C++. Build an image processing system, a game of Euchre, a web backend, and a machine learning algorithm.
+Learn More
+>
+EECS 281: Data Structures and Algorithms
+Introduction to algorithm analysis and O-notation; Fundamental data structures including lists, stacks, queues, priority queues, hash tables, binary trees, search trees, balanced trees, and graphs; searching and sorting algorithms; recursive algorithms; basic graph algorithms; introduction to greedy algorithms and divide and conquer strategy.
+Learn More
+>
+EECS 291: Applied Data Structures and Algorithms
+Advanced programming including data structures and algorithms and their application to scientific and engineering problems. Topics include data structure design and performance implications, algorithm design and analysis, efficiency and optimization, and software-engineering principles. Prepares students to use this knowledge to build effective and efficient solutions to scientific and engineering challenges.
+Learn More
+>
+EECS 298: 3D Technical Art and Animation
+Learn to create 3D characters, objects, environments, materials, armatures, animations, and more in Blender. Then, explore the integration of these assets into technical ecosystems such as the Unity game engine, bringing them to life with dynamic hair, flowing lava, etc.
+Learn More
+>
+EECS 367: Introduction to Autonomous Robots
+An introduction to the computational foundations of autonomous robotics for building modern robot operating systems and applications to perform mobile manipulation tasks.
+Learn More
+>
+EECS 370: Introduction to Computer Organization
+Basic concepts of computer organization and hardware.
+Learn More
+>
+EECS 373: Introduction to Embedded System Design
+This class is focused on the principles and practices of modern embedded system design.
+Learn More
+>
+EECS 376: Foundations of Computer Science
+An introduction to computer science theory, with applications.
+Learn More
+>
+EECS 388: Introduction to Computer Security
+This course teaches the security mindset and introduces the principles and practices of computer security as applied to software, host systems, and networks.
+Learn More
+>
+EECS 390: Programming Paradigms
+This course offers a survey of programming language features and paradigms, with a focus on how to effectively use them.
+Learn More
+>
+EECS 404: Game Engine Architecture and Data Oriented Programming
+Create your own game engine from scratch in this programming-intensive ULCS course. Topics include scripting languages and multi-language programs, data-oriented programming, c++ pragmatics, resource management, multi-platform portability, middleware integration, rendering, test-driven development, modern engines, and game engine history.
+Learn More
+>
+EECS 440: Extended Reality for Social Impact
+Design, development, and application of virtual and augmented reality software for social impact.
+Learn More
+>
+EECS 441: Mobile App Development for Entrepreneurs
+Best practices in the software engineering of mobile applications and best practices of software entrepreneurs in the design, production and marketing of mobile apps.
+Learn More
+>
+EECS 442: Computer Vision
+Class topics include low-level vision, 2D signal processing, object recognition, image synthesis, 3D reconstruction, and deep learning.
+Learn More
+>
+EECS 448: Applied Machine Learning for Modeling Human Behavior
+This course will cover current practices in measuring and sensing human behavior via machine learning.
+Learn More
+>
+EECS 470: Computer Architecture
+An advanced course on computer architecture. Design a fully synthesizable, out-of-order processor.
+Learn More
+>
+EECS 471: Applied Parallel Programming with GPUs
+Parallel computing and application development for massively parallel processors such as GPUs.
+Learn More
+>
+EECS 473: Advanced Embedded Systems
+We will explore rapid prototyping, design of APIs for hardware devices, PCB design (from basics to power converters and power integrity issues), Real-time operating systems, and device drivers for high-level systems using Linux.
+Learn More
+>
+EECS 475: Introduction to Cryptography
+This class is an undergraduate-level introduction to modern cryptography. The emphasis is on essential concepts, precise attack models and security definitions, and constructions of some real-world cryptosystems.
+Learn More
+>
+EECS 477: Introduction to Algorithms
+Fundamental techniques for designing efficient algorithms and basic mathematical methods for analyzing their performance.
+Learn More
+>
+EECS 479: Introduction to Quantum Computing
+A practical approach towards exploring how each layer of the computing stack is impacted by quantum computing. Build a quantum circuit simulator, a constraint solver using quantum algorithms, and a protocol for fault-tolerant quantum computation.
+Learn More
+>
+EECS 481: Software Engineering
+This course focuses on software engineering and analysis. At a high level, the course is organized around five core topics: measurement and risk, quality assurance, software defects, software design, and productivity at scale.
+Learn More
+>
+EECS 484: Database Management Systems
+Concepts and methods for the design, creation, query and management of large enterprise databases.
+Learn More
+>
+EECS 485: Web Systems
+A holistic course of modern web systems and technologies, covering front end and back end. Build an Instagram clone in the first half of the semester, and a Google clone in the second.
+Learn More
+>
+EECS 489: Computer Networks
+Topics include socket programming, naming and addressing, video streaming and content distribution, flow and congestion control, routing, and cloud, datacenter, and software-defined networks. Students write several substantial programs implementing protocols at different layers of the network stack.
+Learn More
+>
+EECS 490: Programming Languages
+This course covers the design and use of modern programming languages. We will build up systematically from formal first principles while considering human factors in language design, language prototyping, and techniques for reasoning precisely about program behavior throughout the course.
+Learn More
+>
+EECS 491: Introduction to Distributed systems
+A course on the design and implementation of consistent, scalable, performant, and reliable distributed systems.
+Learn more
+>
+EECS 494: Introduction to Video Game Development
+Students will learn to implement small-to-medium sized video games using the industry-standard Unity3D Game Engine.
+Learn More
+>
+EECS 495: Accessible Software Systems Design
+Using established software development methodology, build software system that combines new technology and also addresses disability or illness.
+Learn More
+>
+EECS 497: Human-Centered Software and Design and Development
+Team-based, user-centered design and development of complex software systems incorporating effective design strategies and project management methodologies. Topics include customer discovery, contextual inquiry, prototyping, process models, creative problem solving, inclusive thinking, team dynamics, social concerns, and testing strategies.
+Learn More
+>
+
+### Supplement: Aerospace Engineering Courses (AEROSP)
+Source: https://bulletin.engin.umich.edu/courses/aero/
+
+Page header:
+page title: Aerospace Engineering Courses (AEROSP) – Bulletin
+
+Visible page text:
+Aerospace Engineering Courses (AEROSP)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Aerospace Engineering Courses (AEROSP)
+Below are all of the courses that are available to be taken in AEROSP. Some courses may not be available every semester. Each course is listed in the following format:
+Subject Code and Course Number: Course Name
+If it is a cross listed class, the crosslist course subject and course number will be listed in parentheses
+Any advised or enforced prerequisites that should be taken before enrolling for the course
+A description of the course
+A link to the CourseProfile in ATLAS
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+200 Level Courses
+AEROSP 200. Introduction to the Aerospace Enterprise
+Advisory
+and Enforced Prerequisite: None. (2 credits)
+An introduction to leadership, culture, and wide variety of technical fields that are part of the design, construction, and operations of Aeronautical and Astronautical vehicles. The course includes numerous seminars by notable practitioners.
+CourseProfile (ATLAS)
+AEROSP 201. Introduction to Aerospace Engineering
+Advisory Prerequisite: None. Enforced Prerequisite: (ENGR 100 (or equivalent) and ENGR 101 or ENGR 151) and (PHYSICS 140 and 141) and MATH 116 or equivalent. Minimum grade requirement of “C-” for enforced prerequisite. (2 credits)
+An introduction to aerospace engineering science. Flight vehicles in the atmosphere and in space.
+Introduction to propulsion, aerodynamics, and aircraft performance. Introduction to satellites, rockets, and orbital mechanics.
+CourseProfile (ATLAS)
+AEROSP 205. Introduction to Aerospace Engineering Systems
+Advisory Prerequisite: None. Enforced Prerequisite: PHYSICS 140 or PHYSICS 141 or MATH 116 or ENGR 100 or ENGR 101 or ENGR 151. (3 credits)
+A Systems Engineering Experience: Introduces engineering processes by means of design, build, test and operation of flight vehicles. Exposure to technologies including: computer aided design, manufacturing, simulation, composites, mechanisms, instrumentation and basic electronics. Embedded software development for data acquisition and processing, control and communications. Individual and team projects.
+CourseProfile (ATLAS)
+AEROSP 215. Introduction to Solid Mechanics and Aerospace Structures
+Advisory Prerequisite: Preceded or accompanied by MATH 216. Enforced Prerequisite: MATH 116 and PHYSICS 140 and PHYSICS 141.
+Minimum grade requirement of “C-” for enforced prerequisite
+.
+(3 credits)
+An introduction to the fundamental phenomena of solid and structural mechanics in Aerospace systems. Includes analysis and numerical methods of solution used for design of Aerospace structures.
+CourseProfile (ATLAS)
+AEROSP 225. Introduction to Gas Dynamics
+Advisory Prerequisite: None. Enforced Prerequisite: (MATH 215 or 255 or 285) and (CHEM 125 and 130) and (PHYSICS 140 or 160) and PHYSICS 141. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course covers fundamental concepts in thermodynamics and fluid dynamics. Topics include molecular and continuum concepts for fluids, first and second laws of thermodynamics, conservation laws for moving fluids, one-dimensional compressible flows, shocks and expansion waves, flows in nozzles.
+CourseProfile (ATLAS)
+AEROSP 290. Directed Study
+Advisory and Enforced Prerequisite: None.
+(1-3 credits)
+Study of aspects of aerospace engineering that is not suitable for technical elective credit. May be used for student team projects, pilot ground school, UROP or other academic studies that are directed by an Aerospace Engineering faculty member.
+CourseProfile (ATLAS)
+300 Level Courses
+AEROSP 305. Aerospace Engineering Laboratory I
+Advisory Prerequisite: None. Enforced Prerequisite:
+AEROSP 215, AEROSP 225, and (PHYSICS 240 or PHYSICS 260)
+.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+First course of a two-semester sequence covering fundamentals of instrumentation and measurement and their application in engineering testing and experimentation. Includes principles of analog and digital data acquisition, analysis of discrete measurement data, statistical assessment of hypotheses, design of experiments and similarity scaling of data. Emphasized development of skills for written communication and for working effectively in a team environment.
+CourseProfile (ATLAS)
+AEROSP 315. Aircraft/Spacecraft Structures
+Advisory Prerequisite: None. Enforced Prerequisite:
+AEROSP 215 and MATH 216.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+An introduction to the fundamental phenomena of solid and structural mechanics in aerospace systems. Includes analysis and numerical methods of solution that are used for design of aerospace structures.
+CourseProfile (ATLAS)
+AEROSP 325. Aerodynamics
+Advisory Prerequisite: None. Enforced Prerequisite:
+MATH 216 and AEROSP 225.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Fundamental concepts in aerodynamics. Students learn how airfoils produce lift and how the pressure distribution about an airfoil can be calculated. Introduces the boundary-layer concept, how boundary layers lead to drag and what makes them prone to instability and turbulence or separation. Effects of the wing planform shape on lift and drag.
+CourseProfile (ATLAS)
+AEROSP 335. Aircraft and Spacecraft Propulsion
+Advisory Prerequisite: None. Enforced Prerequisite:
+AEROSP 225 and MATH 216.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Airbreathing propulsion, rocket propulsion and an introduction to modern advanced propulsion concepts. Includes thermodynamic cycles as related to propulsion and the chemistry and thermodynamics of combustion. Students analyze turbojets, turbofans and other air-breathing propulsion systems. Introduces liquid- and solid-propellant rockets and advanced propulsion concepts such as Hall thrusters and pulsed plasma thrusters. Students also learn about the environmental impact of propulsion systems and work in teams to design a jet engine.
+CourseProfile (ATLAS)
+AEROSP 341. Aircraft Dynamics
+Advisory Prerequisite: None. Enforced Prerequisite: MECHENG 240, MATH 216 and AEROSP 201. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Introduction to the dynamics and control of atmospheric flight vehicles. Nonlinear equations of motion. Stability derivatives and linearized equations for longitudinal and lateral flight dynamics. Concepts from linear systems: state equations, transfer functions, stability, time response, frequency response. Flight simulation using relevant software.
+CourseProfile (ATLAS)
+AEROSP 343. Spacecraft Dynamics
+Advisory Prerequisite: None. Enforced Prerequisite: MECHENG 240, MATH 216 and AEROSP 201. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Introduction to space flight mechanics. The two-body problem. Orbital transfers, maneuvers and orbital analysis. Ground tracks and relative motion in orbit. Gravity-assist trajectories. Spacecraft attitude and rotational dynamics. Euler’s and Poisson’s equations and their linearization. Stability analysis. Momentum management using thrusters and reaction wheels. Orbital simulation using Matlab and STK.
+CourseProfile (ATLAS)
+AEROSP 350. Fundamentals of Aerospace Computing
+Advisory Prerequisite: None. Enforced Prerequisite:
+(ENGR 101 or ENGR 151 or EECS 183) and (ENGR 161 or [EECS 180 and ENGR 161]).
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Fundamentals of computer science, computational science, and embedded systems, with applications from aerospace engineering. Topics include: pointers; data structures; algorithms; computational complexity; signal decomposition; numerical linear algebra; numerical integration; and modeling, design, analysis and verification of sensors, actuators, and embedded processors.
+CourseProfile (ATLAS)
+AEROSP 384. Introduction to Solid Modeling and CAD
+Advisory Prerequisite: Preceded or accompanied by AEROSP 201 and AEROSP 215. Enforced Prerequisite: None. (3 credits)
+Design process including specifications, configurations, trades and design drivers. Introduction to solid visualization and modeling through an integrated CAD/CAE/CAM/PDM software package in the context of the design process. The role of CAD in analysis, manufacturing and product management. Flight vehicle related.
+CourseProfile (ATLAS)
+AEROSP 388. Systems Engineering Processes and Digital Tools (MBSE)
+Advisory Prerequisite: None. Enforced Prerequisite: Preceded or accompanied by AEROSP 215 and AEROSP 225.
+Minimum grade requirement of “C-” for enforced prerequisite
+. (7 credits)
+Model-Based Systems Engineering (MBSE) tools and methods will be taught on a known system, so students can learn fundamentals and apply them to their own student projects such as the development of complex products such as aircraft, spacecraft, automobiles, etc.. Other product development leadership tools and processes are also included.
+CourseProfile (ATLAS)
+AEROSP 390. Directed Study
+Advisory and Enforced Prerequisite: None. (1-3 credits)
+Study of specialized aspects of aerospace engineering. May be used for student team projects, pilot certification or other academic studies that are directed by an Aerospace Engineering faculty member. The student will submit a final report.
+CourseProfile (ATLAS)
+400 Level Courses
+AEROSP 405. Aerospace Laboratory II
+Advisory Prerequisite: Preceded by AEROSP 305. Enforced Prerequisite: None. (4 credits)
+Second course of two-semester sequence covering instrumentation and measurement and their application in engineering testing and experimentation. Application of the principles learned in Aero 305 to more advanced test and measurement applications. Experiments and Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+AEROSP 416 (NAVARCH 416). Theory of Plates and Shells
+Advisory Prerequisite: AEROSP 315. Enforced Prerequisite: None. (3 credits)
+Linear elastic plates. Membrane and bending theory of axisymmetric and non-axisymmetric shells. Variational formulation of governing equations boundary conditions. Finite element techniques for plate and shell problems.
+CourseProfile (ATLAS)
+AEROSP 421. Engineering Aerodynamics
+Advisory Prerequisite: None. Enforced Prerequisite: AEROSP 325. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course teaches contemporary aerodynamic analysis and design of aerospace vehicles and other systems. Topics include: review of theoretical concepts and methods, computer-based CFD tools, experimental methods and wind tunnel testing. Case studies are discussed to illustrate the combined use of advanced aerodynamic design methods. A team project is required.
+CourseProfile (ATLAS)
+AEROSP 423. Computational Methods for Aerospace Engineering
+Advisory Prerequisite: None. Enforced Prerequisite: (ENGR 101 or ENGR 151), MATH 216, and AEROSP 350. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course covers computational methods used in Aerospace engineering, including time integration techniques for ordinary differential equations, finite differences, finite volumes, finite elements, and probabilistic methods. Emphasis is placed on analysis and implementation of the underlying numerical methods. Computer programming in Matlab or a similar language is required.
+CourseProfile (ATLAS)
+AEROSP 450. Flight Software Systems
+Advisory Prerequisite: Preceded by ENGR 101 and AEROSP 201, or graduate standing. Enforced Prerequisite: None. (3 credits)
+Theory and practice of embedded flight software systems. Computational theory topics include discrete mathematics, finite automata, computational complexity, and model checking. Software development concepts include object oriented programming, networks, multi-threaded software, real-time scheduling, and sensor/actuator interface protocols. Emphasis placed on C/C++ development in Linux with guidance, navigational control applications.
+CourseProfile (ATLAS)
+AEROSP 470. Control of Aerospace Vehicles
+Advisory Prerequisite: AEROSP 341 or AEROSP 343. Enforced Prerequisite: MATH 216 and MECHENG 240.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Introduces foundations of classical control theory in the context of aerospace engineering applications. Topics covered include observers and state space control theory, effects of nonlinearities, application to aircraft and spacecraft, and simulation of control systems using relevant software.
+CourseProfile (ATLAS)
+AEROSP 481. Aircraft Design
+Advisory Prerequisite: None. Enforced Prerequisite: AEROSP 325; and preceded or accompanied by AEROSP 315 and AEROSP 335. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Multidisciplinary integration of aerodynamics, performance, stability and control, propulsion, structures and aeroelasticity in a system approach aimed at designing an aircraft for a set of specifications. Includes weight estimates, configuration and powerplant selection, tail-sizing, maneuver and gust diagrams, wing loading, structural and aeroelastic analysis. Students work in teams on the design project. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+AEROSP 483. Space System Design
+Advisory Prerequisite: SPACE 310; and preceded or accompanied by AEROSP 335. Enforced Prerequisite:
+AEROSP 343.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Engineering design process for space systems. Mission planning, launch vehicle integration, propulsion, power systems, communications, budgeting, and reliability. Space-systems engineering by including components, subsystems and mission design. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+AEROSP 488. Product Development Leadership
+Advisory Prerequisite: None. Enforced Prerequisite: AEROSP 388. Minimum grade requirement of “B” or instructor permission for enforced prerequisite. (4 credits)
+Leading and managing a comprehensive product design and development project, using systems engineering principles as a framework. Senior team leader training, including both non-technical and technical coaching and facilitation. Will include coaching and mentorship of undergraduate students in AEROSP 388.
+CourseProfile (ATLAS)
+AEROSP 490. Directed Study
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1-3 credits)
+Study of advanced aspects of aerospace engineering directed by an Aerospace faculty member. The student will submit a final report.
+CourseProfile (ATLAS)
+AEROSP 495. Special Topics in Aerospace Engineering
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1-4 credits)
+Specific aerospace engineering topics that are not treated in the regular Aerospace Engineering undergraduate curriculum.
+CourseProfile (ATLAS)
+500 Level Courses
+AEROSP 501. Aerospace Economics
+Advisory
+and Enforced Prerequisite: None. (3 credits)
+Graduate course in informing optimal engineering decisions based upon product lifecycles and customer
+usage profiles. Students will learn about customer needs and how they’re fulfilled by aerospace products,
+ultimate lifecycles of those products, how they inform the best product decisions, and future considerations around technology, sustainability, and industry trends.
+CourseProfile (ATLAS)
+AEROSP 502. Aerospace Leadership Capstone
+Advisory
+and Enforced Prerequisite: None. (3 credits)
+Graduate Capstone course/project where students work in teams of 4-5 to develop a comprehensive
+technology, product development, and business proposal, and apply all program learnings to the project. Students present to a panel of industry judges who grade the quality of the project, presentation, and use of the tools/methods.
+CourseProfile (ATLAS)
+AEROSP 505. Engineering Tools & Methods
+Advisory
+and Enforced Prerequisite: None.
+(2 credits)
+A Model-Based Systems Engineering (MBSE) course covering physical and virtual engineering, emphasizing move from physical to virtual. Correlations between physical and virtual evaluations for different technologies and systems will be discussed. Formal requirements delivery through MBSE, and Six Sigma (6𝜎) tools/processes will drive understanding of MBSE model use and limitations.
+CourseProfile (ATLAS)
+AEROSP 510. Finite Elements in Mechanical and Structural Analysis I
+Advisory Prerequisite: AEROSP 315. Enforced Prerequisite: None. (3 credits)
+Introductory level. Finite element solutions for structural dynamics and nonlinear problems. Normal modes, forced vibrations, Euler buckling (bifurcations), large deflections, nonlinear elasticity, transient heat conduction. Computer laboratory based on a general purpose finite element code.
+CourseProfile (ATLAS)
+AEROSP 511. Finite Elements in Mechanical and Structural Analysis II
+Advisory Prerequisite: AEROSP 510 or MECHENG 505. Enforced Prerequisite: None. (3 credits)
+Introduction to fundamental principles and latest developments in aerosol science. The dependence of aerosol composition and size distributions on the underlying atmospheric thermodynamics, dynamics, chemistry, and physics will be presented. Recent observations and theoretical treatments are used to illustrate aspects of aerosol science that are poorly quantified at present.
+CourseProfile (ATLAS)
+AEROSP 512. Experimental Solid Mechanics
+Advisory Prerequisite: AEROSP 305 and AEROSP 315 or equivalent. Enforced Prerequisite: None. (3 credits)
+Lectures and experiments that demonstrate historical and contemporary methods of measurement in solid mechanics. A review of classical experiments that substantiate many typical assumptions (e.g., material linearity or Hooke’s Law) concerning the response of solids. An introduction to contemporary techniques or process measurement involving piezoresistivity.
+CourseProfile (ATLAS)
+AEROSP 513. Foundations of Solid and Structural Mechanics I
+Advisory Prerequisite: AEROSP 315, MECHENG 311 or equivalent. Enforced Prerequisite: None. (3 credits)
+Introduction to linear continuum and structural mechanics. Three-dimensional analysis of stress and infinitesimal strain, including transformation of tensors, equations of motion, and kinematic compatibility. Boundary value problem formation. Constitutive relations for isotropic and anisotropic linear elastic materials. Introduction to variational calculus and energy methods. Applications to thin-walled and slender aerospace structures.
+CourseProfile (ATLAS)
+AEROSP 514. Foundations of Solid and Structural Mechanics II
+Advisory Prerequisite: AEROSP 315 or equivalent. Enforced Prerequisite: None. (3 credits)
+Introduction to nonlinear continuum and structural mechanics. Elements of tensor calculus, basic kinematics, conservation laws (mass, linear and angular momentum, energy, etc.), constitutive equations in continual applications in hyper-realistic solids, numerical (f.e.m.) methods for the corresponding nonlinear boundary value problems, derivation of nonlinear shell theories from 3-D considerations.
+CourseProfile (ATLAS)
+AEROSP 515. Mechanics of Composite and Microstructured Media
+Advisory Prerequisite: AEROSP 514 or equivalent. Enforced Prerequisite: None. (3 credits)
+An introduction to the mechanics of composite (more than one phase) solids with an emphasis on the derivation of macroscopical constitutive laws based on the microstructure. Eshelby transformation theory, self consistent methods, homogenization theory for periodic media, bounding properties for effective moduli of composites. Applications of aerospace interest.
+CourseProfile (ATLAS)
+AEROSP 516. Mechanics of Fibrous Composites
+Advisory Prerequisite: AEROSP 315 or MECHENG 412. Enforced Prerequisite: None. (3 credits)
+Effective stiffness properties of composites. Constitutive description of laminated plates. Laminated plate theory. Edge effects in laminates. Nonlinear theory of generally laminated plates. Governing equations in the Von Karman sense. Laminated plates with moderately large deflections. Post-buckling and nonlinear vibration of laminated plates. Failure theories and experimental results for laminates.
+CourseProfile (ATLAS)
+AEROSP 518. Theory of Elastic Stability I
+Advisory Prerequisite: AEROSP 315 or MECHENG 412 or equivalent. Enforced Prerequisite: None. (3 credits)
+Concepts of stability and bifurcation. Simple examples to illustrate buckling and instability mechanisms in structures. Both equilibrium and time dependent problems discussed. General theory for stability in continuum, conservative elastic solids. Applications to bars, rings, plates and shells.
+CourseProfile (ATLAS)
+AEROSP 520. Compressible Flow I
+Advisory Prerequisite: AEROSP 325. Enforced Prerequisite: None. (3 credits)
+Elements of inviscid compressible-flow theory: review of thermodynamics; equations of frictionless flow; analysis of unsteady one-dimensional and steady supersonic two-dimensional flows; including the method of characteristics; small-disturbance theory with applications to supersonic thin-airfoil theory.
+CourseProfile (ATLAS)
+AEROSP 521. Experimental Methods in Fluid Mechanics
+Advisory Prerequisite: AEROSP 405 or graduate standing. Enforced Prerequisite: None. (3 credits)
+Fundamentals principles and practice of non-intrusive measurement techniques for compressible and incompressible flows. Review of geometric and Gaussian beam optics; Laser Doppler Velocimetry; quantitative flow field measurement techniques including interferometry, Laser Induced Fluorescence and Particle Image Velocimetry. Advanced data processing techniques for turbulent flow. Error estimation.
+CourseProfile (ATLAS)
+AEROSP 522. Viscous Flow
+Advisory Prerequisite: AEROSP 325. Enforced Prerequisite: None. (3 credits)
+The Navier-Stokes equations, including elementary discussion of tensors, exact solutions. Laminar boundary-layer theory; three-dimensional and compressible boundary layers. Laminar-flow instability theory; transition. Introduction to the mechanics of turbulence; turbulent free shear flows and boundary layers.
+CourseProfile (ATLAS)
+AEROSP 523 (MECHENG 523). Computational Fluid Dynamics I
+Advisory Prerequisite: AEROSP 325 or preceded or accompanied by MECHENG 520.
+Enforced Prerequisite: None.
+(3 credits)
+Physical and mathematical foundations of computational fluid mechanics with emphasis on applications. Solution methods for model equations and the Euler and the Navier-Stokes equations.  The finite volume formulation of the equations. Classification of partial differential equations and solution techniques. Truncation errors, stability, conservation, and monotonicity.
+CourseProfile (ATLAS)
+AEROSP 524. Aerodynamics II
+Advisory Prerequisite: AEROSP 420.
+Enforced Prerequisite: None.
+(3 credits)
+Two- and three-dimensional potential flow about wings and bodies; complex-variable methods; singularity distributions; numerical solution using panel methods. Unsteady aerodynamics; slender-body theory. Viscous effects: airfoil stall, high-lift systems, boundary-layer control. Wings and bodies at transonic and supersonic speeds; numerical methods.
+CourseProfile (ATLAS)
+AEROSP 525. Introduction to Turbulent Flows
+Advisory Prerequisite: AEROSP 522.
+Enforced Prerequisite: None.
+(3 credits)
+Mathematical description of turbulent flow phenomena. Flow equations, vorticity dynamics, Reynolds-averaged equations, engineering turbulence models. Theory of homogeneous turbulence, spectral dynamics. Shear flow turbulence, mean and fluctuating structure of free and wall-bounded turbulent flows.
+CourseProfile (ATLAS)
+AEROSP 526. Hypersonic Aerothermodynamics
+Advisory Prerequisite: Graduate standing or AEROSP 225 and AEROSP 325.
+Enforced Prerequisite: None.
+(3 credits)
+Hypersonic vehicles offer rapid air transportation and access to space. This course provides an introduction to the aerothermodynamics of hypersonic vehicles. Topics covered include: vehicle types (missiles, space planes, air-breathers); flight dynamics (trajectory, range, stability); aerothermodynamics (fluid dynamics, thermodynamics, aerodynamics, heating); and propulsion systems (scramjets, combined cycles).
+CourseProfile (ATLAS)
+AEROSP 527. Unsteady Aerodynamics and Aeroacoustics
+Advisory Prerequisite: AEROSP 325 or equivalent or permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+Theoretical and numerical aspects of unsteady aerodynamics and aerodynamically-generated noise. Topics include vortex dynamics, steady and unsteady airfoil theory, indicial methods, unsteady compressible flow, basics of physical acoustics, sound generation by moving bodies and turbulence, combustion noise.
+CourseProfile (ATLAS)
+AEROSP 530. Gas-Turbine Propulsion
+Advisory Prerequisite: AEROSP 335.
+Enforced Prerequisite: None.
+(3 credits)
+Advanced analysis of turbojet engines: effect of altitude parameters on engine performance; off-design equilibrium running of a turbojet engine; dynamics of engine considered as a quasi-static system; fluid mechanics of a rotating axial blade row; centrifugal compressors; transonic flow problems.
+CourseProfile (ATLAS)
+AEROSP 532. Molecular Gas Dynamics
+Advisory Prerequisite: Permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+Analysis of basic gas properties at the molecular level. Kinetic theory: molecular collisions, the Boltzmann equation, Maxwellian distribution function. Quantum mechanics: the Schrodinger equation, quantum energy states for translation, rotation, vibration, and electronic models of atoms and molecules. Statistical mechanics: the Boltzmann relation, the Boltzmann energy distribution, partition functions. These ideas are combined for the analysis of a chemically reacting gas at the molecular level.
+CourseProfile (ATLAS)
+AEROSP 533 (ENSCEN 533). Combustion Processes
+Advisory Prerequisite: AEROSP 225.
+Enforced Prerequisite: None.
+(
+3 credits)
+This course covers the fundamentals of combustion systems and fire and explosion phenomena. Topics covered include thermochemistry, chemical kinetics, laminar flame propagation, detonations and explosions, flammability and ignition, spray combustion and the use of computer techniques in combustion problems.
+CourseProfile (ATLAS)
+AEROSP 535. Rocket Propulsion
+Advisory Prerequisite: AEROSP 335.
+Enforced Prerequisite: None.
+(3 credits)
+Analysis of liquid and solid propellant rocket power plants; propellant thermochemistry, heat transfer, system considerations. Low-thrust rockets, multi-stage rockets, trajectories in powered flight, electric propulsion.
+CourseProfile (ATLAS)
+AEROSP 536. Electric Propulsion
+Advisory Prerequisite: AEROSP 335, senior standing.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to electric propulsion with an overview of electricity and magnetism, atomic physics, non-equilibrium flows and electrothermal, electromagnetic and electrostatic electric propulsion systems.
+CourseProfile (ATLAS)
+AEROSP 540 (MECHENG 540). Intermediate Dynamics
+Advisory Prerequisite: MECHENG 240.
+Enforced Prerequisite: None.
+(3 credits)
+Newton/Euler and Lagrangian formulations for three-dimensional motion of particles and rigid bodies. Principles of dynamics applied to various rigid-body and multi-body dynamics problems that arise in aerospace and mechanical engineering.
+CourseProfile (ATLAS)
+AEROSP 543. Structural Dynamics
+Advisory Prerequisite: AEROSP 315.
+Enforced Prerequisite: None.
+(3 credits)
+A Natural frequencies and mode shapes of elastic bodies. Non-conservative elastic systems. Structural and viscous damping. Influence coefficient methods for typical flight structures. Response of structures to random and shock loads.
+CourseProfile (ATLAS)
+AEROSP 544. Introduction to Aeroelasticity
+Advisory Prerequisite: AEROSP 315.
+Enforced Prerequisite: None.
+(3 credits)
+Vibration and flutter of elastic bodies exposed to fluid flow. Static divergence and flutter of airplane wings. Flutter of flat plates and thin walled cylinders at supersonic speeds. Oscillations of structures due to vortex shedding.
+CourseProfile (ATLAS)
+AEROSP 545. Aeromechanics of Rotary Wing Vehicles
+Advisory Prerequisite: Preceded by AEROSP 315 and AEROSP 325.
+Enforced Prerequisite: None.
+(3 credits)
+This course deals with fundamental aspects of helicopter aerodynamics, performance, dynamics, stability and control, aeroelastic stability in flap-pitch, flap-lag and coupled flap-lag-torsion. Aeroelastic response in forward flight or the vibration problem is also considered.
+CourseProfile (ATLAS)
+AEROSP 548. Astrodynamics
+Advisory Prerequisite: AEROSP 343 or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Review of two-body problem for spacecraft: orbital trajectories, transfers, targeting and time of flight. Orbit perturbation formulations and analysis. Restricted 3-body problem and applications.
+CourseProfile (ATLAS)
+AEROSP 549. Orbital Analysis
+Advisory Prerequisite: AEROSP 548, AEROSP 540, or AEROSP 573, or permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+The analysis, characterization and determination of space trajectories from a dynamical systems viewpoint. The general formulation and solution of the spacecraft trajectory design and navigation problems. Computation of periodic orbits and their stability. Estimation of model parameters from spacecraft tracking data (e.g., gravity field estimation). Elements of precision modeling and precision orbit determination.
+CourseProfile (ATLAS)
+AEROSP 550 (CEE 571) (ECE 560) (MECHENG 564). Linear Systems Theory
+Advisory Prerequisite: Graduate standing.
+Enforced Prerequisite: None.
+(4 credits)
+Linear spaces and linear operators. Bases, subspaces, eigenvalues and eigenvectors, canonical forms. Linear differential and difference equations. Mathematical representations: state equations, transfer functions, impulse response, matrix fraction and polynomial descriptions. System-theoretic concepts: causality, controllability, observability, realizations, canonical decomposition, stability.
+CourseProfile (ATLAS)
+AEROSP 551 (ECE 562). Nonlinear Systems and Control
+Advisory Prerequisite: Graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to the analysis and design of nonlinear systems and nonlinear control systems. Stability analysis using Liapunov, input-output and asymptotic methods. Design of stabilizing controllers using a variety of methods: linearization, absolute stability theory, vibrational control, sliding modes and feedback linearization.
+CourseProfile (ATLAS)
+AEROSP 552. Aerospace Information Systems
+Advisory Prerequisite: ENGR 101 and MATH 216, or graduate standing. Enforced Prerequisite: AEROSP 350. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Information systems for Aerospace applications. Data abstraction, elementary data structures. Graphs, automata theory. Life cycle models, validation & verification. Deterministic search algorithms. Decision making under uncertainty; review of probability theory, introduction to information theory, Bayesian Networks, Markov chains, Markov Decision Processes. Substantial code development in a traditional programming language.
+CourseProfile (ATLAS)
+AEROSP 566. Data Analysis and System Identification
+Advisory Prerequisite: Graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Methods of data analysis and empirical modeling. Sensors and measurement concepts. Time and frequency data analysis; statistical and spectral concepts. Linear regression and identification of time-series models. Parameter estimation using optimization. Basis-function expansions and nonlinear time series identification. Eigensystem realization and subspace identification. Nonlinear state space identification.
+CourseProfile (ATLAS)
+AEROSP 567. Inference, Estimation, and Learning
+Advisory and Enforced Prerequisite: None. (3 credits)
+Theory and algorithms for synthesizing models and data for general applications across science and engineering. Topics include algorithms for maximum likelihood estimation, Bayesian inference, and regression for static inference problems and for estimation in dynamical systems. Theoretical foundations of the algorithms and projects that focus on implementation.
+CourseProfile (ATLAS)
+AEROSP 568. Computational Methods for Engineered Systems Design
+Advisory Prerequisite: Programming skills (e.g., AEROSP 350) and/or systems design (e.g., AEROSP 481 or 483) and/or statistical methods (e.g., CEE 373) or permission of instructor.
+Enforced Prerequisite: None. (3 credits)
+Examines computational and statistical methods for the design of complex engineered systems. Topics
+include design of experiments, surrogate modeling and surrogate-based optimization, sensitivity analysis, and mixed-variable design space exploration. Aerospace examples highlight advanced aircraft and propulsion system concepts, including methods for co-optimization of aircraft, propulsion, and energy/power management.
+CourseProfile (ATLAS)
+AEROSP 573. Spacecraft Attitude Dynamics and Control
+Advisory Prerequisite: AEROSP 470 or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to spacecraft attitude dynamics and control. Topics include attitude representations; dynamics and stability of rigid spacecraft with momentum wheels; deterministic and stochastic attitude estimation; and attitude control of spacecraft using internal and external torques. Focus on underlying mechanics with coverage of typical spacecraft attitude sensors and actuators.
+CourseProfile (ATLAS)
+AEROSP 574 (SPACE 574). Introduction to Space Physics
+Advisory Prerequisite: None.
+Enforced Prerequisite:
+Senior and Above. (4 credits)
+A graduate level introduction to physical and aeronomical processes in the space environment. Discussion of theoretical tools, the Sun, solar wind, heliosphere, magnetosphere, ionosphere and the upper atmosphere. Spacecraft interaction with radiation, spacecraft-plasma interactions.
+CourseProfile (ATLAS)
+AEROSP 575. Flight and Trajectory Optimization
+Advisory Prerequisite: AEROSP 470 or graduate standing.
+Enforced Prerequisite: None.
+(
+3 credits)
+Formulation and solution of optimization problems for atmospheric flight vehicles and space flight vehicles. Optimality criteria, constraints, vehicle dynamics. Flight and trajectory optimization as problems of nonlinear programming, calculus of variations and optimal control. Algorithms and software for solution of flight and trajectory optimization problems.
+CourseProfile (ATLAS)
+AEROSP 577. Data-driven & Reduced Complexity Modeling
+Advisory Prerequisite: Good background in Linear Algebra, Probability and Statistics.
+Enforced Prerequisite: None.
+(3 credits)
+Review of Linear Algebra and Probability; Linear and Kernel Regression; Discovery of dynamical systems and PDEs from data; Statistical Learning Theory; Dimensionality reduction & Manifold Learning; Variational Inference & Variational Autoencoders; Compression/Sensing/Reconstruction; Projection-based Reduced Order Modeling.
+CourseProfile (ATLAS)
+AEROSP 579. Control of Structures and Fluids
+Advisory Prerequisite: AEROSP 470 or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Control-oriented modeling of structural and fluid-structure systems. Fixed-gain and adaptive disturbance rejection for vibration suppression. Application to aeroelastic flutter, limit-cycle oscillations, and gust alleviation.
+CourseProfile (ATLAS)
+AEROSP 580. Linear-Quadratic Feedback Control
+Advisory Prerequisite: AEROSP 550.
+Enforced Prerequisite: None.
+Credit Exclusions:
+Student may only receive credit for one course
+,
+AEROSP 580 or ECE 565. (3 credits)
+Standard problem for state space and transfer function models. Specialization to the basic servo loop with feedback and feedforward control. Pole placement. Internal model principle for commands and disturbances. Stability, norms, and solution of the Lyapunov equation. Treatment of the linear-quadratic regulator and linear-quadratic-Gaussian controllers. Analysis of the Riccati equation.
+CourseProfile (ATLAS)
+AEROSP 581 (SPACE 581). Space Policy and Management
+Advisory Prerequisite: Graduate Standing. Enforced Prerequisite: None. (3 credits)
+The first part of the course will provide detailed information on how space policy is developed in the United States and the international space community, and how these policies result in specific missions. The second part will provide detailed information on modern management techniques and processes. Project managers from NASA centers and industry will lecture on the detailed management techniques and processes.
+CourseProfile (ATLAS)
+AEROSP 582 (SPACE 582). Spacecraft Technology
+Advisory Prerequisite: Graduate Standing. Enforced Prerequisite: None. (4 credits)
+Systematic and comprehensive review of spacecraft and space mission design and key technologies for space missions. Discussions on project management and the economic and political factors that affect space missions. Specific space mission designs are developed in teams. Students of AERO 483/583 choose their projects based on these designs. Projects are overseen/graded by faculty and may involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+AEROSP 583 (SPACE 583). Management of Space Systems Design
+Advisory Prerequisite: Graduate standing.
+Enforced Prerequisite: None.
+(4 credits)
+Students lead teams in high level project design of a space system. Modern methods of concurrent engineering manufacturing, marketing and finance, etc., are incorporated. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+AEROSP 584. Avionics, Navigation and Guidance of Aerospace Vehicles
+Advisory Prerequisite: AEROSP 470 or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Principles of aerospace navigation and guidance. Deterministic and stochastic linear perturbation theory. Position fixing and celestial navigation with redundant measurements. Recursive navigation and Kalman filtering. Pursuit guidance, proportional navigation, ballistic guidance and velocity-to-be-gained guidance.
+CourseProfile (ATLAS)
+AEROSP 585. Aerospace Engineering Seminar
+Advisory Prerequisite: AEROSP 285 or senior standing.
+Enforced Prerequisite: None.
+(1 credit)
+A series of seminars by noted speakers designed to acquaint graduate and undergraduate students with contemporary research and technological issues in the aerospace industry. Involves a short term paper pertinent to one of the seminar topics.
+CourseProfile (ATLAS)
+AEROSP 586 (IOE 586). Air Transportation Systems
+Advisory and Enforced Prerequisite: None. (3 credits)
+Overview of air transportation systems; course splits into four modules: Airlines, airports, airspace, and emerging topics. Topics include airline schedule development, fleet/crew assignment, airline revenue management; airport capacity and planning, tactical/strategic demand management; air traffic control, deterministic/stochastic air traffic flow management; drone traffic management and air-space integration.
+CourseProfile (ATLAS)
+AEROSP 588. Multidisciplinary Design Optimization
+Advisory Prerequisite: MATH 419 or equivalent; MATH 371 or equivalent; graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to numerical optimization and its application to the design of aerospace systems, including: mathematical formulation of multidisciplinary design problem
+
+[truncated supplement]

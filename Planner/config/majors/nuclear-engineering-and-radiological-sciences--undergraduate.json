@@ -1,0 +1,54 @@
+{
+  "id": "nuclear-engineering-and-radiological-sciences--undergraduate",
+  "displayName": "Nuclear Engineering and Radiological Sciences",
+  "requirementGroups": {
+    "Mathematics": [
+      "MATH 115",
+      "MATH 116",
+      "MATH 215"
+    ],
+    "Engineering Core": [
+      "ENGR 100",
+      "ENGR 101"
+    ],
+    "Chemistry": [
+      "CHEM 125",
+      "CHEM 126",
+      "CHEM 130",
+      "CHEM 210",
+      "CHEM 211"
+    ],
+    "Physics": [
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 240",
+      "PHYSICS 241"
+    ],
+    "Related Technical Subjects": [
+      "MATSCIE 250",
+      "MSE 220",
+      "EECS 215",
+      "EECS 314",
+      "MECHENG 235"
+    ],
+    "Program Subjects": [
+      "NERS 250",
+      "NERS 311",
+      "NERS 312",
+      "NERS 315",
+      "NERS 344",
+      "NERS 320",
+      "NERS 420",
+      "NERS 441",
+      "NERS 444",
+      "NERS 491",
+      "NERS 492"
+    ],
+    "Laboratory Course": [
+      "NERS 425",
+      "NERS 535",
+      "NERS 575",
+      "NERS 586"
+    ]
+  }
+}

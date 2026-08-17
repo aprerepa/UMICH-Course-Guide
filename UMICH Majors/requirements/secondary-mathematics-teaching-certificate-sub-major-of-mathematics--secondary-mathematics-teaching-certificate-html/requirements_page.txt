@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 Mathematics
 About Us
 People
@@ -39,6 +43,10 @@ People
 Centers & Outreach
 Seminars, Colloquia & Lectures
 News & Events
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Undergraduates
 Graduates

@@ -4,15 +4,39 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#history-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+3 course-list supplements: Courses, Courses, Browse copies of past LSA bulletins)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#history-maj",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/history-major.html",
   "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
+  "requirements_link_score": 65,
   "requirements_link_strategy": "lsa_listing:lsa_detail",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/history-major.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:40:18.767627+00:00",
-  "lsa_resolved_row_id": "history-maj"
+  "fetched_at": "2026-08-10T16:12:50.981208+00:00",
+  "lsa_resolved_row_id": "history-maj",
+  "supplements_count": 3,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "http://www.lsa.umich.edu/history/undergraduates/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 5662
+    },
+    {
+      "id": "02-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    },
+    {
+      "id": "03-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3806
+    }
+  ]
 }

@@ -1,0 +1,24 @@
+{
+  "id": "italian",
+  "displayName": "Italian",
+  "requirementGroups": {
+    "Prerequisites": [
+      "ITALIAN 230",
+      "ITALIAN 232",
+      "ITALIAN 233",
+      "ITALIAN 410"
+    ]
+  },
+  "openGroups": {
+    "Prerequisites": {
+      "subjects": [
+        "ITALIAN"
+      ],
+      "minLevel": 230,
+      "exclude": [
+        "ITALIAN 231",
+        "ITALIAN 234"
+      ]
+    }
+  }
+}

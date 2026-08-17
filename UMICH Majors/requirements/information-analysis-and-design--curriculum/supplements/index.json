@@ -1,0 +1,13 @@
+[
+  {
+    "id": "01-courses",
+    "url": "https://www.si.umich.edu/programs/courses",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (567 chars)",
+    "final_url": "https://www.si.umich.edu/programs/courses",
+    "fetch_mode": "http",
+    "chars": 567
+  }
+]

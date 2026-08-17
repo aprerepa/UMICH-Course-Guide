@@ -1,0 +1,69 @@
+{
+  "id": "community-and-global-public-health--phs",
+  "displayName": "Community and Global Public Health",
+  "requirementGroups": {
+    "Integrated Core Courses": [
+      "PUBHLTH 381",
+      "PUBHLTH 382",
+      "PUBHLTH 383",
+      "PUBHLTH 384"
+    ],
+    "Major Specific Requirements": [
+      "PUBHLTH 350",
+      "PUBHLTH 360"
+    ],
+    "Health Equity Requirement": [
+      "PUBHLTH 308",
+      "PUBHLTH 313",
+      "PUBHLTH 320",
+      "PUBHLTH 328",
+      "PUBHLTH 333",
+      "PUBHLTH 360",
+      "PUBHLTH 450"
+    ],
+    "Culminating Experience": [
+      "PUBHLTH 481",
+      "PUBHLTH 380"
+    ],
+    "Upper-Level Elective Exceptions": [
+      "BIOLOGY 207",
+      "BIOLOGY 225",
+      "BIOLOGY 226",
+      "CHEM 210",
+      "CHEM 211",
+      "CHEM 215",
+      "CHEM 216",
+      "CHEM 230",
+      "CHEM 260",
+      "PHYSICS 235",
+      "PHYSICS 240",
+      "PHYSICS 250",
+      "PHYSICS 260",
+      "PHYSICS 126",
+      "PHYSICS 236",
+      "PHYSICS 241",
+      "PHYSICS 251",
+      "PHYSICS 261",
+      "PHYSICS 128",
+      "PHYSIOL 201",
+      "NURS 236",
+      "NURS 245"
+    ]
+  },
+  "openGroups": {
+    "Major Specific Requirements": {
+      "subjects": [
+        "PUBHLTH"
+      ],
+      "minLevel": 300,
+      "exclude": []
+    },
+    "Upper-Level Elective Exceptions": {
+      "subjects": [
+        "PUBHLTH"
+      ],
+      "minLevel": 300,
+      "exclude": []
+    }
+  }
+}

@@ -22,11 +22,22 @@ from umich_majors.lsa_math_requirements import (
 
 _SKIP_HREF = re.compile(r"^(javascript:|mailto:|tel:|#)$", re.I)
 _NOISE = re.compile(
-    r"advising|appointment|honors\s+plan|apply|admissions?|declare|"
+    # Prefer specific advising noise — bare "advising" kills math advising-forms PDFs
+    # and cognate course pages under /advising/.
+    r"advising\s+appointment|schedule\s+(?:an\s+)?advising|appointment|"
+    r"honors\s+plan|apply|admissions?|declare|"
     r"facebook|twitter|instagram|linkedin|youtube|give\s+online|"
     r"course\s+catalog|lsa\s+course\s+guide|/cg(?:/|$)|"
     r"transfer\s+courses?|override\s+request|career\s+fair|"
-    r"course\s+tagging|thesis\s+handout|special\s+topics\s+courses",
+    r"course\s+tagging|thesis\s+handout|special[- ]topics[- ]courses|"
+    r"course\s+sequencing|visual\s+(?:example|of)|"
+    r"progression|canvas\s+page|instructure\.com|"
+    # Undergrad-irrelevant / non-course-list chrome
+    r"teaching\s+ass|before[- ]arrival|after[- ]arrival|new-student-info|"
+    r"docs\.google\.com/forms/|google\.com/forms/|"
+    r"salary\s+information|usher\s+with|submit\s+an\s+update|"
+    r"atlas\.ai\.umich\.edu/courses?/|/course\.php\?|"
+    r"course-bulletin-archive|lsa\.umich\.edu/lsa/academics/courses\.html",
     re.I,
 )
 
@@ -36,35 +47,122 @@ _POSITIVE: list[tuple[re.Pattern[str], int]] = [
     (re.compile(r"\bexpanded\s+ulcs\b", re.I), 125),
     (re.compile(r"\bcapstone\b", re.I), 120),
     (re.compile(r"\bflexible\s+(?:cs\s+)?technical\s+electives?\b", re.I), 120),
+    (re.compile(r"\btechnical\s+electives?\b", re.I), 115),
+    (re.compile(r"\bspecialization\s+electives?\b", re.I), 110),
+    (re.compile(r"\bintellectual\s+breadth\b", re.I), 105),
     (re.compile(r"\bapproved\s+list\b", re.I), 120),
+    (re.compile(r"\bapproved\b.{0,40}\blist\b", re.I), 115),
     (re.compile(r"\bapproved\s+courses?\b", re.I), 110),
     (re.compile(r"\bprintable\s+.*(?:checklist|plan|subplan)\b", re.I), 120),
     (re.compile(r"\b(?:subplan|sub-?major)\s+checklist\b", re.I), 120),
     (re.compile(r"\bchecklist\b", re.I), 115),
+    (re.compile(r"\bdepth\s+requirements?\b", re.I), 120),
+    (re.compile(r"\b(?:depth\s+)?requirement\s+guide\b", re.I), 115),
+    (re.compile(r"\b(?:bcn|major)\s+worksheet\b", re.I), 125),
+    (re.compile(r"\bworksheet\b", re.I), 110),
+    (re.compile(r"\bcourse\s+information\b", re.I), 115),
+    (re.compile(r"course-info(?:\.html|/|$)", re.I), 115),
+    (re.compile(r"\bcourses?\s+per\s+term\b", re.I), 110),
+    (re.compile(r"course-per-term", re.I), 105),
+    (re.compile(r"BCNWS|MajorInBCNPsych|ACCESSIBLEBCN", re.I), 130),
+    (re.compile(r"\bsample\s+schedule\b", re.I), 110),
+    (re.compile(r"\bschedule(?:\.pdf|/|$)", re.I), 70),
+    (re.compile(r"\belective\s+(?:exceptions?|list|requirements?)\b", re.I), 115),
+    (re.compile(r"upper-level-exceptions|upper[- ]level\s+elective", re.I), 120),
     (re.compile(r"\belective\s+list\b", re.I), 110),
-    (re.compile(r"\blist\s+of\s+(?:approved\s+)?courses?\b", re.I), 110),
+    (re.compile(r"\blist\s+of\s+(?:approved\s+|which\s+)?courses?\b", re.I), 110),
+    (re.compile(r"\blist\s+of\b.{0,40}\bcourses?\b", re.I), 100),
     (re.compile(r"\bcourse\s+list\b", re.I), 100),
+    (re.compile(r"\bcognate\s+courses?\b", re.I), 105),
+    (re.compile(r"\badditional\s+major\s+courses?\b", re.I), 100),
+    (re.compile(r"\babet\b.{0,30}\b(?:science\s+)?(?:courses?|classes)\b", re.I), 100),
     (re.compile(r"\beligible\s+courses?\b", re.I), 95),
     (re.compile(r"\bcourses?\s+page\b", re.I), 90),
     (re.compile(r"\bpics\s+courses?\b", re.I), 90),
     (re.compile(r"\bcourse\s+options?\b", re.I), 70),
+    (re.compile(r"[-/]courses?(?:\.html|/|$)", re.I), 70),
     (re.compile(r"/courses?(?:\.html|/|$)", re.I), 55),
     (re.compile(r"electives?(?:\.html|/|[-_])", re.I), 50),
     (re.compile(r"approved[-_]?list|course[-_]?list", re.I), 80),
-    (re.compile(r"spreadsheets/d/", re.I), 60),
+    # Google Docs/Sheets themselves — even when anchor text is "here"
+    (re.compile(r"docs\.google\.com/document/d/", re.I), 90),
+    (re.compile(r"spreadsheets/d/", re.I), 85),
     (re.compile(r"drive\.google\.com/file/", re.I), 95),
 ]
 
-# Hub pages that often link to the real checklist / approved list
 _HUB_PAGE = re.compile(
     r"checklist|subplan|sub-?major|major-and-minor-programs|"
-    r"/math/undergraduates|/undergraduates/major",
+    r"/math/undergraduates|/undergraduates/major|"
+    r"major-in-psychology-or-bcn|course-info|course-per-term|"
+    r"anthropology-major|department\s+website",
     re.I,
 )
 
+# LSA Anthropology bulletin pages mention an approved list on the department
+# site but often have no <a href>. Map sub-major names → department URLs.
+_ANTHRO_SUBMAJOR_PAGES: list[tuple[re.Pattern[str], str, str]] = [
+    (
+        re.compile(r"culture\s+and\s+media", re.I),
+        "https://lsa.umich.edu/anthro/undergraduates/anthropology-major/culture-and-media-sub-major.html",
+        "Culture and Media approved courses",
+    ),
+    (
+        re.compile(r"\barchaeology\b", re.I),
+        "https://lsa.umich.edu/anthro/undergraduates/anthropology-major/archaeology-sub-major.html",
+        "Archaeology approved courses",
+    ),
+    (
+        re.compile(r"medical\s+anthropology", re.I),
+        "https://lsa.umich.edu/anthro/undergraduates/anthropology-major/medical-anthropology-sub-major.html",
+        "Medical Anthropology approved courses",
+    ),
+    (
+        re.compile(r"politics.+law.+economy", re.I),
+        "https://lsa.umich.edu/anthro/undergraduates/anthropology-major/politics--law--and-economy-sub-major.html",
+        "Politics, Law, and Economy approved courses",
+    ),
+    (
+        re.compile(r"power.+identity.+inequality", re.I),
+        "https://lsa.umich.edu/anthro/undergraduates/anthropology-major/power--identity--and-inequality-sub-major.html",
+        "Power, Identity, and Inequality approved courses",
+    ),
+]
+
+
+def _implied_supplement_links(
+    html: str,
+    *,
+    major_name: str | None,
+    is_submajor: bool,
+) -> list[tuple[int, str, str]]:
+    """Synthesize high-value course-list URLs when the page only mentions them in prose."""
+    if not major_name:
+        return []
+    text = BeautifulSoup(html or "", "lxml").get_text(" ", strip=True)
+    name = major_name
+    out: list[tuple[int, str, str]] = []
+    if re.search(r"anthropology", name, re.I) and re.search(
+        r"approved\s+courses|department\s+website", text, re.I
+    ):
+        # Always allow hopping the department hub
+        out.append(
+            (
+                95,
+                "https://lsa.umich.edu/anthro/undergraduates/anthropology-major.html",
+                "Anthropology Department website",
+            )
+        )
+        if is_submajor or re.search(r"sub-?\s*major", name, re.I):
+            for pat, url, label in _ANTHRO_SUBMAJOR_PAGES:
+                if pat.search(name):
+                    out.append((130, url, label))
+                    break
+    return out
+
+
 _MIN_SCORE = 55
 _MAX_SUPPLEMENTS = 8
-_MAX_CHARS_EACH = 18_000
+_MAX_CHARS_EACH = 40_000
 
 
 def _unwrap_url(url: str) -> str:
@@ -114,25 +212,50 @@ def _score_supplement(text: str, url: str) -> int:
     for pat, pts in _POSITIVE:
         if pat.search(blob):
             score = max(score, pts)
-    # PDF / Drive / sheet course lists
+    # PDF / Drive / sheet / excel course lists
     if score and (
-        url.lower().endswith(".pdf")
+        url.lower().endswith((".pdf", ".xlsx", ".xls"))
         or "docs.google.com" in url.lower()
         or "drive.google.com/file/" in url.lower()
     ):
         score += 15
-    # Prefer a specific sheet tab (gid) over the workbook root
+    # Prefer a specific sheet tab (gid) over the workbook root, but don't
+    # drop named depth/approved guides that only link the workbook URL.
     if score and re.search(r"[#&?]gid=\d+", url):
         score += 25
     elif score and re.search(r"spreadsheets/d/", url) and "gid=" not in url:
-        score -= 30
+        if score < 100:
+            score -= 20
+    # Prefer undergrad course lists over graduate onboarding / TA sheets
+    if score and re.search(
+        r"graduate-programs|/graduate(?:/|$)|grad(?:uate)?[-_](?:course|cognate)|"
+        r"teaching[-_ ]?assign",
+        blob,
+        re.I,
+    ):
+        if not re.search(r"undergrad|bachelor|b\.?s\.?e|intellectual\s+breadth", blob, re.I):
+            score = max(0, score - 55)
     return score
+
+
+_GENERIC_LINK_TEXT = re.compile(
+    r"^(?:course\s+lists?|link|here|click\s+here|download(?:\s+now)?|more|read\s+more)$",
+    re.I,
+)
 
 
 def _nearby_label(el: Tag) -> str:
     text = " ".join(el.get_text(" ", strip=True).split())
-    if text and text.lower() not in {"download now", "here", "link", "click here"}:
+    if text and not _GENERIC_LINK_TEXT.match(text):
         return text
+    # Generic anchor ("here"): use enclosing sentence / heading so scoring
+    # can see "Intellectual Breadth" / "Technical Electives" etc.
+    parent: Tag | None = el.find_parent(["p", "li", "td", "th", "div", "section"])
+    if parent is not None:
+        ctx = " ".join(parent.get_text(" ", strip=True).split())
+        if ctx and len(ctx) > len(text or ""):
+            # Keep enough context for scoring; slugify truncates later
+            return ctx[:180]
     node: Tag | None = el
     for _ in range(6):
         if node is None:
@@ -213,10 +336,7 @@ def find_supplement_links(
     found: list[tuple[int, str, str]] = []
     seen: set[str] = set()
     hub_candidates: list[tuple[int, str, str]] = []
-    generic_label = re.compile(
-        r"^(?:course\s+lists?|link|here|click\s+here|download(?:\s+now)?|more|read\s+more)$",
-        re.I,
-    )
+    generic_label = _GENERIC_LINK_TEXT
 
     def _consider(text: str, href: str, page_base: str) -> None:
         href = _unwrap_url((href or "").strip())
@@ -233,7 +353,8 @@ def find_supplement_links(
         if generic_label.match(label or ""):
             if not re.search(
                 r"drive\.google\.com/file/|docs\.google\.com/|spreadsheets/d/|"
-                r"\.pdf(?:$|\?)|approved|checklist|ulcs|capstone|elective",
+                r"\.pdf(?:$|\?)|\.xlsx(?:$|\?)|approved|checklist|ulcs|capstone|"
+                r"elective|worksheet|course-info|BCNWS",
                 absolute,
                 re.I,
             ):
@@ -289,6 +410,20 @@ def find_supplement_links(
             src = (el.get("data-source") or "").strip()
             if src:
                 _consider(_nearby_label(el), src, page_base)
+
+    # Prose-only pointers (e.g. Anthropology "department website" with no href)
+    for score, url, label in _implied_supplement_links(
+        html, major_name=major_name, is_submajor=is_submajor
+    ):
+        key = _norm_url(url)
+        if not key or key in seen or key == primary:
+            continue
+        if score >= _MIN_SCORE:
+            seen.add(key)
+            found.append((score, url, label))
+        else:
+            hub_candidates.append((score, url, label))
+            seen.add(key)
 
     # One-hop: mine hub pages for checklist / Drive / approved-list links
     for _score, hub_url, _text in hub_candidates[:3]:

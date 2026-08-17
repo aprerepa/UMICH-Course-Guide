@@ -1,0 +1,384 @@
+Biomedical Engineering Courses (BIOMEDE)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Biomedical Engineering Courses (BIOMEDE)
+Below are all of the courses that are available to be taken in BIOMEDE. Some courses may not be available every semester. Each course is listed in the following format:
+Subject Code and Course Number: Course Name
+If it is a cross listed class, the crosslist course subject and course number will be listed in parentheses
+Any advised or enforced prerequisites that should be taken before enrolling for the course
+A description of the course
+A link to the CourseProfile in ATLAS
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+200 Level Courses
+BIOMEDE 211. Circuits and Systems for Biomedical Engineering.
+Advisory Prerequisite: None.
+Enforced Prerequisite: (MATH 216 or MATH 256 or MATH 286) and (PHYSICS 240 or PHYSICS 260). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Students learn circuits and linear systems concepts necessary for analysis and design of biomedical systems. Theory is motivated by examples from biomedical engineering. Topics covered include electrical circuit fundamentals, operational amplifiers, frequency response, electrical transients, impulse response, transfer functions and convolution, all motivated by circuit and biomedical examples. Elements of continuous time domain-frequency domain analytical techniques are developed.
+CourseProfile (ATLAS)
+BIOMEDE 221. Biophysical Chemistry and Thermodynamics
+Advisory Prerequisite: BIOLOGY 172 or AP Biology Credit.
+Enforced Prerequisite: (CHEM 130 or CHEM 210) and (MATH 116 or MATH 121 or MATH 156 or MATH 186). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+The physio-chemical concepts and processes relevant to life. The emphasis lies on the molecular level. Topics: Biomimetics; Energy and Driving Forces; Biochemical Equilibria; Aqueous Solutions; Molecular Self-Assembly; Bio-electrochemistry; Biopolymers; Molecular Recognition and Binding Equilibria in Biology.
+CourseProfile (ATLAS)
+BIOMEDE 231. Introduction to Biomechanics
+Advisory Prerequisite: None. Enforced Prerequisite: (MATH 116 or MATH 121 or MATH 156 or MATH 186) and (PHYSICS 140 or PHYSICS 160). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+This course will provide students with an introduction to topics in biomechanics, including statics, dynamics, and deformable body mechanics, as they apply to biological tissues and systems.
+CourseProfile (ATLAS)
+BIOMEDE 241. Statistics, Computation, and Data Analysis for Biomedical Engineers
+Advisory
+Prerequisite: Concurrent or prior enrollment in MATH 116, MATH 156, or MATH 186 is recommended. Enforced Prerequisite: ENGR 101 or ENGR 151 or EECS 183 or EECS 180 or ROB 102. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+This course integrates the fundamentals of descriptive statistics, discrete and random distributions, hypothesis testing, regression, ANOVA and post-hoc tests with computation, data analysis and visualization to address real world biomedical problems. Engaged learning class sessions focus on applying statistical and computational methods to real data sets from biomedical engineering.
+CourseProfile (ATLAS)
+BIOMEDE 295. Biomedical Engineering Seminar
+Advisory and Enforced Prerequisite: None. (1 credit)
+Current research will be presented by faculty in the BME department.  The goal is to help students decide if they want to pursue a B.S. in BME or choose a different undergraduate major department as part of the SUGS program leading to an M.S. in BME.
+CourseProfile (ATLAS)
+300 Level Courses
+BIOMEDE 311. Biomedical Signals and Systems
+Advisory Prerequisite: MATH 217. Enforced Prerequisite: BIOMEDE 211 and BIOMEDE 231 and BIOMEDE 241 and (MATH 215 or MATH 285). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Theory and practice of signals and systems in both continuous and discrete time domains with examples from biomedical signal processing and control. Continuous-time linear systems convolution, steady-state responses, Fourier and Laplace transforms, transfer functions, poles and zeros, stability, sampling, feedback. Discrete-time linear systems: Z transform, filters, Fourier transform, signal processing.
+CourseProfile (ATLAS)
+BIOMEDE 321. Bioreaction Engineering and Design
+Advisory Prerequisite: None. Enforced Prerequisite: BIOMEDE 221. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course introduces topics in enzyme kinetics, enzyme inhibition, biochemical pathway engineering, mass and energy balance, cell growth and differentiation, cell engineering, bioreactor design, and analysis of the human body, organs, tissues, and cells as bioreactors.  The application of bioreaction/bioreactor principles to tissue engineering is also discussed.
+CourseProfile (ATLAS)
+BIOMEDE 331. Introduction to Biofluid Mechanics
+Advisory Prerequisite: None.
+Enforced Prerequisite: BIOMEDE 231 and (MATH 215 and MATH 216) or (MATH 285 and MATH 286). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Introduces the fundamentals of biofluid dynamics and continuum mechanics, and covers the application of these principles to variety of biological flows.  Fluid flow in physiology and biotechnology is investigated at a variety of scales, ranging from subcellular to whole body.
+CourseProfile (ATLAS)
+BIOMEDE 332. Introduction to Biosolid Mechanics
+Advisory Prerequisite: MATH 217
+.
+Enforced Prerequisite: BIOMEDE 231 and (MATH 215 or MATH 285) and (MATH 216 or MATH 286). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+This course covers the fundamentals of continuum mechanics and constitutive modeling relevant for biological tissues. Constitutive models covered include linear elasticity, nonlinear elasticity, viscoelasticity and poroelasticity. Structure-function relationships which link tissue morphology and physiology to tissue constitutive models will be covered for skeletal, cardiovascular, pulmonary, abdominal, skin, eye and nervous tissues.
+CourseProfile (ATLAS)
+BIOMEDE 350. Introduction to Biomedical Engineering Design
+Advisory
+Prerequisite: BIOMEDE 211 and BIOMEDE 221
+.
+Enforced Prerequisite: (ENGR 100 or ENGLISH 125) and (MATH 216 or MATH 256 or MATH 286) and (MATH 215 or MATH 285) and BIOMEDE 231 and BIOMEDE 241. Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Problem-based learning to introduce students to biomedical engineering design concepts, tools, and
+methodologies. Students will work in small groups and use virtual design and computational tools to propose and validate feasible solutions to real-world biomedical engineering problems with industrial and/or clinical relevance.
+CourseProfile (ATLAS)
+400 Level Courses
+BIOMEDE 410 (MATSCIE 410) (MACROMOL 410). Design and Applications of Biomaterials
+Advisory Prerequisite: None. Enforced Prerequisite: (MATSCIE 220 or MATSCIE 250) or graduate standing. Mi
+nimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Biomaterials and their physiological interactions. Materials used in medicine/dentistry: metals, ceramics, polymers, composites, resorbable, smart, natural materials. Material response/degradation: mechanical breakdown, corrosion, dissolution, leaching, chemical degradation, wear. Host responses: foreign body reactions, inflammation, wound healing, carcinogenicity, immunogenicity, cytotoxicity, infection, local/systemic effects.
+CourseProfile (ATLAS)
+BIOMEDE 417 (EECS 417). Electrical Biophysics
+Advisory Prerequisite: EECS 215 or EECS 314 or BIOMEDE 211. Enforced Prerequisite: BIOMEDE 211 or EECS 215 or EECS 314; No OP/F; and senior standing; or graduate standing. Minimum grade requirement of “C” for enforced prerequisite.
+(4 credits)
+Electrical biophysics of nerve and muscle; electrical conduction in excitable tissue; quantitative models for nerve and muscle including the Hodgkin Huxley equations; biopotential mapping, cardiac electrophysiology and functional electrical stimulation; group projects.
+CourseProfile (ATLAS)
+BIOMEDE 418. Quantitative Cell Biology
+Advisory
+Prerequisite: MATH 216 or MATH 256 or MATH 286 and PHYSICS 240. Enforced Prerequisite: BIOMEDE 221. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course introduces the fundamentals of cell structure and functioning. The goal is to provide a general background in cell biology, with emphasis placed on physical aspects that are of particular interest to engineers.
+CourseProfile (ATLAS)
+BIOMEDE 419. Quantitative Physiology
+Advisory Prerequisite: None. Enforced Prerequisite: BIOMEDE 221. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Quantitative Physiology provides learning opportunities for senior undergraduate and graduate students to understand and develop competencies in a quantitative, research oriented, systems approach to physiology.  Systems examined include cellular; musculoskeletal; cardiovascular; respiratory; endocrine; gastrointestinal; and renal.  Mathematical models and engineering analyses are used to describe system performance where applicable.
+CourseProfile (ATLAS)
+BIOMEDE 424. (MECHENG 424) Engineering Acoustics
+Advisory Prerequisite: MATH 216 and PHYSICS 240. Enforced Prerequisite: None. (3 credits)
+Vibrating systems; acoustic wave equation; plane and spherical waves in fluid media; reflection and transmission at interfaces; propagation in lossy media; radiation and reception of acoustic waves; pipes, cavities and waveguides; resonators and filters; noise; selected topics in physiological, environmental and architectural acoustics.
+CourseProfile (ATLAS)
+BIOMEDE 430. Rehabilitation Engineering and Assistive Technology
+Advisory Prerequisite: Previous or simultaneous registration in IOE 333 or IOE 433 or instructor approval. Enforced Prerequisite: None. (3 credits)
+This is a lecture course, which surveys the design and application of rehabilitation engineering and assistive technologies in a wide range of areas, including wheeled mobility, seating and positioning, environmental control, computer access, augmentative communication, sensory aids, as well as emerging technologies.
+CourseProfile (ATLAS)
+BIOMEDE 442. Introduction to Biomedical Imaging
+Advisory Prerequisite: None.
+Enforced Prerequisite: (ENGR 101 or ENGR 151) or (EECS 180 or EECS 183 or EECS 280). Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course is an introduction course on biomedical imaging for undergrad and MS students. The topics cover all major imaging modalities, such as ultrasound, MRI, optical imaging, X-ray, computed tomography (CT), and nuclear imaging. This course will include lectures and visits to imaging laboratories and the UM hospital.
+CourseProfile (ATLAS)
+BIOMEDE 450. Biomedical Design
+Advisory
+Prerequisite: Senior standing. Enforced Prerequisite: BIOMEDE 350 and BIOMEDE 458. Minimum grade requirement of “C-” for enforced prerequisite. Credit
+Exclusions: Credit for only one: BIOMEDE 450 or BIOMEDE 451.
+(4 credits)
+Interdisciplinary groups carry out biomedical instrumentation design projects. Students are exposed to
+design process: problem definition, generation of specifications, documentation, review process, prototype fabrication, & testing. Students may receive credit for either 450 or 451. Projects are overseen and graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+BIOMEDE 451. Biomedical Engineering Design, Part I
+Advisory
+Prerequisite: BIOMEDE 458. Enforced Prerequisite: BIOMEDE 350 and senior standing. Minimum grade requirement of “C-” for enforced prerequisite.
+Credit
+Exclusions: Credit for only one: BIOMEDE 450 or BIOMEDE 451.
+(3 credits)
+Two semester course – Interdisciplinary groups design-build-test biomedical instrumentation projects. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations. Students are exposed to the entire design process: design, problem definition, generation of a design specification, documentation, design review process, prototype fabrication, testing, and calibration.
+CourseProfile (ATLAS)
+BIOMEDE 452. Biomedical Engineering Design, Part II
+Advisory
+Prerequisite: Senior standing. Enforced Prerequisite: BIOMEDE 350, BIOMEDE 451, and BIOMEDE 458.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Two semester course – Interdisciplinary groups design-build-test biomedical instrumentation projects. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations. Students are exposed to the entire design process: design, problem definition, generation of a design specification, documentation, design review process, prototype fabrication, testing, and calibration.
+CourseProfile (ATLAS)
+BIOMEDE 456 (MECHENG 456). Modeling in Biosolid Mechanics
+Advisory Prerequisite: MECHENG 211 and MECHENG 240. Enforced Prerequisite: (BIOMEDE 231 or MECHENG 211) and (BIOMEDE 332 or MECHENG 382). (3 credits)
+Definition of biological tissue and orthopaedic device mechanics including elastic, viscoelastic and non-linear elastic behavior.  Emphasis on structure function relationships.  Overview of tissue adaptation and the interaction between tissue mechanics and physiology.
+CourseProfile (ATLAS)
+BIOMEDE 458 (EECS 458). Biomedical Instrumentation and Design
+Advisory Prerequisite: None. Enforced Prerequisite: BIOMEDE 211 or (EECS 215 or EECS 314) or graduate standing.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Students design and construct functioning biomedical instruments. Hardware includes instrumentation amplifiers and active filters constructed using operational amplifiers. Signal acquisition, processing analysis and display are performed. Project modules include measurement of respiratory volume and flow rates, biopotentials (electrocardiogram), and optical analysis of arterial blood oxygen saturation (pulse-oximetry).
+CourseProfile (ATLAS)
+BIOMEDE 464 (MATH 464). Inverse Problems
+Advisory Prerequisite: MATH 214, MATH 217, MATH 417, or MATH 419; and MATH 216, MATH 256, MATH 286, or MATH 316. Enforced Prerequisite: None. (3 credits)
+Mathematical concepts used in the solution of inverse problems and analysis of related forward operators is discussed. Topics include ill-posedness, singular-value decomposition, generalized inverses, and regularization. Inverse problems considered (e.g., tomography, inverse scattering, image restoration, inverse heat conduction) are problems in biomedical engineering with analogs throughout science and engineering.
+CourseProfile (ATLAS)
+BIOMEDE 474. Introduction to Tissue Engineering
+Advisory Prerequisite: BIOMEDE 410, senior standing or permission of instructor. Enforced Prerequisite: None. (3 credits)
+This course focuses on understanding the principles of tissue engineering and regenerative medicine. Emphasis is on the components and design criteria of tissue engineering constructs. The course will cover multiple examples of engineering soft and hard tissue, and application of new technologies in regenerative medicine.
+CourseProfile (ATLAS)
+BIOMEDE 476 (MECHENG 476). Biofluid Mechanics
+Advisory Prerequisite: BIOMEDE 331 or MECHENG 320 or CHE 341. Recommended BIOMEDE 221. Enforced Prerequisite: None. (4 credits)
+This is an intermediate level fluid mechanics course which uses examples from biotechnology processes and physiologic applications, including the cardiovascular, respiratory, ocular, renal, musculo-skeletal and gastrointestinal systems.
+CourseProfile (ATLAS)
+BIOMEDE 479. Biotransport
+Advisory Prerequisite: MATH 216, BIOMEDE 331, or MECHENG 320, or permission of instructor. Enforced Prerequisite: (MATH 216, MATH 286 or MATH 396) and BIOMEDE 331.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Fundamentals of mass transport as it relates to biomedical systems. Convection, diffusion, osmosis and conservation of momentum, mass and energy will be applied to cellular and organ level transport. Examples of diffusion combined with reaction will also be examined.
+CourseProfile (ATLAS)
+BIOMEDE 484 (NERS 484). Radiological Health Engineering Fundamentals
+Advisory Prerequisite: None. Enforced Prerequisite: NERS 320 or MATH 216 or MATH 256 or MATH 286; or graduate standing;
+No OP/F.
+Minimum grade requirement of “C” for enforced prerequisite
+.
+Credit Exclusion: Only one course may earn credit from NERS/BIOMEDE 484 and NERS/BIOMEDE 582.
+(3 credits)
+Fundamental physics behind radiological health engineering and topics in quantitative radiation protection. Radiation quantities and measurement, regulations and enforcement, external and internal dose estimation, radiation biology, radioactive waste issues, radon gas, emergencies and wide variety of radiation sources from health physics perspective.
+CourseProfile (ATLAS)
+BIOMEDE 487. Artificial Intelligence in Biomedical Engineering
+Advisory
+Prerequisite
+:
+Linear Algebra and BIOMEDE 241
+.
+Enforced Prerequisite: (BIOLOGY 172 or BIOLOGY 174 or BIOLOGY 195) and (MATH 116 or MATH 121) AND (ENGR 101 or ENGR 151 or EECS 183 or EECS 180) or graduate standing
+.
+M
+inimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Introduces AI tools and applies them to real-world biomedical problems. Will cover a wide range of AI and machine-learning tools, biomedical data sets and disease applications. The focus will be on practical applications of AI in BME with hands-on tutorials and a design project.
+CourseProfile (ATLAS)
+BIOMEDE 490. Directed Research
+Advisory and Enforced Prerequisite: None. (1-4 credits)
+Provides an opportunity for undergraduate students to perform directed research devoted to Biomedical Engineering.
+CourseProfile (ATLAS)
+BIOMEDE 495 (AMES 495). Introduction to Bioengineering
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1 credit)
+Definition of scope, challenge, and requirements of the bioengineering field. Faculty members review engineering-life sciences interdisciplinary activities as currently pursued in the College of Engineering and Medical School.
+CourseProfile (ATLAS)
+BIOMEDE 499. Special Topics
+Advisory and Enforced Prerequisite: None. (1-4 credits)
+Topics of special interest selected by faculty. Lecture, seminar or laboratory.
+CourseProfile (ATLAS)
+500 Level Courses
+BIOMEDE 500 (UC 500). Biomedical Engineering Seminar
+Advisory and Enforced Prerequisite: None.
+(1 credit)
+This seminar will feature various bioengineering-related speakers.
+CourseProfile (ATLAS)
+BIOMEDE 502. Professional Skills for Graduate Success
+Advisory Prerequisite: None.
+Enforced Prerequisite: Graduate standing. (1 credit)
+Give an orientation to the BME PhD program, help students understand expectations of BME PhD
+students, and provide introductions to key concepts and skills (e.g., citation manager usage, communication etiquette) that will be helpful as BME PhD students.
+CourseProfile (ATLAS)
+BIOMEDE 503. Statistical Methods for Biomedical Engineering
+Advisory Prerequisite: Graduate standing or permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+This course will cover descriptive statistics, probability theory, distributions for discrete and continuous variables, hypothesis testing and analysis of variance, as well as more advanced topics. We will make connections with real problems from engineering, biology and medicine, and computational tools will be used for examples and assignments.
+CourseProfile (ATLAS)
+BIOMEDE 504 (ANATOMY 504) (BIOLCHEM 504) MICRBIOL 504). Cellular Biotechnology
+Advisory Prerequisite: Graduate standing or consent of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+Biotechnology is a rapidly evolving, multi-disciplinary field that impacts nearly every aspect of our daily lives from the food we eat to the medicine we take. This course covers basic scientific and engineering principles behind this growing field, along with entrepreneurial aspects of translating innovative biotechnological solutions into new products.
+CourseProfile (ATLAS)
+BIOMEDE 506 (MECHENG 506). Computational Modeling of Biological Tissues
+Advisory Prerequisite: MECHENG 511 or equivalent or permission of instructor. Enforced Prerequisite: None. (3 credits)
+Biological tissues have multiple scales and can adapt to their physical environment. This course focuses on visualization and modeling of tissue physics and adaptation. Examples include electrical conductivity of heart muscle and mechanics of hard and soft tissues. Homogenization theory is used for multiple scale modeling.
+CourseProfile (ATLAS)
+BIOMEDE 509 (CHE 509) (MACROMOL 509) (MATSCIE 509). Advanced Biomaterials
+Advisory Prerequisite: MATSCIE 220 or MATSCIE 250. Enforced Prerequisite: None. (3 credits)
+Applications of biomaterials in implants, regenerative medicine, tissue engineering, and drug delivery systems will be covered. Principles of biomaterials incorporating contemporary research related to rational design strategies for biomaterials, their processing and fabrication, biomimetics, immunomodulation, degradation, and in vivo responses will be included.
+CourseProfile (ATLAS)
+BIOMEDE 510. Medical Imaging Laboratory
+Advisory Prerequisite: None. Enforced Prerequisite: BIOMEDE 516 or permission of instructor. Minimum grade requirement of “B” for enforced prerequisite
+.
+(3 credits)
+This course provides the student practical, hands-on experience with research grade, medical imaging systems including x-ray, magnetic resonance, nuclear medicine, and ultrasound. Participants rotate through each of the respective areas and learn about and perform experiments to support previous theoretical instruction.
+CourseProfile (ATLAS)
+BIOMEDE 514. Systems Biology of Human Disease
+Advisory Prerequisite: BIOLOGY 172. Enforced Prerequisite: (BIOMEDE 221 and BIOMEDE 418) or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite
+.
+(3 credits)
+An introduction of skills and concepts necessary for the application of systems-biology approaches to human diseases. Emphasis placed on developing a recipe for maintenance of homeostasis for normal function of various organs. Students analyze complex disease states using engineering principles and use engineering concepts to arrive at disease solutions. After the completion of the course, each student is able to develop a research outline that could form the core of a systems-based engineering solution for a particular human disease.
+CourseProfile (ATLAS)
+BIOMEDE 516 (ECE 516). Medical Imaging Systems
+Advisory
+Prerequisite: EECS 351. Enforced Prerequisite: None. (3 credits)
+Principles of modern medical imaging systems. For each modality the basic physics is described, leading to a systems model of the imager. Fundamental similarities between the imaging equations of different modalities will be stressed. Modalities covered include radiography, x-ray computed tomography (CT), NMR imaging (MRI) and real-time ultrasound.
+CourseProfile (ATLAS)
+BIOMEDE 517. Sensing & Machine Learning for Neural Interfaces
+Advisory Prerequisite: None. Enforced Prerequisite: (BIOMEDE 211 or EECS 215 or EECS 314) and (EECS 216) and (MATH 216) and (ENGR 101 or EECS 183 or EECS 180 or EECS 280); No OP/F; or graduate standing. Minimum grade requirement of “B” for enforced prerequisite. (4 credits)
+Focuses on techniques for interfacing with the human nervous system to obtain control signals for assistive technologies. Students first implement quantitative models of neural recording and stimulation. Then students apply machine learning techniques to extract control signals from large neural datasets. This course has a flipped format with classtime dedicated to help with code implementation. Real datasets from brain machine interfaces and nerve/muscle controlled prostheses will be used throughout the course.
+CourseProfile (ATLAS)
+BIOMEDE 519 (PHYSIOL 519). Quantitative Physiology
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing. (4 credits)
+Provides learning opportunities for graduate students to understand and develop competencies in a quantitative, research oriented, systems and approach to physiology. Systems examined include: musculoskeletal; cardiovascular; respiratory, endocrine; gastrointestinal; and renal. Mathematical models and engineering analyses are used to describe system performance where applicable.
+CourseProfile (ATLAS)
+BIOMEDE 522. Biomembranes: Transport and Signaling
+Advisory Prerequisite: BIOLOGY 310 and BIOMEDE 221 and CHEM 210 or permission of instructor. Enforced Prerequisite: None. (3 credits)
+This course focuses on the biochemistry and biophysics of transport and signaling processes through biomembranes and on the relevance of these processes for disease and therapy. The course discusses topics including composition of biomembranes; fluidity and self-assembly of lipids; membrane proteins; membrane potential; signal transduction.
+CourseProfile (ATLAS)
+BIOMEDE 523 (BA 518) (HMP 630) (PHRMACOL 620) (ENGR 523). Business of Biology
+Advisory and Enforced Prerequisite: None. (2.25 credits)
+Advances in life science research have enhanced our understanding of the human genome, human genetic variation, and the role that genes play in our everyday health, response to treatment and susceptibility to disease. This new frontier in genomic medicine ushers in both opportunity and peril for individuals, companies and societies. The objective in this interdisciplinary graduate course is to explore the intersections between science, technology, commerce and social policy as they come together to advance (and in some cases retard) progress toward more-personalized health care. The course is intended for graduate students in medicine, biomedical and  health-related science, public health, law, engineering, and business interested in the future of health care. Due to variation in student backgrounds coming into the course, efforts are made to establish a shared vocabulary and knowledge base across the disciplines. Interdisciplinary student teams are assigned to a group research project which is presented at the end of the course.
+CourseProfile (ATLAS)
+BIOMEDE 525 (MICRBIOL 525). Cellular and Molecular Networks
+Advisory Prerequisite: BIOLOGY 105 or BIOLOGY 112 and MATH 215. Enforced Prerequisite: None. (3 credits)
+This course is designed to equip the student with appropriate concepts and techniques for the quantitative analysis of the integrated behavior of complex biochemical systems. A general approach is developed from the basic postulates of enzyme catalysis and is illustrated with numerous specific examples, primarily from the microbial cell.
+CourseProfile (ATLAS)
+BIOMEDE 527. Current Topics in Neuromodulation
+Advisory Prerequisite: None. Enforced Prerequisite: BIOMEDE 417 or graduate status
+.
+Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+We will review current findings in neuromodulation, focusing on important recent work and seminal results. Engineering considerations common to electrical implants will be discussed, such as electrode measurement and design, packaging and circuits, and modeling of electrical fields and neurons.
+CourseProfile (ATLAS)
+BIOMEDE 530. Rehabilitation Engineering and Assistive Technology Laboratory
+Advisory Prerequisite: Previous or simultaneous registration in BIOMEDE 430. Enforced Prerequisite: None. (1 credit)
+This is a lab course which provides hands-on experience in the use of assistive technologies and in-depth consideration of rehabilitation engineering research and design of assistive technologies for a wide range of areas, including environmental control, computer access, augmentative communication, wheeled mobility, sensory aids and seating and positioning.
+CourseProfile (ATLAS)
+BIOMEDE 533 (MOVESCI 533). Neuromechanics
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing. (3 credits)
+This graduate course examines the structural and physiologic properties of muscle, as well as its force
+production, and overall biomechanical function. Muscle structure and neuromuscular function will be explored at the neural, protein, single fiber, and whole tissue levels.
+CourseProfile (ATLAS)
+BIOMEDE 534 (IOE 534) (MFG 534). Occupational Biomechanics
+Advisory Prerequisite: IOE 333 or IOE 433/EHS 556. Enforced Prerequisite: None. (3 credits)
+Anatomical and physiological concepts are introduced to understand and predict human motor capabilities, with particular emphasis on the evaluation and design of manual activities in various occupations. Quantitative models are developed to explain: (1) muscle strength performance; (2) cumulative and acute musculoskeletal injury; (3) physical fatigue; and (4) human motion control.
+CourseProfile (ATLAS)
+BIOMEDE 536. Mechanobiology
+Advisory Prerequisite: None. Enforced Prerequisite:
+Senior Standing and BIOMEDE 418 and BIOMEDE 419; or
+Graduate standing.
+Minimum grade requirement of “C” for enforced prerequisite.
+(3 credits)
+Adherent cells sense mechanical forces arising from their microenvironment (ie. mechanosensing) and convert these cues into biochemical signals that modulate cell behavior (ie. mechanotransduction). Students take a deep and historic dive into this topic through discussion of seminal works that have shaped the understanding of mechanosensing and mechanotransduction, and recent papers highlighting therapeutic approaches targeting mechanobiological processes.
+CourseProfile (ATLAS)
+BIOMEDE 537. Computational Tools for Genomic Technologies
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing. (3 credits)
+Understanding how to read sequencing datasets is crucial for researchers seeking to glean insights into their own experiments, and to generate data-driven hypotheses. The overarching goal of this class is to develop an understanding of foundational methods in bioinformatics to enable engineering students to process, contextualize and visualize basic high-throughput sequencing experiments with a focus on RNA and gene expression. Undergraduates may enroll with instructor permission.
+CourseProfile (ATLAS)
+BIOMEDE 550. Ethics and Enterprise
+Advisory and Enforced Prerequisite: None. (1 credit)
+Ethics, technology transfer, and technology protection pertaining to Biomedical Engineering are studied.  Ethics issues range from the Biomedical Engineering are studied.  Ethics issues range from the proper research conduct to identifying and managing conflicts of interest.  Technology transfer studies the process and its indulgence on relationships between academia and industry.
+CourseProfile (ATLAS)
+BIOMEDE 551 (BIOINF 551) (CHEM 551) (BIOILCHEM 551) (PATH 551). Proteome and Metabolome Informatics
+Advisory Prerequisite: The course is fundamentally interdisciplinary.  Undergraduate biochemistry and calculus, or permission of instructor. Enforced Prerequisite: None. (3 credits)
+Introduction to proteomics and metabolomics, mass spectrometry, peptide identification and protein inference, statistical methods and computational algorithms, post-translational modifications, genome annotation and alternative splicing, quantitative proteomics and differential protein expression analysis, protein-protein interaction networks and protein complexes, targeted and untargeted metabolomics and lipidomics, data mining and analysis of large-scale data sets, clinical applications, data integration and systems biology.
+CourseProfile (ATLAS)
+BIOMEDE 552. Biomedical Optics
+Advisory Prerequisite: MATH 216. Enforced Prerequisite: None. (3 credits)
+This course provides students with an understanding of current research in biomedical optics. Topics include: fundamental theoretical principles of tissue optics; computational approaches to light transport in tissues; optical instrumentation; an overview of applications in clinical optical diagnostics and laser-based therapy; an introduction to biomedical microscopy and applications in biophotonic technology.
+CourseProfile (ATLAS)
+BIOMEDE 556. Molecular and Cellular Biomechanics
+Advisory Prerequisite: Graduate standing or permission of instructor. Enforced Prerequisite: None. (3 credits)
+This course will focus on how biomechanical and biophysical properties of sub-cellular structures can be determined and interpreted to reveal the workings of biological nano-machines.
+CourseProfile (ATLAS)
+BIOMEDE 561. Biological Micro-and Nanotechnology
+Advisory Prerequisite: BIOLOGY 162, introductory PHYSICS and CHEM, senior standing or permission of instructor. Enforced Prerequisite: None. (3 credits)
+Many life processes occur at small size-scales. This course covers scaling laws, biological solutions to coping with or taking advantage of small size, micro- and nanofabrication techniques, biochemistry and biomedical applications (genomics, proteomics, cell biology, diagnostics, etc.). There is an emphasis on micro fluidics, surface science and non-traditional fabrication techniques.
+CourseProfile (ATLAS)
+BIOMEDE 563 (CHE 563) (MATSCIE 563). Biomolecular Engineering of Interfaces
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+This class focuses on biomolecular engineering of surfaces and interfaces in contact with biological systems. Recent advances in the interfacial design of materials as well as methods that enable studying such systems will be highlighted.
+CourseProfile (ATLAS)
+BIOMEDE 574. Cells in Their Environment
+Advisory Prerequisite: Graduate standing or permission of instructor. Enforced Prerequisite: None. (3 credits)
+This course focuses on how mammalian cells interact with the complex 3D environment that surrounds them in tissues. The goal is to provide students with a thorough understanding of how cell function is controlled and how this knowledge can be applied to the prevention and treatment of disease.
+CourseProfile (ATLAS)
+BIOMEDE 580 (NERS 580). Computation Projects in Radiation Imaging
+Advisory Prerequisite: Preceded or accompanied by NERS 481. Enforced Perquisite: None. (1 credit)
+Computational projects illustrate principles of radiation imaging from NERS 481 (BIOMEDE 481). Students will model the performance of radiation systems as a function of design variables. Results will be in the form of computer displayed images. Students will evaluate results using observer experiments. Series of weekly projects are integrated to describe the performance of imaging systems.
+CourseProfile (ATLAS)
+BIOMEDE 582 (NERS 582). Medical Radiological Health Engineering
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing.
+Credit Exclusion: Only one course may earn credit from NERS/BIOMEDE 484 and NERS/BIOMEDE 582.
+(3 credits)
+Fundamental approaches to radiation protection in radiology nuclear medicine, radiotherapy, and research environments at medical facilities.  Topics presented include health effects, radiation dosimetry and dose estimation, quality control of imaging equipment, regulations, licensing and health physics program.
+CourseProfile (ATLAS)
+BIOMEDE 584 (CHE 584) (BIOMATLS 584). Advances in Tissue Engineering
+Advisory
+Prerequisite: Graduate standing. Enforced Prerequisite: None. (3 credits)
+Fundamental engineering and biological principles underlying field of tissue engineering are studied, along with specific examples and strategies to engineer specific tissues for clinical use (e.g., skin). Student design teams propose new approaches to tissue engineering challenges.
+CourseProfile (ATLAS)
+BIOMEDE 588 (CHE 588). Global Quality Systems and Regulatory Innovation
+Advisory
+Prerequisite: Senior and graduate students enrolled in the CoE and health related professional schools. Enforced Prerequisite: None. (2 credits)
+This course is for scientists, engineers, and clinicians to understand and interpret various relevant global and regional quality systems for traditional and cutting edge global health technologies, solutions and their implementation. Speakers from academia, the FDA, and biomedical related industries will be invited to participate in teaching this course.
+CourseProfile (ATLAS)
+BIOMEDE 590. Directed Research
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1-16 credits)
+Provides opportunity for Biomedical Engineering students to participate in the work of laboratories devoted to living systems studies.
+CourseProfile (ATLAS)
+BIOMEDE 591. Thesis
+Advisory Prerequisite: 2 hours of BIOENG 590. Enforced Prerequisite: None. (1-16 credits)
+To be elected by bioengineering students pursuing the master’s thesis option. May be taken more than once up to a total of 6 credit hours. Graded on a satisfactory/unsatisfactory basis only.
+CourseProfile (ATLAS)
+BIOMEDE 594. Recent Advances in Polymer Therapeutics
+Advisory Prerequisite: BIOMEDE 410, senior standing, or permission of instructor. Enforced Prerequisite: None. (3 credits)
+The course will review the basic principles of polymer science and controlled drug delivery. The course will discuss specific examples of biopolymer applications in protein, peptide, nucleic acids, vaccine delivery and the formulation of nanostructured devices and their application in targeted delivery of therapeutic and imaging agents.
+CourseProfile (ATLAS)
+BIOMEDE 596 (CHE 596) (PHARMSCI 596). Health Science and Engineering Seminar
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (1 credit)
+This seminar will feature invited speakers from pharmaceutical, biomedical and other life sciences-related industries and academic institutions.
+CourseProfile (ATLAS)
+BIOMEDE 599. Special Topics I, II
+Advisory and Enforced Prerequisite: None. (1-6 credits)
+Topics of current interest selected by the faculty. Lecture, seminar or laboratory.
+CourseProfile (ATLAS)
+600 Level Courses
+BIOMEDE 616 (CHE 616). Analysis of Chemical Signaling
+Advisory Prerequisite: MATH 216 and BIOLCHEM 415. Enforced Prerequisite: None. (3 credits)
+Quantitative analysis of chemical signaling systems, including receptor/ligand binding and trafficking, signal transduction and second messenger production and cellular responses such as adhesion and migration.
+CourseProfile (ATLAS)
+BIOMEDE 646 (MECHENG 646) (ROB 646). Locomotion Mechanics and Design/Control of Wearable Robotic Systems
+Advisory Prerequisite: MECHENG 540, (AEROSP 540) or MECHENG 543, or equivalent.
+Enforced Prerequisite: None.
+(3 credits)
+Analyze, understand, and model human locomotion, as well as develop bio-inspired assistive technologies and assess their impact. We will learn about the human machine – the sensing, acting, and reasoning of components of the human neuromusculoskeletal systems, as well as how to replicate this functionality with traditional approaches from robotics, including modeling, machine design, mechatronics, and control.
+CourseProfile (ATLAS)
+BIOMEDE 651. Biomedical Engineering Product Realization Practicum I
+Advisory Prerequisite: Background in engineering or a physical science, including familiarity with engineering design processes
+.
+Enforced Prerequisite: Graduate standing.
+(2 credits)
+Graduate Design-Build-Test practicum for students in the medical product development program. Focus
+is on identification and solution of an existing clinical problem, using engineering design and product
+development concepts. Continues in Winter term with BME-PRP II.
+CourseProfile (ATLAS)
+BIOMEDE 652. Biomedical Engineering Product Realization Practicum II
+Advisory Prerequisite: Background in engineering or a physical science, including familiarity with engineering design processes
+.
+Enforced Prerequisite: BIOMEDE 651; No OP P/F; and graduate standing
+.
+Minimum g
+
+[truncated supplement]

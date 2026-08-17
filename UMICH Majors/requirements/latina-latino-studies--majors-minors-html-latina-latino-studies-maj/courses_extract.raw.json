@@ -1,0 +1,12 @@
+{
+  "id": "latina-latino-studies",
+  "displayName": "Latina/Latino Studies",
+  "requirementGroups": {
+    "Core course": [
+      "AMCULT 300"
+    ],
+    "Capstone": [
+      "AMCULT 498"
+    ]
+  }
+}

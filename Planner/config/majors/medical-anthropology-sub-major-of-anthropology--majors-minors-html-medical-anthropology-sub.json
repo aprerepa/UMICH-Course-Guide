@@ -1,0 +1,26 @@
+{
+  "id": "medical-anthropology-sub-major-of-anthropology--majors-minors-html-medical-anthropology-sub",
+  "displayName": "Medical Anthropology (Sub-major of Anthropology)",
+  "requirementGroups": {
+    "Anthropological Archaeology": [
+      "ANTHRARC 282",
+      "ANTHRARC 386"
+    ],
+    "Biological Anthropology": [
+      "ANTHRBIO 201"
+    ],
+    "Linguistic Anthropology": [
+      "ANTHRCUL 272",
+      "ANTHRCUL 374"
+    ],
+    "Sociocultural Anthropology": [
+      "ANTHRCUL 222",
+      "ANTHRCUL 226",
+      "ANTHRCUL 230",
+      "ANTHRCUL 330"
+    ],
+    "Medical Anthropology Sub-Major": [
+      "ANTHRCUL 344"
+    ]
+  }
+}

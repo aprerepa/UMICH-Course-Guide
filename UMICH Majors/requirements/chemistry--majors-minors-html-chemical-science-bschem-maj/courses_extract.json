@@ -1,0 +1,95 @@
+{
+  "id": "chemistry--majors-minors-html-chemical-science-bschem-maj",
+  "displayName": "Chemistry",
+  "requirementGroups": {
+    "Prerequisites": [
+      "CHEM 125",
+      "CHEM 126",
+      "CHEM 130",
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 150",
+      "PHYSICS 151",
+      "PHYSICS 160",
+      "PHYSICS 161",
+      "PHYSICS 139",
+      "PHYSICS 240",
+      "PHYSICS 241",
+      "PHYSICS 250",
+      "PHYSICS 251",
+      "PHYSICS 260",
+      "PHYSICS 261",
+      "PHYSICS 239",
+      "MATH 115",
+      "MATH 120",
+      "MATH 116",
+      "MATH 121",
+      "CHEM 262",
+      "MATH 215",
+      "MATH 216",
+      "MATH 217"
+    ],
+    "Introductory Courses": [
+      "CHEM 210",
+      "CHEM 211",
+      "CHEM 241",
+      "CHEM 242",
+      "CHEM 230",
+      "CHEM 261",
+      "CHEM 260",
+      "CHEM 302",
+      "CHEM 303"
+    ],
+    "Advanced Lecture Courses": [
+      "CHEM 215",
+      "CHEM 351",
+      "CHEM 402",
+      "CHEM 447",
+      "CHEM 461",
+      "CHEM 463"
+    ],
+    "Advanced Laboratory Courses": [
+      "CHEM 216",
+      "CHEM 436",
+      "CHEM 462",
+      "CHEM 482",
+      "CHEM 483"
+    ],
+    "Electives": [
+      "CHEM 351",
+      "CHEM 352",
+      "CHEM 353",
+      "CHEM 399",
+      "CHEM 402",
+      "CHEM 419",
+      "CHEM 420",
+      "CHEM 421",
+      "CHEM 425",
+      "CHEM 436",
+      "CHEM 447",
+      "CHEM 451",
+      "CHEM 453",
+      "CHEM 455",
+      "CHEM 461",
+      "CHEM 462",
+      "CHEM 463",
+      "CHEM 465",
+      "CHEM 474",
+      "CHEM 482",
+      "CHEM 483",
+      "CHEM 499",
+      "CHEM 511",
+      "CHEM 515",
+      "CHEM 538"
+    ]
+  },
+  "openGroups": {
+    "Electives": {
+      "subjects": [
+        "CHEM"
+      ],
+      "minLevel": 300,
+      "exclude": []
+    }
+  }
+}

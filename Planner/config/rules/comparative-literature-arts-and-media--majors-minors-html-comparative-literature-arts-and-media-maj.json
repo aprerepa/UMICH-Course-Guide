@@ -1,0 +1,17 @@
+{
+  "id": "comparative-literature-arts-and-media--majors-minors-html-comparative-literature-arts-and-media-maj",
+  "displayName": "Comparative Literature, Arts, and Media",
+  "groupRules": {
+    "Comparative Literature Core": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Capstone Seminar": {
+      "require": "COMPLIT 495",
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "pure-mathematics-sub-major-of-mathematics--pure-mathematics-html",
+  "displayName": "Pure Mathematics (Sub-major of Mathematics)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          {
+            "allOf": [
+              {
+                "anyOf": [
+                  "MATH 205",
+                  "MATH 215",
+                  "MATH 285",
+                  "MATH 295"
+                ]
+              },
+              "MATH 217"
+            ]
+          },
+          {
+            "allOf": [
+              "MATH 295",
+              "MATH 296"
+            ]
+          }
+        ]
+      }
+    },
+    "Modern Algebra": {
+      "require": {
+        "anyOf": [
+          "MATH 312",
+          "MATH 412",
+          "MATH 493"
+        ]
+      },
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Differential Equations": {
+      "require": {
+        "anyOf": [
+          "MATH 286",
+          "MATH 316"
+        ]
+      },
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Analysis": {
+      "require": {
+        "anyOf": [
+          "MATH 351",
+          "MATH 451"
+        ]
+      },
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Geometry/Topology": {
+      "require": {
+        "anyOf": [
+          "MATH 431",
+          "MATH 433",
+          "MATH 490",
+          "MATH 590"
+        ]
+      },
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Elective Courses": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

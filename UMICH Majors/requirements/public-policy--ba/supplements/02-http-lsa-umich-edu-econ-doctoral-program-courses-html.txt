@@ -1,0 +1,279 @@
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+About Us
+People
+Seminars
+News and Events
+Commencement & Graduation
+Contact Us
+for
+Undergraduates
+Doctoral Program
+Master of Applied Economics
+MITRE
+Research Seminar in Quantitative Economics
+CJARS
+Research
+Economics Subfields at Michigan
+Alumni & Friends
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Keyword Search of econ
+About Us
+People
+Seminars
+News and Events
+Commencement & Graduation
+Contact Us
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+for
+Undergraduates
+Doctoral Program
+Masters Program
+MITRE
+RSQE
+CJARS
+Research
+Subfields
+Alumni & Friends
+Academic Resources & Policies
+Commencement & Graduation
+Events for Economics Majors
+Honors
+Undergraduate Student Groups
+Advising
+Courses
+FAQ
+Requirements for the Major and Minor
+Awards & Scholarships
+Email Group
+Featured Alumni
+Transfer Students, Credits, & Study Abroad
+Awards & Fellowships
+Graduate Student Research
+Past Job Market Placements
+Links for Current PhD Students
+Courses
+Featured Alumni
+PhD Application Process
+Graduate Student Groups
+Joint Programs
+Job Market Candidates
+PhD Application FAQs
+Commencement & Graduation
+Core Coursework
+MAE Application Process
+MAE Student Advising
+Graduate Economics Society
+Program Requirements
+MAE Alumni
+MAE Student Spotlights
+About Us
+Economic Impact Analyses
+Staff
+Contact Us
+Economic Outlook Conference
+Related Links
+Forecasts
+Subscriptions
+Demographics and Long-Term Forecasts
+Staff
+Economics Research in the Department
+Field Research Seminars
+U-M Community of Economists
+Economics Research at U-M
+Foster Library
+Economics Subfields at Michigan
+Economics Resource Links
+Research Seminar in Quantitative Economics
+Microeconomic Theory
+International Economics
+Industrial Organization
+Health Economics
+Behavioral and Experimental Economics
+Macroeconomics
+Public Finance
+Development Economics
+Economics of Education
+Law and Economics
+Econometrics
+Labor Economics
+Economic History
+Economics of Crime and Punishment
+Gift Giving
+The W.S. Woytinsky Lecture
+Econ Mentoring (Formerly EARN)
+Opportunities to Engage
+U-M Resource Links
+Celebrating Jim Adams
+Economics Leadership Council (ELC)
+In Memoriam
+Skip to Page Content
+Doctoral Program
+Courses
+...
+Courses
+Doctoral Program
+[X] close
+Doctoral Program
+Awards & Fellowships
+Courses
+Embedded MA in Economics
+Joint Programs
+Graduate Student Research
+Featured Alumni
+Job Market Candidates
+Past Job Market Placements
+PhD Application Process
+PhD Application FAQs
+Links for Current PhD Students
+Graduate Student Groups
+Commencement & Graduation
+Courses
+Doctoral Program
+Awards & Fellowships
+Courses
+Embedded MA in Economics
+Joint Programs
+Graduate Student Research
+Featured Alumni
+Job Market Candidates
+Past Job Market Placements
+PhD Application Process
+PhD Application FAQs
+Links for Current PhD Students
+Graduate Student Groups
+Commencement & Graduation
+1st Year Course Curriculum
+Econ 600: Mathematics for Economists (stand-alone course: Fall term)
+Econ 601, Econ 602, Econ 603, and Econ 604: Microeconomic Theory I, II, III, and IV.
+All half-term courses.
+Econ 601 & 603 are offered in the Fall term; Econ 602 & 604 are offered in the Winter term
+Econ 605: Macroeconomic Theory I
+Econ 607: Macroeconomic Theory II
+Econ 671: Econometric Analysis I (Fall term) (also cross-listed with Stat so counts as a cognate course)
+Econ 672: Econometric Analysis II (Winter term)
+1st year PhD students take Econ 600-Econ 601-Econ 603-Econ 605-Econ 671 in the Fall term, and take Econ 602-Econ 604-Econ 607-Econ 672 in the Winter term
+Econ 899: Responsible Conduct of Research
+2nd and 3rd Year PhD Course Curriculum - Fields and Advanced Methods
+MONETARY ECONOMICS AND ADVANCED MACROECONOMIC THEORY
+Econ 611: Stabilization Policy I
+Econ 612: Stabilization Policy II
+ADVANCED METHODS (3 credit hours required for candidacy)
+Econ 617: Game Theory
+Econ 619: Advanced Theory I (half-term course)
+Econ 620: Advanced Theory II (half-term course)
+Econ 675: Applied Microeconometrics
+Econ 676: Applied Macroeconometrics
+Econ 678: Advanced Econometrics I
+Econ 679: Advanced Econometrics II
+Econ 751: Computational Economics (half-term course)
+Econ 752: Advanced Mathematical Methods for Dynamic, Stochastic Models (half-term course)
+Econ 753: Structural Estimation Methods (half-term course)
+Econ 773: Experimental Economics
+ADVANCED MICROECONOMIC THEORY
+Econ 617: Game Theory
+Econ 619: Advanced Theory I (half-term course)
+Econ 620: Advanced Theory II (half-term course)
+LABOR ECONOMICS
+Econ 621: Labor Economics I
+Econ 622: Labor Economics II
+INDUSTRIAL ORGANIZATION
+Econ 631: Industrial Organization and Public Policy
+Econ 632: Industrial Organization and Public Policy
+FINANCE FIELD
+INTERNATIONAL ECONOMICS
+Econ 641: International Trade Theory
+Econ 642: International Finance
+NATURAL RESOURCES AND COGNATE (Cross-listed with NR)
+Econ 661: Advanced Natural Resources Economics
+Econ 662: Environmental Economics
+ECONOMIC HISTORY (Cross-listed with HISTORY)
+Econ 663: Topics in World Economic History I
+Econ 664: Topics in World Economic History II
+ECONOMIC DEVELOPMENT
+Econ 665: Economic Development and Transition I
+Econ 666: Economic Development and Transition II
+ECONOMIC DEMOGRAPHY
+Econ 667: Economics of Population Growth (stand-alone course)* Students wishing to take a prelim in Economic Demography must also take SOC 530
+A prelim in Economic Demography has not been offered since May 1995
+ADVANCED ECONOMETRICS
+Econ 678: Advanced Econometrics I
+Econ 679: Advanced Econometrics II
+PUBLIC FINANCE
+Econ 683: Government Expenditures
+Econ 684: Government Revenues
+THIRD-YEAR COURSE REQUIREMENT:
+PhD students entering their 3rd year in the program are required to complete the third-year paper requirement. They are not required to enroll for the course that is offered in conjunction with this program but most do. It is a PhD course sequence: Econ 695: Introduction to Research I  Econ 696: Introduction to Research II
+previous
+|
+next
+LSA Course Guide
+Department of Economics
+Office Hours:
+M-F 8 am - 4:30pm
+4330 North Quad
+105 S State St
+Ann Arbor, MI 48109-1285
+EconPortal (login required)
+Click to call 734.764.2355
+734.764.2355
+734.764.2769
+Sitemap
+Facebook
+Twitter
+Youtube
+LinkedIn
+Information For
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

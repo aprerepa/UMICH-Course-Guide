@@ -1,0 +1,43 @@
+{
+  "id": "industrial-and-operations-engineering",
+  "displayName": "Industrial and Operations Engineering",
+  "groupRules": {
+    "STEM Fundamentals": {
+      "minCredits": 39,
+      "countsTowardMajorTotal": true
+    },
+    "Core IOE Requirements": {
+      "minCredits": 33,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "IOE 201",
+          "IOE 202",
+          "IOE 265",
+          "IOE 310",
+          "IOE 316",
+          "IOE 333",
+          "IOE 366",
+          "IOE 373",
+          "IOE 380",
+          "IOE 474",
+          {
+            "anyOf": [
+              "IOE 424",
+              "IOE 481",
+              "IOE 499"
+            ]
+          }
+        ]
+      }
+    },
+    "Non-IOE Engineering Courses": {
+      "minCredits": 11,
+      "countsTowardMajorTotal": true
+    },
+    "Technical Electives": {
+      "minCredits": 19,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

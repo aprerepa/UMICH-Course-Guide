@@ -1,0 +1,33 @@
+{
+  "id": "classical-civilization--majors-minors-html-classical-civilization-maj",
+  "displayName": "Classical Civilization",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "CLCIV 101",
+          "CLCIV 202",
+          "HISTORY 200",
+          "HISTORY 201",
+          "GTBOOKS 191",
+          "CLARCH 221",
+          "CLARCH 222",
+          "ARCHAM 221",
+          "ARCHAM 222"
+        ]
+      }
+    },
+    "Language, Literature and Reception": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "History and Archaeology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Religion and Philosophy": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

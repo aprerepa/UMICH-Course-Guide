@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-editable-sample-schedule-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+    "link_text": "Editable sample schedule",
+    "score": 150,
+    "status": "fetched",
+    "message": "ok (2199 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+    "fetch_mode": "http",
+    "chars": 2199
+  },
+  {
+    "id": "02-https-bulletin-engin-umich-edu-courses-course-info",
+    "url": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "link_text": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (3397 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "fetch_mode": "browser",
+    "chars": 3397
+  },
+  {
+    "id": "03-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CLIMATE%20102/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "04-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CLIMATE%20105/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "05-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CLIMATE%20110/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "06-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CLIMATE%20171/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "07-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CLIMATE%20172/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "08-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CLIMATE%20205/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  }
+]

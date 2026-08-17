@@ -1,5 +1,5 @@
 Page header:
-page title: American Culture Major | U-M LSA U-M College of LSA
+page title: Ethnic Studies Sub | U-M LSA U-M College of LSA
 
 Visible page text:
 Skip to Content
@@ -18,6 +18,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -45,6 +49,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -92,9 +100,9 @@ Undergraduate Education
 Skip to Page Content
 Academics
 Majors and Minors
-American Culture Major
+Ethnic Studies Sub
 ...
-American Culture Major
+Ethnic Studies Sub
 Academics
 Majors and Minors
 [X] close
@@ -113,7 +121,7 @@ Engaged Learning
 STEM
 Business
 What Will You Do with an LSA Degree?
-American Culture Major
+Ethnic Studies Sub
 Academics
 Majors and Minors
 Departments and Units
@@ -220,34 +228,6 @@ In the second term of the junior year, the student must successfully complete AM
 In both terms of the senior year, the student will enroll in AMCULT 493 (3 credits per term) to research and write the thesis.
 participation in three Friday colloquia. Colloquia will focus on peer response to work in progress, as well as on topics of particular usefulness to a given cohort of students. The series will be facilitated by the Director of Undergraduate Studies and is intended to provide seniors with ongoing mentoring.
 The primary advisor and the second reader determine the designation of Honors (Honors, High Honors, Highest Honors).
-American Culture Major (Winter 2012-Fall 2013)
-Effective Date of Requirements for the major: Winter 2012-Fall 2013
-May be elected as an area major
-The Program in American Culture exposes students to the interdisciplinary study of U.S. society and culture. Our courses integrate a rich array of materials, themes, and approaches from many fields: not only historical and literary study, but also visual studies, musicology, film and media, anthropology, and others. The curriculum of the Program emphasizes the multicultural diversity of American society, paying particular attention to ethnic, gender, and other forms of social difference and inequality. At the same time, it stresses the importance of studying U.S. nationhood, including Americans' (sometimes conflicting) ideals and experiences of what it means to be American. Our courses are designed to explore these issues in both historical and contemporary settings.
-Although the major in American Culture offers considerable flexibility and intellectual diversity, it also is designed to foster a community of learning among undergraduates. The Program aims to be an interdisciplinary "village" within the larger College, in which majors share the opportunity for intensive study, conversation, and research about American society and culture.
-Gateway courses:
-The Program has a broad array of 200-level courses through which students may get an initial exposure to American studies. These "gateway courses" include introductions to ethnic studies, topical seminars, "periods" courses on particular eras, and AMCULT 201 (American Values). Gateway courses are not primarily surveys, but discussion-based "modes of thought" courses that model various themes and approaches to interdisciplinary American studies.
-Prerequisites to the Major.
-None.
-Requirements for the Major.
-A minimum of 28 credits.
-Required courses
-(16 credits): AMCULT 335, 345, 350, 399, and either 496 or 498.
-Electives:
-Four additional AMCULT courses, at least two of which must be at the 300 level or above, with at least one of these at the 400 level. Students may take an additional AMCULT 496 or 498 topics course not being counted toward the senior seminar requirement. Upper division electives should cohere around a theme of each student's own choosing, in consultation with the American Culture department advisor.
-Breadth requirements:
-Among the electives within AMCULT, at least one course at the 200 level or above must fall into each of the following areas (any single course may count toward one or more of the breadth requirements; required core courses cannot fulfill breadth requirements):
-Pre-Twentieth-Century United States
-Transnationalism, Diaspora, and/or Empire
-Women, Gender, and/or Sexuality
-Ethnic and/or Indigenous Studies
-Substitutions:
-When necessary, an appropriate course listed in another department may substitute for a required or elective course with permission of the American Culture department advisor.
-Advising
-. Students are encouraged to consult with the department advisor. For appointments regarding the major, visit the
-American Culture website
-.
-Honors Plan. (Effective Fall 2010)
 Information for
 Prospective Students
 Current Students

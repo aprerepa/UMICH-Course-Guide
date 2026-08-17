@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-sample-schedule",
+    "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/AEROSP-BSE-Sample-Schedule_4.21.25.pdf",
+    "link_text": "sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (3055 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/AEROSP-BSE-Sample-Schedule_4.21.25.pdf",
+    "fetch_mode": "http",
+    "chars": 3055
+  },
+  {
+    "id": "02-editable-sample-schedule",
+    "url": "https://drive.google.com/file/d/1rhKt8FDHj9VxB_DsrCFN-CJWD5BidMj1/view?usp=sharing",
+    "link_text": "Editable sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (4326 chars)",
+    "final_url": "https://drive.usercontent.google.com/download?id=1rhKt8FDHj9VxB_DsrCFN-CJWD5BidMj1&export=download",
+    "fetch_mode": "http",
+    "chars": 4326
+  },
+  {
+    "id": "03-https-bulletin-engin-umich-edu-courses-course-info",
+    "url": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "link_text": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (3397 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "fetch_mode": "http",
+    "chars": 3397
+  },
+  {
+    "id": "04-courseprofile-atlas",
+    "url": "https://art.ai.umich.edu/course/AEROSP%20623/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "05-courseprofile-atlas",
+    "url": "https://art.ai.umich.edu/course/AEROSP%20633/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "06-courseprofile-atlas",
+    "url": "https://art.ai.umich.edu/course/AEROSP%20650/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "07-courseprofile-atlas",
+    "url": "https://art.ai.umich.edu/course/AEROSP%20656/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "08-courseprofile-atlas",
+    "url": "https://art.ai.umich.edu/course/AEROSP%20690/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  }
+]

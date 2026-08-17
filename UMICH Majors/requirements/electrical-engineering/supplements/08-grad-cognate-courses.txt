@@ -1,0 +1,79 @@
+Academics
+Home
+>
+Academics
+>
+Course Information
+>
+Grad Course List
+>
+Grad Cognate Courses
+Grad Cognate Courses
+The ECE department requires PhD graduate students to complete cognate courses, which are courses in a discipline or area different from a student’s field of study, but are related or connected with some aspect of this field.
+As a general rule, courses that meets one of the following criteria can meet the cognate requirement:
+Any course outside EECS department
+Any course on the
+ECE Course List
+that does not have a M or E in the entire row of the course.
+Cross-listed courses that are not in your major area
+Needs Approval from Major Area Advisor
+Common Cognate Courses
+Here is a list of specific courses that our students have taken over the years. These courses are usually outside the traditional engineering, math, and science courses.
+AEROSP 585 Aerospace Seminar (1 credit)
+BA 476 American Business History (3 credits)
+BA 612 Business Strategies for the Base of the Pyramid (2.25 credits)
+BCOM 561 Management Presentations (1.5 credits)
+ENGR 403 Scientific Visualization (3 credits)
+EECS/ENGR 406 High-Tech Entrepreneurship (4 credits)
+EECS/ENGR 410 Patent Fundamentals for Engineers (4 credits)
+ENGR 450 Multidisciplinary Design (4 credits)
+ENGR 520 Entrepreneurial Business Fundamentals for Engineers & Scientists (3 credits)
+ENGR 521 Clean Tech Entrepreneurship (3 credits)
+ENGR 599 Special Topics in Engineering (1-4 credits)
+ENTR 500 Intro to Innovation Careers (3 credits)
+ENTR 550 Interpersonal Skills (3 credits)
+ENTR 560 Project Management and Consulting (3 credits)
+ENTR 599 Special Topics in Entrepreneurship (1-4 credits)
+ES 512 Business Basics for Graduate Engineers (3 credits)
+MO 512 Bargaining and Influence Skills (2.25 credits)
+MO 603 Navigating Change: Skills and Strategies for Consultants and Managers (1.5 credits)
+MO 637 Social Intrapreneuship: Leading Social Innovation in Organizations (2.25 credits)
+NRE 550 Systems Thinking for Sustainable Development (3 credits)
+Pub Pol 754 Res Seminar in Science, Tech & Pub Policy (1 to 3 credits)
+STRATEGY 503 Competing in the Global Business Environment (1.5 credits)
+TO 548 Integrated Product Development (3 credits)
+TO 513 Spreadsheet Modeling and Applications (1.5 credits)
+Departments for Cognate Courses
+Check out the course offering from these departments/academic programs for potential cognate courses.
+You can find a list of courses for Engineering programs here.
+Non-engineering programs have the link to list of courses below.
+Aerospace Engineering (AEROSP)
+Applied Physics (APPPHY)
+Automotive Engineering (AUTO)
+Biomedical Engineering (BIOMEDE)
+Center for Entrepreneurship (ENTR)
+Chemical Engineering (CHE)
+Civil and Environmental Engineering (CEE)
+Climate and Space Sciences and Engineering (CLIMATE), (SPACE)
+Complex Systems (COMPLXSYS)
+Environmental Sciences and Engineering (ENSCEN)
+Energy Systems Engineering (ESENG)
+Industrial and Operations Engineering (IOE)
+Information, School of (SI)
+Integrative Systems + Design (ISD)
+Macromolecular Science (MACROSE)
+Material Science and Engineering (MATSCIE)
+Manufacturing (MFG)
+Mathematics (MATH)
+Mechanical Engineering (MECHENG)
+Naval Architecture and Marine Engineering (NAVARCH)
+Nuclear Engineering and Radiological Sciences (NERS)
+Physics (PHYSICS)
+Robotics (ROB)
+Statistics (STATS)
+Graduate Certificate Programs
+If you are interested in earning another master’s degree or graduate certificate, you should consider using your cognate courses as a way to fulfill the requirements of other programs.Here are a list of common certificate programs for ECE students.
+Computational Discovery and Engineering >
+AI and Data Science >
+Engineering Education Research >
+Plasma Science and Engineering >

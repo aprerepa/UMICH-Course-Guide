@@ -1,0 +1,41 @@
+{
+  "id": "romance-languages-and-literatures",
+  "displayName": "Romance Languages and Literatures",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "FRENCH 230",
+              "FRENCH 232",
+              "RCLANG 290",
+              "RCLANG 310"
+            ]
+          },
+          {
+            "anyOf": [
+              "ITALIAN 230",
+              "ITALIAN 232",
+              "ITALIAN 233",
+              "ITALIAN 410"
+            ]
+          },
+          {
+            "anyOf": [
+              "PORTUG 232",
+              "PORTUG 280"
+            ]
+          },
+          {
+            "anyOf": [
+              "SPANISH 277",
+              "SPANISH 278",
+              "RCLANG 324"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

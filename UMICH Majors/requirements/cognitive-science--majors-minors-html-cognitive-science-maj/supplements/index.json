@@ -1,0 +1,24 @@
+[
+  {
+    "id": "01-courses",
+    "url": "https://accounts.google.com/lsa/academics/courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://accounts.google.com/lsa/academics/courses.html",
+    "fetch_mode": "browser",
+    "chars": 89
+  },
+  {
+    "id": "02-browse-copies-of-past-lsa-bulletins",
+    "url": "https://accounts.google.com/lsa/academics/courses/course-bulletin-archive.html",
+    "link_text": "Browse copies of past LSA bulletins",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://accounts.google.com/lsa/academics/courses/course-bulletin-archive.html",
+    "fetch_mode": "browser",
+    "chars": 89
+  }
+]

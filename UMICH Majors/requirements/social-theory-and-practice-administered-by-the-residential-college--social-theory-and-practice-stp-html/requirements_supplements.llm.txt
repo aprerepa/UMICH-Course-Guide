@@ -1,0 +1,102 @@
+### Supplement: RCSTP 490: STP Capstone Class
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: course list
+Source: https://docs.google.com/rc
+
+Page header:
+page title: Error 404 (Not Found)!!1
+
+Visible page text:
+404.
+That’s an error.
+The requested URL was not found on this server.
+That’s all we know.
+
+### Supplement: AmCult 300
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: AnthrCul 359
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: QMSS 201
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: RCSTP 101
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: RCSTP 260
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: RCSTP
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help

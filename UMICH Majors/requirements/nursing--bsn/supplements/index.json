@@ -1,0 +1,24 @@
+[
+  {
+    "id": "01-heal-gid332034256",
+    "url": "https://docs.google.com/spreadsheets/d/1X_RRgyTWyPJCa2Tws8MiiunK0ykbkmpMD-lZmFksFMo/edit#gid=332034256",
+    "link_text": "HEAL",
+    "score": 100,
+    "status": "fetched",
+    "message": "ok (3122 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1X_RRgyTWyPJCa2Tws8MiiunK0ykbkmpMD-lZmFksFMo/edit#gid=332034256",
+    "fetch_mode": "http",
+    "chars": 3122
+  },
+  {
+    "id": "02-schedule-of-classes",
+    "url": "http://www.ro.umich.edu/schedule/",
+    "link_text": "Schedule of Classes",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (1878 chars)",
+    "final_url": "https://ro.umich.edu/calendars/schedule-classes",
+    "fetch_mode": "http",
+    "chars": 1878
+  }
+]

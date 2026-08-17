@@ -1,0 +1,90 @@
+{
+  "id": "philosophy-politics-and-economics--majors-minors-html-philosophy-political-science-economics-maj",
+  "displayName": "Philosophy, Politics, and Economics",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "PHIL 101",
+              "PHIL 102",
+              "PHIL 104",
+              "PHIL 151",
+              "PHIL 155",
+              "PHIL 156",
+              "PHIL 157",
+              "PHIL 158",
+              "PHIL 160",
+              "PHIL 161",
+              "PHIL 162",
+              "PHIL 202",
+              "PHIL 203",
+              "PHIL 204",
+              "PHIL 220",
+              "PHIL 230",
+              "PHIL 232",
+              "PHIL 240",
+              "PHIL 250",
+              "PHIL 260",
+              "PHIL 261",
+              "PHIL 262",
+              "PHIL 263",
+              "PHIL 264",
+              "PHIL 265",
+              "PHIL 270",
+              "PHIL 271",
+              "PHIL 272",
+              "PHIL 275",
+              "PHIL 288",
+              "PHIL 289"
+            ]
+          },
+          {
+            "anyOf": [
+              "POLSCI 101",
+              "POLSCI 111",
+              "POLSCI 140",
+              "POLSCI 160"
+            ]
+          },
+          "ECON 101",
+          "ECON 102",
+          {
+            "anyOf": [
+              "MATH 115",
+              "MATH 116",
+              "MATH 121",
+              "MATH 156",
+              "MATH 176",
+              "MATH 185",
+              "MATH 186",
+              "MATH 215",
+              "MATH 285",
+              "MATH 295",
+              "MATH 296",
+              "ECON 210"
+            ]
+          }
+        ]
+      }
+    },
+    "PPE Core Courses": {
+      "minCourses": 3,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Formal Reasoning": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Normative Theory": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Political Economy": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

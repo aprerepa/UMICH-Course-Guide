@@ -1,0 +1,24 @@
+{
+  "id": "secondary-teacher-education--bachelors",
+  "displayName": "Secondary Teacher Education",
+  "groupRules": {
+    "Required Education Core Course": {
+      "minCourses": 8,
+      "minCredits": 20,
+      "countsTowardMajorTotal": true
+    },
+    "First-Year Writing": {
+      "minCourses": 1,
+      "minCredits": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Core credits": {
+      "minCredits": 16,
+      "countsTowardMajorTotal": true
+    },
+    "Teaching credits": {
+      "minCredits": 16,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -41,6 +45,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -2002,28 +2010,6 @@ HUM
 NAT
 SOC
 INT
-Physics (Major)
-Physics is the study of the fundamental laws that govern the universe, from the smallest quantum particles to the vast structures of galaxies. Everything around us, from the devices we rely on to the natural phenomena we witness, reflects these universal principles. Physicists are driven by curiosity, by the desire to understand why things are the way they are, and how that knowledge can be used to improve the human condition. We look out at the universe and ask: What are the fundamental building blocks of nature? What drives the unseen forces around us? How can we use what we learn to shape a better future?
-As a physics major, you’ll retrace humanity’s journey of discovery, from the earliest attempts to describe motion and change to today’s explorations of nature’s deepest mysteries in areas such as particle physics, cosmology, and condensed matter. You’ll learn how electricity and magnetism power our modern world and transmit information at the speed of light. You’ll dive into the strange behavior of the quantum realm and explore how it’s transforming technology, from quantum computing to precision sensors. You’ll also uncover the history of the universe from the Big Bang onward, developing a new understanding of space and time through the study of relativity.
-A physics degree is for those excited to explore the fundamental laws of nature and to gain the skills, curiosity, and adaptability that open doors to a wide range of futures in science and technology. Physics will teach you how to break down complex problems, identify hidden patterns, and build predictive models. You’ll learn to design and carry out experiments, collect and analyze data, and quantify uncertainty. Along the way, you’ll gain hands-on experience with cutting-edge tools such as electronics, lasers, cryogenics, vacuum systems, and particle detectors, while developing technical skills applicable to many scientific and technological fields.
-The breadth of a physics education provides exceptional flexibility in career paths. Our graduates are highly sought after for their analytical and problem-solving abilities. They work in academia and industry across diverse areas, including AI and machine learning, photonics, and advanced materials. Others tackle global challenges in nuclear energy, climate modeling, medical physics, and space science. Many also apply their training in fields such as data science, finance, medicine, law, and science policy.
-The University of Michigan has one of the country's premier physics programs with state-of-the-art facilities for instruction and a variety of experimental and theoretical research groups open to undergraduate students. Students interested in physics have several program choices:
-Physics
-Interdisciplinary Physics
-Honors Physics Program
-Physics Minor
-Related Programs
-Biophysics Major
-Biological Physics Sub-Major
-Biophysics Minor
-Mathematics Major
-Computer Science Major
-Astronomy and Astrophysics Major
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Physics
 Physics (Minor)
 m
 NAT

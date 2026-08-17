@@ -135,7 +135,7 @@ HIDDEN_FOCUS-FIELD
 Student First Name
 Student Last Name
 Country
-Country
+Please select...
 United States of America
 Canada
 Afghanistan
@@ -388,7 +388,7 @@ Zimbabwe
 Street Address
 City
 State
-State
+Please select...
 Alabama
 Alaska
 Arizona
@@ -448,10 +448,9 @@ American Samoa
 Palau
 International/Not Listed
 Zip Code
-12 characters left.
 Mobile Phone Number
 I am a ...
-I am a ...
+Please select...
 High School Student
 Admitted or Enrolled UM Student
 Non-UM College Student
@@ -462,17 +461,17 @@ GAID
 Page 2
 Program Selection
 High School Options
-High School Options
+Please select...
 Preferred Admission / Preferred Freshman Enrollment
 Program of Interest?
-Program of Interest?
+Please select...
 BBA Transfer (Cross Campus)
 Minor in Business
 Transfer Options
-Transfer Options
+Please select...
 BBA Transfer (External)
 Anticipated Start Term?
-Anticipated Start Term?
+Please select...
 Fall 2027
 Fall 2028
 Fall 2029
@@ -481,18 +480,18 @@ Which College do you currently attend?
 Biographical Information (Optional)
 The information requested below is optional and will not be used for admissions purposes. It will be used to satisfy federal reporting requirements and may be used for other purposes allowed by law.
 Sex
-Sex
+Please select...
 Male
 Female
 Gender Identity
-Gender Identity
+Please select...
 Man
 Woman
 Transgender
 Additional Identity
 Additional Identity:
 Are Hispanic or Latino?
-Are Hispanic or Latino?
+Please select...
 Yes
 No
 In addition, select one or more of the following racial categories to describe yourself.
@@ -508,6 +507,13 @@ kept confidential
 and I can
 opt-out
 at any time.
+Message and data rates may apply. Message frequency may vary.
+Text STOP to stop receiving SMS messages. You can always opt-out of Michigan Ross 
+    email communications by using the unsubscribe link at the bottom of any email or 
+    by emailing
+[email protected]
+.
+×
 reCAPTCHA helps prevent automated form spam.
 The submit button will be disabled until you complete the CAPTCHA.
 Contact Information

@@ -4,14 +4,38 @@
   "school_college": "Ford School of Public Policy",
   "program_url": "https://fordschool.umich.edu/admissions/ba",
   "status": "fetched",
-  "message": "degree program page saved (no nested requirements link)",
+  "message": "requirements page ready for LLM (+3 course-list supplements: Download the BA brochure., http://lsa.umich.edu/econ/doctoral-program/courses.html, Courses)",
   "program_final_url": "https://fordschool.umich.edu/admissions/ba",
-  "program_fetch_mode": "browser",
-  "requirements_url": "https://fordschool.umich.edu/ba/major",
-  "requirements_link_text": "Major in public policy",
-  "requirements_link_score": 180,
-  "requirements_link_strategy": "hub_program_page",
-  "requirements_final_url": "https://fordschool.umich.edu/ba/major",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://fordschool.umich.edu/ford-school-events",
+  "requirements_link_text": "Major in public policy \u2192 visiting policy leaders",
+  "requirements_link_score": 255,
+  "requirements_link_strategy": "hub:Major in public policy\u2192page",
+  "requirements_final_url": "https://fordschool.umich.edu/policy-talks",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T15:48:19.133259+00:00"
+  "fetched_at": "2026-08-10T16:34:15.820147+00:00",
+  "supplements_count": 3,
+  "supplements": [
+    {
+      "id": "01-download-the-ba-brochure",
+      "url": "https://drive.google.com/file/d/169KFLp64CoUewYKeY0FUBHLN0U8Y1XxG/view?usp=drive_link",
+      "link_text": "Download the BA brochure.",
+      "status": "fetched",
+      "chars": 4253
+    },
+    {
+      "id": "02-http-lsa-umich-edu-econ-doctoral-program-courses-html",
+      "url": "http://lsa.umich.edu/econ/doctoral-program/courses.html",
+      "link_text": "http://lsa.umich.edu/econ/doctoral-program/courses.html",
+      "status": "fetched",
+      "chars": 6823
+    },
+    {
+      "id": "03-courses",
+      "url": "https://fordschool.umich.edu/leadership/courses",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 11472
+    }
+  ]
 }

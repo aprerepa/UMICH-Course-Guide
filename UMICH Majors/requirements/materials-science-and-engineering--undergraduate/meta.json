@@ -4,7 +4,7 @@
   "school_college": "College of Engineering",
   "program_url": "https://mse.engin.umich.edu/undergraduate",
   "status": "fetched",
-  "message": "requirements page ready for LLM (via degree program hub)",
+  "message": "requirements page ready for LLM (+6 course-list supplements: Google Sheet Template, College of Engineering Bulletin, Courses)",
   "program_final_url": "https://mse.engin.umich.edu/undergraduate",
   "program_fetch_mode": "http",
   "requirements_url": "https://mse.engin.umich.edu/undergraduate/programs/major",
@@ -13,5 +13,50 @@
   "requirements_link_strategy": "hub_program_is_requirements",
   "requirements_final_url": "https://mse.engin.umich.edu/undergraduate/programs/major",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T15:44:37.631012+00:00"
+  "fetched_at": "2026-08-10T16:22:25.367716+00:00",
+  "supplements_count": 6,
+  "supplements": [
+    {
+      "id": "01-google-sheet-template-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1oQoOu2SMg-gaqsllW8wdlo60rjIkcB25xNgB_cQkUAg/edit#gid=0",
+      "link_text": "Google Sheet Template",
+      "status": "fetched",
+      "chars": 2156
+    },
+    {
+      "id": "02-college-of-engineering-bulletin",
+      "url": "https://bulletin.engin.umich.edu/courses/",
+      "link_text": "College of Engineering Bulletin",
+      "status": "fetched",
+      "chars": 1023
+    },
+    {
+      "id": "03-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    },
+    {
+      "id": "04-courses",
+      "url": "https://lsa.umich.edu/math/graduates/Courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 3227
+    },
+    {
+      "id": "05-graduate-courses",
+      "url": "https://mse.engin.umich.edu/graduate/courses",
+      "link_text": "Graduate Courses",
+      "status": "fetched",
+      "chars": 3665
+    },
+    {
+      "id": "06-undergraduate-courses",
+      "url": "https://mse.engin.umich.edu/undergraduate/courses",
+      "link_text": "Undergraduate Courses",
+      "status": "fetched",
+      "chars": 3710
+    }
+  ]
 }

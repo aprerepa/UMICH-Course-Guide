@@ -4,7 +4,7 @@
   "school_college": "School of Music, Theatre & Dance (SMTD)",
   "program_url": "https://smtd.umich.edu/department/composition/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+1 course-list supplement: Go to Silent Advisor)",
   "program_final_url": "https://smtd.umich.edu/department/composition/",
   "program_fetch_mode": "browser",
   "requirements_url": "https://smtd.umich.edu/beyond-the-curriculum/",
@@ -12,6 +12,16 @@
   "requirements_link_score": 75,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://smtd.umich.edu/beyond-the-curriculum/",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:35:23.623022+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:02:29.098376+00:00",
+  "supplements_count": 1,
+  "supplements": [
+    {
+      "id": "01-go-to-silent-advisor",
+      "url": "https://drive.google.com/file/d/1YJ3tfWH0sbGzZI3nrSlzLL82zwrTqUhv/view?usp=share_link",
+      "link_text": "Go to Silent Advisor",
+      "status": "fetched",
+      "chars": 1540
+    }
+  ]
 }

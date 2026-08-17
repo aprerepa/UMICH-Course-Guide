@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -41,6 +45,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -1457,46 +1465,6 @@ HUM
 NAT
 SOC
 INT
-Interdisciplinary Chemical Sciences (ICS) [A.B. or B.S.] (Major)
-The Interdisciplinary Chemical Sciences (ICS) major allows students the flexibility to supplement a core study of chemistry with courses in complementary fields. The intended audience for the major includes pre-health professional students, students interested in the relationship between science and societal concerns such as the environment or public policy, students interested in fields such as the philosophy of science or history of science where a sound background in a scientific field will provide a deeper level of engagement, and students interested in broadly interdisciplinary sciences not well represented in any individual department. This major can be effective preparation for graduate study in the sciences, graduate studies in an interdisciplinary area that might benefit from a strong science background, for medical, law, and business schools, or for direct entry into the job market.
-The curricula in Chemistry serve those preparing for careers in chemistry, biochemistry, medicine, chemical engineering, pharmacy, and allied fields as well as those seeking a general knowledge of chemistry as part of a liberal arts education. Beyond the first-year courses, there is an emphasis on development of technical knowledge and laboratory experience needed in chemistry and related scientific fields. The undergraduate majors prepare students for work in research and testing laboratories, as well as for business positions in which a chemistry background is desirable. Graduate work is necessary for those planning to do college and university teaching or industrial research.
-The Department of Chemistry offers programs leading to :
-Academic Minors in
-Biochemistry
-,
-Chemistry
-,
-Chemical Physics
-,
-Polymer Chemistry
-, and
-Chemical Measurement Science
-a Bachelor of Science degree with a major in Chemistry;
-a Bachelor of Science or Bachelor of Arts degree with a major in Interdisciplinary Chemical Sciences;
-a Bachelor of Science or Bachelor of Arts degree with a major in
-Biomolecular Science
-;
-The department participates in and administers an interdepartmental major
-Biochemistry
-.
-It is possible to incorporate a
-teaching certificate
-into any of these program options.
-BS Major in Chemistry:
-Chemistry is often referred to as the “central science” because atoms and molecules are the foundation of all phenomena – from climate change to COVID vaccines to cosmic events. Chemists are working in diverse fields, helping achieve environmental justice, health equity, and address other big challenges to society. Chemists in our department are synthesizing advanced materials for renewable energy storage, developing new methods to access medicines, and documenting changes in the Arctic atmosphere, among many other impactful projects. Chemists use sophisticated instrumentation to analyze and understand the living world as well as how complex chemical processes proceed. The Chemistry major offers flexibility in course selection that will prepare you for diverse careers, including: entry to top graduate programs in chemistry or related fields, employment in the chemical industry or government labs, and post graduate programs such as medical school or dental school that are directed towards health-science related careers.
-BS Major in Biochemistry:
-The B.S. Major in Biochemistry is ideal for students who are interested in learning about life from a chemical perspective. Students will gain a solid foundation in chemistry through traditional sub-discipline courses, but will also take a number of chemistry courses that are focused on the role of chemistry in biological systems. Students will also have the option to take elective courses in molecular biology, and also may pursue undergraduate research in lieu of, or in addition to, one of the traditional laboratory courses. Students that pursue this degree will be well equipped for graduate studies in biochemistry, chemical biology, and many other fields of inquiry in the life sciences. The degree will also provide excellent preparation for students intending to pursue professional careers in the Biotechnology Industry as well as the Health Sciences.
-BS Major in Biomolecular Science:
-The B.S. Major in Biomolecular Science provides students with the core knowledge necessary to understand the chemical principles underpinning biology and the option to explore other courses in chemistry, biophysics, and molecular, cellular and developmental biology. This degree provides exposure to all of the core topics in the area of biochemistry, but also provides more flexibility in course selection than the B.S. Major in biochemistry. This degree provides a good foundation for students planning to attend graduate school in an interdisciplinary field related to chemistry and biology, and also provides good preparation for those who intend to pursue graduate studies in biochemistry. This degree also provides a solid foundation for students who plan to pursue degrees in the health sciences by providing opportunities for broad exposure to chemistry, biochemistry, biophysics, molecular biology, and related fields.
-BS Major in Interdisciplinary Chemical Sciences:
-The Interdisciplinary Chemical Sciences (ICS) major allows students the flexibility to supplement a core study of chemistry with courses in complementary fields. This major can be effective preparation for graduate study in the sciences, graduate studies in an interdisciplinary area that might benefit from a strong science background, for medical, law, and business schools, or for direct entry into the job market. Because students pursuing the ICS degree have a wide variety of career goals, advising from a chemistry departmental advisor is especially important.
-It is strongly recommended that students who are thinking of degrees in chemistry should arrange an appointment with a Chemistry advisor via the online advising system as soon as possible, preferably before the end of their first year but certainly before the end of the sophomore year. The online appointment scheduling system can be found here:
-http://www.umich.edu/~michchem/undergrad/index.html.
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Chemistry
 Interdisciplinary Physics (A.B. or B.S.) (Major)
 M
 NAT

@@ -1,0 +1,18 @@
+{
+  "id": "history-of-art--majors-minors-html-history-of-art-maj",
+  "displayName": "History of Art",
+  "groupRules": {
+    "History of Art Course Requirements": {
+      "minCredits": 24,
+      "countsTowardMajorTotal": true
+    },
+    "Cognate Requirements": {
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Total Major Requirements": {
+      "minCredits": 30,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

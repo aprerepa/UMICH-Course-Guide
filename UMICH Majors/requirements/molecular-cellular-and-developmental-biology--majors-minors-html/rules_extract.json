@@ -1,0 +1,229 @@
+{
+  "id": "molecular-cellular-and-developmental-biology--majors-minors-html",
+  "displayName": "Molecular, Cellular, and Developmental Biology",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              {
+                "allOf": [
+                  "BIOLOGY 171",
+                  {
+                    "anyOf": [
+                      "BIOLOGY 172",
+                      "BIOLOGY 174"
+                    ]
+                  },
+                  {
+                    "anyOf": [
+                      "BIOLOGY 173",
+                      "BIOLOGY 196"
+                    ]
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  "BIOLOGY 195",
+                  {
+                    "anyOf": [
+                      "BIOLOGY 173",
+                      "BIOLOGY 196"
+                    ]
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  "BIOLOGY 191",
+                  "BIOLOGY 192",
+                  "BIOLOGY 173"
+                ]
+              }
+            ]
+          },
+          {
+            "allOf": [
+              "CHEM 210",
+              "CHEM 211"
+            ]
+          },
+          {
+            "allOf": [
+              "CHEM 215",
+              "CHEM 216"
+            ]
+          },
+          {
+            "minOf": 4,
+            "options": [
+              {
+                "anyOf": [
+                  "MATH 115",
+                  "MATH 120",
+                  "MATH 185",
+                  "MATH 275",
+                  "MATH 295"
+                ]
+              },
+              {
+                "anyOf": [
+                  "MATH 116",
+                  "MATH 121",
+                  "MATH 156",
+                  "MATH 186",
+                  "MATH 276",
+                  "MATH 296"
+                ]
+              },
+              {
+                "anyOf": [
+                  "PHYSICS 125",
+                  "PHYSICS 135",
+                  "PHYSICS 139",
+                  "PHYSICS 140",
+                  "PHYSICS 150",
+                  "PHYSICS 160"
+                ]
+              },
+              {
+                "anyOf": [
+                  "PHYSICS 126",
+                  "PHYSICS 235",
+                  "PHYSICS 239",
+                  "PHYSICS 240",
+                  "PHYSICS 250",
+                  "PHYSICS 260"
+                ]
+              },
+              {
+                "anyOf": [
+                  "EECS 180",
+                  "EECS 183",
+                  "EECS 203",
+                  "EECS 280"
+                ]
+              },
+              {
+                "anyOf": [
+                  "STATS 180",
+                  "STATS 250",
+                  "STATS 206",
+                  "STATS 280"
+                ]
+              },
+              {
+                "anyOf": [
+                  "BIOLOGY 202",
+                  "BIOPHYS 131",
+                  "DATASCI 101"
+                ]
+              },
+              {
+                "anyOf": [
+                  "BIOPHYS 290",
+                  "PHYSICS 290"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Core Courses": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "BIOLOGY 272",
+              "BIOLOGY 205",
+              "BIOLOGY 290"
+            ]
+          },
+          "BIOLOGY 305",
+          {
+            "anyOf": [
+              "MCDB 310",
+              "BIOLCHEM 415",
+              "CHEM 351"
+            ]
+          },
+          {
+            "anyOf": [
+              "MCDB 427",
+              "MCDB 428"
+            ]
+          }
+        ]
+      },
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "I. Advanced MCDB Laboratory Courses": {
+      "require": {
+        "minOf": 2,
+        "options": [
+          "MCDB 306",
+          "MCDB 400",
+          "MCDB 423",
+          "MCDB 424",
+          "MCDB 429"
+        ]
+      },
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "II. Advanced MCDB Courses": {
+      "require": {
+        "minOf": 2,
+        "options": [
+          "MCDB 401",
+          "MCDB 403",
+          "MCDB 405",
+          "MCDB 408",
+          "MCDB 411",
+          "MCDB 415",
+          "MCDB 417",
+          "MCDB 420",
+          "MCDB 421",
+          "MCDB 422",
+          "MCDB 425",
+          "MCDB 426",
+          "MCDB 427",
+          "MCDB 428",
+          "MCDB 430",
+          "MCDB 435",
+          "MCDB 436",
+          "MCDB 439",
+          "MCDB 440",
+          "MCDB 441",
+          "MCDB 445",
+          "MCDB 447",
+          "MCDB 448",
+          "MCDB 451",
+          "MCDB 452",
+          "MCDB 453",
+          "MCDB 454",
+          "MCDB 458",
+          "MCDB 459",
+          "MCDB 462",
+          "MCDB 463",
+          "MCDB 464",
+          "MCDB 472",
+          "MCDB 475",
+          "MCDB 488",
+          "MCDB 489"
+        ]
+      },
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "III. Biology & Chemistry Electives": {
+      "completion": "manual",
+      "minCredits": 31,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

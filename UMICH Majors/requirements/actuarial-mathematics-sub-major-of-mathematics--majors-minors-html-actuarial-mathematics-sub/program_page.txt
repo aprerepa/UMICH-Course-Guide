@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -41,6 +45,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -162,23 +170,6 @@ HUM
 NAT
 SOC
 INT
-Actuarial Mathematics (Sub-Major)
-The
-Actuarial Mathematics
-Program is designed to provide broad training in the mathematics underlying the operations of private and social insurance and employee benefit plans. The courses provide background for several of the examinations of the Casualty Actuarial Society and the Society of Actuaries. It is strongly recommended that students pass some of these exams before graduation. Summer internships are an important component of the educational program and students are encouraged to seek an internship no later than the conclusion of their junior year. Actuarial advisors can provide guidance on the professional examinations and on summer internships.
-Related Programs
-Mathematics Major
-Honors Mathematics Sub-Major
-Pure Mathematics Sub-Major
-Mathematical Sciences Sub-Major
-Mathematics of Finance & Risk Management Sub-Major
-Secondary Mathematics Teaching Certificate Sub-Major
-Mathematics Minor
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Mathematics
 Afroamerican and African Studies (Major)
 M
 HUM

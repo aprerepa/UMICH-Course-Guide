@@ -1,0 +1,28 @@
+{
+  "id": "german--majors-minors-html-german-maj",
+  "displayName": "German",
+  "requirementGroups": {
+    "Prerequisites": [
+      "GERMAN 230",
+      "GERMAN 232",
+      "RCLANG 291"
+    ],
+    "Requirements": [
+      "GERMAN 325",
+      "GERMAN 326",
+      "GERMAN 425",
+      "GERMAN 426",
+      "GERMAN 491",
+      "GERMAN 492"
+    ]
+  },
+  "openGroups": {
+    "Requirements": {
+      "subjects": [
+        "GERMAN"
+      ],
+      "minLevel": 300,
+      "exclude": []
+    }
+  }
+}

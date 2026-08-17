@@ -1,0 +1,14 @@
+{
+  "id": "translation--majors-minors-html-translation-maj",
+  "displayName": "Translation",
+  "groupRules": {
+    "COMPLIT CORE": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "COURSES IN LANGUAGE & TRANSLATION": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

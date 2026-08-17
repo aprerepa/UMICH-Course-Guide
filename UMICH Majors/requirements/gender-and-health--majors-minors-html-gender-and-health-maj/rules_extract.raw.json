@@ -1,0 +1,69 @@
+{
+  "id": "gender-and-health",
+  "displayName": "Gender and Health",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "WGS 220",
+          "WOMENSTD 220",
+          "NURS 220"
+        ]
+      }
+    },
+    "Core": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "anyOf": [
+          {
+            "anyOf": [
+              "WGS 330",
+              "WOMENSTD 330"
+            ]
+          },
+          {
+            "anyOf": [
+              "WGS 331",
+              "WOMENSTD 331"
+            ]
+          }
+        ]
+      }
+    },
+    "Practicum": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "LGBTQ and Sexuality Studies in Health": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Critical Race and Ethnic Studies in Gender and Health": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Gender and Health in Bioscience": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Gender and Health in Global, Transnational, or Historical Perspectives": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Gender and Health Electives": {
+      "minCourses": 3,
+      "minCredits": 27,
+      "countsTowardMajorTotal": true
+    },
+    "Gender, Culture and Representation Requirement": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Cognate Requirement": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": false
+    }
+  }
+}

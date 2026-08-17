@@ -1,0 +1,49 @@
+{
+  "id": "social-theory-and-practice-administered-by-the-residential-college",
+  "displayName": "Social Theory and Practice (Administered by the Residential College)",
+  "groupRules": {
+    "Pre-Reqs": {
+      "require": {
+        "allOf": [
+          "RCSTP 260",
+          "RCSTP 290",
+          {
+            "anyOf": [
+              "RCSTP 101"
+            ]
+          }
+        ]
+      }
+    },
+    "Theory Course": {
+      "minCourses": 1,
+      "require": {
+        "anyOf": [
+          "RCSTP 301",
+          "RCSTP 302"
+        ]
+      }
+    },
+    "Research Methods Course": {
+      "minCourses": 1,
+      "require": {
+        "anyOf": [
+          "STATS 250",
+          "SOC 210",
+          "QMSS 201",
+          "SOC 310",
+          "ANTHRCUL 359",
+          "AMCULT 300"
+        ]
+      }
+    },
+    "STP Senior Project or Honors Thesis": {
+      "minCourses": 1,
+      "require": {
+        "allOf": [
+          "RCSTP 490"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "environment-and-conservation-sub-major-of-anthropology--majors-minors-html-environment-and-conservation-sub",
+  "displayName": "Environment and Conservation (Sub-major of Anthropology)",
+  "groupRules": {
+    "Anthropological Archaeology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Biological Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Linguistic Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Sociocultural Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "urban-technology",
+  "displayName": "Urban Technology",
+  "requirementGroups": {
+    "Urban Technology Curriculum": [
+      "UT 102",
+      "UT 103",
+      "UT 210",
+      "UT 201",
+      "UT 202",
+      "SI 101",
+      "SI 201",
+      "UT 435",
+      "UT 230",
+      "UT 401",
+      "UT 350",
+      "UT 340",
+      "UT 411",
+      "UT 430",
+      "UT 330",
+      "UT 360",
+      "ECON 101"
+    ]
+  }
+}

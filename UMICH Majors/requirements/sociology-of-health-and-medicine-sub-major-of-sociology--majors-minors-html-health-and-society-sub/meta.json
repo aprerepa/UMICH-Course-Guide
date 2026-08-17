@@ -4,7 +4,7 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#health-and-society-sub",
   "status": "fetched",
-  "message": "requirements page ready for LLM (Sociology of Health & Medicine (Sub-Major), Winter 2023+)",
+  "message": "requirements page ready for LLM (Sociology of Health & Medicine (Sub-Major), Winter 2023+) (+2 course-list supplements: Courses, Browse copies of past LSA bulletins)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#health-and-society-sub",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/sociology-of-health-and-medicine-submajor.html",
@@ -13,10 +13,27 @@
   "requirements_link_strategy": "lsa_listing:lsa_detail\u2192nested+lsa_historical_latest_term",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/sociology-of-health-and-medicine-submajor.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T16:16:32.753773+00:00",
+  "fetched_at": "2026-08-10T16:38:17.008787+00:00",
   "lsa_resolved_row_id": "health-and-society-sub",
   "lsa_requirements_title": "Sociology of Health & Medicine (Sub-Major)",
   "lsa_requirements_term": "Winter 2023",
   "math_requirements_title": "Sociology of Health & Medicine (Sub-Major)",
-  "math_requirements_term": "Winter 2023"
+  "math_requirements_term": "Winter 2023",
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    },
+    {
+      "id": "02-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3662
+    }
+  ]
 }

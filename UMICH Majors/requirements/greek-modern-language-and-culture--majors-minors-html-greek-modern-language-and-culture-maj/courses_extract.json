@@ -1,0 +1,52 @@
+{
+  "id": "greek-modern-language-and-culture--majors-minors-html-greek-modern-language-and-culture-maj",
+  "displayName": "Greek (Modern) Language and Culture",
+  "requirementGroups": {
+    "Prerequisites": [
+      "GREEKMOD 101",
+      "GREEKMOD 102"
+    ],
+    "Modern Greek Language": [
+      "GREEKMOD 201",
+      "GREEKMOD 202",
+      "GREEKMOD 301",
+      "GREEKMOD 302"
+    ],
+    "Modern Greek Literature and Culture": [
+      "GREEKMOD 214"
+    ],
+    "Structure course": []
+  },
+  "openGroups": {
+    "Modern Greek Language": {
+      "subjects": [
+        "GREEKMOD"
+      ],
+      "minLevel": 200,
+      "exclude": [
+        "GREEKMOD 205",
+        "GREEKMOD 305"
+      ]
+    },
+    "Modern Greek Literature and Culture": {
+      "subjects": [
+        "GREEKMOD"
+      ],
+      "minLevel": 300,
+      "exclude": []
+    },
+    "Structure course": {
+      "subjects": [
+        "CLCIV",
+        "ARCHAM",
+        "CLARCH",
+        "COMPLIT",
+        "HISTORY",
+        "HISTART",
+        "POLISCI"
+      ],
+      "minLevel": 100,
+      "exclude": []
+    }
+  }
+}

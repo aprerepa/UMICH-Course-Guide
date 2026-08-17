@@ -1,0 +1,30 @@
+{
+  "id": "culture-and-media-sub-major-of-anthropology",
+  "displayName": "Culture and Media (Sub-major of Anthropology)",
+  "groupRules": {
+    "Anthropological Archaeology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Biological Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Linguistic Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Sociocultural Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Culture and Media Approved Courses": {
+      "minCredits": 16,
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "latin-language-and-literature",
+  "displayName": "Latin Language and Literature",
+  "requirementGroups": {
+    "Prerequisites": [
+      "LATIN 231",
+      "LATIN 232",
+      "LATIN 233",
+      "LATIN 294"
+    ],
+    "Requirements": [
+      "ARCHAM 222",
+      "CLARCH 222",
+      "CLCIV 202",
+      "CLCIV 302",
+      "HISTORY 201"
+    ]
+  }
+}

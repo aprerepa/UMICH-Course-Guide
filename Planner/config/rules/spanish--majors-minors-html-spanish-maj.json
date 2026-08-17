@@ -1,0 +1,15 @@
+{
+  "id": "spanish--majors-minors-html-spanish-maj",
+  "displayName": "Spanish",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "SPANISH 277",
+          "SPANISH 278",
+          "RCLANG 324"
+        ]
+      }
+    }
+  }
+}

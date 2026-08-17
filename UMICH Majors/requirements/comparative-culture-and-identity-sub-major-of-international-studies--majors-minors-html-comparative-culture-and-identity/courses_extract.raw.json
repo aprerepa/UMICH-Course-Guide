@@ -1,0 +1,25 @@
+{
+  "id": "comparative-culture-and-identity-international-studies",
+  "displayName": "Comparative Culture and Identity (Sub-major of International Studies)",
+  "requirementGroups": {
+    "Program Core": [
+      "INTLSTD 301",
+      "INTLSTD 300",
+      "INTLSTD 341",
+      "INTLSTD 401"
+    ],
+    "Research Design Course": [
+      "INTLSTD 390"
+    ],
+    "Globalization and Culture": [
+      "ANTHRCUL 222",
+      "COMPLIT 240",
+      "COMPLIT 322",
+      "GTBOOKS 212",
+      "COMPLIT 212",
+      "INTLSTD 205",
+      "HISTORY 101",
+      "ROMLANG 253"
+    ]
+  }
+}

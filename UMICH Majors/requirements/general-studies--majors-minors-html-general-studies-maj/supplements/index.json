@@ -1,0 +1,35 @@
+[
+  {
+    "id": "01-blank-spreadsheet",
+    "url": "https://docs.google.com/spreadsheets/d/1Etfh4vz8ttqL96twkP4qhFp_vpa1tzFqoQSkkYPdjZ0/copy",
+    "link_text": "blank spreadsheet",
+    "score": 55,
+    "status": "failed",
+    "message": "Client error '401 Unauthorized' for url 'https://docs.google.com/spreadsheets/d/1Etfh4vz8ttqL96twkP4qhFp_vpa1tzFqoQSkkYPdjZ0/export?format=xlsx'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401",
+    "final_url": null,
+    "fetch_mode": null,
+    "chars": 0
+  },
+  {
+    "id": "02-courses",
+    "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (4215 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "fetch_mode": "http",
+    "chars": 4215
+  },
+  {
+    "id": "03-browse-copies-of-past-lsa-bulletins",
+    "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "link_text": "Browse copies of past LSA bulletins",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (3662 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "fetch_mode": "browser",
+    "chars": 3662
+  }
+]

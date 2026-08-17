@@ -1,0 +1,16 @@
+{
+  "id": "korean-studies-sub-major-of-asian-studies",
+  "displayName": "Korean Studies (Sub-major of Asian Studies)",
+  "groupRules": {
+    "Asian Studies (ASIAN) Requirement": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "ASIAN 235",
+          "ASIAN 381"
+        ]
+      }
+    }
+  }
+}

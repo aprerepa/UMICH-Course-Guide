@@ -1,0 +1,28 @@
+{
+  "id": "sociology-of-health-and-medicine-sub-major-of-sociology",
+  "displayName": "Sociology of Health and Medicine (Sub-major of Sociology)",
+  "requirementGroups": {
+    "Requirements": [
+      "SOC 225",
+      "SOC 230",
+      "SOC 325",
+      "SOC 330",
+      "SOC 345",
+      "SOC 346",
+      "SOC 347",
+      "SOC 430",
+      "SOC 445",
+      "SOC 465",
+      "SOC 473",
+      "SOC 474",
+      "SOC 475",
+      "SOC 476",
+      "SOC 477",
+      "SOC 295",
+      "SOC 495",
+      "SOC 394",
+      "SOC 395",
+      "SOC 396"
+    ]
+  }
+}

@@ -4,15 +4,39 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#computer_science-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+3 course-list supplements: CSE Course Info, Courses, Browse copies of past LSA bulletins)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#computer_science-maj",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/computer-science-major.html",
   "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
+  "requirements_link_score": 65,
   "requirements_link_strategy": "lsa_listing:lsa_detail",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/computer-science-major.html",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:35:46.679658+00:00",
-  "lsa_resolved_row_id": "computer_science-maj"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:02:56.084109+00:00",
+  "lsa_resolved_row_id": "computer_science-maj",
+  "supplements_count": 3,
+  "supplements": [
+    {
+      "id": "01-cse-course-info",
+      "url": "https://cse.engin.umich.edu/academics/course-resources/cse-course-info/",
+      "link_text": "CSE Course Info",
+      "status": "fetched",
+      "chars": 10944
+    },
+    {
+      "id": "02-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    },
+    {
+      "id": "03-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3806
+    }
+  ]
 }

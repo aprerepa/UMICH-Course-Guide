@@ -1,0 +1,175 @@
+{
+  "id": "robotics",
+  "displayName": "Robotics",
+  "groupRules": {
+    "Introductory Engineering": {
+      "require": {
+        "allOf": [
+          "ENGR 100",
+          {
+            "anyOf": [
+              "ROB 102",
+              "ENGR 101",
+              "ENGR 151"
+            ]
+          }
+        ]
+      }
+    },
+    "Linear Algebra": {
+      "require": {
+        "anyOf": [
+          "ROB 101",
+          "MATH 214",
+          "MATH 217",
+          "MATH 417",
+          "MATH 419"
+        ]
+      }
+    },
+    "Calculus requirements": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "MATH 115",
+              "MATH 120"
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 116",
+              "MATH 121"
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 215",
+              "MATH 216"
+            ]
+          }
+        ]
+      }
+    },
+    "Physics": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "PHYSICS 140",
+              "PHYSICS 160"
+            ]
+          },
+          "PHYSICS 141",
+          "PHYSICS 240",
+          "PHYSICS 241"
+        ]
+      }
+    },
+    "Chemistry": {
+      "require": {
+        "allOf": [
+          "CHEM 130",
+          {
+            "anyOf": [
+              "CHEM 125",
+              "CHEM 126"
+            ]
+          }
+        ]
+      }
+    },
+    "Teamwork in Robotics": {
+      "minCourses": 1,
+      "minCredits": 4,
+      "countsTowardMajorTotal": true,
+      "require": "ROB 204"
+    },
+    "Robotics Core": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "minOf": 3,
+        "options": [
+          "ROB 310",
+          "ROB 311",
+          "ROB 320",
+          "ROB 330",
+          "ROB 340"
+        ]
+      }
+    },
+    "Discipline Breadth": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "EECS 280",
+          {
+            "anyOf": [
+              "IOE 265",
+              "EECS 301",
+              "BIOMEDE 241"
+            ]
+          },
+          {
+            "anyOf": [
+              "EECS 215",
+              "EECS 270",
+              "BIOMEDE 211"
+            ]
+          },
+          {
+            "anyOf": [
+              "MECHENG 240",
+              "BIOMEDE 231"
+            ]
+          }
+        ]
+      }
+    },
+    "Discipline Depth": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "anyOf": [
+          "AEROSP 201",
+          "AEROSP 205",
+          "AEROSP 288",
+          "EECS 216",
+          "EECS 281",
+          "EECS 351",
+          "EECS 370",
+          "EECS 373",
+          "IOE 333",
+          "IOE 434",
+          "MATSCIE 220",
+          "NAVARCH 270"
+        ]
+      }
+    },
+    "Major Design": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "TCHNCLCM 350",
+          {
+            "anyOf": [
+              "ROB 450",
+              "EECS 467"
+            ]
+          }
+        ]
+      }
+    },
+    "Upper Level Robotics Electives": {
+      "minCredits": 8,
+      "countsTowardMajorTotal": true
+    },
+    "Flexible Technical Electives": {
+      "minCredits": 18,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

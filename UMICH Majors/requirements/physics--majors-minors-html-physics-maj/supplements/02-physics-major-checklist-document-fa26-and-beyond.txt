@@ -1,0 +1,90 @@
+Physics Major - Fall 2026 and beyond
+University of Michigan - Department of Physics
+Effective September, 2026
+Advisory Prerequisites:
+It is recommended that students should have completed MATH 115 (or equivalent) prior to beginning an introductory sequence.
+Prerequisites:
+Course #
+Course Title
+Term Completed
+Credits
+One of the following 100-Level lectures with laboratory.
+PHYSICS 140/141
+OR
+PHYSICS 160/161
+General Physics I/Laboratory I
+4/1
+Honors Physics I/Laboratory I
+4/1
+One of the following 200-Level lectures with laboratory.
+PHYSICS 240/241
+OR
+PHYSICS 260/261
+General Physics I/Laboratory I
+4/1
+Honors Physics II/Laboratory II
+4/1
+Core Courses:
+Minimum of 35 credits.  It is recommended that you complete math courses through MATH 216 (Differential Equations).
+Course #
+Course Title
+Term Completed
+Credits
+Intermediate Courses Requirement
+PHYSICS 316
+Mathematical Methods for Physics and Engineering
+3
+PHYSICS 390
+Introduction to Modern Physics
+3
+PHYSICS 391
+Introduction to Modern Physics Laboratory
+2
+Advanced Courses Requirement
+PHYSICS 401
+Intermediate Mechanics
+3
+PHYSICS 405
+Intermediate Electricity and Magnetism
+3
+PHYSICS 406
+Statistical and Thermal Physics
+3
+PHYSICS 453
+Quantum Mechanics
+3
+PHYSICS 441
+Advanced Lab I
+3
+Elective Courses Requirement:
+Four courses (12 credits minimum) of electives chosen from the list below. Note that any course used in the Intermediate and/or Advanced Course requirements cannot also fulfill an elective. Only one course (up to 3 credits) of Independent Study can be used towards the electives.
+PHYSICS 340: Waves, Heat, and Light
+PHYSICS 360: Honors Physics III
+PHYSICS 380/398: Intermediate Topics in Physics, section titled "Introduction to Quantum Computing" (Note: other topics taught as PHYSICS 380 are not automatically included in the major; see an advisor)
+CMPLXSYS 335: Networks
+Any PHYSICS course numbered at the 400- or 500-level, excluding PHYSICS 501, 517, 518 and 590
+Course #
+Course Title
+Term Completed
+Credits
+Possible elective areas of study and courses include:
+Condensed Matter Experiment
+PHYSICS 402, 440, 460, 463
+Quantum Computing & Information
+PHYSICS 380/398, 402, 460, 463
+Astrophysics & Cosmology
+PHYSICS 411, 435, 457, 460
+High Energy Theory
+PHYSICS 411, 452,  457, 460
+Particle Physics
+PHYSICS 411, 440, 457, 460
+Complex Systems
+PHYSICS 411, 413, 445, 508
+CMPLXSYS 335 (requires approval from Physics advisor)
+Or choose your own adventure!
+Honors Requirements:
+Honors requires a cumulative GPA of at least 3.4.
+Additional 6 credits of PHYSICS courses numbered 401 and above (not otherwise required, some exclusions apply)
+Completion of an Honors senior thesis based on research (PHYSICS 496/497, optional)
+Residency requirements:
+A minimum of 12 credits toward the major program must be done in residence.

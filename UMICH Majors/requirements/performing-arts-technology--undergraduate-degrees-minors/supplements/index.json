@@ -1,0 +1,24 @@
+[
+  {
+    "id": "01-2025-2026-mypap-season-schedule",
+    "url": "https://drive.google.com/file/d/1O9icRqtft1_-ifXjgfrSdZp7VDoYl5p3/view?usp=sharing",
+    "link_text": "2025-2026 MYPAP Season Schedule",
+    "score": 110,
+    "status": "fetched",
+    "message": "ok (3240 chars)",
+    "final_url": "https://drive.usercontent.google.com/download?id=1O9icRqtft1_-ifXjgfrSdZp7VDoYl5p3&export=download",
+    "fetch_mode": "http",
+    "chars": 3240
+  },
+  {
+    "id": "02-2025-26-mypap-student-handbook",
+    "url": "https://drive.google.com/file/d/1mwFkoTnXTM_HWnrwjku9d5j6AmRah2OY/view",
+    "link_text": "2025-26 MYPAP Student Handbook",
+    "score": 110,
+    "status": "fetched",
+    "message": "ok (27936 chars)",
+    "final_url": "https://drive.usercontent.google.com/download?id=1mwFkoTnXTM_HWnrwjku9d5j6AmRah2OY&export=download",
+    "fetch_mode": "http",
+    "chars": 27936
+  }
+]

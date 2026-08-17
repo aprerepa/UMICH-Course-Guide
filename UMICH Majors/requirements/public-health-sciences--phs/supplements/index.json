@@ -1,0 +1,13 @@
+[
+  {
+    "id": "01-requirement-details-and-a-list-of-approved-courses-can-be-found-here",
+    "url": "https://sph.umich.edu/undergrad/degrees/healthequity.html",
+    "link_text": "Requirement details and a list of approved courses can be found here",
+    "score": 110,
+    "status": "fetched",
+    "message": "ok (1605 chars)",
+    "final_url": "https://sph.umich.edu/undergrad/degrees/healthequity.html",
+    "fetch_mode": "http",
+    "chars": 1605
+  }
+]

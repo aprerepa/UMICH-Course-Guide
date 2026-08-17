@@ -1,0 +1,422 @@
+Page header:
+page title: Google Sheet export (all tabs)
+
+Visible page text:
+### Sheet: Instructions
+How to use this Depth Requirement Guide: 
+We recommend making a copy of this BIOMEDE Depth Requirement Guide so you're able to filter and plan based on your interests. 
+View the tabs at the bottom to view the Engineering Expertise, Cross-Displicinary, and Profession in Practice courses. 
+There's also a tab that shows courses that have already been reviewed and denied to count as a BME Depth Requirement. 
+Tracks are optional. Students may choose their own BIOMEDE Depth Requirements based on interest. Courses with an "x" indicate it counts for that track. 
+For questions, please email bme-advising@umich.edu or make an appointment with an advisor. 
+
+### Sheet: Engineering Expertise (12 credi
+Engineering Expertise (12 credits) Definiation and Requirements:
+The Engineering Expertise requirement is designed to provide students with greater depth and rigor in technical areas of engineering (e.g., fluid mechanics, signals and systems, tissue mechanics, and transport) through structured coursework. 
+The Engineering Expertise component ensures that students meet the minimum engineering course credit standards set by ABET Accreditation and the College of Engineering. 
+
+*Engineering Expertise must be engineering course work
+*Non-BME courses must have Biomedical implications or applications 
+*Non-BME courses must have technical rigor, as described in the ABET Outcomes and Program Criteria.
+*At least 6 credits must be BME courses
+*All courses must be at the 300 level or higher
+*Seminar courses (BIOMEDE 500, 550) and independent research (ex: BIOMEDE 490, ENGR 490) do NOT fulfill this requirement
+*Up to 2 credits of BME 452 (Biomedical Design II) may count towards this requirement
+*All Engineering Expertise courses (beyond the 12 Engineering Expertise required credits) can qualify as Cross Disciplinary credits.
+*Courses not specifically listed on the BME Depth Requirement Guide must be pre-approved by the BME department prior to your enrollment (including BME 499/599 courses). 
+All Approved Engineering Expertise Courses		
+Engineering Expertise (12 credits: 300-level+, 6 credits BIOMEDE, 6 credits any CoE)		
+Course Subject	Course Number	Course Name	Course Notes	Biocomputation Track	Biomechanics Track	Biomedical Imaging and Bioelectrics Track	Biotechnology and Pharmaceutical Engineering Track	Medical Device Development Track	Neural Engineering Track	Pre-Health Track	Systems Biology Track	Tissue Engineering and Regenerative Medicine Track
+ANATOMY	504.0	CL with BME 504				x			x	x	x
+BIOINF	520.0	Compu. Systems Bio in Physiology										
+BIOINF	576.0	Tool Development for BIOINF										
+BIOLCHEM	504.0	CL with BME 504				x			x	x	x
+BIOMEDE	311.0	Signals and Systems		x								
+BIOMEDE	321.0	Bioreaction Engineering and Design					x			x	x	x
+BIOMEDE	331.0	Intro Biofluid Mechanics					x	x		x	x	x
+BIOMEDE	332.0	Intro Biosolid Mechanics			x		x	x		x	x	x
+BIOMEDE	410.0	Biomaterials					x		x	x		x
+BIOMEDE	417.0	Electrical Biophysics		x					x			
+BIOMEDE	442.0	Intro to Biomedical Imaging				x				x		
+BIOMEDE	456.0	Modeling in Biosolid Mechanics			x			x				
+BIOMEDE	474.0	Intro to Tissue Engineering					x			x	x	x
+BIOMEDE	476.0	Advanced Biofluid Mechanics			x		x	x				
+BIOMEDE	479.0	Biotransport			x		x	x		x	x	x
+BIOMEDE	481.0	Engineering Prin. Of Radiation Imaging				x						
+BIOMEDE	484.0	Radiological health Engin Fundmls				x						
+BIOMEDE	487.0	AI in BIOMEDE	Not approved if student took ChE 696 Applied Data Science for Engineers as well	x							x	
+BIIOMEDE	499.024	Bioeng Innovatns Womens Health										
+BIOMEDE	504.0	Cellular Biotechnology					x			x	x	x
+BIOMEDE	510.0	Medical Imaging Laboratory										
+BIOMEDE	514.0	Systems Biology of Human Disease										
+BIOMEDE	516.0	Medical Imaging systems				x			x			
+BIOMEDE	517.0	Neural Engineering		x					x			
+BIOMEDE	527.0	Topics in Neuromodulation										
+BIOMEDE	534.0	Occupational Biomechanics			x							
+BIOMEDE	536.0	Mechanobiology 	previoulsy 599.015									
+BIOMEDE	537.0	Comp Tools for Genomic Technologies		x								
+BIOMEDE	561.0	Biological Micro- and Nanotechnology										
+BIOMEDE	563.0	Biomolecular Engineering of Interfaces	CL with CHE 563 and MATSCIE 563									x
+BIOMEDE	599.016											
+BIOMEDE	599.017	AI for Experiment Design 	previoulsy Automated Science									
+BIOMEDE	599.018	Immunoengineering										
+BIOMEDE	599.019	ML for BIOMEDE Signal & Imaging										
+BIOMEDE	599.020	Adv. Topics in MRI										
+CHE	563.0	Biomolecular Engineering of Interfaces	CL with MATSCIE 563 and BME 563									x
+CHE	341.0	Fluid Mechanics 	not approved if student took Biomede 331									
+CHE	407.0	Process Safety Risk Management										
+CHE	516.0	Applied Pharmacokinetics & Toxicokinetics					x					
+CHE	517.0	Biopharmaceutical Engineering					x					
+CHE	519.0	Pharmaceutical Engineering					x			x	x	
+CHE	574.0	Eng Prin in Drug Delivery & Targeting					x					
+CHE	597.0	Regulatory Issues					x	x				
+CHE	696.0	Tech Innovation, Law, & Regulation					x	x				
+CHE	696.0	Single Cell Technologies										
+CHE	696.0	Applied Data Science for Engineers 	Not approved if student took BME 487 as well									
+CHE	558.0	Foundations of Nanotechnology I	CL with MATSCIE 558				x					x
+CHE	559.0	Foundations of Nanotechnology II	CL with MATSCIE 559				x					x
+ECE	516.0	CL with BIOMEDE 516			x			x			
+ECE	556.0	Image Processing 									
+EECS	300.0	Elec Eng Sys Des II										
+EECS	311.0	Analog Circuits							x			
+EECS	320.0	Intro to Semiconductor Devices							x			
+EECS	334.0	Principles of Optics				x						
+EECS	351.0	Intro to Digital signal Processing				x			x			
+EECS	370.0	Introduction to Computer Organization										
+EECS	373.0	Intro to Embedded Systems							x			
+EECS	388.0	Intro. to Comp Security										
+EECS	414.0	Intro to MEMS			x				x			
+EECS	417.0	CL with BIOMEDE 417	x					x			
+EECS	442.0	Computer Vision										
+EECS	445.0	Machine Learning		x		x						
+EECS	453.0	Prin. of Machine Learning										
+EECS	460.0	Control Systems Analysis and Design										
+EECS	461.0	Embedded Control Systems										
+EECS	485.0	Web Systems		x								
+EECS	492.0	Artificial Intelligence		x								
+EECS	504.0	Foundations of Computer Vision										
+EECS	556.0	Image Processing				x						
+IOE	310.0	Optimization and Computational Methods										
+IOE	333.0	Ergonomics						x		x		
+IOE	413.0	Optimization Modeling in Health Care										
+IOE	436.0	Human Factors in Comp Systems						x				
+IOE	438.0	Occupational Safety Management			x							
+IOE	463.0	Measurement & Design of Work			x			x				
+IOE	491.0	Applied Physical Ergonomics			x							
+IOE	510.0	Linear programming I										
+IOE	534.0	CL with BME 534. Occupational Biomechanics 		x							
+IOE	536.0	Cognitive Ergonomics and Human Systems Integration										
+MACROMOL	410.0	CL with BME and MATSCIE 410				x		x	x		x
+MATSCIE	335.0	Kinetic and Transport in Materials Engineering										
+MATSCIE	350.0	Structures of Materials										
+MATSCIE	400.0	Electronic, Magnetic and Optical Materials for Mordern Developmental Technology										
+MATSCIE	410.0	CL with BME 410				x		x	x		x
+MATSCIE	412.0	Polymeric Materials										
+MATSCIE	420.0	Mech. Behavior of Materials										
+MATSCIE	454.0	Computational Approaches in MSE										
+MATSCIE	465.0	Structural and Chemical Characterization of Materials										
+MATSCIE	512.0	Phys Polymers										
+MATSCIE	514.0	Composite Materials										
+MATSCIE	558.0	CL with CHE 558				x					x
+MATSCIE	559.0	CL with CHE 559				x					x
+MATSCIE	563.0	CL with CHE 563 and BME 563									x
+MATSCIE	583.0	Biocompatibility of Materials								x		x
+MATSCIE	593.76											
+MECHENG	350.0	Design & Manufacturing, II						x				
+MECHENG	360.0	Model, Anal & Control of Dynamic Systems			x						x	
+MECHENG	406.0	Biomechanics for Engineering Students			x							x
+MECHENG	452.0	Design for Manufacturability						x				
+MECHENG	456.0	CL with BME 456		x			x				
+MECHENG	476.0	CL with BME 476		x		x	x				
+MECHENG	482.0	Machine Learning						x				
+MECHENG	553.0	Microelectromechanical Systems			x							
+MFG	452.0	Design for Mfg										
+MFG	463.0	CL with IOE 463		x			x				
+MFG	480.0	Product Design and Manufacturing										
+MFG	501.0	Topics in Global Ops										
+MFG	517.0	CL with CHE 517				x					
+MFG	534.0	CL with BME 534		x							
+MICRBIOL	504.0	CL with BME 504				x			x	x	x
+NERS	484.0	CL with BME 484			x						
+ROB	310.0	Robot Sensors and Signals										
+ROB	498.009	Milli, Micro, and Nanorobotics										
+ROB	599.011											
+
+### Sheet: Cross-Disciplinary (6 credits)
+Cross-Disciplinary (6 credits) Definiation and Requirements:
+- 6 credits of courses in science, engineering, math, or another technical field related to BME (e.g., Entrepreneurship, Bioinformatics, Movement Science, any Med School department)
+- Courses must be at the 200 level or higher
+- Science courses must be designated as natural science (NS) in the LSA Course Guide.
+- Up to 1 credit of seminar may count (e.g., BME 500 Honors Seminar)
+- Courses not specifically listed on the BME Depth Requirement Guide must be pre-approved by the BME department prior to your enrollment.
+- Up to 2 credits of BME 452 (Biomedical Design II) may count towards this requirement
+- All Engineering Expertise courses (beyond the 12 Engineering Expertise required credits) can qualify as Cross Disciplinary credits. 																			
+All Approved Cross-Disciplinary Courses																							
+Cross-Disciplinary (6 credits: 200-level+ math, natural science, and/or engineering)																							
+Subject	Number	Course Name	Notes	Biocomputation	Biomechanics	Biomedical Imaging and Bioelectrics	Biotechnology and Pharmaceutical Engineering	Medical Device Development	Neural Engineering	Pre-Health	Systems Biology	Tissue Engineering and Regenerative Medicine											
+KINSTUDY	200.0	Topics in Human Performance																					
+PUBHLTH	200.0	Health and Society: Introduction to Public Health																					
+ANTHRBIO	201.0	How Humans Evolved																					
+KINSTUDY	201.0	Technology and Data in Sports Science																					
+EECS	203.0	Discrete Math		x																			
+ROB	204.0	Introduction to Human-Robot Systems																					
+BIOLOGY	207.0	Microbiology					x			x	x												
+CHEM	210.0	Structure and Reactivity I	Chem 210/211 cannot count for a Depth Requirement if taken to fulfill the CoE Chemistry Requirement				x			x							CoE	Chemistry	Requirement.)				
+NERS	211.0	Introduction to Nuclear Engineering and Radiological Sciences									x												
+BIOLOGY	212.0	Plants and Human Health																					
+ES	212.0	Entrepreneurial Business Basics																					
+MATH	214.0	Linear Algebra		x	x			x			x												
+CHEM	215.0	Structure and Reactivity II																					
+EECS	216.0	Signals and Systems				x			x														
+MATH	217.0	Linear Algebra		x		x			x														
+AES	218.0	Emergency Response																					
+WGS	220.0	Perspectives in Women's Health																					
+WGS 	220.0	Perspectives in Women's Health																					
+AES	230.0	Human Musculoskeletal Anatomy	CL with Movesci 230																				
+CHE	230.0	Introduction to Material and Energy Balances																					
+MOVESCI	230.0	Human Musculoskeletal Anatomy	CL with AES 230																				
+AES	231.0	Human Musculoskeletal Anatomy Lab	CL with Movesci 231			x																	
+MOVESCI	231.0	Human Musculoskeletal Anatomy Lab	CL with AES 231			x																	
+AES	241.0	Exercise, Nutrition and Weight Control	CL with MOVESCI 241																				
+CHEM	241.0	Introduction to Chemical Analysis																					
+MOVESCI	241.0	Exercise, Nutrition and Weight Control	CL with AES 241																				
+MATSCIE	242.0	Physics of Materials																					
+CHEM	245.0	Biomedical Analytical Chemistry					x			x													
+NERS	250.0	Fundmls of Nuclear Eng & Rad Sciences					x			x													
+STATS	250.0		Not approved for Spring/Summer 2026 and beyond																				
+EECS	270.0	Introduction to Logic Design																					
+BIOLOGY	272.0	Fundamentals of Cell Biology									x												
+EECS	280.0	Programming & Intro to Data Structures		x																			
+EECS	281.0	Data Structures & Algorithms		x																			
+EECS	285.0	Programming in Java		x																			
+BIOLOGY	290.0	Biotechnology and Bioenvironmental Science																					
+EECS	291.0	Applied Data Structures and Algorithms																					
+EECS	300.0	Elec Eng Sys Des II																					
+PHARMSCI	300.0	Biopharmaceutics and Biology of Drug Delivery																					
+MO	302.0	Positively Leading People and Organizations			x																		
+STRATEGY	302.0	Business Strategy Analysis																					
+TO	302.0	Managing Business Operations																					
+ANATOMY	303.0	Introduction to Human Anatomy																					
+IOE	310.0	Optimization and Computational Methods																					
+MCDB	310.0	Introductory Biochemistry					x			x	x												
+PHARMACOL	310.0	Pharmacology and Therapeutics																					
+ROB	310.0	Robot Sensors and Signals						x															
+BIOMEDE	311.0	Signals and Systems		x																			
+EECS	311.0	Analog Circuits							x														
+NERS	312.0	Elements of Nuclear Eng Rad Sciences II																					
+EECS	320.0	Intro to Semiconductor Devices							x														
+BIOMEDE	321.0	Bioreaction Engineering and Design					x			x	x	x											
+BIOMEDE	331.0	Intro Biofluid Mechanics					x	x		x	x	x											
+BIOMEDE	332.0	Intro Biosolid Mechanics			x		x	x		x	x	x											
+IOE	333.0	Ergonomics						x		x													
+EECS	334.0	Principles of Optics				x																	
+MATSCIE	335.0	Kinetic and Transport in Materials Engineering																					
+CHE	341.0	Fluid Mechanics	not approved if student took Biomede 331																				
+MATSCIE	350.0	Structures of Materials																					
+MECHENG	350.0	Design & Manufacturing, II						x															
+CHEM	351.0	Fundamentals of Biochemistry					x			x	x	x											
+EECS	351.0	Intro to Digital signal Processing				x			x														
+MECHENG	360.0	Model, Anal & Control of Dynamic Systems						x															
+EECS	370.0	Introduction to Computer Organization																					
+ENGR	371.0	Numerical Methods for Engineers and Scientists	CL with MATH 371			x			x														
+MATH	371.0	Numerical Methods for Engineers and Scientists	CL with ENGR 371			x			x														
+EECS	373.0	Intro to Embedded Systems							x														
+IOE	373.0	Data Analytics Tools and Techniques																					
+EECS	388.0	Intro. to Comp Security																					
+PHYSICS	390.0	Introduction to Modern Physics																					
+MATSCIE	400.0	Electronic, Magnetic and Optical Materials for Mordern Developmental Technology																					
+ANATOMY	403.0	Human Body			x			x		x	x												
+STATS	403.0	Intro to Quant Research Methods																					
+MICRBIOL	405.0	Medical Microbiology & Infectious Disease			x																		
+MICRBIOL	405.0	Medical Microbiology & Infectious Disease			x																		
+MECHENG	406.0	Biomechanics for Engineering Students			x																		
+CHE	407.0	Process Safety Risk Management																					
+ENTR	408.0	Patent Law & 599.408						x															
+MCDB	408.0	Genomic Biology									x												
+BIOMEDE	410.0	Biomaterials					x		x	x		x											
+MATSCIE	412.0	Polymeric Materials																					
+ENTR	413.0	Entrepreneurship Marketing & 599.413						x															
+IOE	413.0	Optimization Modeling in Health Care																					
+EECS	414.0	Intro to MEMS			x				x														
+BIOLCHEM	415.0	Introductory Biochemistry									x												
+PHYSIOL	415.0	Lab Techniques in Biomedical Research																					
+MCDB	416.0	Introduction to Bioinformatics				x			x														
+BIOMEDE	417.0	Electrical Biophysics		x					x														
+MATH	417.0	Matrix Algebra I																					
+MATSCIE	420.0	Mech. Behavior of Materials																					
+MATH	425.0	Introduction to Probability				x	x	x	x														
+MOVESCI	435.0	Biomechanics of Human Locomotion				x																	
+IOE	436.0	Human Factors in Comp Systems						x															
+MCDB	436.0	Human Immunology				x			x														
+IOE	438.0	Occupational Safety Management			x																		
+BIOPHYS	440.0	Biophysics of Diseases	CL with CHEM 440			x																	
+CHEM	440.0	Biophysics of Diseases	CL with BIOPHYS 440			x																	
+MATSCIE	440.0	Ceramic Materials																					
+MCDB	441.0	Cell Biology and Disease	CL with NEURO 441								x												
+NEURO	441.0	Cell Biology and Disease	CL with MCDB 441																				
+BIOMEDE	442.0	Intro to Biomedical Imaging				x				x													
+EECS	442.0	Computer Vision																					
+EECS	445.0	Machine Learning		x		x																	
+CDB	450.0	Introduction to Histology					x			x		x											
+MCDB	451.0	Molecular Neurobiology of Health and Disease	CL with NEURO 451								x												
+NEURO	451.0	Molecular Neurobiology of Health and Disease	CL with MCDB 451								x												
+MECHENG	452.0	Design for Manufacturability																					
+MFG	452.0	Design for Mfg									x												
+EECS	453.0	Prin. of Machine Learning																					
+MATSCIE	454.0	Computational Approaches in MSE																					
+MCDB	455.0	Cell Biology of Neurodegeneration						x															
+BIOMEDE	456.0	Modeling in Biosolid Mechanics			x			x															
+MCDB	456.0	Genes, Circuits, and Behavior			x						x												
+EECS	460.0	EECS 460 Control Systems Analysis and Design																					
+EECS	461.0	Embedded Control Systems																					
+IOE	461.0	Quality Engineering Principles and Analysis																					
+BIOINF	463.0	Mathematical Modeling in Biology	CL with BIOPHYS 463 and MATH 463						x														
+BIOPHYS	463.0	Mathematical Modeling in Biology	CL with BIOINF 463 and MATH 463						x														
+IOE	463.0	Measurement & Design of Work			x			x															
+MATH	463.0	Mathematical Modeling in Biology	CL with BIOPHYS 463 and BIOINF 463						x														
+MATH	465.0	Intro to Combinatorics					x	x															
+MATSCIE	465.0	Structural and Chemical Characterization of Materials																					
+MCDB	469.0	Signal Transduction			x							x											
+BIOMEDE	474.0	Intro to Tissue Engineering					x			x	x	x											
+BIOMEDE	476.0	Advanced Biofluid Mechanics			x		x	x															
+BIOMEDE	479.0	Biotransport			x		x	x		x	x	x											
+MFG	480.0	Product Design and Manufacturing					x																
+BIOMEDE	481.0	Engineering Prin. Of Radiation Imaging				x																	
+MECHENG	482.0	Machine Learning																					
+BIOMEDE	484.0	Radiological health Engin Fundmls				x																	
+EECS	485.0	Web Systems		x																			
+BIOMEDE	487.0	AI in BIOMEDE	Not approved if student took ChE 696 Applied Data Science for Engineers 	x							x												
+ENTR	490.0	Special Topics in Entrepreneurship																					
+ENTR	490.105																						
+IOE	491.0	Applied Physical Ergonomics			x																		
+EECS	492.0	Artificial Intelligence		x																			
+ROB	498.009	Milli, Micro, and Nanorobotics										x											
+BIOMEDE	500.0	Biomedical Engineering Seminar	CL with UC 500																				
+ENTR	500.0	Intro to Innovation					x	x															
+UC	500.0	Biomedical Engineering Seminar	CL with BIOMEDE 500																				
+BIOINF	501.0	Mathematical Foundations for Bioinformatics																					
+MFG	501.0	Topics in Global Ops																					
+BIOMEDE	503.0	Statistical Methods for Biomedical Engineering																					
+BIOMEDE	504.0	Cellular Biotechnology					x			x	x	x											
+EECS	504.0	Foundations of Computer Vision																					
+MFG	504.0	Tauber Institute Project																					
+BIOMEDE	510.0	Medical Imaging Laboratory																					
+IOE	510.0	Linear programming I																					
+MATSCIE	512.0	Phys Polymers																					
+BIOMEDE	514.0	Systems Biology of Human Disease																					
+MATSCIE	514.0	Composite Materials																					
+BIOMEDE	516.0	Medical Imaging systems				x			x														
+CHE	516.0	Applied Pharmacokinetics & Toxicokinetics					x																
+BIOMEDE	517.0	Neural Engineering		x					x														
+CHE	517.0	Biopharmaceutical Engineering					x																
+CHE	519.0	Pharmaceutical Engineering					x			x	x												
+BIOINF	520.0	Compu. Systems Bio in Physiology																					
+ENTR	520.0	Technology-Inspired Business Models						x															
+BIOINF	524.0	Foundations for Bioinformatics																					
+BIOMEDE	527.0	Topics in Neuromodulation																					
+ENTR	530.0	Innovation & IP Strategy						x															
+BIOMEDE	534.0	Occupational Biomechanics			x																		
+BIOMEDE	536.0	Mechanobiology	previoulsy 599.015																				
+IOE	536.0	Cognitive Ergonomics and Human Systems Integration																					
+BIOMEDE	537.0	Comp Tools for Genomic Technologies		x																			
+IOE	539.0	Safety Engineering Methods																					
+BIOINF	540.0	Math of Biological Networks		x	x						x												
+MATH	540.0	Math of Biological Networks							x														
+BIOINF	547.0	Mathematics of Data		x							x												
+BIOMEDE	550.0	Ethics & Enterprise																					
+ENTR	550.0	Interpersonal Skills						x															
+MECHENG	553.0	Microelectromechanical Systems																					
+EECS	556.0	Image Processing				x																	
+CHE	558.0	Foundations of Nanotechnology I	CL with MATSCIE 558				x					x											
+CHE	559.0	Foundations of Nanotechnology II	CL with MATSCIE 559				x					x											
+ENTR	560.0	Project Management Consulting					x	x															
+BIOMEDE	561.0	Biological Micro- and Nanotechnology																					
+BIOMEDE	563.0	Biomolecular Engineering of Interfaces	CL with CHE and MATSCIE 563									x											
+CHE	563.0	Biomolecular Engineering of Interfaces	CL with BIOMEDE and MATSCIE 563									x											
+BIOINF	568.0	Mathematical and Computational Neuroscience	CL with MATH 568																				
+MATH	568.0	Math and Computational Neuroscience	CL with BIOINF 568																				
+CHE	574.0	Eng Prin in Drug Delivery & Targeting					x																
+BIOINF	576.0	Tool Development for BIOINF																					
+MATSCIE	583.0	Biocompatibility of Materials																					
+MATSCIE	593.76						x			x													
+CHE	597.0	Regulatory Issues					x	x															
+ROB	599.011																						
+BIOMEDE	599.016																						
+BIOMEDE	599.017	Automated Science																					
+BIOMEDE	599.018	Immunoengineering																					
+BIOMEDE	599.019	ML for BIOMEDE Signal & Imaging																					
+MFG	605.0	Manufacturing and Supply Operations	CL with TO 605																				
+CHE	696.0	Applied Data Science for Engineers (*Not approved if took																					
+CHE	696.0	Single Cell Technologies																					
+CHE	696.0	Tech Innovation, Law, & Regulation					x	x															
+AES	313.060																						
+BIOMEDE	599.020	Adv. Topics in MRI																					
+		Honors Seminar series																					
+
+### Sheet: Profession in Practice (3 credi
+Profession in Practice (3 credits) Definiation and Requirements:
+- 3 credits of a course that is primarily hands-on or experiential learning (e.g., lab, design, practicum, or research)
+- Courses must fall under science, engineering, entrepreneurship or computation
+- Some BME 499, Multidisciplinary Design Program (up to 3 credits) and some Entrepreneurship courses satisfy this requirement
+- Up to 2 credits of BME 452 (Biomedical Design II) may count towards this requirement
+- BME 490 may count if it is science or engineering-focused. You must gain pre-approval from the BME Advising Office. 
+Students using Directed Research to fulfill this requirement will follow the Directed - - - - -  Research Guidelines. 
+UROP can potentially count toward this requirement. Please contact bme-advising@umich.edu for more information.
+- Courses not specifically listed on the BME Depth Requirement Guide must be pre-approved by the BME department prior to your enrollment.
+All Approved Profession in Practice Courses
+Profession in Practice (3 credits: lab, design, practicum, or research)																								
+Subject	Number	Course Name	Notes	Biocomputation	Biomechanics	Biomedical Imaging and Bioelectrics	Biotechnology and Pharmaceutical Engineering	Medical Device Development	Neural Engineering	Pre-Health	Systems Biology	Tissue Engineering and Regenerative Medicine															
+BIOINF	527.0	Intro to Bioinformatics & Computational Bio		x							x	
+BIOLOGY	173.0	Introductory Biology Laboratory					x			x		x
+BIOLOGY	226.0	Human and Animal Physiology Lab					x			x		x
+BIOMEDE	474.0	Intro to Tissue Engineering			x							
+BIOMEDE	490.0	Directed Research	with approval – guidelines are linked									
+BIOMEDE	510.0	Medical Imaging Lab				x			x			
+BIOPHYS	422.0	Experimental Methods in Structural Bio				x						
+BIOPHYS	450.0	Laboratory Techniques in Biophysics				x						
+CHEM	211.0	Investigations in Chemistry	Chem 210/211 cannot count for a depth requirement if taken to fulfill the CoE Chemistry Requirement				x			x		
+CHEM	216.0	Synthesis and Characterization of Organic Compounds					x			x		
+CHEM	246.0	Biomedical Analytical Chemistry Lab I					x			x		x
+CHEM	247.0	Biomedical Analytical Chemistry Lab II					x			x		x
+CHEM	352.0	Intro to Biochemical Research Techniques								x	x	
+EECS	200.0	Electrical Engineering Systems Design I						x	x			
+EECS	367.0	Intro to Autonomous Robots			x							
+EECS	441.0	Mobile App Develpmt for Entrepreneurs		x								
+EECS	460.0	Control Systems, Analysis, and Design		x								
+EECS	467.0	Autonomous Robots			x							
+ENTR	390.005	Intro to Entrepreneurial Design						x				
+ENTR	402.0	Concept to Prototype: Software and Hardware Product Development										
+ENTR	405.0	Digital Product Design	Previously ENTR 390.012					x				
+ENTR	412.0	Advanced Entrepreneurship Practicum						x				
+MATSCIE	350.0	Structures of Materials	Not approved if taken Spring/Summer 2026 and after									x
+MATSCIE	360.0	Materials Lab I										x
+MATSCIE	465.0	Structural and Chemical Characterization of Materials										
+MCDB	423.0	Neurobiology Lab				x			x			
+MCDB	424.0	Behavioral Neurobiology Lab							x			
+MCDB	429.0	Lab in Cell and Molecular Biology					x			x	x	x
+MECHENG	250.0	Design and Manufacturing I						x				
+MECHENG	350.0	Design and Manufacturing II						x				
+MECHENG	482.0	Machining Processes			x							
+MECHENG	553.0	Microele Sys			x			x				
+MOVESCI	488.0	Independent Study	Must be pre-approved by BME UEC									
+PHYSIOL	404.0	Human Physiology Lab					x	x		x	x	
+MFG	504.0	MFG 504 needs to be reviewed by the Biomedical Engineering Undergraduate Education Committee before it can be approved for Profession in Practice on a case by case basis.									
+
+### Sheet: Multidisciplinary Design Progra
+All five of the following MDP projects below can count towards Cross-Disciplinary Requirement (CD) and/or Professional in Practice (PiP) for the 2026 cohort (WN26 & FA26)																									
+Company	Area	
+Donaldson finalizing project brief	Filtration for water sterilization	
+Sartorius Hardware	Redesign of industrial cell incubator	
+Stryker Pencil	Design of Surgical Equipment handset	
+Leslie Science & Nature	Design of treat dispenser for raptors (bio design, just not for humans)	
+Stryker Vision	Design of Computer vision OR tool for equipment monitoring / control (internship opportunity possible with Stryker)	
+All other projects need to be petitioned for approval: 																									
+ENGR 255, 355, 455 (MDP) **advisor approval required**
+
+### Sheet: Not Approved
+Course Evaluations Not Approved (For All Students)
+These courses have already been petitioned for and denied by the BME Undergraduate Education Committee. 
+Course	Depth Requirement Petitioned For	Reviewed
+Physics 360	Cross Disciplinary	2025-2026
+Mecheng 235	Cross Disciplinary	2025-2026
+Physics 430	Engineering Expertise	2025-2026

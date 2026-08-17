@@ -1,0 +1,125 @@
+Page header:
+page title: Applied Physics Courses (APPPHYS) – Bulletin
+
+Visible page text:
+Applied Physics Courses (APPPHYS)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Applied Physics Courses (APPPHYS)
+Below are all of the courses that are available to be taken in APPPHYS. Some courses may not be available every semester. Each course is listed in the following format:
+Subject Code and Course Number: Course Name
+If it is a cross listed class, the crosslist course subject and course number will be listed in parentheses
+Any advised or enforced prerequisites that should be taken before enrolling for the course
+A description of the course
+A link to the CourseProfile in ATLAS
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+500 Level Courses
+APPPHYS 514. Applied Physics Seminar
+Advisory
+Prerequisite: Graduate standing. Enforced Prerequisite: None. (1-2 credits)
+Graduate seminars are required each term to familiarize students with current research and problems. Given by a mix of faculty, external lecturers and the students themselves to acquaint students with the scope of research activity and opportunities, the goal of the seminar structure is to promote a strong interaction among the interdisciplinary work being done in applied physics.
+CourseProfile (ATLAS)
+APPPHYS 530 (ECE 530). Electromagnetic Theory I
+Advisory Prerequisite: EECS 330 or PHYSICS 438.
+Enforced Prerequisite:
+None.
+(3 credits)
+Maxwell’s equations, constitutive relations and boundary conditions. Potentials and the representation of electromagnetic fields. Uniqueness, duality, equivalence, reciprocity and Babinet’s theorems. Plane, cylindrical and spherical waves. Waveguides and elementary antennas. The limiting case of electro- and magneto-statics.
+CourseProfile (ATLAS)
+APPPHYS 537 (ECE 537). Classical Optics
+Advisory Prerequisite: EECS 330 and EECS 334.
+Enforced Prerequisite:
+None.
+(3 credits)
+Theory of electromagnetic, physical and geometrical optics. Classical theory of dispersion. Linear response, Kramers-Kronig relations, and pulse propagation. Light scattering. Geometrical optics and propagation in inhomogeneous media. Dielectric waveguides. Interferometry and theory of coherence. Diffraction, Fresnel and Fraunhofer. Gaussian beams and ABCD law.
+CourseProfile (ATLAS)
+APPPHYS 540 (ECE 540). Applied Quantum Mechanics
+Advisory Prerequisite: Permission of instructor.
+Enforced Prerequisite:
+None.
+(3 credits)
+Introduction to nonrelativistic quantum mechanics. Summary of classical mechanics, postulates of quantum mechanics and operator formalism, stationary state problems (including quantum wells, harmonic oscillator, angular momentum theory and spin, atoms and molecules, band theory in solids), time evolution, approximation methods for time independent and time dependent interactions including electromagnetic interactions, scattering.
+CourseProfile (ATLAS)
+APPPHYS 541 (ECE 541). Applied Quantum Mechanics II
+Advisory Prerequisite: APPPHYS 540.
+Enforced Prerequisite:
+None.
+(3 credits)
+Continuation of non-relativistic quantum mechanics. Advanced angular momentum theory, second quantization, non-relativistic quantum electrodynamics, advanced scattering theory, density matrix formalism, reservoir theory.
+CourseProfile (ATLAS)
+APPPHYS 546 (ECE 546). Ultrafast Optics
+Advisory Prerequisite: APPPHYS 537.
+Enforced Prerequisite:
+None.
+(3 credits)
+Propagation of ultrashort optical pulses in linear and nonlinear media and through dispersive optical elements. Laser mode-locking and ultrashort pulse generation. Chirped-pulse amplification. Experimental techniques for high time resolution. Ultrafast Optoelectronics. Survey of ultrafast high field interactions.
+CourseProfile (ATLAS)
+APPPHYS 550 (ECE 538) (PHYSICS 650). Optical Waves in Crystals
+Advisory Prerequisite: EECS 434 and graduate standing.
+Enforced Prerequisite:
+None.
+(3 credits)
+Propagation of laser beams: Gaussian wave optics and the ABCD law. Manipulation of light by electrical, acoustical waves; crystal properties and the dielectric tensor; electro-optic, acousto-optic, acousto-optic effects and devices. Introduction to nonlinear optics; harmonic generation, optical rectification, four-wave mixing, self-focusing and self-phase modulation.
+CourseProfile (ATLAS)
+APPPHYS 551 (ECE 539) (PHYSICS 651). Lasers
+Advisory Prerequisite: (ECE 537 or ECE 538) and graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Complete study of laser operation: the atom-field interaction; homogeneous and inhomogeneous broadening mechanisms; atomic rate equations; gain, amplification and saturation; laser oscillation; laser resonators, modes, and cavity equations; cavity modes; laser dynamics, Q-switching and modelocking. Special topics such as femto-second lasers and ultrahigh power lasers.
+CourseProfile (ATLAS)
+ECE 552 (APPPHYS 552). Fiber Optics: Internet to Biomedical Applications
+Advisory Prerequisite: Any one of EECS 334, EECS 429, EECS 434 or EECS 529, EECS 537, EECS 538, EECS 539, or permission of instructor.
+Enforced Prerequisite:
+None.
+(3 credits)
+This course covers the basics of fibers and applications in fields as diverse as high power and broadband lasers, biomedical diagnostics and therapeutics, telecommunications, and internet communications. Propagation, optical amplification, and nonlinearities in fibers are discussed, and examples include transmission systems and lasers.  Biomedical applications include dermatology, cardiology, and ophthalmology.
+CourseProfile (ATLAS)
+600 Level Courses
+APPPHYS 601 (PHYSICS 540). Advanced Condensed Matter
+Advisory Prerequisite: Graduate standing.
+Enforced Prerequisite:
+None.
+(3 credits)
+This course examines a selection of advanced topics in condensed matter physics, with an emphasis on ideas and techniques that go beyond a simple independent particle approximation.
+CourseProfile (ATLAS)
+APPPHYS 611 (ECE 634) (PHYSICS 611). Nonlinear Optics
+Advisory Prerequisite: ECE 537 or ECE 538 or ECE 530. Graduate standing. Enforced Prerequisite: None. (3 credits)
+Formalism of wave propagation in nonlinear media; susceptibility tensor; second harmonic generation and three-wave mixing; phase matching; third order nonlinearities and four-wave mixing processes; stimulated Raman and Brillouin scattering. Special topics: nonlinear optics in fibers, including solitons and self-phase modulation.
+CourseProfile (ATLAS)
+APPPHYS 619 (PHYSICS 619). Advanced Solid State Physics
+Advisory and
+Enforced Prerequisite: None.
+(3 credits)
+Photon, neutron and electron scattering in condensed matter: elastic and inelastic scattering in condensed matter. The theory of neutron, electron and photon (Rayleigh, Brillouin, Raman, and x-ray) scattering will be presented with an overview of the corresponding experimental techniques; linear response theory, fluctuation-dissipation theorem, elementary excitations in condensed matter, hydrodynamics and symmetry analysis using group theory. AP 633 (Physics 633). Fluid Dynamics.
+CourseProfile (ATLAS)
+APPPHYS 633 (PHYSICS 633). Fluid Dynamics
+Advisory Prerequisite:
+Advanced graduate students.
+Enforced Prerequisite: None.
+(3 credits)
+The course begins with a derivation of the hydrodynamical equations as prototypical phenomenological equations, based on general conservation laws and the second law of thermodynamics; two dimensional ideal fluid flow, the Joukowsky theory of the airfoil, gravity waves and the theory of tides, solitary waves, incompressible viscous flow and the Stokes formula, Sommerfeld’s theory of lubrication, the turbulent wake, Prandtl’s theory of the boundary layer, shock waves, relativistic hydrodynamics, fluctuations in hydrodynamics, etc.
+CourseProfile (ATLAS)
+APPPHYS 644 (PHYSICS 644). Advanced Atomic Physics
+Advisory Prerequisite:
+Graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Laser atom interactions: Absorption, emission, and saturation, theory of line width, multiphoton absorption, stimulated and spontaneous Raman scattering; single photon, multiphoton and above-threshold ionization; Rydberg physics; AC stark shifts and ponderomotive effects; multichannel quantum defect theory; Floquet theory; Mechanical effects of light on atoms (atom traps, molasses), atom interferometry.
+CourseProfile (ATLAS)
+APPPHYS 672 (NERS 572). Intermediate Plasma Physics II
+Advisory Prerequisite: NERS 571.
+Enforced Prerequisite: None.
+(3 credits)
+Waves in non-uniform plasmas, magnetic shear; absorption, reflection and tunneling gradient-driven microinstabilities; BGK mode and nonlinear Landau damping; macroscopic instabilities and their stabilization; non-ideal MHD effects.
+CourseProfile (ATLAS)
+APPPHYS 674 (NERS 674). High-Intensity Laser Plasma Interactions
+Advisory Prerequisite: NERS 471, NERS 571, and graduate standing. Permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+Coupling of intense electromagnetic radiation to electrons and collective modes in time-dependent and equilibrium plasmas, ranging from underdense to solid-density. Theory, numerical modes and experiments in laser fusion, x-ray lasers, novel electron accelerators and nonlinear optics.
+CourseProfile (ATLAS)

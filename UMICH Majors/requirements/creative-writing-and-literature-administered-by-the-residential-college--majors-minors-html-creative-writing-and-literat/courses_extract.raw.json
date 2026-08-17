@@ -1,0 +1,47 @@
+{
+  "id": "creative-writing-and-literature-administered-by-the-residential-college",
+  "displayName": "Creative Writing and Literature (Administered by the Residential College)",
+  "requirementGroups": {
+    "Prerequisites": [
+      "RCCWLIT 220",
+      "RCCWLIT 221",
+      "RCCWLIT 325"
+    ],
+    "Creative Writing Course Requirement": [
+      "RCCWLIT 220",
+      "RCCWLIT 221",
+      "RCCWLIT 320",
+      "RCCWLIT 321",
+      "RCCWLIT 325",
+      "RCCWLIT 326",
+      "RCCWLIT 425",
+      "RCCWLIT 426",
+      "RCCWLIT 334"
+    ],
+    "Literature Requirement": [
+      "ENGLISH 328",
+      "ENGLISH 350",
+      "ENGLISH 379",
+      "ENGLISH 340",
+      "ENGLISH 440",
+      "ENGLISH 442",
+      "CLCIV 385",
+      "MEMS 386"
+    ],
+    "Digital Writing / Skills Course Requirement": [
+      "ENGLISH 420",
+      "RCCWLIT 334",
+      "RCCWLIT 325",
+      "RCCWLIT 326",
+      "RCCWLIT 425",
+      "RCCWLIT 426"
+    ],
+    "Digital Studies Theory Requirement": [
+      "AMCULT 358",
+      "AMCULT 360",
+      "FTVM 368",
+      "ENGLISH 405"
+    ]
+  },
+  "openGroups": {}
+}

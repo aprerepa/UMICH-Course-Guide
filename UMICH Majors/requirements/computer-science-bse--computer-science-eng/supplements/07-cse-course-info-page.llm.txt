@@ -1,0 +1,186 @@
+Page header:
+page title: CSE Course Info | Computer Science and Engineering at Michigan
+
+Visible page text:
+Academics
+Home
+>
+Academics
+>
+Course Resources
+>
+CSE Course Info
+CSE Course Info
+Curious about classes in our curriculum? Look below to see a sampling of course descriptions and to navigate to course websites where you can learn more. Additional information on all EECS courses is available from the
+Course resources page
+.
+For up-to-date information on how courses can count for major requirements, see our course lists:
+Computer Science course lists
+Data Science course lists
+For additional course options towards requirements
+, check out
+EECS special topics courses
+, with offerings varying from semester to semester.
+CSE course sorting tool
+Want to find courses in CSE that match your interest areas and satisfy major requirements? This interactive tool allows you to sort and filter courses by requirement satisfied and content area tags. The new ULCS & MDE/Capstone Student Feedback resource is now linked to each ULCS & MDE/Capstone course card in the sorting tools. Once you click on the button below, the tool will open in a new window.
+CSE course sorting tool
+Course workload data
+Historical EECS workload data can be found on the
+Undergrad Workload Info page
+. Given the nature of the industry, courses are subject to regular change. Many students utilize Atlas for course workload data, with each individual course page containing workload data from course evaluations.
+Atlas
+EECS workload data
+CSE ULCS & Capstone Student Feedback
+Interested in reading qualitative feedback about other students’ experiences in Upper-Level Computer Science (ULCS) and Capstone courses? The CSE ULCS & Capstone Student Feedback was compiled directly from feedback submitted by current CSE students via the
+CSE ULCS & Capstone Student Feedback Survey
+. Click the button below to open this resource in a new window.
+CSE ULCS & Capstone Student Feedback
+Termly course policy
+This spreadsheet
+provides details from instructors about Fall 2025 course policies. For example, attendance policies, lecture/lab/discussion format, course content changes, and more.
+Course descriptions and websites
+See collected course websites, syllabi, and other general course info below. Current semester course websites received from instructors are prioritized, but resources from the recent past are still maintained here to provide some insight into courses. Course instructors should be contacted for additional information on their courses.
+ENGR 101: Introduction to Computers and Programming
+Solving engineering problems with computer programming in MATLAB and C++.
+Learn More
+>
+EECS 183: Elementary Programming Concepts in C++
+An introductory course to computer science and programming, covering the basics of computing as well as problem-solving and algorithmic thinking using C++.
+Learn More
+>
+EECS  183: Elementary Programming Concepts in Python
+An introductory course to computer science and programming, covering the basics of computing as well as problem-solving and algorithmic thinking using Python.
+Learn More
+>
+EECS 201: Computer Science Pragmatics
+The essentials of using a computer effectively. Topics covered include shells, environment, scripting, Makefiles, compilers, debugging tools, and version control.
+Learn More
+>
+EECS 203: Discrete Math
+Introduction to the mathematical foundations of computer science.
+Learn More
+>
+EECS 245: Mathematics for Machine Learning
+Mathematical foundations of machine learning and artificial intelligence, focusing primarily on linear algebra, along with select topics from calculus and probability. Topics include matrices, vectors, projections, spans, least squares, and eigenvalue and eigenvector problems. Includes mathematical theory as well as application to concrete data sets in a modern programming language.
+Learn More
+>
+EECS 280: Programming and Introductory Data Structures
+Computer science fundamentals, with programming in C++. Build an image processing system, a game of Euchre, a web backend, and a machine learning algorithm.
+Learn More
+>
+EECS 281: Data Structures and Algorithms
+Introduction to algorithm analysis and O-notation; Fundamental data structures including lists, stacks, queues, priority queues, hash tables, binary trees, search trees, balanced trees, and graphs; searching and sorting algorithms; recursive algorithms; basic graph algorithms; introduction to greedy algorithms and divide and conquer strategy.
+Learn More
+>
+EECS 291: Applied Data Structures and Algorithms
+Advanced programming including data structures and algorithms and their application to scientific and engineering problems. Topics include data structure design and performance implications, algorithm design and analysis, efficiency and optimization, and software-engineering principles. Prepares students to use this knowledge to build effective and efficient solutions to scientific and engineering challenges.
+Learn More
+>
+EECS 298: 3D Technical Art and Animation
+Learn to create 3D characters, objects, environments, materials, armatures, animations, and more in Blender. Then, explore the integration of these assets into technical ecosystems such as the Unity game engine, bringing them to life with dynamic hair, flowing lava, etc.
+Learn More
+>
+EECS 367: Introduction to Autonomous Robots
+An introduction to the computational foundations of autonomous robotics for building modern robot operating systems and applications to perform mobile manipulation tasks.
+Learn More
+>
+EECS 370: Introduction to Computer Organization
+Basic concepts of computer organization and hardware.
+Learn More
+>
+EECS 373: Introduction to Embedded System Design
+This class is focused on the principles and practices of modern embedded system design.
+Learn More
+>
+EECS 376: Foundations of Computer Science
+An introduction to computer science theory, with applications.
+Learn More
+>
+EECS 388: Introduction to Computer Security
+This course teaches the security mindset and introduces the principles and practices of computer security as applied to software, host systems, and networks.
+Learn More
+>
+EECS 390: Programming Paradigms
+This course offers a survey of programming language features and paradigms, with a focus on how to effectively use them.
+Learn More
+>
+EECS 404: Game Engine Architecture and Data Oriented Programming
+Create your own game engine from scratch in this programming-intensive ULCS course. Topics include scripting languages and multi-language programs, data-oriented programming, c++ pragmatics, resource management, multi-platform portability, middleware integration, rendering, test-driven development, modern engines, and game engine history.
+Learn More
+>
+EECS 440: Extended Reality for Social Impact
+Design, development, and application of virtual and augmented reality software for social impact.
+Learn More
+>
+EECS 441: Mobile App Development for Entrepreneurs
+Best practices in the software engineering of mobile applications and best practices of software entrepreneurs in the design, production and marketing of mobile apps.
+Learn More
+>
+EECS 442: Computer Vision
+Class topics include low-level vision, 2D signal processing, object recognition, image synthesis, 3D reconstruction, and deep learning.
+Learn More
+>
+EECS 448: Applied Machine Learning for Modeling Human Behavior
+This course will cover current practices in measuring and sensing human behavior via machine learning.
+Learn More
+>
+EECS 470: Computer Architecture
+An advanced course on computer architecture. Design a fully synthesizable, out-of-order processor.
+Learn More
+>
+EECS 471: Applied Parallel Programming with GPUs
+Parallel computing and application development for massively parallel processors such as GPUs.
+Learn More
+>
+EECS 473: Advanced Embedded Systems
+We will explore rapid prototyping, design of APIs for hardware devices, PCB design (from basics to power converters and power integrity issues), Real-time operating systems, and device drivers for high-level systems using Linux.
+Learn More
+>
+EECS 475: Introduction to Cryptography
+This class is an undergraduate-level introduction to modern cryptography. The emphasis is on essential concepts, precise attack models and security definitions, and constructions of some real-world cryptosystems.
+Learn More
+>
+EECS 477: Introduction to Algorithms
+Fundamental techniques for designing efficient algorithms and basic mathematical methods for analyzing their performance.
+Learn More
+>
+EECS 479: Introduction to Quantum Computing
+A practical approach towards exploring how each layer of the computing stack is impacted by quantum computing. Build a quantum circuit simulator, a constraint solver using quantum algorithms, and a protocol for fault-tolerant quantum computation.
+Learn More
+>
+EECS 481: Software Engineering
+This course focuses on software engineering and analysis. At a high level, the course is organized around five core topics: measurement and risk, quality assurance, software defects, software design, and productivity at scale.
+Learn More
+>
+EECS 484: Database Management Systems
+Concepts and methods for the design, creation, query and management of large enterprise databases.
+Learn More
+>
+EECS 485: Web Systems
+A holistic course of modern web systems and technologies, covering front end and back end. Build an Instagram clone in the first half of the semester, and a Google clone in the second.
+Learn More
+>
+EECS 489: Computer Networks
+Topics include socket programming, naming and addressing, video streaming and content distribution, flow and congestion control, routing, and cloud, datacenter, and software-defined networks. Students write several substantial programs implementing protocols at different layers of the network stack.
+Learn More
+>
+EECS 490: Programming Languages
+This course covers the design and use of modern programming languages. We will build up systematically from formal first principles while considering human factors in language design, language prototyping, and techniques for reasoning precisely about program behavior throughout the course.
+Learn More
+>
+EECS 491: Introduction to Distributed systems
+A course on the design and implementation of consistent, scalable, performant, and reliable distributed systems.
+Learn more
+>
+EECS 494: Introduction to Video Game Development
+Students will learn to implement small-to-medium sized video games using the industry-standard Unity3D Game Engine.
+Learn More
+>
+EECS 495: Accessible Software Systems Design
+Using established software development methodology, build software system that combines new technology and also addresses disability or illness.
+Learn More
+>
+EECS 497: Human-Centered Software and Design and Development
+Team-based, user-centered design and development of complex software systems incorporating effective design strategies and project management methodologies. Topics include customer discovery, contextual inquiry, prototyping, process models, creative problem solving, inclusive thinking, team dynamics, social concerns, and testing strategies.
+Learn More
+>

@@ -1,0 +1,10 @@
+{
+  "id": "law-justice-and-social-change-sub-major-of-sociology--majors-minors-html-law-justics-and-social-change-sub",
+  "displayName": "Law, Justice, and Social Change (Sub-major of Sociology)",
+  "groupRules": {
+    "Sub-major Courses": {
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

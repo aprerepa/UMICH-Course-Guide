@@ -4,14 +4,73 @@
   "school_college": "College of Engineering",
   "program_url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/bse-space-science-engineering/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+8 course-list supplements: Editable sample schedule, sample schedule here, sample schedule)",
   "program_final_url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/bse-space-science-engineering/",
-  "program_fetch_mode": "browser",
-  "requirements_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
-  "requirements_link_text": "Editable sample schedule",
-  "requirements_link_score": 115,
+  "program_fetch_mode": "http",
+  "requirements_url": "https://bulletin.engin.umich.edu/courses/clasp/",
+  "requirements_link_text": "CLaSP Course Guide",
+  "requirements_link_score": 145,
   "requirements_link_strategy": "page",
-  "requirements_final_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+  "requirements_final_url": "https://bulletin.engin.umich.edu/courses/clasp/",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T15:49:48.752559+00:00"
+  "fetched_at": "2026-08-10T16:39:07.200484+00:00",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-editable-sample-schedule-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+      "link_text": "Editable sample schedule",
+      "status": "fetched",
+      "chars": 2199
+    },
+    {
+      "id": "02-sample-schedule-here",
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-CM-BSE-2.24.2023-Google-Sheets.pdf",
+      "link_text": "sample schedule here",
+      "status": "fetched",
+      "chars": 2670
+    },
+    {
+      "id": "03-sample-schedule",
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-SSE-BSE-2023-Sheet1.pdf",
+      "link_text": "sample schedule",
+      "status": "fetched",
+      "chars": 3197
+    },
+    {
+      "id": "04-sample-schedule",
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/AEROSP-BSE-Sample-Schedule_4.21.25.pdf",
+      "link_text": "sample schedule",
+      "status": "fetched",
+      "chars": 3055
+    },
+    {
+      "id": "05-sample-schedule",
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/04/NERS-Sample-Schedule-4-2026.pdf",
+      "link_text": "sample schedule",
+      "status": "fetched",
+      "chars": 3155
+    },
+    {
+      "id": "06-https-bulletin-engin-umich-edu-courses-course-info",
+      "url": "https://bulletin.engin.umich.edu/courses/course-info/",
+      "link_text": "https://bulletin.engin.umich.edu/courses/course-info/",
+      "status": "fetched",
+      "chars": 3397
+    },
+    {
+      "id": "07-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CLIMATE%20102/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "08-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CLIMATE%20105/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    }
+  ]
 }

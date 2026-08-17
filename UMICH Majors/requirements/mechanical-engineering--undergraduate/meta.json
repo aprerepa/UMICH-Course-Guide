@@ -4,14 +4,73 @@
   "school_college": "College of Engineering",
   "program_url": "https://me.engin.umich.edu/admissions/undergraduate/",
   "status": "fetched",
-  "message": "requirements page ready for LLM (via degree program hub)",
+  "message": "requirements page ready for LLM (+8 course-list supplements: Capstone Design (ME 450), AEROSP Course List / Bulletin, BIOMEDE Course List / Bulletin)",
   "program_final_url": "https://me.engin.umich.edu/admissions/undergraduate/",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://me.engin.umich.edu/academics/undergrad/handbook/bachelors/",
   "requirements_link_text": "Explore Mechanical Engineering \u2192 Mechanical Engineering (MECHENG)",
   "requirements_link_score": 145,
   "requirements_link_strategy": "hub_program_is_requirements",
   "requirements_final_url": "https://me.engin.umich.edu/academics/undergrad/handbook/bachelors/",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:44:50.540585+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:25:27.257942+00:00",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-capstone-design-me-450",
+      "url": "https://me.engin.umich.edu/academics/undergrad/me450/",
+      "link_text": "Capstone Design (ME 450)",
+      "status": "fetched",
+      "chars": 1972
+    },
+    {
+      "id": "02-aerosp-course-list-bulletin",
+      "url": "https://bulletin.engin.umich.edu/courses/aero/",
+      "link_text": "AEROSP Course List / Bulletin",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "03-biomede-course-list-bulletin",
+      "url": "https://bulletin.engin.umich.edu/courses/bme/",
+      "link_text": "BIOMEDE Course List / Bulletin",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "04-cee-course-list-bulletin",
+      "url": "https://bulletin.engin.umich.edu/courses/cee/",
+      "link_text": "CEE Course List / Bulletin",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "05-che-course-list-bulletin",
+      "url": "https://bulletin.engin.umich.edu/courses/che/",
+      "link_text": "CHE Course List / Bulletin",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "06-climate-space-course-list-bulletin",
+      "url": "https://bulletin.engin.umich.edu/courses/clasp/",
+      "link_text": "CLIMATE & SPACE Course List / Bulletin",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "07-computer-engineering-course-list-bulletin",
+      "url": "https://bulletin.engin.umich.edu/courses/eecs/",
+      "link_text": "Computer Engineering Course List / Bulletin",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "08-matscie-course-list-bulletin",
+      "url": "https://bulletin.engin.umich.edu/courses/matscie/",
+      "link_text": "MATSCIE Course List / Bulletin",
+      "status": "fetched",
+      "chars": 32874
+    }
+  ]
 }

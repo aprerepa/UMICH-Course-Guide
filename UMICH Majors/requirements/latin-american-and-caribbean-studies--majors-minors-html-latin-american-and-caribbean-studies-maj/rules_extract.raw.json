@@ -1,0 +1,26 @@
+{
+  "id": "latin-american-and-caribbean-studies",
+  "displayName": "Latin American and Caribbean Studies",
+  "groupRules": {
+    "LACS Language Requirement for the Major": {
+      "completion": "manual",
+      "countsTowardMajorTotal": false
+    },
+    "Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "History": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Literature": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Politics and Economy": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

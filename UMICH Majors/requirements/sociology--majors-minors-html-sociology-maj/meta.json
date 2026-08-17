@@ -4,15 +4,32 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#sociology-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+2 course-list supplements: Courses, Browse copies of past LSA bulletins)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#sociology-maj",
   "program_fetch_mode": "browser",
-  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/sociology-major.html",
-  "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
-  "requirements_link_strategy": "lsa_listing:lsa_detail",
-  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/sociology-major.html",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/sociology-and-social-work-submajor.html",
+  "requirements_link_text": "REQUIREMENTS \u2192 Sociology and Social Work",
+  "requirements_link_score": 175,
+  "requirements_link_strategy": "lsa_listing:lsa_detail\u2192nested",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/sociology-and-social-work-submajor.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:48:59.001955+00:00",
-  "lsa_resolved_row_id": "sociology-maj"
+  "fetched_at": "2026-08-10T16:37:44.172105+00:00",
+  "lsa_resolved_row_id": "sociology-maj",
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4071
+    },
+    {
+      "id": "02-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3806
+    }
+  ]
 }

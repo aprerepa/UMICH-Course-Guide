@@ -1,0 +1,585 @@
+Academics
+Home
+>
+Academics
+>
+Course Information
+>
+Grad Course List
+Graduate Course List By Area
+This page provides a list of graduate-level ECE courses. The courses are divided into the 12 research areas a graduate student can major in.
+Click on the column header to sort.
+M = Counts as a Major Area course automatically
+E  = Counts as a Major Area course after approval by an advisor
+Course descriptions are found in the
+Bulletin
+.
+See also our list of
+cognate courses
+.
+Table Key
+CM = Network, Communication, and Information Systems
+OP = Optics & Photonics
+CT = Control Systems
+PE = Power & Energy
+CV = Computer Vision
+QU = Quantum Engineering, Science, and Technology
+EM = Applied Electromagetics & RF Circuits
+RO = Robotics
+ES = Embedded Systems
+SP = Signal & Image Processing and Machine Learning
+IC = Integrated Circuits & VLSI
+SS = Solid State & Nanotechnology
+MM = MEMS & Microsystems
+If the Grad Table is not displaying properly, you can also view the
+Grad Table as a Google Sheet
+.
+Print
+Excel
+CSV
+Copy
+Show
+1
+5
+10
+25
+50
+100
+All
+All
+entries
+Search:
+Course Number & Name
+Credits
+CM
+CT
+CV
+EM
+ES
+IC
+MM
+OP
+PE
+QU
+RO
+SP
+SS
+ECE 501. Probability and Random Processes
+4
+M
+E
+E
+E
+M
+ECE 502. Stochastic Processe
+3
+M
+E
+M
+ECE 503 Numerical Electromagnetics
+3
+M
+ECE 505. Computational Data Science and Machine Learning
+4
+E
+E
+M
+E
+ECE 506. Design of Power Electronics
+3
+M
+E
+ECE 508. Control and Modeling of Power Electronics
+3
+M
+E
+ECE 509. BioMEMS
+3
+M
+ECE 511. Integrated Analog/Digital Interface Circuits
+4
+M
+E
+ECE 512. Amorphous and Microcrystalline Semiconductor Thin Film Devices
+3
+E
+ECE 513. Flat Panel Displays
+3
+E
+ECE 514. Advanced MEMS Devices and Technologies
+4
+E
+M
+ECE 515. Integrated Microsystems
+4
+M
+E
+M
+ECE 516 (BIOMEDE 516). Medical Imaging Systems
+3
+M
+ECE 517 (NERS 578). Low Temperature Plasmas
+3
+M
+E
+E
+ECE 518 (AOSS 595). Magnetosphere and Solar Wind
+3
+ECE 519 (NERS 575) Plasma Generation and Diag. Lab.
+4
+E
+ECE 520. Solid State Physics
+4
+M
+M
+ECE 521. Solid State Devices
+3
+E
+M
+ECE 524: Organic Electronics
+3
+E
+M
+ECE 525. Advanced Solid State Microwave Circuits
+3
+M
+E
+E
+E
+ECE 526. Plasmonics
+3
+M
+E
+M
+E
+ECE 527: Power Semiconductor Devices
+E
+E
+E
+M
+ECE 528 Principles of Microelectronics Process Technology
+3
+E
+E
+ECE 529. Semiconductor Lasers and LEDs
+3
+E
+E
+ECE 530 (APPPHYS 530). Electromagnetic Theory I
+3
+M
+E
+ECE 531. Antenna Theory and Design
+3
+M
+ECE 532 (CLIMATE 587) (SPACE 587). Microwave Remote Sensing I: Radiometry
+3
+M
+ECE 533. Microwave Measurements Laboratory
+3
+M
+E
+ECE 534. Analysis of Electric Power Distribution Systems and Loads
+3
+M
+ECE 535. Power System Dynamics and Control
+3
+M
+ECE 536. Power System Markets and Optimization
+3
+M
+ECE 537 (APPPHYS 537). Classical Optics
+3
+M
+ECE 538 (APPPHYS 550) (PHYSICS 650). Optical Waves in Crystals
+3
+M
+E
+ECE 539 (APPPHYS 551) (PHYSICS 651). Lasers
+3
+M
+E
+ECE 540 (APPPHYS 540). Applied Quantum Mechanics I
+3
+E
+M
+E
+ECE 541 (APPPHYS 541). Applied Quantum Mechanics II
+3
+E
+M
+E
+ECE 544. Analysis of Social Networks
+3
+M
+ECE 546 (APPPHYS 546). Ultrafast Optics
+3
+E
+ECE 550. Information Theory
+3
+M
+E
+E
+ECE 551. Matrix Methods for Signal Processing, Data Analysis, & Machine Learning
+4
+E
+E
+M
+E
+M
+ECE 552 (APPPHYS 552) Fiber Optics: Internet to Biomedical Applications
+3
+E
+E
+E
+ECE 554. Introduction to Digital Communication and Coding
+3
+M
+ECE 555. Digital Communication Theory
+3
+E
+ECE 556. Image Processing
+3
+E
+E
+M
+ECE 557. Communication Networks
+3
+M
+ECE 558. Stochastic Control
+3
+M
+M
+ECE 559. Optimization Methods in Signal Processing and Machine Learning
+3
+M
+ECE 560  (AEROSP 550) (CEE 571) (MECHENG 564). Linear Systems Theory
+4
+M
+E
+E
+ECE 561 (MECHENG 561). Design of Digital Control Systems
+3
+M
+M
+E
+ECE 562 (AEROSP 551) (MECHENG 546) (ROB 512). Nonlinear Systems and Control
+3
+M
+E
+E
+ECE 563: Hybrid Systems
+3
+M
+E
+ECE 564. Estimation, Filtering, and Detection
+3
+E
+E
+M
+E
+M
+ECE 565 (MECHENG 554). Linear Feedback Control Systems
+3
+M
+M
+E
+ECE 566. Discrete Event Systems
+3
+M
+M
+ECE 567. Reinforcement Learning Theory
+3
+E
+E
+E
+ECE 569 (MFG 564). Production Systems Engineering
+3
+ECE 590. Skills for Success in Graduate Studies (counts towards "S/U credits" only)
+1
+ECE 598. Special Topics in ECE
+1
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+ECE 599. Directed Study
+(Counts towards "optional credits" only)
+1
+ECE 600 (IE 600). Function Space Methods in System Theory
+3
+E
+M
+ECE 605: Data Science and Machine Learning Design Laboratory
+4
+E
+E
+ECE 620. Electronic and Optical Properties of Semiconductors
+4
+E
+E
+ECE 631. Electromagnetic Scattering
+3
+M
+ECE 633. Numerical Methods in Electromagnetics
+3
+M
+ECE 634 (APPPHYS 611) (Physics 611). Nonlinear Optics
+3
+E
+E
+E
+ECE 638 (PHYSICS 542). Quantum Optics
+3
+E
+M
+ECE 650. Channel Coding Theory
+3
+M
+ECE 659. Adaptive Signal Processing
+3
+M
+ECE 662 (MECHENG 662). Advanced Nonlinear Control
+3
+E
+E
+ECE 698. Master's Thesis
+(Counts towards "optional credits" only)
+1
+ECE 699. Research Work in EECS
+(Counts towards "optional credits" only)
+1
+ECE 730. Special Topics in Electromagnetics
+3
+M
+ECE 755. Special Topics in Signal Processing
+1
+E
+ECE 990. Dissertation/Pre-Candidate
+1
+ECE 995. Dissertation/Candidate
+8
+EECS 411. Microwave Circuits I
+4
+M
+M
+E
+EECS 413. Monolithic Amplifier Circuits
+4
+M
+E
+EECS 414. Introduction to MEMS
+4
+E
+M
+EECS 417 (BIOMEDE 417). Electrical Biophysics
+4
+EECS 418. Power Electronics
+4
+E
+E
+M
+EECS 419. Electric Machinery and Drives
+4
+M
+EECS 421. Properties of Transistors
+4
+E
+E
+EECS 423. Micro/Nano Device Fabrication and Characterization
+4
+E
+E
+EECS 425. Integrated Microsystems Laboratory
+4
+M
+E
+M
+E
+EECS 427. VLSI Design I
+4
+M
+E
+EECS 428. Quant Nano Techs
+3
+EECS 429. Semiconductor Optoelectronic Devices
+4
+E
+EECS 430 (SPACE 431)(CLIMATE 431). Wireless Link Design
+4
+M
+EECS 434. Principles of Photonics
+4
+E
+E
+EECS 438. Advanced Lasers and Optics Laboratory
+4
+E
+EECS 442. Computer Vision
+4
+E
+E
+M
+EECS 444. Analysis Social Networks
+4
+EECS 452. Digital Signal Processing Design Laboratory
+4
+E
+M
+EECS 453. Principles of Machine Learning
+4
+EECS 455. Wireless Communications Systems
+4
+E
+EECS 458 (BIOMEDE 458). Biomedical Instrumentation and Design
+4
+E
+EECS 460. Control Systems Analysis and Design
+4
+M
+M
+E
+EECS 461. Embedded Control Systems
+4
+M
+M
+E
+EECS 463. Power Systems Design and Operation
+4
+M
+E
+EECS 464. Hands-on Robotics
+4
+M
+EECS 467: Autonomous Robotics Design Experience
+4
+E
+M
+EECS 470. Computer Architecture
+4
+E
+M
+EECS 472. Computer Architecture Project
+4
+E
+M
+EECS 473. Advanced Embedded Systems
+4
+M
+E
+EECS 477. Introduction to Algorithms
+4
+E
+EECS 478. Logic Circuit Synthesis and Optimization
+4
+M
+EECS 480. Social Computing Systems
+4
+EECS 498. Special Topics
+1
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+EECS 504. Foundations of Computer Vision
+3
+M
+E
+M
+M
+EECS 507. Introduction to Embedded Systems Research
+3
+M
+E
+EECS 522. Analog Integrated Circuits
+4
+M
+E
+EECS 523. Digital Integrated Technology
+4
+M
+E
+E
+EECS 542. Advanced Topics in Computer Vision
+3
+M
+E
+E
+EECS 545. Machine Learning (CSE)
+3
+E
+E
+EECS 553: Machine Learning (ECE)
+3
+E
+E
+E
+M
+EECS 567 (MFG 567) (MECHENG 567) (ROB 510). Robotic Kinematics and Dynamics
+3
+E
+M
+EECS 568 (NAVARCH 568)(ROB 530). Mobile Robotics: Methods and Algorithms
+4
+E
+E
+M
+M
+EECS 570. Parallel Computer Architecture
+4
+E
+M
+EECS 571. Principles of Real-Time Computing
+4
+E
+E
+EECS 573. Microarchitecture
+3
+M
+EECS 627. VLSI Design II
+4
+M
+E
+EECS 628. Advanced High Performance VLSI Design
+3
+M
+E
+PHYS 453. Quantum Mechanics
+3
+E
+ROB 501. Mathematics for Robotics
+3
+E
+E
+ROB 511
+E
+ROB 535 (NAVARCH 565). Self Driving Cars
+3
+ROB 550. Robotics Systems Laboratory
+4
+E
+M
+Showing 1 to 127 of 127 entries
+1
+×
+Dynamic title for modals
+Are you sure?
+Please confirm deletion. There is no undo!
+Cancel
+Delete

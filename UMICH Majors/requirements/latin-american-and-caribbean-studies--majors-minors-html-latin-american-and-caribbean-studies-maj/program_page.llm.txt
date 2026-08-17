@@ -19,10 +19,6 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 About
 Academics
 Research
@@ -50,10 +46,6 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 for
 Prospective Students
 Current Students
@@ -1591,6 +1583,17 @@ HUM
 NAT
 SOC
 INT
+Latin American and Caribbean Studies (Major)
+The Interdepartmental Program of study in a major in Latin American and Caribbean Studies is designed to provide students with a rigorous, multi-disciplinary approach to the study of Latin America and the Caribbean. A broad base of knowledge is established by the requirement of a core of upper-level work in languages, the social sciences, and the humanities. Analytical depth is demonstrated through the completion of a senior thesis under appropriate faculty supervision.
+Related Program
+Latin American and Caribbean Studies Minor
+Latina/o Studies Major
+Latina/o Studies Minor
+REQUIREMENTS
+WEBSITE
+ADVISING
+DEPARTMENT/PROGRAM
+LSA II: Latin American and Caribbean Studies
 Latin American and Caribbean Studies (Minor)
 m
 INT

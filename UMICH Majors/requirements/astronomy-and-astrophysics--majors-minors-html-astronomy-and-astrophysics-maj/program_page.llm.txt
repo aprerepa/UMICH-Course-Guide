@@ -19,6 +19,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -46,6 +50,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -384,17 +392,6 @@ HUM
 NAT
 SOC
 INT
-Astronomy and Astrophysics (Major)
-Will the universe expand forever? Is there life on other planets? How do stars form, live, and die? These are some of the exciting questions confronting astronomers in the twenty-first century. Because of the awe-inspiring immensity of the subject, the study of astronomy has a strong fascination—poetic, philosophical, speculative—for many individuals. In the modern observatory, however, the urge to understand and discover what is happening in the universe finds expression in the scientific pursuit of the subject. To explore the dynamics of colliding galaxies and of interstellar gas in galaxies, to find the compositions of chemically peculiar stars and supernovae remnants, to explain radio-galaxy variations and atomic emissions of quasars—some of the active areas in the Michigan Department of Astronomy—requires patience and dedication, together with the curiosity and talent characteristic of all scientists.
-Related Programs
-Astronomy and Astrophysics Minor
-Interdisciplinary Astronomy Major
-Interdisciplinary Astronomy Minor
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Astronomy
 Astronomy and Astrophysics (Minor)
 m
 NAT

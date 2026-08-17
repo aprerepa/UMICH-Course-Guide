@@ -1,0 +1,54 @@
+{
+  "id": "human-origins-biology-and-behavior",
+  "displayName": "Human Origins, Biology, and Behavior",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          "ANTHRBIO 201",
+          {
+            "anyOf": [
+              {
+                "allOf": [
+                  "BIOLOGY 171",
+                  "BIOLOGY 172",
+                  "BIOLOGY 173"
+                ]
+              },
+              {
+                "allOf": [
+                  "BIOLOGY 195",
+                  "BIOLOGY 173"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Paleoanthropology and morphology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Ecology and behavior": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Human adaptation": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Evolution and genetics": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Molecular, Cellular, and Developmental Biology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Ecology, Evolution, and Behavior": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

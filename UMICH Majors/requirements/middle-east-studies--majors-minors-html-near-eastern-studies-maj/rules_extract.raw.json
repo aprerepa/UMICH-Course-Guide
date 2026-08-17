@@ -1,0 +1,33 @@
+{
+  "id": "middle-east-studies",
+  "displayName": "Middle East Studies",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          "MIDEAST 200",
+          "LANGUAGE PROICIENCY"
+        ]
+      }
+    },
+    "Submajor Requirement": {
+      "completion": "manual",
+      "countsTowardMajorTotal": false
+    },
+    "Disciplinary Requirement": {
+      "minCourses": 3,
+      "minCredits": 10,
+      "countsTowardMajorTotal": true
+    },
+    "Middle East Studies Language Requirement for the Major": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "minCourses": 3,
+      "minCredits": 10,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

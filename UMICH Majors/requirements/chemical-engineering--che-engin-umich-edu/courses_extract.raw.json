@@ -1,0 +1,118 @@
+{
+  "id": "chemical-engineering",
+  "displayName": "Chemical Engineering",
+  "requirementGroups": {
+    "Mathematics": [
+      "MATH 115",
+      "MATH 116",
+      "MATH 215",
+      "MATH 216"
+    ],
+    "Engineering Core": [
+      "ENGR 100",
+      "ENGR 101"
+    ],
+    "Chemistry Core": [
+      "CHEM 130"
+    ],
+    "Physics": [
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 240",
+      "PHYSICS 241"
+    ],
+    "Advanced Chemistry": [
+      "CHEM 210",
+      "CHEM 211",
+      "CHEM 215",
+      "CHEM 216",
+      "CHEM 261"
+    ],
+    "Related Technical Subjects": [
+      "MSE 250",
+      "MSE 220"
+    ],
+    "Program Subjects": [
+      "CHE 230",
+      "CHE 330",
+      "CHE 341",
+      "CHE 342",
+      "CHE 343",
+      "CHE 344",
+      "CHE 360",
+      "CHE 460",
+      "CHE 466",
+      "CHE 485",
+      "CHE 487",
+      "CHE 488",
+      "CHE 489"
+    ],
+    "Engineering Electives": [
+      "CHE 296",
+      "CHE 407",
+      "CHE 431",
+      "CHE 496",
+      "CHE 497",
+      "CHE 696",
+      "CHE 490",
+      "CHE 504",
+      "CHE 517",
+      "CHE 538",
+      "CEE 265",
+      "CEE 373",
+      "CEE 482",
+      "CEE 567",
+      "ESENG 567",
+      "CEE 586",
+      "EECS 203",
+      "EECS 215",
+      "EECS 280",
+      "EECS 314",
+      "EECS 370",
+      "ENGR 255",
+      "ENGR 256",
+      "ENGR 350",
+      "ENGR 355",
+      "ENGR 371",
+      "MATH 371",
+      "ENGR 455",
+      "ENGR 460",
+      "BME 410",
+      "IOE 201",
+      "IOE 202",
+      "IOE 265",
+      "ME 211",
+      "ME 240",
+      "ME 250",
+      "MSE 242",
+      "MSE 350",
+      "MSE 412",
+      "CHE 412",
+      "NERS 211"
+    ]
+  },
+  "openGroups": {
+    "Engineering Electives": {
+      "subjects": [
+        "ENGR",
+        "CHE",
+        "CEE",
+        "EECS",
+        "ME",
+        "MSE",
+        "IOE",
+        "BME",
+        "NERS"
+      ],
+      "minLevel": 200,
+      "exclude": [
+        "BioME 295",
+        "BioME 495",
+        "CEE 401",
+        "EECS 284",
+        "ENTR 407",
+        "ENGR 260"
+      ]
+    }
+  }
+}

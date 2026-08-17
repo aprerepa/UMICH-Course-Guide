@@ -1,0 +1,18 @@
+{
+  "id": "drama-administered-by-the-residential-college",
+  "displayName": "Drama (Administered by the Residential College)",
+  "groupRules": {
+    "Foundational Requirement": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Capstone Requirement": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "minCredits": 27,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

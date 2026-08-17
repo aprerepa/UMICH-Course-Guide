@@ -1,0 +1,171 @@
+Page header:
+page title: Courses | U-M LSA Department of History
+og:description: Learn more about the U-M History Department's wide range of courses offered each term.
+
+Visible page text:
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+LSA Gateway
+//
+History Showcase
+Submit Site Search
+Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+About Us
+People
+News & Events
+Research
+History at Work
+History Showcase
+HAPPI
+for
+Undergraduate Students
+Graduate Students
+Alumni & Friends
+U-M
+LSA
+Departments and Units
+Majors and Minors
+LSA Gateway
+History Showcase
+Keyword Search of history
+About Us
+People
+News & Events
+Research
+History at Work
+History Showcase
+HAPPI
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+for
+Undergraduate Students
+Graduate Students
+Alumni & Friends
+Majors
+History Honors
+Careers & Internships
+Transfer to U-M History
+Minors
+Advising
+Innovative Instruction
+Courses
+Undergraduate Research
+Awards, Scholarships, & Funding
+Admissions Procedures
+Research Spotlight
+Awards and Honors
+Graduate Student Instructors
+Degree Requirements
+Student Life
+Recent Dissertations
+Financial Support
+Careers
+Affiliated Programs
+Giving Opportunities
+Stay in Touch
+History Matters Magazine
+Skip to Page Content
+Undergraduate Students
+Courses
+...
+Courses
+Undergraduate Students
+[X] close
+Undergraduate Students
+Majors
+Minors
+Courses
+Race and Ethnicity Courses
+Independent Study
+Study Abroad and Transfer Courses
+Grade Grievances & Academic Integrity
+Fall 2026 Course List
+Spring & Summer 2026 Course List
+History Honors
+Advising
+Undergraduate Research
+Careers & Internships
+Innovative Instruction
+Awards, Scholarships, & Funding
+Transfer to U-M History
+Courses
+Undergraduate Students
+Majors
+Minors
+Courses
+Race and Ethnicity Courses
+Independent Study
+Study Abroad and Transfer Courses
+Grade Grievances & Academic Integrity
+Fall 2026 Course List
+Spring & Summer 2026 Course List
+History Honors
+Advising
+Undergraduate Research
+Careers & Internships
+Innovative Instruction
+Awards, Scholarships, & Funding
+Transfer to U-M History
+History Courses
+Each year U-M History offers hundreds of undergraduate courses taught by
+award-winning faculty
+spanning every region of the globe from ancient times to the present. Topics cover the highest reaches of power, the everyday lives of marginalized groups, politics, war, religion, race, gender, sexuality, and almost everything else imaginable. Many offer the opportunity to engage in
+original research
+.
+In some courses, students and faculty collaborate in projects that put history to work in the public service. Past examples have included conducting legal aid research on Latin American immigration, investigating cold civil rights cases in Detroit, or assisting with
+archival digitization projects in Uganda
+.
+Students may take courses at any level without prerequisites, but course numbering reflects levels of difficulty and workload. Students, particularly first-year students interested in exploring college-level history, should consider taking one of our fun and engaging 100-level gateway survey courses or first-year seminars. Learn more in the
+LSA Course Guide
+.
+Course Numbering
+In the History Department, all but a few specialty seminars are open to all students. History courses do not have prerequisites and do not neatly build on each. In other words, students do NOT have to take lower-level courses before registering for 300- or 400-level courses. Nor does a particular level number indicate that the topic of the class is more or less broad—it is possible to have an advanced class on a long time span and an introductory course dealing with one historical episode.
+What differentiates our classes is the level of difficulty and the work load demanded of the students. Broadly speaking, those differences are as follows:
+100-level courses are designed as general introductions to the discipline. They cannot be applied towards a concentration or a minor in history, so they are targeted at the broadest possible audience. With this in mind, the workload is relatively light. They usually involve two lectures and a discussion section each week; assessment is typically based on in-class exams. Research papers are not usually assigned, though there might be some short writing assignments.
+200-level courses are introductory classes for history concentrators, and they come in two varieties. Some 200-level classes are large surveys covering major world regions or countries, and the workload in these classes would be only slightly heavier than a 100-level class. The others are seminars for concentrators, emphasizing historical methods and writing skills.
+300- and 400-level courses have a greater reading load than lower-level courses, and include substantial writing assignments.  Some instructors assign a formal research paper; others require a series of shorter projects. Although 300- and 400-level courses are harder than those at lower levels, they do not usually require any previous familiarity with the subject matter.
+Fall 2026 Course List (Full Roster; Sortable and Filterable)
+Spring & Summer 2026 Course List
+Course Lists from Prior Terms
+Course lists are sortable and filterable.
+Winter 2026 Course List
+Fall 2025 Course List
+Spring & Summer 2025 Course List
+Winter 2025 Course List
+Fall 2024 Course List
+Spring & Summer 2024 Course List
+Winter 2024 Course List
+Fall 2023 Course List
+Spring & Summer 2023 Course List
+Winter 2023 Course List
+Fall 2022 Course List
+Winter 2022 Course List
+Fall 2021 Course List
+Spring & Summer 2021 Course List
+Winter 2021 Course List
+Department of History
+1029 Tisch Hall
+435 S. State St.
+Ann Arbor, MI 48109-1003
+[email protected]
+Click to call 734.764.6305
+734.764.6305
+734.647.4881
+Sitemap
+Instagram
+Report Feedback
+©
+2026 Regents of the University of Michigan

@@ -4,14 +4,73 @@
   "school_college": "College of Engineering",
   "program_url": "https://aero.engin.umich.edu/undergraduate/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+8 course-list supplements: sample schedule, Editable sample schedule, https://bulletin.engin.umich.edu/courses/course-info/)",
   "program_final_url": "https://aero.engin.umich.edu/undergraduate/",
   "program_fetch_mode": "browser",
-  "requirements_url": "https://aero.engin.umich.edu/undergraduate/degree-requirements/",
-  "requirements_link_text": "Degree Requirements",
-  "requirements_link_score": 290,
+  "requirements_url": "https://bulletin.engin.umich.edu/courses/aero/",
+  "requirements_link_text": "Aerospace Engineering Course Guide",
+  "requirements_link_score": 315,
   "requirements_link_strategy": "page",
-  "requirements_final_url": "https://aero.engin.umich.edu/undergraduate/degree-requirements/",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:29:56.569910+00:00"
+  "requirements_final_url": "https://bulletin.engin.umich.edu/courses/aero/",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T15:53:12.435329+00:00",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-sample-schedule",
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/AEROSP-BSE-Sample-Schedule_4.21.25.pdf",
+      "link_text": "sample schedule",
+      "status": "fetched",
+      "chars": 3055
+    },
+    {
+      "id": "02-editable-sample-schedule",
+      "url": "https://drive.google.com/file/d/1rhKt8FDHj9VxB_DsrCFN-CJWD5BidMj1/view?usp=sharing",
+      "link_text": "Editable sample schedule",
+      "status": "fetched",
+      "chars": 4326
+    },
+    {
+      "id": "03-https-bulletin-engin-umich-edu-courses-course-info",
+      "url": "https://bulletin.engin.umich.edu/courses/course-info/",
+      "link_text": "https://bulletin.engin.umich.edu/courses/course-info/",
+      "status": "fetched",
+      "chars": 3397
+    },
+    {
+      "id": "04-courseprofile-atlas",
+      "url": "https://art.ai.umich.edu/course/AEROSP%20623/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "05-courseprofile-atlas",
+      "url": "https://art.ai.umich.edu/course/AEROSP%20633/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "06-courseprofile-atlas",
+      "url": "https://art.ai.umich.edu/course/AEROSP%20650/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "07-courseprofile-atlas",
+      "url": "https://art.ai.umich.edu/course/AEROSP%20656/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "08-courseprofile-atlas",
+      "url": "https://art.ai.umich.edu/course/AEROSP%20690/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    }
+  ]
 }

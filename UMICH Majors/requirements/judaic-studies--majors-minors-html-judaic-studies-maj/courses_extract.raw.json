@@ -1,0 +1,21 @@
+{
+  "id": "judaic-studies",
+  "displayName": "Judaic Studies",
+  "requirementGroups": {
+    "Core": [
+      "JUDAIC 205",
+      "JUDAIC 210",
+      "JUDAIC 281"
+    ]
+  },
+  "openGroups": {
+    "Electives": {
+      "subjects": [
+        "JUDAIC",
+        "YIDDISH",
+        "LADINO"
+      ],
+      "minLevel": 200
+    }
+  }
+}

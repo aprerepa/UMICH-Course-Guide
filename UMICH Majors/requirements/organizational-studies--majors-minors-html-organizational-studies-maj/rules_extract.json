@@ -1,0 +1,55 @@
+{
+  "id": "organizational-studies--majors-minors-html-organizational-studies-maj",
+  "displayName": "Organizational Studies",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          "ECON 101",
+          {
+            "anyOf": [
+              "PSYCH 111",
+              "PSYCH 112",
+              "PSYCH 114",
+              "PSYCH 115"
+            ]
+          },
+          {
+            "anyOf": [
+              "SOC 100",
+              "SOC 102",
+              "SOC 195",
+              "SOC 300"
+            ]
+          }
+        ]
+      }
+    },
+    "Core Requirements": {
+      "require": {
+        "allOf": [
+          "ORGSTUDY 305",
+          "ORGSTUDY 310"
+        ]
+      },
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Senior Capstone Research Requirement": {
+      "require": {
+        "anyOf": [
+          "ORGSTUDY 410",
+          {
+            "allOf": [
+              "ORGSTUDY 497",
+              "ORGSTUDY 498"
+            ]
+          }
+        ]
+      },
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

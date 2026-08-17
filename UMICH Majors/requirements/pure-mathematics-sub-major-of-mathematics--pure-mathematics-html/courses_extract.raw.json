@@ -1,0 +1,96 @@
+{
+  "id": "pure-mathematics",
+  "displayName": "Pure Mathematics (Sub-major of Mathematics)",
+  "requirementGroups": {
+    "Prerequisites": [
+      "MATH 205",
+      "MATH 215",
+      "MATH 217",
+      "MATH 285",
+      "MATH 295",
+      "MATH 296"
+    ],
+    "Modern Algebra": [
+      "MATH 312",
+      "MATH 412",
+      "MATH 493"
+    ],
+    "Differential Equations": [
+      "MATH 286",
+      "MATH 316"
+    ],
+    "Analysis": [
+      "MATH 351",
+      "MATH 451"
+    ],
+    "Geometry/Topology": [
+      "MATH 431",
+      "MATH 433",
+      "MATH 490",
+      "MATH 590"
+    ],
+    "Elective Courses": [
+      "MATH 289",
+      "MATH 310",
+      "MATH 314",
+      "MATH 354",
+      "MATH 404",
+      "MATH 389",
+      "MATH 423",
+      "MATH 416",
+      "MATH 420",
+      "MATH 425",
+      "MATH 437",
+      "MATH 433",
+      "MATH 450",
+      "MATH 440",
+      "MATH 454",
+      "MATH 452",
+      "MATH 463",
+      "MATH 460",
+      "MATH 462",
+      "MATH 465",
+      "MATH 464",
+      "MATH 472",
+      "MATH 471",
+      "MATH 475",
+      "MATH 481",
+      "MATH 490",
+      "MATH 498",
+      "MATH 525",
+      "MATH 526",
+      "MATH 537",
+      "MATH 550",
+      "MATH 551",
+      "MATH 556",
+      "MATH 555",
+      "MATH 558",
+      "MATH 557",
+      "MATH 561",
+      "MATH 559",
+      "MATH 563",
+      "MATH 562",
+      "MATH 567",
+      "MATH 565",
+      "MATH 572",
+      "MATH 571",
+      "MATH 582",
+      "MATH 575",
+      "MATH 591",
+      "MATH 590",
+      "MATH 593",
+      "MATH 592",
+      "MATH 596",
+      "MATH 594",
+      "MATH 597"
+    ]
+  },
+  "openGroups": {
+    "Elective Courses": {
+      "subjects": [
+        "MATH"
+      ],
+      "minLevel": 600
+    }
+  }
+}

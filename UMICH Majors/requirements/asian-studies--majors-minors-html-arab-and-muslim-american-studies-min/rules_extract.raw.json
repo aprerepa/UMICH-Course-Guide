@@ -1,0 +1,21 @@
+{
+  "id": "asian-studies",
+  "displayName": "Asian Studies",
+  "groupRules": {
+    "Survey Courses": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "ASIAN 235",
+          "ASIAN 381"
+        ]
+      }
+    },
+    "Electives": {
+      "minCourses": 8,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

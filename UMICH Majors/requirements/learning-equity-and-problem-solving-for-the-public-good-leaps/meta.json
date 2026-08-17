@@ -9,9 +9,11 @@
   "program_fetch_mode": "http",
   "requirements_url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors/learning-equity-and-problem-solving-public-good#tab1",
   "requirements_link_text": "Curriculum",
-  "requirements_link_score": 115,
+  "requirements_link_score": 205,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors/learning-equity-and-problem-solving-public-good#tab1",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:44:29.664964+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:21:42.090789+00:00",
+  "supplements_count": 0,
+  "supplements": []
 }

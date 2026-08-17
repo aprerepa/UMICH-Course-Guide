@@ -1,0 +1,26 @@
+{
+  "id": "elementary-teacher-education",
+  "displayName": "Elementary Teacher Education",
+  "groupRules": {
+    "Required Education Core Courses": {
+      "minCourses": 8,
+      "minCredits": 26,
+      "countsTowardMajorTotal": true
+    },
+    "First-Year Writing": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Core Credits (Professional Sequence)": {
+      "minCourses": 18,
+      "minCredits": 45,
+      "countsTowardMajorTotal": true
+    },
+    "Teaching Experience Credits": {
+      "minCourses": 2,
+      "minCredits": 16,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

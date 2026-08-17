@@ -6,12 +6,14 @@
   "status": "fetched",
   "message": "requirements page ready for LLM",
   "program_final_url": "https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/admissions/",
-  "program_fetch_mode": "browser",
-  "requirements_url": "https://pharmacy.umich.edu/wp-content/uploads/Bachelors-BSPS-Degree-Checklist.pdf",
-  "requirements_link_text": "BS Curriculum \u2192 Degree Requirements Checklist",
-  "requirements_link_score": 335,
-  "requirements_link_strategy": "page\u2192nested",
-  "requirements_final_url": "https://pharmacy.umich.edu/wp-content/uploads/Bachelors-BSPS-Degree-Checklist.pdf",
+  "program_fetch_mode": "http",
+  "requirements_url": "https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/",
+  "requirements_link_text": "BS in Pharmaceutical Sciences",
+  "requirements_link_score": 290,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T16:12:36.854303+00:00"
+  "fetched_at": "2026-08-10T16:29:26.770340+00:00",
+  "supplements_count": 0,
+  "supplements": []
 }

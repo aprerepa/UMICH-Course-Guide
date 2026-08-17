@@ -1,0 +1,74 @@
+{
+  "id": "mathematics-of-finance-and-risk-management-sub-major-of-mathematics--mathematics-of-finance-and-risk-management-html",
+  "displayName": "Mathematics of Finance and Risk Management (Sub-major of Mathematics)",
+  "requirementGroups": {
+    "Prerequisites": [
+      "MATH 205",
+      "MATH 217",
+      "MATH 215",
+      "MATH 285",
+      "MATH 295",
+      "MATH 296",
+      "ECON 101",
+      "ECON 102",
+      "EECS 183"
+    ],
+    "Basic Courses": [
+      "MATH 286",
+      "MATH 316",
+      "MATH 525",
+      "STATS 426",
+      "MATH 351",
+      "MATH 451"
+    ],
+    "Special Courses": [
+      "MATH 423",
+      "MATH 474",
+      "MATH 472",
+      "MATH 526"
+    ],
+    "Related Courses": [
+      "MATH 422",
+      "IOE 310",
+      "MATH 462",
+      "IOE 452",
+      "MATH 623",
+      "ECON 401",
+      "ECON 402",
+      "FIN 302",
+      "ECON 409",
+      "FIN 317",
+      "ECON 452",
+      "DATASCI 406",
+      "DATASCI 415",
+      "DATASCI 451",
+      "FIN 408",
+      "FIN 409",
+      "DATASCI 470",
+      "STATS 480",
+      "STATS 503",
+      "STATS 500",
+      "STATS 505",
+      "STATS 501",
+      "STATS 531"
+    ]
+  },
+  "openGroups": {
+    "Related Courses": [
+      {
+        "subjects": [
+          "STATS"
+        ],
+        "minLevel": 400,
+        "exclude": []
+      },
+      {
+        "subjects": [
+          "ACCOUNTING"
+        ],
+        "minLevel": 300,
+        "exclude": []
+      }
+    ]
+  }
+}

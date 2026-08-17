@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-sample-schedule-here",
+    "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/06/Civil-Engineering-Sample-Schedule_AY202526_Final.pdf",
+    "link_text": "sample schedule here",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (5791 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/06/Civil-Engineering-Sample-Schedule_AY202526_Final.pdf",
+    "fetch_mode": "http",
+    "chars": 5791
+  },
+  {
+    "id": "02-sample-schedule-here",
+    "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/06/CEE-Env-Eng-BSE-Program_Sample-Schedule_6.11.2026.pdf",
+    "link_text": "sample schedule here.",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (7315 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/06/CEE-Env-Eng-BSE-Program_Sample-Schedule_6.11.2026.pdf",
+    "fetch_mode": "http",
+    "chars": 7315
+  },
+  {
+    "id": "03-editable-sample-schedule",
+    "url": "https://docs.google.com/spreadsheets/d/1-QNF4On-_HMpmoN8zlrrVnOKx-tfUAuHZFiHIN-saHA/edit?usp=sharing",
+    "link_text": "Editable sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (6583 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1-QNF4On-_HMpmoN8zlrrVnOKx-tfUAuHZFiHIN-saHA/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 6583
+  },
+  {
+    "id": "04-editable-sample-schedule",
+    "url": "https://docs.google.com/spreadsheets/d/1_BmdTc3e02kdAsrN5xE8IjoTtB4N1KcLspOLLddyOZY/edit?usp=sharing",
+    "link_text": "Editable sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (5337 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1_BmdTc3e02kdAsrN5xE8IjoTtB4N1KcLspOLLddyOZY/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 5337
+  },
+  {
+    "id": "05-https-bulletin-engin-umich-edu-courses-course-info",
+    "url": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "link_text": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (3397 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "fetch_mode": "http",
+    "chars": 3397
+  },
+  {
+    "id": "06-schedule-of-classes-office-of-the-registrar",
+    "url": "http://www.ro.umich.edu/schedule",
+    "link_text": "Schedule of Classes | Office of the Registrar",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (1878 chars)",
+    "final_url": "https://ro.umich.edu/calendars/schedule-classes",
+    "fetch_mode": "http",
+    "chars": 1878
+  },
+  {
+    "id": "07-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CEE%20200/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "08-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CEE%20211/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  }
+]

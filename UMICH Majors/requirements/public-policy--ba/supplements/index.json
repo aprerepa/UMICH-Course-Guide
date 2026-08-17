@@ -1,0 +1,35 @@
+[
+  {
+    "id": "01-download-the-ba-brochure",
+    "url": "https://drive.google.com/file/d/169KFLp64CoUewYKeY0FUBHLN0U8Y1XxG/view?usp=drive_link",
+    "link_text": "Download the BA brochure.",
+    "score": 110,
+    "status": "fetched",
+    "message": "ok (4253 chars)",
+    "final_url": "https://drive.usercontent.google.com/download?id=169KFLp64CoUewYKeY0FUBHLN0U8Y1XxG&export=download",
+    "fetch_mode": "http",
+    "chars": 4253
+  },
+  {
+    "id": "02-http-lsa-umich-edu-econ-doctoral-program-courses-html",
+    "url": "http://lsa.umich.edu/econ/doctoral-program/courses.html",
+    "link_text": "http://lsa.umich.edu/econ/doctoral-program/courses.html",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (6823 chars)",
+    "final_url": "https://lsa.umich.edu/econ/doctoral-program/courses.html",
+    "fetch_mode": "http",
+    "chars": 6823
+  },
+  {
+    "id": "03-courses",
+    "url": "https://fordschool.umich.edu/leadership/courses",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (11472 chars)",
+    "final_url": "https://fordschool.umich.edu/leadership/courses",
+    "fetch_mode": "http",
+    "chars": 11472
+  }
+]

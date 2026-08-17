@@ -1,0 +1,41 @@
+{
+  "id": "archaeology-of-the-ancient-mediterranean--majors-minors-html-archaeology-of-the-ancient-mediterranean-maj",
+  "displayName": "Archaeology of the Ancient Mediterranean",
+  "groupRules": {
+    "Introductory Courses": {
+      "require": {
+        "minOf": 2,
+        "options": [
+          "ARCHAM 221",
+          "ARCHAM 222",
+          "ARCHAM 228"
+        ]
+      },
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Greek or Roman History or Civilization": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Ancient Greek or Latin Language Proficiency": {
+      "require": {
+        "anyOf": [
+          "GREEK 301",
+          "LATIN 231"
+        ]
+      },
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Additional 400-Level Course": {
+      "require": "ARCHAM 499",
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Upper-Level ARCHAM": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

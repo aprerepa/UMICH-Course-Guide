@@ -1,39 +1,131 @@
 Page header:
-page title: BBA Curriculum | Michigan Ross
-og:description: We believe students learn best by doing. Prepare to be challenged and gain real-world experience through our rigorous, action-based curriculum.
+page title: BBA Curriculum by Year | Michigan Ross
+og:description: Discover what classes and experiences lay ahead as you complete each year of the Ross BBA program. Learn more about our curriculum by year here.
 
 Visible page text:
-Be a Leader.
 Let’s Do Business
-The Michigan Ross curriculum throws you right into the action, excitement, and risk inherent in business. After all, you don’t come to Michigan Ross to be a spectator. You come to be a leader.
-Curriculum by Year
-Let's Get REAL
-At Ross, you can start, advise, lead, and invest in real-world businesses.
-We call this Ross Experiences in Action-Based Learning - REAL.
-REAL. BUSINESS EXPERIENCES
-Find What You Love. Do That.
-A well-rounded foundation in liberal arts prepares you to thrive in a complex, global society. About half of your classes take place at other schools on campus, giving you the freedom and flexibility to pursue a dual degree, minor, or topic you’re passionate about.
-Specializations
-Get Guidance
-Even the best leaders don’t fly solo. Your academic advisor will be with you every step of the way, offering support and guidance.
-Coaching & Advising
-Take a Business Trip
-Our Global Student Experiences prepare you to live and work in a global society. Pack your sense of adventure and step outside your comfort zone as you make the world your classroom.
-Short-Term and Summer Global Experiences
-Gain an in-depth understanding of a global business topic, and put your knowledge to practice during fieldwork and company visits by studying abroad.
-Learn more
-Global Study & Internship Program
-Opens a new window
-Experience distinctive professional growth and a new culture with a Ross Global Internship in a major global business hub.
-Learn more
-Opens a new window
-Global Semester Exchange
-Study abroad for a semester at one of 33 partner business schools worldwide to gain new perspectives, immerse yourself in another culture, and network with students and faculty from around the globe.
-Learn more
-University of Michigan Global Opportunities
-The University of Michigan offers many more opportunities for you to travel, learn abroad. See this page to learn about study abroad, internship, and other global experiences offered by U-M and through the Michigan Ross Global Initiatives Office.
-Learn more
-Global Opportunities
+There’s logic behind the phrase “do business.” It’s an active process — just like our curriculum.
+The Michigan Ross curriculum throws you right into the action, excitement, and risk inherent in business. You'll tap into the power of business to improve lives, benefit society, and drive powerful change. You'll learn why diverse perspectives are critical to organizations. And you’ll analyze strategy, apply business concepts, oversee projects, and build connections between business and the world. After all, you don’t come to Michigan Ross to be a spectator. You come to be a leader.
+62
+Ross Credits
+54
+U-M Credits
+4
+Ross/U-M Elective Credits
+120
+Total Credits
+First Year
+Ross School of Business Credit Requirements
+ROSS CREDITS
+Fall
+Winter
+BA 100 (3)
+Signature Learning Experience
+ACC 300 (3)
+BCOM 250 (1.5)
+Transfer Students:
+BA 102 (1)
+Signature Learning Experience
+INCLUSIVE LEADERS PATHWAY
+Milestone 1
+Today's businesses operate in an interconnected and dynamic world where leaders like you will work alongside people from a variety of backgrounds. The Inclusive Leaders Pathway offers a structured developmental journey grounded in self-reflection, personal growth, and leadership that places people and relationships at its core. At Ross, you can expect to build essential competencies to work across cultural and organizational contexts and lead with empathy, clarity, and purpose.
+U-M CREDITS
+First-year writing requirement; Economics 101; and Calculus I, II, or III
+ROSS/U-M CREDITS
+Four additional Ross or U-M credits must be completed before graduation.
+Sophomore Year
+Ross School of Business Sophomore Year Credit Requirements
+ROSS CREDITS
+Fall
+Winter
+BA 200 (3)
+Signature Learning Experience
+TO 301 (4)
+Transfer students also will take:
+ACC 300 (3)
+BCOM 250 (1.5)
+ACC 301 (3)
+STRATEGY 290 (1.5)
+Limited electives available.
+BUSINESS ELECTIVES
+Business electives (16-18 credits or 6-7 classes, including approved Global Student Experiences coursework) must be completed by graduation.
+FLOATING CORE
+BE 300 (3), FIN 300 (3), MKT 300 (3), TO 300 (1.5)
+INCLUSIVE LEADERS PATHWAY
+Milestone 2 (Transfer students - Milestones 1 and 2)
+Today's businesses operate in an interconnected and dynamic world where leaders like you will work alongside people from a variety of backgrounds. The Inclusive Leaders Pathway offers a structured developmental journey grounded in self-reflection, personal growth, and leadership that places people and relationships at its core. At Ross, you can expect to build essential competencies to work across cultural and organizational contexts and lead with empathy, clarity, and purpose.
+U-M CREDITS
+ECON 102
+Complete 3 of 4 distribution categories by graduation: Foreign Language (4th semester proficiency. Last semester must be taken for a grade); Humanities (9 credits); Social Science (9 credits, not including ECON 101 or 102); Natural Science or MSA (9 credits).
+ROSS/U-M CREDITS
+Four additional Ross or U-M credits must be completed before graduation.
+Junior Year
+Ross School of Business Junior Year Credit Requirements
+ROSS CREDITS
+Fall
+Winter
+Integrative Semester
+Signature Learning Experience
+BCOM 350 (1.5)
+BL 300 (3)
+MO 300 (3)
+TO 313 (3)
+Students will take electives and floating core courses.
+Optional Global Semester Exchange
+FLOATING CORE
+BE 300 (3), FIN 300 (3), MKT 300 (3), TO 300 (1.5)
+BUSINESS ELECTIVES
+Business electives (16-18 credits or 6-7 classes, including approved Global Student Experiences coursework) must be completed by graduation.
+INCLUSIVE LEADERS PATHWAY
+Milestone 3
+Today's businesses operate in an interconnected and dynamic world where leaders like you will work alongside people from a variety of backgrounds. The Inclusive Leaders Pathway offers a structured developmental journey grounded in self-reflection, personal growth, and leadership that places people and relationships at its core. At Ross, you can expect to build essential competencies to work across cultural and organizational contexts and lead with empathy, clarity, and purpose.
+U-M CREDITS
+Complete 3 of 4 distribution categories by graduation: Foreign Language (4th semester proficiency. Last semester must be taken for a grade); Humanities (9 credits); Social Science (9 credits, not including ECON 101 or 102); Natural Science or MSA (9 credits).
+ROSS/U-M CREDITS
+Four additional Ross or U-M credits must be completed before graduation.
+Senior Year
+Ross School of Business Senior Year Credit Requirements
+ROSS CREDITS
+Fall
+Winter
+STRATEGY 390 (3)
+Students must complete all fixed and floating core courses by the end of this semester.
+Capstone Experience (3)
+Students must take at least one capstone course.
+FLOATING CORE
+BE 300 (3), FIN 300 (3), MKT 300 (3), TO 300 (1.5)
+BUSINESS ELECTIVES
+Business electives (16-18 credits or 6-7 classes, including approved Global Student Experiences coursework) must be completed by graduation.
+INCLUSIVE LEADERS PATHWAY
+Milestone 4
+Today's businesses operate in an interconnected and dynamic world where leaders like you will work alongside people from a variety of backgrounds. The Inclusive Leaders Pathway offers a structured developmental journey grounded in self-reflection, personal growth, and leadership that places people and relationships at its core. At Ross, you can expect to build essential competencies to work across cultural and organizational contexts and lead with empathy, clarity, and purpose.
+U-M CREDITS
+Complete 3 of 4 distribution categories by graduation: Foreign Language (4th semester proficiency. Last semester must be taken for a grade); Humanities (9 credits); Social Science (9 credits, not including ECON 101 or 102); Natural Science or MSA (9 credits).
+ROSS/U-M CREDITS
+Four additional Ross or U-M credits must be completed before graduation.
+*Innovations in BA 100, BA 200, and the Ross Integrative Semester are made possible through the generosity of the
+Thomas C. Jones Initiative for Innovation in Undergraduate Education
+.
+Finding a Study Group Is Easy Thanks to Our Unique Cohort Model
+You’ll move through your core classes with a group of around 80 students you can lean on, learn from, and navigate Ross with. Each year, a carefully crafted Signature Learning Experience (SLE) adds another level of engagement to your coursework. The Ross Integrative Semester, for example, is the third-year SLE that highlights a business theme you’ll cover in every class, and concludes with a week-long entrepreneurial challenge where you can showcase what you’ve learned.
+36
+%
+Ross undergrads pursuing a dual degree or minor
+100
++
+ways to make a social impact
+Alumni
+BBA '17
+Cooper DePriest
+Ambitious, Innovative, Inquisitive
+“What I’ve seen in my exposure to the business world so far is that there’s not just one correct answer. Our classes force you to figure out multiple, different answers and why the one answer you landed on is best."
+Read more
+Alumni
+BBA/BA '19
+Chelsea Racelis
+Making a Difference, On Campus and In the Future
+“Being able to do human rights and international studies along with business, and try to find a bridge between the two, has been something that Michigan allowed me to do.”
+Read more
 Learn more about Michigan Ross programs, updates, and events.
 Connect With Us
 Learn more about Michigan Ross programs, updates, and events.

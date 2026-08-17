@@ -1,0 +1,113 @@
+{
+  "id": "actuarial-mathematics-sub-major-of-mathematics--majors-minors-html-actuarial-mathematics-sub",
+  "displayName": "Actuarial Mathematics (Sub-major of Mathematics)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              {
+                "anyOf": [
+                  "MATH 205",
+                  "MATH 215",
+                  "MATH 256",
+                  "MATH 285",
+                  "MATH 395"
+                ]
+              },
+              {
+                "anyOf": [
+                  "MATH 217",
+                  "MATH 396"
+                ]
+              }
+            ]
+          },
+          {
+            "anyOf": [
+              {
+                "allOf": [
+                  {
+                    "anyOf": [
+                      "MATH 205",
+                      "MATH 215",
+                      "MATH 255",
+                      "MATH 285"
+                    ]
+                  },
+                  "MATH 217"
+                ]
+              },
+              {
+                "allOf": [
+                  "MATH 295",
+                  "MATH 296"
+                ]
+              }
+            ]
+          },
+          "ECON 101",
+          "ECON 102",
+          {
+            "anyOf": [
+              "EECS 183",
+              "EECS 280",
+              "COMPFOR 131",
+              "COMPFOR 133",
+              "ENGR 101",
+              "SI 101"
+            ]
+          }
+        ]
+      }
+    },
+    "Basic Courses": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "MATH 286",
+              "MATH 316"
+            ]
+          },
+          "MATH 425",
+          "STATS 426",
+          {
+            "anyOf": [
+              "MATH 351",
+              "MATH 451"
+            ]
+          }
+        ]
+      },
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Special Courses for Actuarial Mathematics": {
+      "require": {
+        "allOf": [
+          "MATH 424",
+          "MATH 520",
+          "MATH 523",
+          {
+            "minOf": 2,
+            "options": [
+              "MATH 423",
+              "MATH 521",
+              "MATH 524",
+              "MATH 528"
+            ]
+          }
+        ]
+      },
+      "minCourses": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Advanced Courses": {
+      "completion": "manual",
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "school_college": "College of Engineering",
   "program_url": "https://cse.engin.umich.edu/academics/undergraduate/programs/computer-science-eng/",
   "status": "fetched",
-  "message": "requirements page ready for LLM (+5 course-list supplements: ULCS list,, Expanded ULCS, EECS Capstone)",
+  "message": "requirements page ready for LLM (+8 course-list supplements: ULCS list,, Expanded ULCS, EECS Capstone)",
   "program_final_url": "https://cse.engin.umich.edu/academics/undergraduate/majors/computer-science-eng-major/",
   "program_fetch_mode": "browser",
   "requirements_url": "https://docs.google.com/document/d/1NwoN3_o6L7BnFUqghdfaegEG34xBCi7zSLT6IOf4uPQ/preview?tab=t.0",
@@ -13,8 +13,8 @@
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://docs.google.com/document/d/1NwoN3_o6L7BnFUqghdfaegEG34xBCi7zSLT6IOf4uPQ/preview?tab=t.0",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T17:15:02.475541+00:00",
-  "supplements_count": 5,
+  "fetched_at": "2026-08-10T16:03:32.669056+00:00",
+  "supplements_count": 8,
   "supplements": [
     {
       "id": "01-preview-gid0",
@@ -49,7 +49,28 @@
       "url": "https://docs.google.com/spreadsheets/d/1fzrh1CnpGIrIjvCVtKRqihvVXCOSCc5fTZgbsWOuN9I/preview",
       "link_text": "Capstone",
       "status": "fetched",
-      "chars": 1399
+      "chars": 22557
+    },
+    {
+      "id": "06-click-here-to-see-all-projects-pre-approved-for-cs-capstone-mde",
+      "url": "https://mdp.engin.umich.edu/all-projects/?_course_substitution=cs-capstone",
+      "link_text": "click here to see all projects pre-approved for CS Capstone / MDE",
+      "status": "fetched",
+      "chars": 3951
+    },
+    {
+      "id": "07-cse-course-info-page",
+      "url": "https://cse.engin.umich.edu/academics/course-resources/cse-course-info/",
+      "link_text": "CSE Course Info Page",
+      "status": "fetched",
+      "chars": 10944
+    },
+    {
+      "id": "08-aerospace-engineering-courses-aerosp",
+      "url": "https://bulletin.engin.umich.edu/courses/aero/",
+      "link_text": "Aerospace Engineering Courses (AEROSP)",
+      "status": "fetched",
+      "chars": 40024
     }
   ]
 }

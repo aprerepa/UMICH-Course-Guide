@@ -1,0 +1,58 @@
+{
+  "id": "classical-languages-and-literatures",
+  "displayName": "Classical Languages and Literatures",
+  "groupRules": {
+    "Requirements": {
+      "minCourses": 9,
+      "minCredits": 27,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          {
+            "minOf": 3,
+            "options": [
+              {
+                "completion": "manual",
+                "countsTowardMajorTotal": true
+              }
+            ]
+          },
+          {
+            "minOf": 1,
+            "options": [
+              {
+                "completion": "manual",
+                "countsTowardMajorTotal": true
+              }
+            ]
+          },
+          {
+            "minOf": 3,
+            "options": [
+              {
+                "completion": "manual",
+                "countsTowardMajorTotal": true
+              }
+            ]
+          },
+          {
+            "anyOf": [
+              "ARCHAM 221",
+              "ARCHAM 222",
+              "CLARCH 221",
+              "CLARCH 222",
+              "CLCIV 202",
+              "CLCIV 302",
+              "HISTORY 200",
+              "HISTORY 201"
+            ]
+          },
+          {
+            "completion": "manual",
+            "countsTowardMajorTotal": true
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "history",
+  "displayName": "History",
+  "groupRules": {
+    "Required Course": {
+      "minCourses": 1,
+      "require": "HISTORY 202",
+      "countsTowardMajorTotal": true
+    },
+    "Junior-Senior Colloquium Requirement": {
+      "minCourses": 1,
+      "require": {
+        "anyOf": [
+          "HISTORY 491",
+          "HISTORY 496",
+          "HISTORY 497",
+          "HISTORY 499"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Upper-Level Courses": {
+      "minCourses": 5,
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

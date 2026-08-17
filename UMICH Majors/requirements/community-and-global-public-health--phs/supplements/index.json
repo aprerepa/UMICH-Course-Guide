@@ -1,0 +1,24 @@
+[
+  {
+    "id": "01-upper-level-elective-exceptions-page",
+    "url": "https://sph.umich.edu/undergrad/degrees/upper-level-exceptions.html",
+    "link_text": "upper-level elective exceptions page",
+    "score": 120,
+    "status": "fetched",
+    "message": "ok (2133 chars)",
+    "final_url": "https://sph.umich.edu/undergrad/degrees/upper-level-exceptions.html",
+    "fetch_mode": "browser",
+    "chars": 2133
+  },
+  {
+    "id": "02-requirement-details-and-a-list-of-approved-courses-can-be-found-here",
+    "url": "https://sph.umich.edu/undergrad/degrees/healthequity.html",
+    "link_text": "Requirement details and a list of approved courses can be found here",
+    "score": 110,
+    "status": "fetched",
+    "message": "ok (1605 chars)",
+    "final_url": "https://sph.umich.edu/undergrad/degrees/healthequity.html",
+    "fetch_mode": "browser",
+    "chars": 1605
+  }
+]

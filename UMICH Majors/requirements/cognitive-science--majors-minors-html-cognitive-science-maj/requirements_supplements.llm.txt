@@ -1,0 +1,23 @@
+### Supplement: Courses
+Source: https://accounts.google.com/lsa/academics/courses.html
+
+Page header:
+page title: Error 404 (Not Found)!!1
+
+Visible page text:
+404.
+That’s an error.
+The requested URL was not found on this server.
+That’s all we know.
+
+### Supplement: Browse copies of past LSA bulletins
+Source: https://accounts.google.com/lsa/academics/courses/course-bulletin-archive.html
+
+Page header:
+page title: Error 404 (Not Found)!!1
+
+Visible page text:
+404.
+That’s an error.
+The requested URL was not found on this server.
+That’s all we know.

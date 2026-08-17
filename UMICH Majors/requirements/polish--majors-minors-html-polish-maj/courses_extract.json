@@ -1,0 +1,41 @@
+{
+  "id": "polish--majors-minors-html-polish-maj",
+  "displayName": "Polish",
+  "requirementGroups": {
+    "Prerequisites": [
+      "POLISH 121",
+      "POLISH 122",
+      "POLISH 221",
+      "POLISH 222"
+    ],
+    "Polish Language": [
+      "POLISH 321",
+      "POLISH 322",
+      "POLISH 421",
+      "POLISH 422"
+    ],
+    "Polish Literature": [
+      "POLISH 325",
+      "POLISH 326",
+      "POLISH 432"
+    ],
+    "Polish Culture": [
+      "POLISH 214",
+      "POLISH 215",
+      "POLISH 314",
+      "POLISH 450",
+      "SLAVIC 490"
+    ],
+    "Electives": [
+      "SLAVIC 225",
+      "SLAVIC 240",
+      "SLAVIC 270",
+      "SLAVIC 312",
+      "SLAVIC 396",
+      "SLAVIC 490",
+      "HISTORY 330",
+      "HISTORY 331",
+      "REEES 396"
+    ]
+  }
+}

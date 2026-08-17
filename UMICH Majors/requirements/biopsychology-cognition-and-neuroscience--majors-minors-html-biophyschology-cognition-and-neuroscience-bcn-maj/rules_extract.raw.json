@@ -1,0 +1,48 @@
+{
+  "id": "biopsychology-cognition-and-neuroscience",
+  "displayName": "Biopsychology, Cognition, and Neuroscience",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "PSYCH 111",
+              "PSYCH 112",
+              "PSYCH 114"
+            ]
+          },
+          {
+            "anyOf": [
+              "DATASCI 101",
+              "STATS 250",
+              "STATS 280"
+            ]
+          }
+        ]
+      }
+    },
+    "Core course requirement": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Breadth course requirement": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Lab requirement": {
+      "minCourses": 2,
+      "minCredits": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Cognate course requirement": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Advanced course requirement": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

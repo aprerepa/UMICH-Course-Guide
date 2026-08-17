@@ -1,0 +1,79 @@
+{
+  "id": "information-analysis-and-design--curriculum",
+  "displayName": "Information Analysis and Design",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "SI 101",
+              "EECS 183",
+              "ENGR 101"
+            ]
+          },
+          {
+            "anyOf": [
+              "ENGLISH 124",
+              "ENGLISH 125"
+            ]
+          }
+        ]
+      }
+    },
+    "Core courses": {
+      "require": {
+        "allOf": [
+          "SI 110",
+          "SI 201",
+          "SI 261",
+          "SI 300",
+          "SI 310"
+        ]
+      },
+      "minCourses": 5
+    },
+    "Capstone prerequisite courses": {
+      "require": {
+        "allOf": [
+          "SI 315",
+          "SI 305",
+          "SI 345",
+          "SI 385",
+          "SI 425"
+        ]
+      },
+      "minCourses": 5
+    },
+    "Capstone sequence": {
+      "require": {
+        "allOf": [
+          "SI 485",
+          "SI 495"
+        ]
+      },
+      "minCourses": 2
+    },
+    "Selective prerequisites": {
+      "require": {
+        "anyOf": [
+          "SI 325",
+          "SI 303"
+        ]
+      },
+      "minCourses": 1
+    },
+    "Advanced selectives": {
+      "require": {
+        "minOf": 2,
+        "options": [
+          "SI 405",
+          "SI 465",
+          "SI 403",
+          "SI 413"
+        ]
+      },
+      "minCourses": 2
+    }
+  }
+}

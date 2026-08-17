@@ -14,10 +14,6 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 About
 Academics
 Research
@@ -45,10 +41,6 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 for
 Prospective Students
 Current Students
@@ -670,6 +662,29 @@ HUM
 NAT
 SOC
 INT
+Communication and Media (Major)
+The Communication and Media undergraduate curriculum teaches students to (1) critically analyze the role of communication and media in society and (2) effectively apply principles of strategic communication and public engagement. Across these two programmatic areas, the curriculum emphasizes six thematic clusters listed below. Overall, students learn how media influences individuals, shapes society, and how communication principles can be utilized to address critical social issues.
+Two Key Areas:
+1. Critical Analysis of the Role of Communication and Media in Society
+2. Strategic Communication and Public Engagement
+Thematic Clusters:
+1. Advertising and Marketing, Advocacy, and Campaign Design
+2. Digital Media, Technology, and Society
+3. Entertainment and Media Industries
+4. Identities, Race, Gender, Sexuality, and Representation
+5. Media Psychology and Audiences
+6. Politics, News, and Democracy
+Related Programs
+Business Minor
+Digital Studies Minor
+Entrepreneurship Minor
+Global Media Studies Minor
+Minor in Performing Arts Management & Entrepreneurship
+REQUIREMENTS
+WEBSITE
+ADVISING
+DEPARTMENT/PROGRAM
+LSA Communication and Media
 Community Action and Social Change (Minor)
 m
 M

@@ -1,0 +1,44 @@
+{
+  "id": "interdisciplinary-astronomy",
+  "displayName": "Interdisciplinary Astronomy",
+  "requirementGroups": {
+    "Prerequisites": [
+      "MATH 115",
+      "MATH 116",
+      "MATH 215",
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 160",
+      "PHYSICS 161",
+      "PHYSICS 150",
+      "PHYSICS 151",
+      "PHYSICS 240",
+      "PHYSICS 241",
+      "PHYSICS 260",
+      "PHYSICS 261",
+      "PHYSICS 250",
+      "PHYSICS 251",
+      "PHYSICS 340",
+      "PHYSICS 360",
+      "COMPFOR 131",
+      "SI 101"
+    ],
+    "Astronomy Core": [
+      "ASTRO 201",
+      "ASTRO 361"
+    ],
+    "Astronomy Electives": [
+      "ASTRO 401",
+      "ASTRO 402",
+      "ASTRO 403",
+      "ASTRO 404",
+      "ASTRO 405",
+      "ASTRO 406",
+      "ASTRO 416",
+      "ASTRO 461"
+    ],
+    "ULWR": [
+      "ASTRO 429"
+    ]
+  }
+}

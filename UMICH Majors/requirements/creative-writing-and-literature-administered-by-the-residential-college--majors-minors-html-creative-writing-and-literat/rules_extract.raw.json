@@ -1,0 +1,31 @@
+{
+  "id": "creative-writing-and-literature-administered-by-the-residential-college",
+  "displayName": "Creative Writing and Literature (Administered by the Residential College)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "RCCWLIT 220",
+          "RCCWLIT 221",
+          "RCCWLIT 325"
+        ]
+      }
+    },
+    "Creative Writing Course Requirement": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Literature Requirement": {
+      "minCourses": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Digital Writing / Skills Course Requirement": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Digital Studies Theory Requirement": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

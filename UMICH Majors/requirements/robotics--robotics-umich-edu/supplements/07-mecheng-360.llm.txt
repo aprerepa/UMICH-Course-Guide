@@ -1,0 +1,465 @@
+Page header:
+page title: Mechanical Engineering Courses (MECHENG, AUTO, & MFG) – Bulletin
+
+Visible page text:
+Mechanical Engineering Courses (MECHENG, AUTO, & MFG)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Mechanical Engineering Courses (MECHENG, AUTO, & MFG)
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+200 Level Courses
+MECHENG 211. Introduction to Solid Mechanics
+Advisory Prerequisite: None. Enforced Prerequisite: (PHYSICS 140 or PHYSICS 160) and (PHYSICS 141 or PHYSICS 161) and (MATH 116 or MATH 119 or MATH 121 or MATH 156 or MATH 176 or MATH 186 or MATH 296); and fewer than two previous elections of MECHENG 211, including grades of W & I;
+No OP/F
+.
+Minimum grade requirement of “C” for enforced prerequisite.
+Credit Exclusions:
+Student may only receive credit for one course, MECHENG 210 or MECHENG 211.
+(4 credits)
+Statics: moment and force resultants, equilibrium. Mechanics of deformable bodies: stress/strain, classification of material behavior, generalized Hooke’s law. Engineering applications: axial loads, torsion of circular rods and tubes, bending and shear stresses in beams, deflection of beams, combined stresses, stress and strain transformation.
+CourseProfile (ATLAS)
+MECHENG 235. Thermodynamics I
+Advisory Prerequisite: None. Enforced Prerequisite: CHEM 130 and (CHEM 125 or CHEM 126) or (CHEM 210 and CHEM 211) and (MATH 116 or MATH 119 or MATH 121 or MATH 156 or MATH 176 or MATH 186 or MATH 296); a
+nd fewer than two previous elections of MECHENG 235, including grades of W & I;
+No OP/F
+.
+Minimum grade requirement of “C” for enforced prerequisite.
+Credit Exclusions: Student may only receive credit for one course
+,
+MECHENG 230 or MECHENG 235.
+(3 credits)
+Introduction to engineering thermodynamics. First law, second law system and control volume analyses; properties and behavior of pure substances; application to thermodynamic systems operating in a steady state and transient processes. Heat transfer mechanisms. Typical power producing cycles and refrigerators. Ideal gas mixtures and moist air applications.
+CourseProfile (ATLAS)
+MECHENG 240. Introduction to Dynamics and Vibrations
+Advisory Prerequisite: None.
+Enforced Prerequisite: (PHYSICS 140 or PHYSICS 160) and (PHYSICS 141 or PHYSICS 161);
+Co-requisite: (
+MATH 216 or MATH 256 or MATH 286 or MATH 316); and fewer than two previous elections of MECHENG 240, including grades of W & I;
+No OP/F.
+Minimum grade requirement of “C” for enforced prerequisite.
+(4 credits)
+Vector description of force, position, velocity and acceleration in fixed and moving reference frames. Kinetics of particles, of assemblies of particles and of rigid bodies. Energy and momentum concepts. Euler’s equations. Moment of inertia properties. The simple oscillator and its applications.
+CourseProfile (ATLAS)
+MECHENG 250. Design and Manufacturing I
+Advisory Prerequisite: None. Enforced Prerequisite: (MATH 116 or MATH 119 or MATH 121 or MATH 156 or MATH 176 or MATH 186 or MATH 296);
+and (ENGR 101 or EECS 183);
+and fewer than two previous elections of MECHENG 250, including grades of W & I
+; No OP/F.
+Minimum grade requirement of “C” for enforced prerequisite.
+(4 credits)
+Basics of mechanical design: visual thinking, engineering drawing, and machine anatomy. Basics of manufacturing: processes, materials and thermofluid aspects. Use of computers in various phases of design and manufacturing. Exposure to CAD systems and basic machine shop techniques. Design/manufacturing project.
+CourseProfile (ATLAS)
+MECHENG 290. RISE 2 – Research, Innovation, Service and Entrepreneurship
+Advisory and Enforced Prerequisite: None. (1-3 credits)
+Project work where students must apply ME principles to research, innovation, service or entrepreneurship. The student submits a proposal and a poster, and presents the poster at the ME Undergraduate Symposium. Projects are overseen/graded by faculty and may involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+300 Level Courses
+MECHENG 305. Introduction to Finite Elements in Mechanical Engineering
+Advisory Prerequisite. None. Enforced Prerequisite: MECHENG 211. (3 credits)
+Introduction to theory and practice of the finite element method. One-dimensional, two-dimensional and three dimensional elements are studied, including structural elements. Primary fields of applications are strength of materials (deformation and stress analysis) and dynamics and vibrations. Extensive use of commercial finite element software packages is applied through computer labs and graded assignments.
+CourseProfile (ATLAS)
+MECHENG 311. Strength of Materials
+Advisory Prerequisite: MATH 216. Enforced
+Prerequisite: MECHENG 211. No OP/F.
+Minimum grade requirement of “C” for enforced prerequisite.
+(3 credits)
+Analytical methods in solid mechanics, including variational methods and Rayleigh-Ritz approximations. Applications include bending of beams of asymmetrical cross-section, elastic-plastic bending, limit analysis, shear and torsion of thin-walled sections, shear center, membrane stresses in axisymmetric shells and buckling of beams.
+CourseProfile (ATLAS)
+MECHENG 320 (NAVARCH 320). Introduction to Fluid Mechanics
+Advisory Prerequisite:
+Mechanical Engineering Majors must take MECHENG 235 as a part of their major requirements. Enforced Prerequisite: (MATH 215 or MATH 255 or 285) and (MECHENG 235 or NAVARCH 235) and MECHENG 240; and f
+ewer than two previous elections of MECHENG 320, including grades of W & I
+; No OP/F.
+Minimum grade requirement of “C” for enforced prerequisite.
+Credit Exclusions: Student may only receive credit for one course
+,
+MECHENG 320 (NAVARCH 320) or MECHENG 330.
+(3 credits)
+Fluid statics; conservation of mass, momentum and energy in fixed and moving control volumes; steady and unsteady Bernoulli’s equation; differential analysis of fluid flow; dimensional analysis and similitude; laminar and turbulent flow; boundary layers; lift and drag; applications to mechanical, marine, biological, environmental, and micro-fluidic systems.
+CourseProfile (ATLAS)
+MECHENG 335. Heat Transfer
+Advisory Prerequisite: None. Enforced Prerequisite: MECHENG 320; and fewer than two previous elections of MECHENG 335, including grades of W & I
+; No OP/F
+. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Different modes of heat transfer; Thermal properties; Heat diffusion equation; Steady-state heat conduction; Thermal circuit modeling; Heat transfer from extended surfaces; Lumped capacitance model; Convection boundary layers; Boundary layer equations and similarity; Forces convection and free conviction; Blackbody radiation; Emission, absorption, and reflection by real surfaces; Radiation exchange between surfaces.
+CourseProfile (ATLAS)
+MECHENG 336. Thermodynamics II
+Advisory Prerequisite: MECHENG 235. Enforced Prerequisite: None. (3 credits)
+Thermodynamic power and refrigeration systems; availability and evaluation of thermodynamic properties; general thermodynamic relations, equations of state and compressibility factors; chemical reactions; combustion; gaseous dissociation; phase equilibrium. Design and optimization of thermal systems.
+CourseProfile (ATLAS)
+MECHENG 350. Design and Manufacturing II
+Advisory Prerequisite: None. Enforced Prerequisite: MECHENG 211 and MECHENG 240
+(minimum grade of C or better, No OP/F)
+; and MECHENG 250
+(minimum grade of C- or better, No OP/F)
+;
+and fewer than two previous elections of MECHENG 350, including grades of W & I
+.
+Minimum grade requirement listed above for enforced prerequisites, C or better and C- or better.
+(4 credits)
+Principles of machine and mechatronic design and manufacturing.  Analysis, synthesis and selection of mechanisms, machine components, mechatronic components, and associate manufacturing processes.  Semester-long, model-based design/build/test project in a team setting
+CourseProfile (ATLAS)
+MECHENG 360. Modeling, Analysis and Control of Dynamic Systems
+Advisory Prerequisite: None.
+Enforced Prerequisite: MECHENG 240; Co-requisite: EECS 314 or EECS 215; and fewer than two previous elections of MECHENG 360, including grades of W & I; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+Developing mathematical models of dynamic systems, including mechanical, electrical, electromechanical and fluid/thermal systems and representing these models in transfer function and state space form. Analysis of dynamic system models, including time and frequency responses. Introduction to linear feedback control techniques. Synthesis and analysis by analytical and computer methods.
+CourseProfile (ATLAS)
+MECHENG 382. Mechanical Behavior of Materials
+Advisory Prerequisite: None.
+Enforced Prerequisite: MECHENG 211; and fewer than two previous elections of MECHENG 382, including W & I; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+Material microstructures, dislocations and defects; processing and mechanical properties of metals, polymers and composites; heat treatment of metals; elastic, plastic, and viscoelastic behavior of materials, strain hardening; fracture, fracture mechanics, fatigue and multiaxis loading; creep and stress relaxation; materials-related design issues, materials selection, corrosion and environmental degradation of materials.
+CourseProfile (ATLAS)
+MECHENG 390. RISE 3 – Research, Innovation, Service, Entrepreneurship
+Advisory and Enforced Prerequisite: None.
+(2-3 credits)
+Project work where students must apply ME principles to research, innovation, service or entrepreneurship. The student submits a proposal and a poster, and presents the poster at the ME Undergraduate Symposium. Projects are overseen/graded by faculty and may involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+MECHENG 395. Laboratory I
+Advisory Prerequisite: None.
+Enforced Prerequisite: (PHYSICS 240 or PHYSICS 260) and (PHYSICS 241 or PHYSICS 261); and MECHENG 211 and MECHENG 235 and MECHENG 240; Co-requisite: MECHENG 382; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+Weekly lectures and experiments designed to introduce the student to the basics of experimentation, instrumentation, data collection and analysis, error analysis and reporting. Topics will include fluid mechanics, thermodynamics, mechanics, materials and dynamical systems. Emphasis is placed on report writing and team-building skills.
+CourseProfile (ATLAS)
+400 Level Courses
+MECHENG 400. Mechanical Engineering Analysis
+Advisory Prerequisite: MECHENG 211, MECHENG 240, and MATH 216.
+Enforced Prerequisite: None.
+(3 credits)
+Exact and approximate techniques for the analysis of problems in mechanical engineering including structures, vibrations, control systems, fluids, and design. Emphasis is on application.
+CourseProfile (ATLAS)
+MECHENG 401. Statistical Quality Control and Design
+Advisory Prerequisite: Senior or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Statistical methods for quality control and process improvement in manufacturing systems. Topics include engineering statistics, statistical process control, control charts, process capability analysis, measurement system analysis, correlation and regression analysis, and experimental design techniques including factorial and fractional factorial designs, response modeling, and Taguchi methods.
+CourseProfile (ATLAS)
+MECHENG 406. Biomechanics for Engineering Students.
+Advisory Prerequisite: MECHENG 320 and MECHENG 382.
+Enforced Prerequisite: None.
+(3 credits)
+Fundamental properties of biological systems, followed by a quantitative, mechanical analysis. Topics include mechanics of the cytoskeleton, biological motor molecules, cell motility, muscle, tissue and bio-fluid mechanics, blood rheology, bio-viscoelasticity, biological ceramics, animal mechanics and locomotion, biomimetics and effects of scaling. Individual topics will be covered on a case by case study basis.
+CourseProfile (ATLAS)
+MECHENG 412. Advanced Strength of Materials
+Advisory Prerequisite: MECHENG 311.
+Enforced Prerequisite: None.
+(3 credits)
+Review of energy methods, Betti’s reciprocal theorem; elastic, thermoelastic and elastoplastic analysis of axisymmetric thick cylinders and rotating discs; bending of rectangular and circular plates, including asymmetric problems; beams on elastic foundations; axisymmetric bending of cylindrical shells; torsion of prismatic bars.
+CourseProfile (ATLAS)
+MECHENG 420. Fluid Mechanics II
+Advisory Prerequisite: MECHENG 320.
+Enforced Prerequisite: None.
+(3 credits)
+Use of commercial CFD packages for solving realistic fluid mechanics and heat transfer problems of practical interest. Introduction to mesh generation, numerical discrimination, stability, convergence, and accuracy of numerical methods. Applications to separated, turbulent and two-phase flows, flow control and flows involving heat transfer. Open-ended design project.
+CourseProfile (ATLAS)
+MECHENG 424 (BIOMEDE 424). Engineering Acoustics
+Advisory Prerequisite: MATH 216 or PHYSICS 240.
+Enforced Prerequisite: None.
+(3 credits)
+Vibrating systems; acoustic wave equation; plane and spherical waves in fluid media; reflection and transmission at interfaces; propagation in lossy media; radiation and reception of acoustic waves; pipes, cavities and waveguides; resonators and filters; noise; selected topics in physiological, environmental and architectural acoustics.
+CourseProfile (ATLAS)
+MECHENG 432. Combustion
+Advisory Prerequisite: MECHENG 336, preceded or accompanied by MECHENG 370. Enforced
+Prerequisite: None.
+(3 credits)
+Introduction to combustion processes; combustion thermodynamics, reaction kinetics and combustion transport. Chain reactions, ignition, quenching and flammability limits, detonations, deflagrations and flame stability. Introduction to turbulent premixed combustion. Applications in IC engines, furnaces, gas turbines, and rocket engines.
+CourseProfile (ATLAS)
+MECHENG 433. Advanced Energy Solutions
+Advisory Prerequisite: MECHENG 235.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to the challenges of power generation for a global society using the thermodynamics to understand basic principles and technology limitations. Covers current and future demands for energy; methods of power generation including fossil fuel, solar, wind and nuclear; associated detrimental by-products; and advanced strategies to improve power densities, efficiencies and emissions.
+CourseProfile (ATLAS)
+MECHENG 438 (ISD 599). Internal Combustion Engines
+Advisory Prerequisite: MECHENG 336.
+Enforced Prerequisite: MECHENG 235. Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Analytical approach to the engineering problem and performance analysis of internal combustion engines. Study of thermodynamics, combustion, heat transfer, friction and other factors affecting engine power, efficiency and emissions. Design and operating characteristics of different types of engines. Computer assignments. Engine laboratories.
+CourseProfile (ATLAS)
+MECHENG 440. Intermediate Dynamics and Vibrations
+Advisory Prerequisite: MECHENG 240; Graduate students only by permission of instructor.
+Enforced Prerequisite: None.
+(4 credits)
+Newton/Euler and Lagrangian formulations for three-dimensional motion of particles and rigid bodies. Linear free and forced responses of one and two degree of freedom systems and simple continuous systems. Applications to engineering systems involving vibration isolation, rotating imbalance and vibration absorption.
+CourseProfile (ATLAS)
+MECHENG 450. Design and Manufacturing III
+Advisory Prerequisite: None.
+Enforced Prerequisite: MECHENG 320 and MECHENG 350 and MECHENG 360 and (MECHENG 395 or AEROSP 305). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+A mechanical engineering design project by which the student is exposed to the design process from concept through analysis to layout and report. Projects cover different mechanical engineering disciplines. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental, and/or non-profit organizations.
+CourseProfile (ATLAS)
+MECHENG 451. Properties of Advanced Materials for Design Engineers
+Scientific understanding of the properties of advanced materials in design engineering, with emphasis on the mechanical behavior and environmental degradation of polymer-, metal-, and ceramic-matrix composites. Topics include the manufacturability of advanced engineering materials, the application of composite materials in novel engineering designs, and analytic methods for evaluating material performance.
+CourseProfile (ATLAS)
+MECHENG 452. Design for Manufacturability
+Advisory Prerequisite: MECHENG 350. Enforced Prerequisite: None. (3 credits)
+Process, tools, and methods for enhancing the ease of manufacturing and assembly for product design. Conceptual design for economical manufacturing and assembly. Material and process selection. Product platforms and modular design. Design for manufacturing and assembly. Taguchi methods for robust design. Rapid prototyping and design for addictive manufacturing . Design projects.
+CourseProfile (ATLAS)
+MECHENG 455. Analytical Product Design
+Advisory Prerequisite: MECHENG 350, MECHENG 360, MECHENG 395 for Mechanical Engineering majors. Permission of instructor for all others.
+Enforced Prerequisite: None.
+(3-4 credits)
+Design of artifacts is addressed from a multidisciplinary perspective that includes engineering, art, psychology, marketing and economics. Using a decision-making framework, emphasis is placed on quantitative methods. Building mathematical models and accounting for interdisciplinary interactions. Students work in team design projects from concept generation to prototyping and design verification.
+CourseProfile (ATLAS)
+MECHENG 456 (BIOMEDE 456). Modeling in Biosolid Mechanics
+Advisory Prerequisite: MECHENG 211 and MECHENG 240. Enforced Prerequisite:
+(BIOMEDE 231 or MECHENG 211) and (BIOMEDE 332 or MECHENG 382
+). (3 credits)
+Definition of biological tissue and orthopedic device mechanics, including elastic, viscoelastic and non-linear elastic behavior. Emphasis on structure function relationships. Overview of tissue adaptation and the interaction between tissue mechanics and physiology.
+CourseProfile (ATLAS)
+MECHENG 457. Front-End Design
+Advisory Prerequisite: MECHENG 350 or equivalent design course.
+Enforced Prerequisite: None.
+(3 credits)
+This course examines processes of front-end of engineering design, including opportunity discovery, problem definition, developing mechanisms to gather data from users and other stakeholders, translating user data into design requirements and specifications, creating innovative solutions during concept generation, representing design ideas, and evaluating possible solutions.
+CourseProfile (ATLAS)
+MECHENG 458. Automotive Engineering
+Advisory Prerequisite: MECHENG 350.
+Enforced Prerequisite: None.
+(3 credits)
+Emphasizes systems approach to automotive design. Specific topics include automotive structures, suspension steering, brakes and driveline. Basic vehicle dynamics in the performance and handling modes are discussed. A semester team-based design project is required.
+CourseProfile (ATLAS)
+MECHENG 461. Automatic Control
+Advisory Prerequisite: MECHENG 360.
+Enforced Prerequisite: None.
+(3 credits)
+Feedback control design and analysis for linear dynamic systems with emphasis on mechanical engineering applications; transient and frequency response; stability; system performance; control modes; state space techniques; digital control systems.
+CourseProfile (ATLAS)
+MECHENG 462.
+Lithium Battery Lifetime Management
+Advisory Prerequisite: MECHENG 360.
+Enforced Prerequisite
+: MATH 216 or ROB 201; No OP/F.
+Minimum grade requirement of “C” for enforced prerequisite.
+(3 credits)
+Lithium-ion battery system engineering, modeling, and data analysis using electrical and thermal equivalent circuit analogies for the normal, aged, degraded, and abnormal behavior. Their integration in mobile and stationary energy storage applications, and considerations across their lifetime regarding repair, remanufacture, recycling, and end-of-life safety, will be addressed.
+CourseProfile (ATLAS)
+MECHENG 476 (BIOMEDE 476). Biofluid Mechanics
+Advisory Prerequisite: BIOMEDE 331 or MECHENG 320 or CHE 341. Recommended BIOMEDE 221. Enforced Prerequisite: None. (4 credits)
+This is an intermediate level fluid mechanics course which uses examples from biotechnology processes and physiologic applications including the cardiovascular, respiratory, ocular, renal, musculo-skeletal and gastrointestinal systems.
+CourseProfile (ATLAS)
+MECHENG 481. Manufacturing Processes
+Advisory Prerequisite: MECHENG 382.
+Enforced Prerequisite: None.
+(3 credits)
+Mathematical modeling of manufacturing processes used in industry to manufacture mechanical systems:  machining, deformation, welding, assembly, surface treatment, and solidification processes.  Process costs and limits; influence of processes on the final mechanical properties of the product.  Reconfigurable manufacturing, Rapid prototyping, Direct Metal Deposition (DMD) and semiconductor manufacturing.
+CourseProfile (ATLAS)
+MECHENG 482. Machining Processes
+Advisory Prerequisite: MECHENG 382.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction of advancements in machining. Overview and analysis of the single- point, multiple-point and abrasive processes. Machine tool design and cutting tools and tool wear mechanisms. Cutting forces and mechanics of chip formation. Temperatures of the tool and workpiece. Analysis of electrical discharge, electrochemical, chemical, laser, and biomedical/tissue/soft-material machining.
+CourseProfile (ATLAS)
+MECHENG 483. Manufacturing System Design
+Advisory Prerequisite: MECHENG 250.
+Enforced Prerequisite: None.
+(3 credits)
+Manufacturing system design methodologies and procedures. Topics: paradigms of manufacturing; building blocks of manufacturing systems; numerical control and robotics; task allocation and line balancing; system configurations, performance of manufacturing systems including quality, productivity, and responsiveness; economic models and optimization of manufacturing systems; launch and reconfiguration of manufacturing systems; Lean manufacturing.
+CourseProfile (ATLAS)
+MECHENG 487. Welding
+Advisory Prerequisite: MECHENG 382.
+Enforced Prerequisite: None.
+(3 credits)
+Study of the mechanism of surface bonding, welding metallurgy, effect of rate of heat input on resulting microstructures, residual stresses and distortion, economics and capabilities of the various processes.
+CourseProfile (
+ATLAS
+)
+MECHENG 489 (ISD 599). Sustainable Engineering and Design
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: MECHENG 235. Minimum grade requirement of “C-” for enforced prerequisite. Credit Exclusions: Student may only receive credit for one course
+,
+CEE 265 or MECHENG 489. (3 credits)
+This course covers economic, environmental and social aspects of sustainability as they pertain to engineering design. The course covers life cycle assessment, carbon/water/energy footprints, economic assessments, mass/energy balances, air/water pollutants, modeling of environmental pollutant concentrations, engineering economics, social considerations, pollution prevention, resource conservation, human and eco-toxicity, life cycle costing, and energy system.
+CourseProfile (ATLAS)
+MECHENG 490. RISE 4 – Research, Innovation, Service, Entrepreneurship
+Advisory and Enforced Prerequisite: None. (3 credits)
+Project work where students must apply ME principles to research, innovation, service or entrepreneurship. The student submits a proposal and a paper, and presents at the ME Undergraduate Symposium. Projects are overseen/graded by faculty and may involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+MECHENG 491. Independent Study
+Advisory Prerequisite: MECHENG 490 and permission of instructor.
+Enforced Prerequisite: None.
+(1-3 credits)
+Individual or group experimental or theoretical research in the area of mechanical engineering under the direction of a member of the department. The student will submit a final report. For undergraduates only. Projects are overseen/graded by faculty and may involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+MECHENG 495. Laboratory II
+Advisory Prerequisite: None.
+Enforced Prerequisite: (MECHENG 360 and MECHENG 395); C- or better; and Co-requisite: MECHENG 335; D or better; and MECHENG 350. Not open to graduate students.
+Minimum grade requirement listed above for enforced prerequisites, C- or better OR D or better.
+(4 credits)
+Weekly lectures and extended experimental projects designed to demonstrate experimental and analytical methods as applied to complex mechanical systems. Topics will include controls, heat transfer, fluid mechanics, thermodynamics, mechanics, materials and dynamical systems. Emphasis on laboratory report writing, oral presentations and team-building skills, and the design of experiments.
+CourseProfile (ATLAS)
+MECHENG 499. Special Topics in Mechanical Engineering
+Advisory Prerequisite: Permission of instructor.
+Enforced Prerequisite: None.
+(1-16 credits)
+Selected topics pertinent to mechanical engineering.
+CourseProfile (ATLAS)
+500 Level Courses
+MECHENG 500. Professional Skills for Graduate Student Success
+Advisory and Enforced Prerequisite: None. (1 credits)
+Broadly describe best practices for research; introduce policies/procedures for successful completion of graduate studies in Mechanical Engineering. Steps in the PhD process; Mentoring; The research process; Identifying research opportunities and formulating hypotheses; Research methodologies; Monitoring and using the literature; Improving writing, presentation, time management skills; Mental health; DEI; Career planning.
+CourseProfile (ATLAS)
+MECHENG 501. Mathematical Methods in Mechanical Engineering
+Advisory Prerequisite: MATH 216; MATH 217 or equivalent recommended.
+Enforced Prerequisite: None.
+(3 credits)
+Applied mathematics for mechanical engineering with an emphasis on mathematical principles and analytical methods. Topics include: complex analysis (functions of complex variables, contour integrals, conformal mappings), linear operator theory (vector spaces, linear algebra), ordinary differential equations (series solutions, Laplace and Fourier transforms, Green’s functions).
+CourseProfile (ATLAS)
+MECHENG 502. Methods of Differential Equations in Mechanics
+Advisory Prerequisite: MATH 454.
+Enforced Prerequisite: None.
+(3 credits)
+Applications of differential equation methods of particular use in mechanics. Boundary value and eigenvalue problems are particularly stressed for linear and nonlinear elasticity, analytical dynamics, vibration of structures, wave propagation, fluid mechanics and other applied mechanic topics.
+CourseProfile (ATLAS)
+MECHENG 505. Finite Element Methods in Mechanical Engineering and Applied Mechanics
+Advisory Prerequisite: MECHENG 311, MECHENG 501 and MECHENG 320 or MECHENG 330 or MECHENG 370.
+Enforced Prerequisite: None.
+(3 credits)
+Theoretical and computational aspects of finite element methods. Examples from areas of thermal diffusion, potential/irrotational flows, lubrication, structural mechanics, design of machine components, linear elasticity and Navier-Stokes flows problems. Program development and modification are expected as well as learning the use of existing codes.
+CourseProfile (ATLAS)
+MECHENG 506 (BIOMEDE 506). Computational Modeling of Biological Tissues
+Advisory Prerequisite: MECHENG 511, equivalent or permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+Biological tissues have multiple scales and can adapt to their physical environment. This course focuses on visualization and modeling of tissue physics and adaptation. Examples include electrical conductivity of heart muscle and mechanics of hard and soft tissues. Homogenization theory is used for multiple scale modeling.
+CourseProfile (ATLAS)
+MECHENG 507. Atomistic Computer Modeling of Materials
+Advisory Prerequisite: Introductory quantum mechanics recommended, but not required.
+Enforced Prerequisite: None.
+(3 credits)
+Describes the core methods used to simulate matter at the atomic scale.  Topics include: Structure of matter and interatomic potentials; High-performance computing; Electronic structure methods; Molecular dynamics; Monte Carlo; Transition state theory; Accelerated dynamics and multi-scale modeling. Applications of these methods are illustrated in hands-on laboratories involving research-caliber simulation tools.
+CourseProfile (ATLAS)
+MECHENG 511. Solid Continua
+Advisory Prerequisite: MECHENG 211 and MATH 450.
+Enforced Prerequisite: None.
+(3 credits)
+The general theory of a continuous medium. Kinematics of large motions and deformations; stress tensors; conservation of mass, momentum and energy; constitutive equations for elasticity, viscoelasticity and plasticity; applications to simple boundary value problems.
+CourseProfile (ATLAS)
+MECHENG 512 (CEE 509). Theory of Elasticity
+Advisory Prerequisite: MECHENG 412 or MECHENG 511.
+Enforced Prerequisite: None.
+(3 credits)
+Stress, strain and displacement, equilibrium and compatibility. Use of airy stress function in rectangular and polar coordinates, asymptotic fields at discontinuities, forces and dislocations, contact and crack problems, rotating and accelerating bodies. Galerkin and Papcovich-Neuber solutions, singular solutions, spherical harmonics. Thermoelasticity. Axisymmetric contact and crack problem. Axisymmetric torsion.
+CourseProfile (ATLAS)
+MECHENG 513. Automotive Body Structures
+Advisory Prerequisite: MECHENG 311.
+Enforced Prerequisite: None.
+(3 credits)
+Emphasis on body concept for design using first order modeling of thin walled structural elements. Practical application of solid/structural mechanics to design automotive bodies for global bending, torsion, vibration, crashworthiness, topology, material selection, packaging, and manufacturing constraints.
+CourseProfile (ATLAS)
+MECHENG 515. Contact Mechanics
+Advisory Prerequisite: MECHENG 311 or MECHENG 350.
+Enforced Prerequisite: None.
+(3 credits)
+Hertzian elastic contact; elastic-plastic behavior under repeated loading; shakedown. Friction; transmission of frictional tractions in rolling; fretting; normal and oblique impact. Dynamic loading. Surface durability in rolling. Surface roughness effects. Conduction of heat and electricity across interfaces. Thermal and thermoelastic effects in sliding and static contact.
+CourseProfile (ATLAS)
+MECHENG 516 (MATSCIE 516). Fracture and Adhesion of Interfaces, and the Mechanics of Layered Materials
+Advisory Prerequisite: MECHENG 311 or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Stresses and deformations in layered materials and laminated composites; cohesive-zone models of fracture; energy-release rates and delamination; fracture mechanics of layered materials; physics of adhesion; spalling; interfacial fracture mechanics; mixed-mode fracture; buckling-driven delamination; cracking of thin films and coating; adhesion and fracture tests; measurement of cohesive fracture parameters.
+CourseProfile (ATLAS)
+MECHENG 517 (MACROMOL 517). Mechanics of Soft Materials
+Advisory Prerequisite: MECHENG 511 or prior experience in continuum mechanics or permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+Selected topics in the mechanics of soft materials, including nonlinear elasticity, nonlinear viscoelasticity, and (visco)plasticity in amorphous and crystalline polymers. Applications include elastomers, thermoplastics, thermosets, vitrimers, hydrogels, proteins, and biological networks, cells, and tissues.
+CourseProfile (ATLAS)
+MECHENG 519. Theory of Plasticity I
+Advisory Prerequisite: MECHENG 511.
+Enforced Prerequisite: None.
+(3 credits)
+Fundamentals of plasticity; stress-strain relations, yield criteria and the general behavior of metals and nonmetals beyond proportional limit in the light of experimental evidence. Various approximate theories with emphasis on the theory of plastic flow. Application to problems of bending, torsion, plane strain and plane stress, technological problems.
+CourseProfile (ATLAS)
+MECHENG 520. Advanced Fluid Mechanics I
+Advisory Prerequisite: MECHENG 320.
+Enforced Prerequisite: None.
+(3 credits)
+Fundamental concepts and methods of fluid mechanics; inviscid flow and Bernoulli theorems; potential flow and its application; Navier-Stokes equations and constitutive theory; exact solutions of the Navier-Stokes equations; boundary layer theory; integral momentum methods; introduction to turbulence.
+CourseProfile (ATLAS)
+MECHENG 521. Advanced Fluid Mechanics II
+Advisory Prerequisite: MECHENG 520.
+Enforced Prerequisite: None.
+(3 credits)
+Viscous flow fundamentals; vorticity dynamics; solution of the Navier-Stokes equations in their approximate forms; thin shear layers and free surface flows; hydrodynamic stability and transition to turbulence; fundamental concepts of turbulence; the turbulent boundary layer; introduction to turbulence modeling.
+CourseProfile (ATLAS)
+MECHENG 523 (AEROSP 523). Computational Fluid Dynamics I
+Advisory Prerequisite: AEROSP 325 or preceded or accompanied by MECHENG 520.
+Enforced Prerequisite: None.
+(3 credits)
+Physical and mathematical foundations of computational fluid mechanics with emphasis on applications. Solution methods for model equations and the Euler and the Navier-Stokes equations. The finite volume formulation of the equations. Classification of partial differential equations and solution techniques. Truncation errors, stability, conservation and monotonicity.
+CourseProfile (ATLAS)
+MECHENG 524. Advanced Engineering Acoustics
+Advisory Prerequisite: MECHENG 424. Enforced Prerequisite: None. (3 credits)
+Derivation of the acoustic wave equation and development of solution techniques. Transmission and reflection from solids, plates and impedance boundaries. Radiation and scattering from non-simple geometries. Green’s functions; boundary element and finite element methods. Sound in ducts and enclosures. Introduction to structural-acoustic coupling. Automotive and other applications considered.
+CourseProfile (ATLAS)
+MECHENG 527. Multiphase Flow
+Advisory Prerequisite: MECHENG 520.
+Enforced Prerequisite: None.
+(3 credits)
+Selected topics in multiphase flow including nucleation and cavitation; dynamics of stationary and translating particles and bubbles; basic equations of homogeneous two-phase gas/liquid, gas/solid and vapor/liquid flows; kinematics and acoustics of bubbly flows; instabilities and shock waves in bubbly flows; stratified, annular and granular flow.
+CourseProfile (ATLAS)
+MECHENG 530. Advanced Heat Transfer
+Advisory Prerequisite: MECHENG 320 or equivalent background in fluid mechanics and heat transfer.
+Enforced Prerequisite: None.
+(3 credits)
+Advanced topics in conduction and convection including the presentation of several solution methods (semi-quantitative analysis, finite difference methods, superposition, separation of variables) and analysis of multi-mode heat transfer systems. Fundamentals of radiation heat transfer including; blackbody radiation, radiative properties, view factors, radiative exchange between ideal and non-ideal surfaces.
+CourseProfile (ATLAS)
+MECHENG 533. Radiative Heat Transfer
+Advisory Prerequisite: MECHENG 335.
+Enforced Prerequisite: None.
+(3 credits)
+Electromagnetic, optical and quantum aspects of radiative equilibrium. Enclosure radiation including spatial, specular, and spectral distributions. Gas radiation including boundary affected thin gas and thick gas approximations. Averaged and spectral properties. Technological applications.
+CourseProfile (ATLAS)
+MECHENG 535. Thermodynamics III
+Advisory Prerequisite: MECHENG 336.
+Enforced Prerequisite: None.
+(3 credits)
+Definitions and scope of thermodynamics; first and second laws. Maxwell’s relations. Clapeyron relation, equation of state, thermodynamics of chemical reactions, availability.
+CourseProfile (ATLAS)
+MECHENG 537. Advanced Combustion
+Advisory Prerequisite: MECHENG 432 or equivalent.
+Enforced Prerequisite: None.
+(3 credits)
+Advanced treatment of fundamental combustion processes. Conservation equations for reacting gas mixtures. The structure of one-dimensional diffusion and premixed flames; introduction to activation energy asymptotics. Two-dimensional Burke-Schumann flames and boundary layer combustion. Flame instabilities and flame stretch; turbulent combustion.
+CourseProfile (ATLAS)
+MECHENG 538. Advanced Internal Combustion Engines
+Advisory Prerequisite: MECHENG 438.
+Enforced Prerequisite: None.
+(3 credits)
+Modern analytical approach to the design and performance analysis of advanced internal combustion engines. Study of thermodynamics, fluid flow, combustion, heat transfer and other factors affecting the design, operating and emissions characteristics of different engine types. Application of course techniques to engine research projects.
+CourseProfile (ATLAS)
+MECHENG 539 (APPPHYS 639). Heat Transfer Physics
+Advisory Prerequisite: MECHENG 235 and MECHENG 335, or equivalent.
+Enforced Prerequisite: None.
+(3 credits)
+Unified treatment of thermal energy storage, transport and conversion, by principal carriers: phonon, electron, fluid particle and photon. Quantum, molecular dynamics and Boltzmann transport treatments are used, along with applications (e.g., thermoelectrics, photovoltaics, laser cooling, phonon recycling, size effects).
+CourseProfile (ATLAS)
+MECHENG 540 (AEROSP 540). Intermediate Dynamics
+Advisory Prerequisite: MECHENG 240.
+Enforced Prerequisite: None.
+(3 credits)
+Newton/Euler and Lagrangian formulations for three dimensional motion of particles and rigid bodies. Principles of dynamics applied to various rigid-body and multi-body dynamics problems that arise in aerospace and mechanical engineering.
+CourseProfile (ATLAS)
+MECHENG 541. Mechanical Vibrations
+Advisory Prerequisite: MECHENG 440.
+Enforced Prerequisite: None.
+(3 credits)
+Time and frequency domain mathematical techniques for linear system vibrations. Equations of motion of discrete non-conservative systems. Vibration of multi-degree-of-freedom systems. Small oscillation theory. Free vibration eigenvalue problem. Undamped system response. Viscously damped systems. Vibration of continuous systems. Modes of vibration of bars, beams, membranes, plates.
+CourseProfile (ATLAS)
+MECHENG 542. Vehicle Dynamics and Automation
+Advisory Prerequisite: MECHENG 440 or MECHENG 540.
+Enforced Prerequisite: None.
+(3 credits)
+Focuses on the dynamics and control of road vehicles. Dynamical models of automobiles and trucks are constructed and analyzed. Controllers are designed for driver assistance and vehicle automation. Topics include: longitudinal vehicle dynamics; cruise control and adaptive cruise control; ride dynamics; passive and active suspension design; nonholonomic dynamics of rolling; kinematic and dynamic bicycle models of automobile steering; lane-keeping control; motion planning for automated vehicles, longitudinal and lateral tire models; vehicle handing with tires.
+CourseProfile (ATLAS)
+MECHENG 543. Analytical and Computational Dynamics I
+Advisory Prerequisite: MECHENG 440.
+Enforced Prerequisite: None.
+(3 credits)
+Modern analytical rigid body dynamics equation formulation and computational solution techniques applied to mechanical multibody systems. Kinematics of motion generalized coordinates and speeds, analytical and computational determination of inertia properties, generalized forces, Gibb’s function, Routhian, Kanes’s equations, Hamilton’s principle, Lagrange’s equations holonomic and nonholonomic constraints, cons
+
+[truncated supplement]

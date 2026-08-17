@@ -1,0 +1,375 @@
+Industrial and Operations Engineering Courses (IOE)
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+100 Level Courses
+IOE 101. IOE Career Seminars
+Advisory and Enforced Prerequisite: None. (1 credit)
+Seminar to expose students to wide-ranging potential careers in industrial and operations engineering such as consulting, data science, healthcare, finance, supply chain management, energy, transportation, and others. Students will learn from industry affiliates about the nature of different careers and how to prepare for success after graduation.
+CourseProfile (ATLAS)
+200 Level Courses
+IOE 201. Economic Decision Making
+Advisory Prerequisite: None. Enforced Prerequisite: ENGR 100 or ENGLISH 124 or ENGLISH 125; Junior Standing or below.
+Minimum grade requirement of “C-” for enforced prerequisite
+. (2 credits) (7-week course)
+Overview of business operations, public policy costs, financial valuation, cashflow analysis, and accounting principles. Time value of money and net present values. Practical team project experience.
+CourseProfile (ATLAS)
+IOE 202. Operations Engineering & Analytics
+Advisory Prerequisite: None. Enforced Prerequisite: MATH 115, MATH 120, MATH 175, MATH 185, or MATH 295; Junior standing or Below. Co requisite: MATH 116, MATH 121, MATH 156, MATH 176, MATH 186, or MATH 296. Minimum grade requirement of “C-” for enforced prerequisite. (2 credits) (7-week course)
+Process of engineering & mathematically modeling decisions including the role of uncertainty in decision making. Basic tools for solving the resulting models, particularly optimization, statistical models and queueing processes. Applications from healthcare, public policy, manufacturing transportation, security, etc.
+CourseProfile (ATLAS)
+IOE 265. Probability and Statistics for Engineers
+Advisory Prerequisite: None.
+Enforced Prerequisite: (MATH 116 or 121 or 156 or 176 or 186 or 296 or ROB 201) and (ENGR 101 or 101X or 151 or EECS 183 or 180 or ROB 102); no OP/F. No credit in STATS 250 or SOC 210. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Graphical Representation of Data; Axioms of Probability; Conditioning, Bayes Theorem; Discrete Distributions (Geometric, Binomial, Poisson); Continuous Distributions (Normal Exponential, Weibull); Covariance and Correlation; Point and Interval Estimation, Likelihood Functions, Test of Hypotheses for Means, Variances and Proportions for One and Two Populations.
+CourseProfile (ATLAS)
+300 Level Courses
+IOE 310. Optimization and Computational Methods
+Advisory Prerequisite: None.
+Enforced
+Prerequisite: (MATH 214 or MATH 216 or MATH 256 or MATH 286 or MATH 316 or ROB 101); IOE 202; (ENGR 101 or ENGR 101x or ENGR 104 or ENGR 151 or EECS 100 or EECS 183 or CMPTRSC 100 or CMPTRSC 183). Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Introduction to deterministic optimization models and computational algorithms with emphasis on linear and integer programming; simplex and branch-and-bound algorithms; duality, complementary slackness, and sensitivity analysis. Emphasis on decision making for real-world applications from transportation, healthcare, and other industrial domains.
+CourseProfile (ATLAS)
+IOE 316. Introduction to Markov Processes
+Advisory Prerequisite: None.
+Enforced
+Prerequisite: IOE 265 and (MATH 214 or MATH 216 or MATH 256 or MATH 286 or MATH 316 or ROB 101); No OP/F. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Introduction to discrete Markov Chains and continuous Markov processes, including transient and limiting behavior. Introduction to Markov Decision Processes. The Poisson/Exponential process. Applications to reliability, maintenance, inventory, production, queues and other engineering problems.
+CourseProfile (ATLAS)
+IOE 333. Human Factors and Ergonomics
+Advisory and Enforced Prerequisite: None. (3 credits)
+Introduction to human sensory, perceptual, cognitive, and physiological systems in the context of
+human-machine-environment systems. Discussion of methods for human-centered evaluation and design of cognitive and physical tasks, products and devices, vehicles and workplaces, such as displays, controls, human-computer and human-robot interactions, illumination and sound environments, repetitive and high physical effort tasks.
+CourseProfile (ATLAS)
+IOE 366. Introduction to Engineering Data Analytics
+Advisory Prerequisite: None.
+Enforced Prerequisite: (IOE 265 or STATS 250) and (MATH 214 or MATH 216 or MATH 256 or MATH 286 or MATH 316 or ROB 101 or ROB 201); No OP/F. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Introduction to data analysis methods and statistical tools, linear regression and correlation, multiple linear regression, stepwise selection, nonlinear regression, logistic regression, analysis of variance, introduction to design of experiments.
+CourseProfile (ATLAS)
+IOE 373. Data Analytics Tools and Techniques
+Advisory Prerequisite: None.
+Enforced Prerequisite: ENGR 101 or ENGR 101x or ENGR 151 or EECS 180 or EECS 183 or ROB 102; No OP/F. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Introduction to the computing tools necessary for data, business, and engineering analytics. Emphasis on data cleansing, manipulation, and preparation for visualization, as well as basic inferential statistical analyses and predictive analytics using Python.
+CourseProfile (ATLAS)
+400 Level Courses
+IOE 410. Advanced Optimization and Computational Methods
+Advisory Prerequisite: None.
+Enforced
+Prerequisite: IOE 310; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Algorithms and computational methods for solving structured large-scale optimization models. Efficient algorithms for network optimization problems, basics of dynamic programming and convex programming, and advanced topics in linear and integer programming. Applications, including routing, scheduling, and inventory problems.
+CourseProfile (ATLAS)
+IOE 413. Optimization Modeling in Health Care
+Advisory Prerequisite: IOE 265 and IOE 310 or equivalent.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to optimization modeling in health care. Linear and integer programming models are developed for problems in health and medicine. Problems considered may include breast cancer diagnosis, radiotherapy treatment planning, fracture fixation planning and others as selected by the instructor. Emphasis is placed on model formulation, verification, validation and uncertainty quantification.
+CourseProfile (ATLAS)
+IOE 416. Queueing Systems
+Advisory Prerequisite: None. Enforced Prerequisite: IOE 316; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (2 credits) (7-week course)
+Introduction to queueing processes and their applications. The M/M/s and M/G/1 queues. Queue length, waiting time, busy period. Examples from production, transportation, communication and public service.
+CourseProfile (ATLAS)
+IOE 419. Service Operations Management
+Advisory Prerequisite: None.
+Enforced
+Prerequisite: IOE 310 and IOE 316; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Introduction to optimization, queueing, and spreadsheet-based simulation modeling applications in the service industries. Topics covered will include facility location modeling, short-term workforce management, long-term workforce planning, resource allocation, inventory applications in service systems, customer scheduling, call center design and vehicle routing.
+CourseProfile (ATLAS)
+IOE 421. Work Organizations
+Advisory Prerequisite: None.
+Enforced Prerequisite: IOE 201, IOE 202; and senior or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Applications of organizational theory to the analysis and design of work organizations is taught through lectures, projects in real organizations, experiential exercises and case studies. Topics include: open-systems theory, organizational structure, culture and power. A change strategy: current state analysis, future state vision and strategies for organizational transformation.
+CourseProfile (ATLAS)
+IOE 424. Practicum in Production and Service
+Advisory Prerequisite: None. Enforced Prerequisite: IOE 310 and IOE 316 and IOE 333 and IOE 366 and IOE 373 and TCHNCLCM 380; and senior standing; No credit for IOE 481. Minimum grade requirement of “C-”  for enforced prerequisite. (4 credits)
+Student teams with work on an externally sponsored IOE design project. The final report should demonstrate a mastery of the established technical communication skills. The report will be reviewed and edited to achieve this outcome. Projects are overseen/graded by faculty and may involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+IOE 425 (MFG 426). Lean Manufacturing and Services
+Advisory Prerequisite: None. Enforced Prerequisite: Senior standing. (2 credits) (7-week course)
+Review of philosophies, systems, and practices utilized by world-class manufacturers and service organizations focusing on “lean management,” including material and information flow, in-process quality assurance, standardized work, continuous improvement, visual management and lean leadership. Practical examples and in-class exercises bring concepts to life.
+CourseProfile (ATLAS)
+IOE 430. Global Cultural Systems Engineering
+Advisory Prerequisite: None.
+Enforced Prerequisite: IOE 333; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Selected topics of systems engineering are examined from the global cultural perspective. Topics include global cultural issues of design, marketing and communication; engineering aesthetics and ethics; individual and aggregated behavioral decision making; social networking and online communities; research and evaluation methods; applications in many areas of systems engineering.
+CourseProfile (ATLAS)
+IOE 431. Human-Centered and User Experience Design
+Advisory Prerequisite: IOE 333 or equivalent. Enforced Prerequisite: None. (3 credits)
+Introduction to the core principles of human-centered and user experience design. Students learn user research techniques like interviews and observations, explore ideation and concept development through sketching and prototyping, and master the art of user testing to gather valuable feedback for iterative design improvements.
+CourseProfile (ATLAS)
+IOE 434. Human Error and Complex System Failures
+Advisory Prerequisite: IOE 333 or IOE 536 or Permission of Instructor. Enforced Prerequisite: None. (3 credits)
+Introduction to a new systems-oriented approach to safety management and the analysis of complex system failures. The course covers a wide range of factors contributing to system failures: human perceptual and cognitive abilities and limitations, the design of modern technologies and interfaces, and biases in accident investigation and error analysis. Recent concepts in the area of high reliability organizations and resilience engineering are reviewed. Students perform systems analysis of actual mishaps and disasters in various domains, including various modes of transportation, process control and health care.
+CourseProfile (ATLAS)
+IOE 435 (ROB 435). Quantifying Human Motion Through Wearable Sensors
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: (ROB 101 OR MATH 214) and IOE 265 and (IOE 333 OR ROB 204); No OP/F. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Hands-on introduction to inertial measurement units (IMUs) for measuring human motion strategies. Includes random processes, autocorrelation, cross-correlation, Fourier transforms, orientation representations, reference frames, and filters (low-pass, high-pass filters, Kalman). These concepts are applied to estimating biomechanical measures (e.g., body joint angles, torso posture, phases of gait, positions) and selecting metrics to support decision making reliant on human movement.
+CourseProfile (ATLAS)
+IOE 436. Human Factors in Computer Systems
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: IOE 333; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course discusses how to design and evaluate computer systems for ease of use. Topics to be covered include keyboards and how people type, vision and video display design, human body size and computer furniture, regulations concerning working conditions, software issues, methods for studying user performance, documentation and information systems of the future.
+CourseProfile (ATLAS)
+IOE 437. Automotive Human Factors
+Advisory Prerequisite: IOE 333 and senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+An overview of human factors and driving to help engineers design motor vehicles that are safe and easy to use, and to provide basic knowledge for those interested in conducting automotive human factors/ergonomics research. The focus is on the total vehicle (all aspects of vehicle design) and for an inter-national market. Key topics include design guidelines, crash investigation and statistics, driving performance measures, vehicle dynamics, occupant packaging, and driver vision.
+CourseProfile (ATLAS)
+IOE 438. Occupational Safety Management
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: IOE 333; and senior or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (2 credits) (4-week course)
+Survey of occupational safety management methods, theories and activities. Topics include: history of safety engineering, management, and worker compensation; collection and critical analysis of accident data; safety standards, regulations and regulatory agencies; theories of self-protective behavior and accident prevention; and analysis of safety program effectiveness.
+CourseProfile (ATLAS)
+IOE 440 (MFG 440). Operations Analysis and Management
+Advisory Prerequisite: None. Enforced Prerequisite: IOE 310 and 316; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. Credit Exclusions: Student may only receive credit for one course, IOE 440 (MFG 440) or TO 605 (MFG 605). (3 credits).
+Principles and models for analyzing, engineering and managing manufacturing and service operations as well as supply chains. Emphasis on capacity management; queueing models of operational dynamics (including cycle time, work-in-progress, inventory, throughput and variability); operational flexibility; the math and physics of lean enterprises.
+CourseProfile (ATLAS)
+IOE 441 (MFG 441). Production and Inventory Control
+Advisory Prerequisite: None. Enforced
+Prerequisite: IOE 310 and 366; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Basic models and techniques for managing inventory systems and for planning production. Topics include deterministic and probabilistic inventory models; production planning and scheduling; and introduction to factory physics.
+CourseProfile (ATLAS)
+IOE 447 (MFG 447). Facility Planning
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: IOE 310 and IOE 316; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Fundamentals in developing efficient layouts for single-story and multi-story production and service facilities. Manual procedures and microcomputer-based layout algorithms. Algorithms to determine the optimum location of facilities. Special considerations for multi-period, dynamic layout problems.
+CourseProfile (ATLAS)
+IOE 449 (MFG 449). Material Handling Systems
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: IOE 310 and IOE 316; or g
+raduate standing.
+Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Review of material handling equipment used in warehousing and manufacturing. Analytic models and algorithms to design and analyze the performance of discrete-flow manual and automated storage/retrieval systems, order picking centers, automated guided vehicle systems, conveyor loops, and lean manufacturing driven milkrun systems and call systems.
+CourseProfile (ATLAS)
+IOE 452 (MFG 455). Corporate Finance
+Advisory Prerequisite: None. Enforced Prerequisite: IOE 201 and IOE 310 and IOE 366; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+The goal of this course is to introduce a basic understanding of financial management. The course develops fundamental models of valuation and investment from first principles and applies them to problems of corporate and individual decision-making. The topics of discussion will include the net present valuation, optimal portfolio selection, risk and investment analysis, issuing securities, capital structure with debt financing and real options.
+CourseProfile (ATLAS)
+IOE 453 (MFG 456). Derivative Instruments
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: IOE 201 and IOE 316 and IOE 366; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. Credit Exclusions: Student may only receive credit for one course
+,
+IOE 453 (MFG 456) or MATH 423. (3 credits)
+The main objectives of the course are first, to provide the students with a thorough understanding of the theory of pricing derivatives in the absence of arbitrage, and second, to develop the mathematical and numerical tools necessary to calculate derivative security prices. We begin by exploring the implications of the absence of static arbitrage. We study, for instance, forward and futures contracts. We proceed to develop the implications of no arbitrage in dynamic trading models: the binomial and Black-Scholes models. The theory is applied to hedging and risk management.
+CourseProfile (ATLAS)
+IOE 460. Decision Analysis and Bounded Rationality
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: (IOE 265 or STATS 265) and IOE 310; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course provides a rigorous introduction to prescriptive decision analysis and more descriptive bounded rationality models.  The course starts from the classic axioms of rational choice and covers single-attribute and multi-attribute utility theory, decision trees, the value of information in a decision analytic context, and expert elicitation of both probabilities and utility functions.  It then introduces bounded rationality and covers some of the main classes of bounded rationality and how they can be modeled.
+CourseProfile (ATLAS)
+IOE 461 (MFG 461). Quality Engineering Principles and Analysis
+Advisory Prerequisite: None. Enforced Prerequisite: IOE 366; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. Credit Exclusions: Not for IOE Graduate Credit, students may earn a maximum of 6 credits from IOE 461, IOE 465, and IOE 466. (3 credits)
+Provides students with the analytical and management tools necessary to solve manufacturing quality problems and implement effective quality systems. Topics include voice of the customer analysis, the Six Sigma problem solving methodology, process capability analysis, measurement system analysis, design of experiments, statistical process control, failure mode and effects of analysis, quality function deployment and reliability analysis.
+CourseProfile (ATLAS)
+IOE 463 (MFG 463). Measurement and Design of Work
+Advisory Prerequisite: IOE 333 or MECHENG 395 or BIOMEDE 231 and IOE 265 or STATS 412. Enforced
+Prerequisite: None.
+(3 credits)
+Design of lean manufacturing systems requires knowledge and skills for describing manual work, identifying value and non-value added work elements, designing efficient work equipment and methods, preventing fatigue and related worker health problems and predicting work performance.
+CourseProfile (ATLAS)
+IOE 465. Design of Experiments.
+Advisory Prerequisite: None. Enforced Prerequisite: IOE 366; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. Credit Exclusions: Students may earn a maximum of 6 credits from IOE 461, IOE 465, and IOE 466. (3 credits)
+Linear models, multicollinearity and robust regression, comparative experiments, randomized blocks and Latin squares, factorial designs, confounding, mixed level fractional factories, random and mixed models, nesting and split plots, response surface methods, Taguchi contributions to experimental design.
+CourseProfile (ATLAS)
+IOE 466 (MFG 466). Statistical Quality Control
+Advisory Prerequisite: None. Enforced Prerequisite: IOE 366 or STATS 401; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. Credit Exclusions: Students may earn a maximum of 6 credits from IOE 461, IOE 465, and IOE 466. (3 credits)
+Quality improvement philosophies, modeling process quality, statistical process control, control charts for variables and attributes, CUSUM and EWMA, short production runs, multivariate quality control, auto correlation, engineering process control economic design of charts, fill control, precontrol, adaptive schemes, process capability, specifications and tolerances, gage capability studies, acceptance sampling by attributes and variables, international quality standards.
+CourseProfile (ATLAS)
+IOE 473. Advanced Data Analytics
+Advisory Prerequisite: IOE 310, IOE 366, IOE 373
+.
+Enforced
+Prerequisite: None.
+(3 credits)
+Introduction to fundamental computational methods in data analytics with case studies from real-world applications. Goal is to expose students to a variety of data analytics methods, and then demonstrate the applicability of these methods through a set of real-world problems in various engineering disciplines.
+CourseProfile (ATLAS)
+IOE 474. Discrete-Event Simulation
+Advisory Prerequisite: IOE 373. Enforced Prerequisite: IOE 316 and IOE 366, preceded or accompanied by IOE 373; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Simulation of complex discrete-event systems with applications in industrial and service organizations. Course topics include modeling and programming simulations in one or more high-level computer packages such as ProModel or GPSS/H; input distribution modeling; generating random numbers; statistical analysis of simulation output data. The course will contain a team simulation project.
+CourseProfile (ATLAS)
+IOE 481. Practicum in Hospital Systems
+Advisory Prerequisite: None. Enforced Prerequisite: IOE 310 and IOE 316 and IOE 333 and IOE 366 and IOE 373 and TCHNCLCM 380; and senior standing; No credit for IOE 424
+.
+Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Project teams meet needs of hospital clients. Technical communications for presentations and reports, design processes, inclusive team functioning, project methodologies, data collection, data analysis, lean, operations research, project management, and ethics and standards. Projects will be overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+IOE 490. Undergraduate Directed Study, Research, and Special Problems
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (2-4 credits)
+Individual or group study, design, or laboratory research from areas of industrial and operations engineering. Student(s) must register for the individual section number of the instructor/advisor. Report is reviewed and edited. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+IOE 491. Special Topics in Industrial and Operations Engineering
+Advisory and Enforced Prerequisite: None. (1-16 credits)
+Selected topics of current interest in industrial and operations engineering. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+IOE 499. Senior Design Project
+Advisory Prerequisite: Senior standing and permission of instructor. Enforced Prerequisite: None. (4 credits)
+Selected design projects in industrial and operations engineering. The final report submitted by students should demonstrate a mastery of the established communication skills. The final project report will be reviewed to achieve this outcome. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+500 Level Courses
+IOE 500. IOE MS Seminar
+Advisory Prerequisite: MSE IOE student or permission of instructor.
+Enforced
+Prerequisite: None.
+(1 credit)
+Seminars presented by academic speakers and industry leaders to describe contemporary applications of industrial and operations engineering models and techniques to master’s students in IOE. The focus is on applications but research challenges are addressed as needed. Many speakers also address potential career opportunities for MS students in IOE.
+CourseProfile (ATLAS)
+IOE 503. Integrative Systems + Design Practicum
+Advisory Prerequisite: None. Enforced Prerequisite: ISD 520. (3-9 credits)
+The Practicum is a project course providing students with an integrative capstone experience where they apply knowledge and skills acquired from coursework to a complex engineering system design problem.  Each project must have clearly defined goals and deliverables, and provide a solution methodology.  A comprehensive project report is required at completion.
+CourseProfile (ATLAS)
+IOE 510 (MATH 561) (TO 518). Linear Programming I
+Advisory Prerequisite: MATH 217, MATH 417, or MATH 419. Enforced
+Prerequisite: None.
+(3 credits)
+Formulation of problems from the private and public sectors using the mathematical model of linear programming. Development of the simplex algorithm; duality theory and economic interpretations. Postoptimality (sensitivity) analysis application and interpretations. Introduction to transportation and assignment problems; special purpose algorithms and advanced computational techniques. Students have opportunities to formulate and solve models developed from more complex case studies and to use various computer programs.
+CourseProfile (ATLAS)
+IOE 511 (MATH 562). Continuous Optimization Methods
+Advisory Prerequisite: MATH 217, MATH 417 or MATH 419. Enforced
+Prerequisite: None.
+(3 credits)
+Survey of continuous optimization problems. Unconstrained optimization problems: unidirectional search techniques; gradient, conjugate direction, quasi-Newton methods. Introduction to constrained optimization using techniques of unconstrained optimization through penalty transformations, augmented Lagrangians and others. Discussion of computer programs for various algorithms.
+CourseProfile (ATLAS)
+IOE 512. Dynamic Programming
+Advisory Prerequisite: IOE 510 and IOE 316. Enforced
+Prerequisite: None.
+(3 credits)
+The techniques of recursive optimization and their use in solving multistage decision problems, applications to various types of problems, including an introduction to Markov decision processes.
+CourseProfile (ATLAS)
+IOE 513. Healthcare Operations Research: Theory and Applications
+Advisory Prerequisite: (IOE 316 or IOE 515) and (IOE 310 or IOE 510) and (IOE 366 or IOE 474) and graduate standing or permission of instructor.
+Enforced
+Prerequisite: None.
+(3 credits)
+This course provides an overview of the role of operations research in healthcare. It surveys and evaluates research done in this field and addresses some of the key technical issues encountered when developing healthcare operations research models. Insights will be shared about carrying out collaborative research with healthcare professionals.
+CourseProfile (ATLAS)
+IOE 515. Stochastic Processes
+Advisory Prerequisite: IOE 316 or STATS 310. Enforced
+Prerequisite: None.
+(3 credits)
+Introduction to non-measure theoretic stochastic processes. Poisson processes, renewal processes and discrete time Markov chains. Applications in queueing systems, reliability, and inventory control.
+CourseProfile (ATLAS)
+IOE 516. Stochastic Processes II
+Advisory Prerequisite: IOE 515. Enforced
+Prerequisite: None.
+(3 credits)
+This course emphasizes the use of Markov Chains in theory and practice. General knowledge of probability theory and stochastic processes is assumed. Applications may include equipment replacement, queueing systems and production systems. Methodologies covered include invariant measures and stationary distributions for both the discrete and continuous cases.
+CourseProfile (ATLAS)
+IOE 517. Game Theory and Operations Applications
+Advisory Prerequisite: Undergraduate level courses in optimization and probability theory. Enforced
+Prerequisite: None.
+(3 credits)
+Topics covered include static games, Stackelberg games, dynamic games; games with complete information, incomplete information, and asymmetric information; Nash equilibrium, Bayesian-Nash equilibrium, subgame perfect equilibrium, and perfect Bayesian equilibrium. Applications include auctions, supplier and retailer competition, sourcing selection, supply chain management and coordination, and salesforce incentive mechanism design.
+CourseProfile (ATLAS)
+IOE 520. Introduction to Systems Engineering
+Advisory Prerequisite: Background in multivariate calculus and statistics necessary. Enforced
+Prerequisite: Graduate standing.
+(3 credits)
+Introduction to the systems engineering process used to create multidisciplinary solutions to complex problems with multiple, often conflicting objectives; application to large developmental programs from such diverse areas as civil engineering and transportation, space and missiles, ships and land vehicle systems.
+CourseProfile (ATLAS)
+IOE 521. Development and Verification of Systems Design Requirements
+Advisory Prerequisite: Familiarity with the normal distribution, the binomial distribution, the concept of probability and the concept of sampling from a probability distribution. Enforced Prerequisite: None. (3 credits)
+Requirements and contracts, systems and verification requirements, levels of confidence on verification requirements. Verification by inspection, demonstration, analysis, simulation, testing and similarity methods. Needs and development of mission requirements. Use case analysis. Balancing stakeholder requirements with feasibility and verifiability. Applications in automotive, aerospace, defense and software.
+CourseProfile (ATLAS)
+IOE 524. Master’s Practicum in Industrial and Operations Engineering
+Advisory Prerequisite: IOE Master’s students who have completed at least one full term of the IOE master’s program. Exposure to data analytics, quantitative modeling, and related topics. IOE 510, (STATS 500 or IOE 591), IOE 543, IOE 515. Enforced Prerequisite: None. (3 credits)
+Master’s student teams work on a sponsored IOE master’s design project applying their IOE skills to a problem determined by the sponsor’s organizational needs. Culminates in a final presentation and report which should demonstrate mastery of advanced IOE models/techniques as well as technical communication skills. Projects are overseen/graded by the instructor of record, with input from the mentor assigned by the sponsor and will involve supervision and mentoring by representatives from the sponsoring organizations.
+CourseProfile (ATLAS)
+IOE 525. Lean Principles and Scientific Thinking in Organizations
+Advisory Prerequisite: IOE 425
+.
+Enforced
+Prerequisite: None.
+(3 credits)
+This course will focus on the application of lean principles and scientific thinking methods to continuously improve the use of machines, materials, and methods in manufacturing and service industries. Students are taught a way of approaching challenging goals through kata (practice routines) to iteratively improve processes. Classroom lectures are reinforced by projects in the field.
+CourseProfile (ATLAS)
+IOE 527 (MFG 527). Designing Quality: Six Sigma
+Advisory Prerequisite: Basic statistical distribution & models, product development proc & des experiment. Enforced Prerequisite: None. (3 credits)
+Methods and analysis tools for preventing quality and warranty concerns. Applying the Design for Six Sigma Quality methodology to identify/define, design new systems, optimize, and validate. Using the IDDOV framework to examine tools and methods for identifying customer requirements, evaluating design concepts, and optimizing processes to meet quality objectives.
+CourseProfile (ATLAS)
+IOE 533 (MFG 535). Human Motor Behavior and Engineering Systems
+Advisory Prerequisite: IOE 333 and IOE 365 or EHS 556. Enforced
+Prerequisite: None.
+(3 credits
+This course is designed to provide a basic perspective of the major processes of human motor behavior. Emphasis will be placed on understanding motor control and man-(machine)-environment interaction. Information processing will be presented and linked to motor behavior. Application of theories to the design of the workplace, controls and tools will be underlined and illustrated by substantial examples.
+CourseProfile (ATLAS)
+IOE 534 (BIOMEDE 534) (MFG 534). Occupational Biomechanics
+Advisory Prerequisite: IOE 333 or IOE 433/EHS 556. Enforced Prerequisite: None. (3 credits)
+Anatomical and physiological concepts are introduced to understand and predict human motor capabilities, with particular emphasis on the evaluation and design of manual activities in various occupations. Quantitative models are developed to explain (1) muscle strength performance; (2) cumulative and acute musculoskeletal injury; (3) physical fatigue; and (4) human motion control.
+CourseProfile (ATLAS)
+IOE 535. Quantifying Human Motion Through Wearable Sensors
+Advisory and Enforced Prerequisite: None. (3 credits)
+Hands-on introduction to inertial measurement units (IMUs) for measuring human motion strategies. Includes random processes, autocorrelation, cross-correlation, Fourier transforms, orientation representations, reference frames, and filters (low-pass, high-pass filters, Kalman). These concepts are applied to estimating biomechanical measures (e.g., body joint angles, torso posture, phases of gait, positions) and selecting metrics to support decision making reliant on human movement. Graduate credit includes additional synergistic research components.
+CourseProfile (ATLAS)
+IOE 536. Cognitive Ergonomics and Human System Integration
+Advisory Prerequisite: IOE 333. Enforced
+Prerequisite: None.
+(3 credits)
+Theories and concepts of human information processing are introduced to analyze human perceptual and cognitive performance in human machine information systems such as intelligent transportation and manufacturing systems. Conceptual and quantitative models, interface design techniques and research and evaluation methods are presented. Samples of on-going research are also discussed.
+CourseProfile (ATLAS)
+IOE 537. Ergonomics for Universal Design
+Advisory Prerequisite: None. Enforced
+Prerequisite: IOE 333
+;
+or graduate standing
+. Minimum grade requirement of “B+” for enforced prerequisite.
+(3 credits)
+Application of human factors principles to accommodate a broad spectrum of physical (such as strength, functionality, etc.), perceptual (vision, hearing, etc.), and cognitive capabilities. Addresses how these capabilities are assessed and how task requirements and dimensions are matched to the user’s characteristics. Also covers design techniques used to account for populations with atypical anthropometries and capabilities. Special attention will be given to designing for specific groups such as persons with disabilities, seniors, expectant mothers, and children.
+CourseProfile (ATLAS)
+IOE 539 (MFG 539). Safety Engineering Methods
+Advisory Prerequisite: IOE 265 or BIOSTAT 503. Enforced
+Prerequisite: None.
+(3 credits)
+Recognition, evaluation and control of generic safety hazards (confined spaces, electricity, fire, mechanical energy, etc.) found in contemporary workplaces, using case studies from manufacturing, transportation and power generation. Students perform an interdisciplinary team project using systems safety engineering methods to redesign a work station, manufacturing process, or consumer product.
+CourseProfile (ATLAS)
+IOE 541. Optimization Methods in Supply Chain Management
+Advisory Prerequisite: IOE 310 and IOE 316; or permission of instructor. Enforced
+Prerequisite: None.
+(3 credits)
+Introductory graduate course on optimization methods in supply chain management.  Topics include forecasting and demand models, deterministic and stochastic inventory models, multi-echelon inventory models, facility location models, process flexibility, supply chain contracts, and joint learning and optimization methods in supply chain models.
+CourseProfile (ATLAS)
+IOE 543 (MFG 543). Scheduling
+Advisory Prerequisite: IOE 316 and IOE 310. Enforced
+Prerequisite: None.
+(3 credits)
+The problem of scheduling several tasks over time, including the topics of measures of performance, single-machine sequencing, flow shop scheduling, the job shop problem and priority dispatching. Integer programming, dynamic programming and heuristic approaches to various problems are presented.
+CourseProfile (ATLAS)
+IOE 545 (MFG 545). Stochastic Networks and Operations
+Advisory Prerequisite: IOE 515 or EECS 501. Enforced
+Prerequisite: None.
+(3 credits)
+Introduction to queueing networks and their use in modeling and analysis of operational systems. Methodological topics include regenerative processes, Markov processes, embedding, reversibility, quasi-reversibility, approximations for open and closed networks, intro to control of Markov queueing systems. Application of these stochastic models and the “physics” of flow operations with emphasis on services, healthcare, and production.
+CourseProfile (ATLAS)
+IOE 547 (MFG 547). Supply Chain Facilities
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: IOE 265 and IOE 310;
+or graduate standing
+. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+A global supply network consists of “arcs” (transportation) and “nodes” (facilities) such as container terminals, crossdocks, distribution centers, consolidation centers, railway yards, and airfreight terminals.  In this course we cover the basic functions and configuration of the above facilities, and we develop analytic design and performance evaluation models for them.
+CourseProfile (ATLAS)
+IOE 548. Integrated Product Development
+Advisory Prerequisite: Graduate Standing; Permission of Tauber Institute. Enforced
+Prerequisite: None.
+(3 credits)
+This is a Tauber Institute-sponsored graduate elective. Students form teams of four/five, each with mixed disciplinary backgrounds spanning business, engineering and art/architecture. A product category is announced, and each team acts as an independent firm competing in that product market against other teams while working independently through an integrated exercise of market research, product design, product development and manufacture, pricing, demand forecasting and inventory control. Market share of each team is determined through both a web-based competition and a physical trade show.
+CourseProfile (ATLAS)
+IOE 549 (MFG 549). Plant Flow Systems
+Advisory Prerequisite: IOE 310 and IOE 416. Enforced
+Prerequisite: None.
+(3 credits)
+Analytical models for the design and throughput performance evaluation of material handling systems used in discrete parts flow production facilities. Analysis of design and control issues for manual and automated handling systems including lift trucks, micro-load automatic storage/retrieval systems and automated guided vehicle systems.
+CourseProfile (ATLAS)
+IOE 551. Benchmarking, Productivity Analysis and Performance Measurement
+Advisory Prerequisite: IOE 510. Enforced
+Prerequisite: None.
+(3 credits)
+Introduction to quali
+
+[truncated supplement]

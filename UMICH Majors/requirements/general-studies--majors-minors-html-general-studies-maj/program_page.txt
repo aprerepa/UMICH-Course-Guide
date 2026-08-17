@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -41,6 +45,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -1196,14 +1204,6 @@ HUM
 NAT
 SOC
 INT
-General Studies (Major)
-What do you want to learn? That’s the question at the heart of the Bachelor in General Studies (B.G.S.) degree. B.G.S. is more than a major. It's an interdisciplinary degree that empowers you to design your own academic plan from the start or make the most of your prior courses and experiences.
-B.G.S students purposefully combine coursework from different fields to craft a unique, meaningful program of study. The flexible curriculum allows students to integrate diverse learning experiences from study abroad, research, internships, and transfer courses. While B.G.S. has always been a student-driven degree, advisors assist with navigation along the way. The B.G.S. degree cultivates skills in interdisciplinary thinking, creative problem-solving, and self-reflection, making it excellent preparation for graduate and professional schools.
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-College of Literature, Science & the Arts
 Geology (Minor)
 m
 NAT

@@ -1,0 +1,25 @@
+{
+  "id": "english--majors-minors-html-english-maj",
+  "displayName": "English",
+  "groupRules": {
+    "Foundations & Methods": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Regions": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Time": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

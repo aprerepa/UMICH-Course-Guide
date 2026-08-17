@@ -1,0 +1,46 @@
+[
+  {
+    "id": "01-printable-math-honors-checklist-click-here",
+    "url": "https://drive.google.com/file/d/14TVa3hL66fQv4j0t8OV6EQ9pK4cRDHr4/view?usp=drive_link",
+    "link_text": "Printable Math Honors Checklist - Click Here",
+    "score": 135,
+    "status": "fetched",
+    "message": "ok (5748 chars)",
+    "final_url": "https://drive.usercontent.google.com/download?id=14TVa3hL66fQv4j0t8OV6EQ9pK4cRDHr4&export=download",
+    "fetch_mode": "http",
+    "chars": 5748
+  },
+  {
+    "id": "02-explore-course-options",
+    "url": "https://lsa.umich.edu/math/undergraduates/your-first-math-course-at-uofm---a-guide-for-incoming-students/explore-course-options.html",
+    "link_text": "Explore Course Options",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (27932 chars)",
+    "final_url": "https://lsa.umich.edu/math/undergraduates/your-first-math-course-at-uofm---a-guide-for-incoming-students/explore-course-options.html",
+    "fetch_mode": "http",
+    "chars": 27932
+  },
+  {
+    "id": "03-courses",
+    "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (4215 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "fetch_mode": "http",
+    "chars": 4215
+  },
+  {
+    "id": "04-courses",
+    "url": "https://lsa.umich.edu/math/graduates/Courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (3227 chars)",
+    "final_url": "https://lsa.umich.edu/math/graduates/Courses.html",
+    "fetch_mode": "http",
+    "chars": 3227
+  }
+]

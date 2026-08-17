@@ -14,10 +14,6 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 About
 Academics
 Research
@@ -45,10 +41,6 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 for
 Prospective Students
 Current Students

@@ -1,0 +1,23 @@
+{
+  "id": "materials-science-and-engineering--undergraduate",
+  "displayName": "Materials Science and Engineering",
+  "groupRules": {
+    "College of Engineering Common Requirements": {
+      "minCredits": 39,
+      "countsTowardMajorTotal": true
+    },
+    "Science and Technical Electives": {
+      "minCredits": 14,
+      "countsTowardMajorTotal": true
+    },
+    "Core Courses": {
+      "minCredits": 47,
+      "countsTowardMajorTotal": true
+    },
+    "MSE Electives": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

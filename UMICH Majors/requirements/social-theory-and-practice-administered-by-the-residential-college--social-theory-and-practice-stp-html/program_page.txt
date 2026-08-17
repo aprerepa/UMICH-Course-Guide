@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About Us
 News and Events
 People
@@ -43,6 +47,10 @@ Inside East Quad
 LSA-CARS
 Signup for News
 RC Portal
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 Prospective Students
 Current Students
 Curriculum and Programs
@@ -231,120 +239,6 @@ Student News
 Administration
 Prison Creative Arts Project
 More
-Theresa Braunschneider
-Lecturer IV, RC First-Year Writing Seminar Program Head, Academic Advisor
-tbraun@umich.edu
-B429 East Quad (follow signs toward the Green Room and music practice rooms)
-Residential College
-;
-Academic Services
-;
-Social Theory and Practice
-David Burkam
-Lecturer, Social Theory and Practice
-dtburkam@umich.edu
-734.647.4352
-Social Theory and Practice
-;
-Residential College
-;
-Urban Studies
-Sueann Caulfield
-Professor, Social Theory and Practice, and History
-scaul@umich.edu
-734.763.1862
-Social Theory and Practice
-;
-Residential College
-Angela D. Dillard
-Professor, Social Theory and Practice, Richard A. Meisler Collegiate Professor of Afroamerican and African Studies, and History
-adillard@umich.edu
-Social Theory and Practice
-;
-Residential College
-Leila Kawar
-Associate Professor, Social Theory and Practice
-lckawar@umich.edu
-1516 East Quad
-734-647-4351
-Social Theory and Practice
-;
-Residential College
-Becca Pickus
-Associate Director of Living-and-Learning; Lecturer IV; Social Theory and Practice Major Program Head and Advisor; General Academic Advisor
-rpickus@umich.edu
-B817 East Quad
-Social Theory and Practice
-;
-Residential College
-;
-Administration
-;
-Administration
-Ian Robinson
-Lecturer, Social Theory and Practice Program
-eian@umich.edu
-734.763.1862
-Social Theory and Practice
-;
-Residential College
-Mabel Rodriguez
-Lecturer, Spanish Program, Social Theory and Practice; Coordinator Intensive Spanish II
-mrodri@umich.edu
-734.647.4369
-Languages
-;
-Residential College
-;
-Spanish
-;
-Advising
-;
-Faculty
-;
-Social Theory and Practice
-Teresa Sanchez-Snell
-Lecturer, Social Theory and Practice, and Spanish Language Internship Program Coordinator
-tssnell@umich.edu
-B805 East Quad
-734.647.6713
-SLIP
-;
-Languages
-;
-Social Theory and Practice
-;
-Residential College
-;
-Administration
-David Schoem
-Lecturer, Social Theory & Practice
-dschoem@umich.edu
-Residential College
-;
-Faculty
-;
-Social Theory and Practice
-Heather Ann Thompson
-Collegiate Professor of History and African American Studies in the History, Afroamerican and African Studies Departments and in the Residential College Social Theory and Practice Program
-hthompsn@umich.edu
-734.615.1466
-Social Theory and Practice
-;
-Residential College
-Stephen Ward
-Director of the Residential College; Arthur F. Thurnau Professor; Social Theory and Practice Program; Associate Professor, Department of Afroamerican and African Studies
-smward@umich.edu
-734.615.1466
-Social Theory and Practice
-;
-Semester in Detroit
-;
-Residential College
-;
-Administration
-;
-Urban Studies
 No Results Found
 previous
 12 People Summaries
@@ -355,7 +249,7 @@ Residential College
 East Quad
 701 E. University
 Ann Arbor, MI 48109-1245
-rescollege@umich.edu
+[email protected]
 Engaged Michigan Partner
 RC Portal for Students, Staff, and Faculty
 Click to call 734.763.0032

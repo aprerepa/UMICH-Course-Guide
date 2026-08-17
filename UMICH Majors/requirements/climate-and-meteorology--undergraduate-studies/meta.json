@@ -4,14 +4,73 @@
   "school_college": "College of Engineering",
   "program_url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+8 course-list supplements: Editable sample schedule, https://bulletin.engin.umich.edu/courses/course-info/, CourseProfile (ATLAS))",
   "program_final_url": "https://clasp.engin.umich.edu/academics/undergraduate-studies/",
-  "program_fetch_mode": "browser",
-  "requirements_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
-  "requirements_link_text": "BSE Climate and Meteorology \u2192 Editable sample schedule",
-  "requirements_link_score": 115,
+  "program_fetch_mode": "http",
+  "requirements_url": "https://bulletin.engin.umich.edu/courses/clasp/",
+  "requirements_link_text": "BSE Climate and Meteorology \u2192 CLaSP Course Guide",
+  "requirements_link_score": 145,
   "requirements_link_strategy": "hub:BSE Climate and Meteorology\u2192page",
-  "requirements_final_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+  "requirements_final_url": "https://bulletin.engin.umich.edu/courses/clasp/",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T15:33:55.697794+00:00"
+  "fetched_at": "2026-08-10T16:00:13.540246+00:00",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-editable-sample-schedule-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+      "link_text": "Editable sample schedule",
+      "status": "fetched",
+      "chars": 2199
+    },
+    {
+      "id": "02-https-bulletin-engin-umich-edu-courses-course-info",
+      "url": "https://bulletin.engin.umich.edu/courses/course-info/",
+      "link_text": "https://bulletin.engin.umich.edu/courses/course-info/",
+      "status": "fetched",
+      "chars": 3397
+    },
+    {
+      "id": "03-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CLIMATE%20102/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "04-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CLIMATE%20105/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "05-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CLIMATE%20110/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "06-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CLIMATE%20171/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "07-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CLIMATE%20172/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "08-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CLIMATE%20205/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    }
+  ]
 }

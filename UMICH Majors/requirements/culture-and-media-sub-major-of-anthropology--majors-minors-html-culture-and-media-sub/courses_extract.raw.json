@@ -1,0 +1,50 @@
+{
+  "id": "culture-and-media-sub-major-of-anthropology",
+  "displayName": "Culture and Media (Sub-major of Anthropology)",
+  "requirementGroups": {
+    "Anthropological Archaeology": [
+      "ANTHRARC 282",
+      "ANTHRARC 386"
+    ],
+    "Biological Anthropology": [
+      "ANTHRBIO 201"
+    ],
+    "Linguistic Anthropology": [
+      "ANTHRCUL 272",
+      "ANTHRCUL 374"
+    ],
+    "Sociocultural Anthropology": [
+      "ANTHRCUL 222",
+      "ANTHRCUL 226",
+      "ANTHRCUL 230",
+      "ANTHRCUL 330"
+    ],
+    "Culture and Media Approved Courses": [
+      "ANTHRCUL 237",
+      "ANTHRCUL 249",
+      "STS 249",
+      "ANTHRCUL 272",
+      "LING 272",
+      "ANTHRCUL 274",
+      "ANTHRCUL 299",
+      "ANTHRCUL 338",
+      "ANTHRCUL 356",
+      "ANTHRCUL 359",
+      "ANTHRCUL 374",
+      "ANTHRCUL 458",
+      "AAS 498",
+      "ANTHRCUL 471",
+      "ANTHRCUL 476"
+    ]
+  },
+  "openGroups": {
+    "Culture and Media Approved Courses": {
+      "subjects": [
+        "ANTHRARC",
+        "ANTHRBIO",
+        "ANTHRCUL"
+      ],
+      "minLevel": 200
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "climate-and-meteorology",
+  "displayName": "Climate and Meteorology",
+  "groupRules": {
+    "Degree Requirements": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

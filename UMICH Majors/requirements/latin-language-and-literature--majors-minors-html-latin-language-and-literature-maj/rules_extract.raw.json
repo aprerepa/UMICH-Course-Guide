@@ -1,0 +1,21 @@
+{
+  "id": "latin-language-and-literature",
+  "displayName": "Latin Language and Literature",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "LATIN 231",
+          "LATIN 232",
+          "LATIN 233",
+          "LATIN 294"
+        ]
+      }
+    },
+    "Requirements": {
+      "minCourses": 8,
+      "minCredits": 24,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "mathematics",
+  "displayName": "Mathematics",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "MATH 205",
+              "MATH 215",
+              "MATH 285",
+              "MATH 295"
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 217",
+              "MATH 296"
+            ]
+          }
+        ]
+      }
+    },
+    "Basic Courses": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "MATH 286",
+              "MATH 316"
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 312",
+              "MATH 412",
+              "MATH 465",
+              "MATH 493"
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 351",
+              "MATH 354",
+              "MATH 450",
+              "MATH 451",
+              "MATH 454"
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 425",
+              "MATH 525"
+            ]
+          }
+        ]
+      }
+    },
+    "Advanced Courses": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true,
+      "completion": "manual"
+    }
+  }
+}

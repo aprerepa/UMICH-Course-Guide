@@ -1,0 +1,57 @@
+{
+  "id": "mathematics-of-finance-and-risk-management",
+  "displayName": "Mathematics of Finance and Risk Management (Sub-major of Mathematics)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              {
+                "allOf": [
+                  {
+                    "anyOf": [
+                      "MATH 205",
+                      "MATH 215",
+                      "MATH 285",
+                      "MATH 295"
+                    ]
+                  },
+                  {
+                    "anyOf": [
+                      "MATH 217",
+                      "MATH 296"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "ECON 101",
+          "ECON 102",
+          "EECS 183"
+        ]
+      }
+    },
+    "Basic Courses": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Special Courses": {
+      "minCourses": 4,
+      "require": {
+        "allOf": [
+          "MATH 423",
+          "MATH 474",
+          "MATH 472",
+          "MATH 526"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Related Courses": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "biomedical-engineering",
+  "displayName": "Biomedical Engineering",
+  "groupRules": {
+    "College of Engineering Core Requirements": {
+      "minCredits": 55,
+      "countsTowardMajorTotal": true
+    },
+    "Life & Materials Science Requirements": {
+      "minCredits": 8,
+      "countsTowardMajorTotal": true
+    },
+    "Biomedical Engineering Core Requirements": {
+      "minCredits": 35,
+      "countsTowardMajorTotal": true
+    },
+    "Engineering Expertise": {
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Cross-Disciplinary Requirements": {
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Profession in Practice": {
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

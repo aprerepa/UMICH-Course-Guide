@@ -4,14 +4,24 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/biology/undergraduates/majors---minors.html",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+1 course-list supplement: Courses)",
   "program_final_url": "https://lsa.umich.edu/biology/undergraduates/majors---minors.html",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/content/dam/biology-assets/MCDB-MAJOR.pdf",
   "requirements_link_text": "MCDB Program Guide",
-  "requirements_link_score": 300,
+  "requirements_link_score": 320,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://lsa.umich.edu/content/dam/biology-assets/MCDB-MAJOR.pdf",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T16:11:05.072158+00:00"
+  "fetched_at": "2026-08-10T16:26:52.669140+00:00",
+  "supplements_count": 1,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4071
+    }
+  ]
 }

@@ -1,0 +1,83 @@
+{
+  "id": "statistics--majors-minors-html-statistics-maj",
+  "displayName": "Statistics",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "MATH 205",
+              "MATH 215",
+              "MATH 285"
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 214",
+              "MATH 217"
+            ]
+          },
+          "EECS 183",
+          {
+            "anyOf": [
+              "DATASCI 101",
+              "STATS 206",
+              "STATS 250",
+              "STATS 280",
+              "STATS 412"
+            ]
+          }
+        ]
+      }
+    },
+    "Core applied statistics course": {
+      "require": "STATS 413",
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Core theoretical statistics courses": {
+      "require": {
+        "allOf": [
+          "STATS 425",
+          "STATS 426"
+        ]
+      },
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Core statistical computing course": {
+      "require": "STATS 306",
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Additional advanced statistics courses": {
+      "require": {
+        "minOf": 3,
+        "options": [
+          "STATS 315",
+          "STATS 406",
+          "STATS 415",
+          "STATS 430",
+          "STATS 449",
+          "STATS 451",
+          "STATS 470",
+          "STATS 480",
+          "MATH 526",
+          "STATS 526"
+        ]
+      },
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Capstone course": {
+      "require": "STATS 485",
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Elective courses in Statistics, Mathematics, or EECS": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

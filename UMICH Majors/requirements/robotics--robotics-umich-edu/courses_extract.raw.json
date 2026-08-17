@@ -1,0 +1,133 @@
+{
+  "id": "robotics",
+  "displayName": "Robotics",
+  "requirementGroups": {
+    "Introductory Engineering": [
+      "ENGR 100",
+      "ROB 102",
+      "ENGR 101",
+      "ENGR 151"
+    ],
+    "Linear Algebra": [
+      "ROB 101",
+      "MATH 214",
+      "MATH 217",
+      "MATH 417",
+      "MATH 419"
+    ],
+    "Calculus requirements": [
+      "MATH 115",
+      "MATH 120",
+      "MATH 116",
+      "MATH 121",
+      "MATH 215",
+      "MATH 216"
+    ],
+    "Physics": [
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 240",
+      "PHYSICS 241"
+    ],
+    "Chemistry": [
+      "CHEM 130",
+      "CHEM 125",
+      "CHEM 126"
+    ],
+    "Teamwork in Robotics": [
+      "ROB 204"
+    ],
+    "Robotics Core": [
+      "ROB 310",
+      "ROB 311",
+      "ROB 320",
+      "ROB 330",
+      "ROB 340"
+    ],
+    "Discipline Breadth": [
+      "EECS 280",
+      "IOE 265",
+      "EECS 301",
+      "BIOMEDE 241",
+      "EECS 215",
+      "EECS 270",
+      "BIOMEDE 211",
+      "MECHENG 240",
+      "BIOMEDE 231"
+    ],
+    "Discipline Depth": [
+      "AEROSP 201",
+      "AEROSP 205",
+      "AEROSP 288",
+      "EECS 216",
+      "EECS 281",
+      "EECS 351",
+      "EECS 370",
+      "EECS 373",
+      "IOE 333",
+      "IOE 434",
+      "MATSCIE 220",
+      "NAVARCH 270"
+    ],
+    "Major Design": [
+      "TCHNCLCM 350",
+      "ROB 450",
+      "EECS 467"
+    ],
+    "Flexible Technical Electives": [
+      "AEROSP 215",
+      "AEROSP 225",
+      "AEROSP 315",
+      "AEROSP 325",
+      "AEROSP 335",
+      "EECS 200",
+      "EECS 203",
+      "EECS 270",
+      "EECS 376",
+      "IOE 366",
+      "MATH 215",
+      "MATH 216",
+      "MATH 217",
+      "MECHENG 360",
+      "NAVARCH 340"
+    ]
+  },
+  "openGroups": {
+    "Upper Level Robotics Electives": {
+      "subjects": [
+        "ROB"
+      ],
+      "minLevel": 300,
+      "exclude": [
+        "ROB 490"
+      ]
+    },
+    "Flexible Technical Electives": [
+      {
+        "subjects": [
+          "AEROSP",
+          "BIOMEDE",
+          "CEE",
+          "CHE",
+          "CLCIVL",
+          "EECS",
+          "ENGR",
+          "IOE",
+          "MATSCIE",
+          "MECHENG",
+          "NAVARCH",
+          "NERS",
+          "ROB"
+        ],
+        "minLevel": 400
+      },
+      {
+        "subjects": [
+          "MATH",
+          "PHYSICS"
+        ],
+        "minLevel": 400
+      }
+    ]
+  }
+}

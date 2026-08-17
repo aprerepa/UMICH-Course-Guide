@@ -1,0 +1,30 @@
+{
+  "id": "biophysics",
+  "displayName": "Biophysics",
+  "groupRules": {
+    "Biological Physics Track Core": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Biological Physics Track Electives": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Structural Biology Track Core": {
+      "minCourses": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Structural Biology Track Electives": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Outside Core": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Research": {
+      "minCredits": 2,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

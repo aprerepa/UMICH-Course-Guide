@@ -4,15 +4,36 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#culture_and_media-sub",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (Culture and Media (Sub-Major), Fall 2023+) (+2 course-list supplements: Culture and Media approved courses, Anthropology Department website)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#culture_and_media-sub",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/culture-and-media-sub-major.html",
   "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
-  "requirements_link_strategy": "lsa_listing:lsa_detail",
+  "requirements_link_score": 65,
+  "requirements_link_strategy": "lsa_listing:lsa_detail+lsa_historical_latest_term",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/culture-and-media-sub-major.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:36:18.551543+00:00",
-  "lsa_resolved_row_id": "culture_and_media-sub"
+  "fetched_at": "2026-08-10T17:21:48.238235+00:00",
+  "lsa_resolved_row_id": "culture_and_media-sub",
+  "lsa_requirements_title": "Culture and Media (Sub-Major)",
+  "lsa_requirements_term": "Fall 2023",
+  "math_requirements_title": "Culture and Media (Sub-Major)",
+  "math_requirements_term": "Fall 2023",
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-culture-and-media-approved-courses",
+      "url": "https://lsa.umich.edu/anthro/undergraduates/anthropology-major/culture-and-media-sub-major.html",
+      "link_text": "Culture and Media approved courses",
+      "status": "fetched",
+      "chars": 6414
+    },
+    {
+      "id": "02-anthropology-department-website",
+      "url": "https://lsa.umich.edu/anthro/undergraduates/anthropology-major.html",
+      "link_text": "Anthropology Department website",
+      "status": "fetched",
+      "chars": 4448
+    }
+  ]
 }

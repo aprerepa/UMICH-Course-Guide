@@ -1,0 +1,24 @@
+[
+  {
+    "id": "01-view-the-master-s-audit-sheet",
+    "url": "https://drive.google.com/file/d/1u_rrxXTWcmUU-WsOfw-rceoFtDJ4pZsc/",
+    "link_text": "View the Master\u2019s audit sheet",
+    "score": 110,
+    "status": "fetched",
+    "message": "ok (3145 chars)",
+    "final_url": "https://drive.google.com/file/d/1u_rrxXTWcmUU-WsOfw-rceoFtDJ4pZsc/edit",
+    "fetch_mode": "browser",
+    "chars": 3145
+  },
+  {
+    "id": "02-ioe-courses-course-codes",
+    "url": "https://bulletin.engin.umich.edu/courses/ioe/#post-211",
+    "link_text": "IOE Courses & course codes",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/ioe/#post-211",
+    "fetch_mode": "http",
+    "chars": 40024
+  }
+]

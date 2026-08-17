@@ -1,0 +1,11 @@
+{
+  "id": "sociology-of-health-and-medicine-sub-major-of-sociology",
+  "displayName": "Sociology of Health and Medicine (Sub-major of Sociology)",
+  "groupRules": {
+    "Requirements": {
+      "minCredits": 12,
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

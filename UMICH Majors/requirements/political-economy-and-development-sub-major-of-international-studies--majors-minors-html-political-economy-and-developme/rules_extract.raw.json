@@ -1,0 +1,55 @@
+{
+  "id": "political-economy-and-development-sub-major-of-international-studies",
+  "displayName": "Political Economy and Development (Sub-major of International Studies)",
+  "groupRules": {
+    "Program Core": {
+      "minCourses": 2,
+      "minCredits": 7,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "INTLSTD 301",
+              "INTLSTD 300",
+              "INTLSTD 341"
+            ]
+          },
+          "INTLSTD 401"
+        ]
+      }
+    },
+    "Research Design Course": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true,
+      "require": "INTLSTD 390"
+    },
+    "Regional Course": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true,
+      "completion": "manual"
+    },
+    "PED Courses": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true,
+      "completion": "manual"
+    },
+    "Three electives": {
+      "minCourses": 3,
+      "minCredits": 9,
+      "countsTowardMajorTotal": true,
+      "completion": "manual"
+    },
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          "INTLSTD 101",
+          "ECON 101"
+        ]
+      }
+    }
+  }
+}

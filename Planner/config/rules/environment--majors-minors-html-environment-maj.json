@@ -1,0 +1,79 @@
+{
+  "id": "environment--majors-minors-html-environment-maj",
+  "displayName": "Environment",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "ANTHRARC 180",
+              "ANTHRBIO 167",
+              "BIOLOGY 109",
+              "EARTH 144",
+              "EARTH 158",
+              "EARTH 201",
+              "EARTH 219",
+              "ENVIRON 101",
+              "ENVIRON 110",
+              "ENVIRON 111",
+              "ENVIRON 139",
+              "ENVIRON 201",
+              "ENVIRON 209",
+              "ENVIRON 229",
+              "ENVIRON 270",
+              "CEE 230",
+              "CEE 265"
+            ]
+          },
+          {
+            "anyOf": [
+              "BIOLOGY 171",
+              "BIOLOGY 195"
+            ]
+          },
+          {
+            "anyOf": [
+              "EARTH 116",
+              "EARTH 118",
+              "EARTH 119",
+              "EARTH 120",
+              "EARTH 202",
+              "EARTH 296"
+            ]
+          },
+          {
+            "anyOf": [
+              "ECON 101",
+              "ENVIRON 207",
+              "ENVIRON 208",
+              "ENVIRON 211",
+              "ENVIRON 222",
+              "ENVIRON 235",
+              "ENVIRON 236",
+              "ENVIRON 237",
+              "ENVIRON 290",
+              "HISTORY 232"
+            ]
+          }
+        ]
+      }
+    },
+    "General Ecology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Analytics": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Culture and Environment": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Social Science": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

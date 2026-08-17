@@ -1,0 +1,32 @@
+{
+  "id": "polish--majors-minors-html-polish-maj",
+  "displayName": "Polish",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          "POLISH 121",
+          "POLISH 122",
+          "POLISH 221",
+          "POLISH 222"
+        ]
+      }
+    },
+    "Polish Language": {
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Polish Literature": {
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Polish Culture": {
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

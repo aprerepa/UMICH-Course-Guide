@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-rcstp-490-stp-capstone-class",
+    "url": "https://atlas.ai.umich.edu/courses/RCSTP490/2560/",
+    "link_text": "RCSTP 490: STP Capstone Class",
+    "score": 120,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "02-course-list",
+    "url": "https://docs.google.com/rc",
+    "link_text": "course list",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://docs.google.com/rc",
+    "fetch_mode": "browser",
+    "chars": 89
+  },
+  {
+    "id": "03-amcult-300",
+    "url": "https://atlas.ai.umich.edu/courses/AMCULT300/2560/",
+    "link_text": "AmCult 300",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "04-anthrcul-359",
+    "url": "https://atlas.ai.umich.edu/courses/ANTHRCUL359/2560/",
+    "link_text": "AnthrCul 359",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "05-qmss-201",
+    "url": "https://atlas.ai.umich.edu/courses/QMSS201/2560/",
+    "link_text": "QMSS 201",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "06-rcstp-101",
+    "url": "https://atlas.ai.umich.edu/courses/RCSTP101/2560/",
+    "link_text": "RCSTP 101",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "07-rcstp-260",
+    "url": "https://atlas.ai.umich.edu/courses/RCSTP260/2520/",
+    "link_text": "RCSTP 260",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "08-rcstp",
+    "url": "https://atlas.ai.umich.edu/courses/RCSTP290/2520/",
+    "link_text": "RCSTP",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  }
+]

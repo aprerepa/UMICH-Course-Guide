@@ -1,0 +1,26 @@
+{
+  "id": "anthropology--majors-minors-html-anthropology-maj",
+  "displayName": "Anthropology",
+  "groupRules": {
+    "Anthropological Archaeology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Biological Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Linguistic Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Sociocultural Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -4,14 +4,73 @@
   "school_college": "Stamps School of Art & Design",
   "program_url": "https://stamps.umich.edu/undergraduate-programs",
   "status": "fetched",
-  "message": "degree program page saved (no nested requirements link)",
+  "message": "requirements page ready for LLM (+7 course-list supplements: Drawing: Observation, Drawing: Observation, Drawing: Observation)",
   "program_final_url": "https://stamps.umich.edu/undergraduate-programs",
-  "program_fetch_mode": "browser",
-  "requirements_url": "https://stamps.umich.edu/undergraduate-programs/bfa",
-  "requirements_link_text": "BFA",
-  "requirements_link_score": 95,
-  "requirements_link_strategy": "hub_program_page",
-  "requirements_final_url": "https://stamps.umich.edu/undergraduate-programs/bfa",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:31:16.707188+00:00"
+  "program_fetch_mode": "http",
+  "requirements_url": "https://stamps.umich.edu/courses/",
+  "requirements_link_text": "BFA \u2192 our course guide",
+  "requirements_link_score": 145,
+  "requirements_link_strategy": "hub:BFA\u2192page",
+  "requirements_final_url": "https://stamps.umich.edu/courses/",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T15:55:27.391353+00:00",
+  "supplements_count": 7,
+  "supplements": [
+    {
+      "id": "01-stamps-minor-backward-planning-tool-gid1717461640",
+      "url": "https://docs.google.com/spreadsheets/d/1ewzE7o8SACozxUZNjzknvTg8bq9-I79MkduWz6C7P0M/edit?gid=1717461640#gid=1717461640",
+      "link_text": "Stamps Minor Backward Planning tool",
+      "status": "failed",
+      "chars": 0
+    },
+    {
+      "id": "02-drawing-observation",
+      "url": "https://stamps.umich.edu/courses/9245",
+      "link_text": "Drawing: Observation",
+      "status": "fetched",
+      "chars": 896
+    },
+    {
+      "id": "03-drawing-observation",
+      "url": "https://stamps.umich.edu/courses/9246",
+      "link_text": "Drawing: Observation",
+      "status": "fetched",
+      "chars": 896
+    },
+    {
+      "id": "04-drawing-observation",
+      "url": "https://stamps.umich.edu/courses/9247",
+      "link_text": "Drawing: Observation",
+      "status": "fetched",
+      "chars": 896
+    },
+    {
+      "id": "05-drawing-observation",
+      "url": "https://stamps.umich.edu/courses/9248",
+      "link_text": "Drawing: Observation",
+      "status": "fetched",
+      "chars": 896
+    },
+    {
+      "id": "06-drawing-observation",
+      "url": "https://stamps.umich.edu/courses/9249",
+      "link_text": "Drawing: Observation",
+      "status": "fetched",
+      "chars": 896
+    },
+    {
+      "id": "07-drawing-observation",
+      "url": "https://stamps.umich.edu/courses/9250",
+      "link_text": "Drawing: Observation",
+      "status": "fetched",
+      "chars": 896
+    },
+    {
+      "id": "08-drawing-observation",
+      "url": "https://stamps.umich.edu/courses/9251",
+      "link_text": "Drawing: Observation",
+      "status": "fetched",
+      "chars": 896
+    }
+  ]
 }

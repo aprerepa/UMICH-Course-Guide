@@ -4,14 +4,52 @@
   "school_college": "College of Engineering",
   "program_url": "https://business-engineering.umich.edu",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+5 course-list supplements: Multi-Program Application Checklist, Schedule, Ann Arbor)",
   "program_final_url": "https://business-engineering.umich.edu",
   "program_fetch_mode": "http",
-  "requirements_url": "https://michiganross.umich.edu/undergraduate/bba/curriculum",
-  "requirements_link_text": "Bachelor of Business Administration",
-  "requirements_link_score": 150,
-  "requirements_link_strategy": "page",
-  "requirements_final_url": "https://michiganross.umich.edu/undergraduate/bba/curriculum",
+  "requirements_url": "https://michiganross.umich.edu/undergraduate/bba/curriculum/curriculum-by-year",
+  "requirements_link_text": "Bachelor of Business Administration \u2192 Curriculum by Year",
+  "requirements_link_score": 280,
+  "requirements_link_strategy": "page\u2192nested",
+  "requirements_final_url": "https://michiganross.umich.edu/undergraduate/bba/curriculum/curriculum-by-year",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:41:03.557009+00:00"
+  "fetched_at": "2026-08-10T16:15:19.959014+00:00",
+  "supplements_count": 5,
+  "supplements": [
+    {
+      "id": "01-multi-program-application-checklist",
+      "url": "https://michiganross.umich.edu/graduate/oym/multi-program-application-checklist",
+      "link_text": "Multi-Program Application Checklist",
+      "status": "fetched",
+      "chars": 18049
+    },
+    {
+      "id": "02-schedule",
+      "url": "https://michiganross.umich.edu/graduate/executive-mba/curriculum/schedule",
+      "link_text": "Schedule",
+      "status": "fetched",
+      "chars": 5614
+    },
+    {
+      "id": "03-ann-arbor",
+      "url": "https://michiganross.umich.edu/graduate/executive-mba/curriculum/schedule/ann-arbor",
+      "link_text": "Ann Arbor",
+      "status": "fetched",
+      "chars": 2829
+    },
+    {
+      "id": "04-los-angeles",
+      "url": "https://michiganross.umich.edu/graduate/executive-mba/curriculum/schedule/los-angeles",
+      "link_text": "Los Angeles",
+      "status": "fetched",
+      "chars": 2876
+    },
+    {
+      "id": "05-sample-course-schedule",
+      "url": "https://michiganross.umich.edu/graduate/online-mba/curriculum/sample-schedule",
+      "link_text": "Sample Course Schedule",
+      "status": "fetched",
+      "chars": 23850
+    }
+  ]
 }

@@ -4,15 +4,60 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#physics-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+6 course-list supplements: Physics Major Checklist Document - Pre-FA26, Physics Major Checklist Document - FA26 and Beyond, Physics Minor Checklist Document)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#physics-maj",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/physics-major.html",
   "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
+  "requirements_link_score": 65,
   "requirements_link_strategy": "lsa_listing:lsa_detail",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/physics-major.html",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T15:47:01.507477+00:00",
-  "lsa_resolved_row_id": "physics-maj"
+  "fetched_at": "2026-08-10T16:30:47.559035+00:00",
+  "lsa_resolved_row_id": "physics-maj",
+  "supplements_count": 6,
+  "supplements": [
+    {
+      "id": "01-physics-major-checklist-document-pre-fa26",
+      "url": "https://docs.google.com/document/d/1M98W1jIklPxD4s_8IYFr4qNs13BH9C9ORXQAs78RWhc/edit?usp=sharing",
+      "link_text": "Physics Major Checklist Document - Pre-FA26",
+      "status": "fetched",
+      "chars": 3795
+    },
+    {
+      "id": "02-physics-major-checklist-document-fa26-and-beyond",
+      "url": "https://docs.google.com/document/d/1Ok7AxNbnEm5JTMaGarsp9zy3DsM-Fc5FUgQkEFwF7Xo/edit?usp=sharing",
+      "link_text": "Physics Major Checklist Document - FA26 and Beyond",
+      "status": "fetched",
+      "chars": 2790
+    },
+    {
+      "id": "03-physics-minor-checklist-document",
+      "url": "https://docs.google.com/document/d/1iXg9o8HA0QEeAYR5fAJZmHGEAFOHF6UyY9oAkjM_X_0/edit?usp=sharing",
+      "link_text": "Physics Minor Checklist Document",
+      "status": "fetched",
+      "chars": 1029
+    },
+    {
+      "id": "04-interdisciplinary-physics-checklist-document",
+      "url": "https://docs.google.com/document/d/1p4XiaWTOG6IbLJpLG3brhRf53BQ_a-tfS3KJvbZs0xI/edit?usp=sharing",
+      "link_text": "Interdisciplinary Physics Checklist Document",
+      "status": "fetched",
+      "chars": 2600
+    },
+    {
+      "id": "05-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    },
+    {
+      "id": "06-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3662
+    }
+  ]
 }

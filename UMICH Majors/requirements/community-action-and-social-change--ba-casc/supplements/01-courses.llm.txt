@@ -1,0 +1,10 @@
+Page header:
+page title: CASC Course Catalog | University of Michigan School of Social Work
+
+Visible page text:
+CASC Elective Offerings Past and Current
+CASC Course List Fall 2026
+CASC Course List Winter 2026
+CASC Course List Winter 2025
+CASC Course List Spring 2025
+CASC Course List Fall 2025

@@ -1,0 +1,16 @@
+{
+  "id": "global-environment-and-health-international-studies",
+  "displayName": "Global Environment and Health (Sub-major of International Studies)",
+  "requirementGroups": {
+    "Program Core": [
+      "INTLSTD 301",
+      "INTLSTD 300",
+      "INTLSTD 341",
+      "INTLSTD 401"
+    ],
+    "Research Design Course": [
+      "INTLSTD 390"
+    ]
+  },
+  "openGroups": {}
+}

@@ -1,0 +1,10 @@
+{
+  "id": "public-policy--ba",
+  "displayName": "Public Policy",
+  "requirementGroups": {
+    "Prerequisites": [
+      "ECON 101",
+      "ECON 102"
+    ]
+  }
+}

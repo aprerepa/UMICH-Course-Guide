@@ -34,14 +34,6 @@ Salary and job placement information
 (pdf)
 Source:  Michigan Engineering Career Resource Center
 Meet Our Students
-Engineering Physics students launch new society to build community and connection
-Founded in Fall 2025, the Society of Engineering Physics Students brings community, professional development, and…
-Desirae Krzeczkowski receives Roy G. Post Scholarship for nuclear waste siting research
-The U-M undergraduate has researched collaborative siting of spent nuclear fuel and has a double…
-Q&A with David Rizkalla
-The Engineering Physics student shares his journey from studying pure physics to leading the Vehicle…
-Isaac Sarbacker honored by Michigan Engineering
-The Engineering Physics student was given a Leaders & Honors Award for his outstanding achievements…
 NERS and EP undergrads receive University of Michigan Engineering Leaders & Honors Awards
 Corey Gui, Kyle Keipper, and Jeanie Qi were recognized for demonstrated excellence in their academic…
 Engineering Physics students launch new society to build community and connection
@@ -52,14 +44,6 @@ Q&A with David Rizkalla
 The Engineering Physics student shares his journey from studying pure physics to leading the Vehicle…
 Isaac Sarbacker honored by Michigan Engineering
 The Engineering Physics student was given a Leaders & Honors Award for his outstanding achievements…
-NERS and EP undergrads receive University of Michigan Engineering Leaders & Honors Awards
-Corey Gui, Kyle Keipper, and Jeanie Qi were recognized for demonstrated excellence in their academic…
-Engineering Physics students launch new society to build community and connection
-Founded in Fall 2025, the Society of Engineering Physics Students brings community, professional development, and…
-Desirae Krzeczkowski receives Roy G. Post Scholarship for nuclear waste siting research
-The U-M undergraduate has researched collaborative siting of spent nuclear fuel and has a double…
-Q&A with David Rizkalla
-The Engineering Physics student shares his journey from studying pure physics to leading the Vehicle…
 Academic Concentrations
 The cross-disciplinary nature of this Major allows students to select a concentration from any department.
 Aerospace Engineering
@@ -176,11 +160,11 @@ Contact an advisor
 Current students
 Michelle Sonderman
 Student Administration Manager
-mlwhit@umich.edu
+[email protected]
 Prospective students
 Khan Nguyen
 Recruiting & Outreach Coordinator
-khanngu@umich.edu
+[email protected]
 Outside the classroom
 Learn By Doing
 Biophysics Club

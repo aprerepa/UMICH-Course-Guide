@@ -1,0 +1,75 @@
+{
+  "id": "statistics--majors-minors-html-statistics-maj",
+  "displayName": "Statistics",
+  "requirementGroups": {
+    "Prerequisites": [
+      "MATH 205",
+      "MATH 215",
+      "MATH 285",
+      "MATH 214",
+      "MATH 217",
+      "EECS 183",
+      "DATASCI 101",
+      "STATS 206",
+      "STATS 250",
+      "STATS 280",
+      "STATS 412"
+    ],
+    "Core applied statistics course": [
+      "STATS 413"
+    ],
+    "Core theoretical statistics courses": [
+      "STATS 425",
+      "STATS 426"
+    ],
+    "Core statistical computing course": [
+      "STATS 306"
+    ],
+    "Additional advanced statistics courses": [
+      "STATS 315",
+      "STATS 406",
+      "STATS 415",
+      "STATS 430",
+      "STATS 449",
+      "STATS 451",
+      "STATS 470",
+      "STATS 480",
+      "STATS 526",
+      "MATH 526"
+    ],
+    "Capstone course": [
+      "STATS 485"
+    ],
+    "Elective courses in Statistics, Mathematics, or EECS": [
+      "STATS 404"
+    ]
+  },
+  "openGroups": {
+    "Elective courses in Statistics, Mathematics, or EECS": [
+      {
+        "subjects": [
+          "STATS"
+        ],
+        "minLevel": 500,
+        "exclude": []
+      },
+      {
+        "subjects": [
+          "MATH"
+        ],
+        "minLevel": 400,
+        "exclude": [
+          "MATH 417",
+          "MATH 419"
+        ]
+      },
+      {
+        "subjects": [
+          "EECS"
+        ],
+        "minLevel": 300,
+        "exclude": []
+      }
+    ]
+  }
+}

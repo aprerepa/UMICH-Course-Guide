@@ -1,0 +1,185 @@
+Credit
+Hours Term 1 Term 2 Term 3 Term 4 Term 5 Term 6 Term 7 Term 8
+16 4 4 4 4 - - - - 
+4 4 - - - - - - - 
+4 - 4 - - - - - - 
+5 5 - - - - - - - 
+5 - 5 - - - - - - 
+5 - - 5 - - - - - 
+16 4 4 - - 4 4 - - 
+4 - - - - - 4 - - 
+3 - - - - 3 - - - 
+1 - - - 1 - - - - 
+4 - - 4 - - - - - 
+3 - - 3 - - - - - 
+3 - - - 3 - - - - 
+4 - - - 4 - - - - 
+4 - - - - 4 - - - 
+3 - - - - - 3 - - 
+4 - - - - - - 4 - 
+3 - - - - - - 3 -
+3 - - - 3 - - - - 
+3 - - - - - - 3 -
+3 - - - - - - - 3
+3 - - - - - - 3 - 
+4 - - - - - - - 4
+12 - - - - 6 3 3
+128 17 17 16 15 17 17 16 13
+Subjects Required by all Programs (55 hours)
+MATH 115, 116, 215, 216 (Calculus I & II, Multivariable Calculus, Differential 
+Equations)
+ENGR 100, Introduction to Engineering
+Revised: 8/6/26
+Mathematical Methods (7 hours) +
+CEE 303, Computational Methods for Engineers and Scientists
+CEE 373, Statistical Methods for Data Analysis and Uncertainty Modeling
+Technical Core Subjects (29 hours)³ +
+ENGR 101, Intro to Computers and Programming
+CHEM 130 General Chemistry with Labs CHEM 125/126, or CHEM 210 with 
+Lab CHEM 211 1
+PHYSICS 140 General Physics I with Laboratory PHYSICS 141²
+PHYSICS 240 General Physics II with Laboratory PHYSICS 241²
+Intellectual Breadth (must include either ECON 101 or ECON 102)   
+Suggested upper-level humanities courses:  
+URP 357, PHIL 376, ENGLISH 320
+Suggested upper-level social science courses:  
+AAS 322, ECON 370, ENVIRON 321, PSYCH 362
+Suggested professional and creative development courses:  
+EAS 475, EAS 480, URP 423, URP 520
+CEE 200, Introduction to Civil and Environmental Engineering
+CEE 211, Statics and Dynamics
+CEE 230, Thermodynamics and the Environment
+CEE 265, Sustainable Engineering Principles
+CEE 325, Fluid Mechanics
+CEE 365, Environmental Engineering Principles
+CEE 366, Environmental Engineering Laboratory
+CEE 421, Hydrology and Floodplain Hydraulics
+CEE 465, Environmental Process Engineering
+Environmental Sciences (12 hours) +
+Total
+Candidates for the Bachelor of Science degree in Engineering (Environmental Engineering) - B.S.E. (Env.E.) - must complete the program listed
+above. This sample schedule is an example of one path to the graduation in eight terms. 
+Notes: Courses offered only in the 
+fall term are purple. Courses offered only in the winter term are green.
+(+) Environmental engineering students must earn a C- or better in all courses whose categories are marked with a plus.
+¹- If you have a satisfactory score or grade in Chemistry AP, A-Level, IB Exams, or transfer credit from another institution for CHEM 125/126/130, 
+you will have met the chemistry core requirement for the College of Engineering
+²- If you have a satisfactory score or grade in Physics AP, A-Level, IB Exams, or transfer credit from another institution for PHYSICS 140/141 
+and/or PHYSICS 240/241, you will have met the physics core requirement for the College of Engineering.
+³- CEE may accept equivalent courses offered by other departments in the College of Engineering, with permission of the program advisor.
+4- CEE 402 must be taken in the last Winter term before graduation.
+Environmental Engineering Sample Schedule
+Students Enrolled WN '27 & After
+CEE 428, CEE 526, CEE 527, CEE 563, CEE 564, CEE 568
+(2) Choose one of the following courses, or another design course
+from category (1):
+CEE 521, CEE 522, CEE 567, CEE 590, CEE 591
+(3) Choose one of the following courses, or a third course from category (1) 
+or (2):
+CEE 471, CEE 504, CEE 588
+Any other 500 level CEE course (requires both program advisor and  instructor 
+approval)
+CEE 402, Professional Issues and Design4
+Technical Electives (9 hours) +
+(1) Choose one of the following design course:
+Chemistry Elective:  choose one of CEE 597, CHEM 210, CHEM 215, CHEM 
+230, CHEM 260, CHEM 302, CHEM 303, EARTH 325, CLIMATE 479, BIOLCHEM 
+415, or BIOMEDE 221
+Earth Science Elective:  choose one of EARTH 305, EARTH 315, EARTH 320, 
+EARTH 321, EARTH 323, EARTH 409, EARTH 442, EARTH 451, EARTH 477, or 
+CLIMATE 463
+CEE 481/581, Aquatic Chemistry
+CEE 482/582, Environmental Microbiology
+Environmental Engineering Design (4 hours) +
+3
+3
+3 3
+General Electives (12 hours)
+Suggested geographic information system courses:  ENVIRON 309, ENVIRON 
+411, EARTH 408
+3
+3
+Environmental Engineering BSE
+Subject Prerequisite(s) Must Be Taken Before Term(s) Of fered
+College Requirements
+MATH 115 MATH 116, PHYSICS 140 Fall, Winter, Spring, Summer
+MATH 116 MATH 115 MATH 215, 216; PHYSICS 240; CEE 230 , CEE 265 Fall, Winter, Spring, Summer
+MATH 215 MATH 116 CEE 373, CEE 471 Fall, Winter, Sprin g, Summer
+MATH 216 MATH 116 CEE 303, CEE 373 Fall, Winter, Sprin g, Summer
+ENGR 100 Fall, Winter
+ENGR 101 Prior or concurrent enrollment in MATH 115 C EE 303 Fall, Winter
+CHEM 125/126 CEE 481/581, CLIMATE 479 Fall, Winter, Spring
+CHEM 130
+CEE 230, CEE 265, CEE 481/581, CEE 597, CHEM 210, 
+CHEM 230 Fall, Winter, Spring
+PHYSICS 140/141 MATH 115 CEE 211, PHYSICS 240 Fall, Wi nter, Spring
+PHYSICS 240/241 PHYSICS 140, MATH 116 Fall, Winter, Spring
+Intellectual Breadth
+ECON 101 or ECON 102 CEE 504 Fall, Winter
+Mathematical Methods
+CEE 303 ENGR 101, MATH 215, MATH 216 CEE 421 Winter
+CEE 373 MATH 215, MATH 216 (C or better) CEE 366, CEE  504, CEE 573 Fall
+Technical Core Subjects
+CEE 200 Fall, Winter
+CEE 211 PHYSICS 140 CEE 325 Fall, Winter
+CEE 230 MATH 116, CHEM 130 & 125/126 or CHEM 210 & 2 11 CEE 564, CEE 567 Fall
+CEE 265 MATH 116, CHEM 130 CEE 365 Fall, Winter
+CEE 325 CEE 211
+CEE 421, CEE 428, CEE 465, CEE 521, CEE 522, CEE 
+526, CEE 563 Fall, Winter
+CEE 365 CEE 265 CEE 465 Fall
+CEE 366 CEE 365, CEE 373 CEE 428 Winter
+CEE 421 CEE 303, CEE 325 CEE 521 Fall
+CEE 465 CEE 325, CEE 365 CEE 568, CEE 580, CEE 592 Fal l
+Chemistry Elective
+CEE 597 CHEM 130 Fall
+CHEM 210 CHEM 130, or placement by examination
+CHEM 215, CHEM 260, CHEM 302, CHEM 303, 
+BIOLCHEM 415 Fall, Winter, Spring, Summer
+CHEM 215 CHEM 210 (C or better) Fall, Winter
+CHEM 230 CHEM 130 or CHEM 210 Fall, Winter
+CHEM 260 CHEM 210/211, MATH 115, PHYSICS 140 Fall, Wi nter
+CHEM 302 CHEM 210/211 or CHEM 215/216 Fall, Winter
+CHEM 303 CHEM 210/211 or CHEM 215/216 Fall, Winter
+EARTH 325 CHEM 130 Winter
+CLIMATE 479 CHEM 126, MATH 216 Winter
+BIOLCHEM 415 CHEM 210 Winter
+BIOMEDE 221 CHEM 130 or CHEM 210 and MATH 116 Fall
+Earth Science Elective
+EARTH 305 Introductory geology lab Fall
+EARTH 315 EARTH 131 or CHEM 130 or CHEM 210 or CHEM 230 Fall
+EARTH 320 MATH 115, MATH 116 Fall
+EARTH 321 MATH 215, MATH 216, EARTH 320 Winter
+EARTH 323 Winter
+EARTH 409 EARTH 320, EARTH 321 Fall
+EARTH 442 MATH 115, and EARTH 131 or CHEM 130 Fall
+EARTH 451 Permission of Instructor Winter
+EARTH 477 MATH 116 Fall
+CLIMATE 463 MATH 215 Winter
+Environmental Sciences
+CEE 481/581 CHEM 130 or CHEM 210 or senior standing Winter
+CEE 482/582 CHEM 130 Fall
+Environmental Engineering Design
+CEE 402 Senior Standing Winter
+Design Technical Electives
+CEE 428 CEE 325, and CEE 345 or CEE 366 Fall
+CEE 526 CEE 325 Winter
+CEE 527 CEE 325 Fall
+CEE 563 CEE 230, CEE 325 Winter
+CEE 564 CEE 230 Fall
+CEE 568 CEE 465 Winter
+Category 2 Technical Electives
+CEE 521 CEE 421 Winter
+CEE 522 CEE 325 or equivalent (C or better) Fall
+CEE 567 CEE 230 Fall
+CEE 590 CEE 325 Winter
+CEE 591 CEE 325 Fall
+Category 3 Technical Electives
+CEE 471 CEE 373 or equivalent Winter
+CEE 504 ECON 101, CEE 373 Fall
+CEE 520 CEE 421 Winter
+CEE 573 CEE 373 or equivalent Winter
+CEE 580 CEE 465 Winter
+CEE 588 Senior Standing Fall
+CEE 592 CEE 465 Winter
+Unless otherwise noted, a grade of C- is required for prerequisites.

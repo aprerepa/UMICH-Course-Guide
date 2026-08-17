@@ -1,0 +1,46 @@
+[
+  {
+    "id": "01-editable-sample-schedule",
+    "url": "https://docs.google.com/spreadsheets/d/1TfjD0YQNzrqhz8FfhOdgKvJvIk80QwThUJpMif3ul0U/edit?usp=sharing",
+    "link_text": "Editable sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (7363 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1TfjD0YQNzrqhz8FfhOdgKvJvIk80QwThUJpMif3ul0U/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 7363
+  },
+  {
+    "id": "02-required-courses",
+    "url": "https://bulletin.engin.umich.edu/courses/clasp/",
+    "link_text": "Required courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/clasp/",
+    "fetch_mode": "http",
+    "chars": 40024
+  },
+  {
+    "id": "03-ners-course-guide",
+    "url": "https://bulletin.engin.umich.edu/courses/ners/",
+    "link_text": "NERS Course Guide",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (37454 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/ners/",
+    "fetch_mode": "http",
+    "chars": 37454
+  },
+  {
+    "id": "04-additional-readings",
+    "url": "https://docs.google.com/spreadsheets/d/1G36B1ONyOHZRUgnCrUJrRYlh-mkascnn0EyCXoP48Nw/edit?usp=sharing",
+    "link_text": "Additional Readings",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (2556 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1G36B1ONyOHZRUgnCrUJrRYlh-mkascnn0EyCXoP48Nw/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 2556
+  }
+]

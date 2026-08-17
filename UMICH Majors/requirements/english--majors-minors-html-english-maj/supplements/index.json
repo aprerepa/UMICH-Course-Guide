@@ -1,0 +1,57 @@
+[
+  {
+    "id": "01-english-major-checklist",
+    "url": "https://docs.google.com/document/d/1ic5MmA2B1FdC64v-w9WRMY_bkyeyEaWgfQ_WfXxzeQs/edit?usp=sharing",
+    "link_text": "English Major Checklist",
+    "score": 130,
+    "status": "failed",
+    "message": "Client error '401 Unauthorized' for url 'https://docs.google.com/document/d/1ic5MmA2B1FdC64v-w9WRMY_bkyeyEaWgfQ_WfXxzeQs/export?format=txt'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401",
+    "final_url": null,
+    "fetch_mode": null,
+    "chars": 0
+  },
+  {
+    "id": "02-capstone-programs",
+    "url": "http://www.lsa.umich.edu/english/undergraduate/capstone-programs.html",
+    "link_text": "Capstone Programs",
+    "score": 120,
+    "status": "fetched",
+    "message": "ok (4093 chars)",
+    "final_url": "https://lsa.umich.edu/english/undergraduate/capstone-programs.html",
+    "fetch_mode": "browser",
+    "chars": 4093
+  },
+  {
+    "id": "03-capstone-programs",
+    "url": "https://lsa.umich.edu/english/undergraduate/capstone-programs.html",
+    "link_text": "Capstone Programs",
+    "score": 120,
+    "status": "fetched",
+    "message": "ok (4237 chars)",
+    "final_url": "https://lsa.umich.edu/english/undergraduate/capstone-programs.html",
+    "fetch_mode": "http",
+    "chars": 4237
+  },
+  {
+    "id": "04-courses",
+    "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (4071 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "fetch_mode": "browser",
+    "chars": 4071
+  },
+  {
+    "id": "05-browse-copies-of-past-lsa-bulletins",
+    "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "link_text": "Browse copies of past LSA bulletins",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (3806 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "fetch_mode": "http",
+    "chars": 3806
+  }
+]

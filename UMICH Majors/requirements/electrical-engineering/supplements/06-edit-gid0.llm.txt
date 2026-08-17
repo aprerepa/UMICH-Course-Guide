@@ -1,0 +1,60 @@
+Page header:
+page title: Google Sheet export
+
+Visible page text:
+Electrical Engineering Sample Schedule							
+To edit this EE schedule, you can make a copy of this sheet to your own Google Drive (click File > Make a copy) 							
+							
+							
+Pre-UM Credit (if applicable)	Course	Credits	Course	Credits	Course	Credits	Pre-UM Credit (if applicable)
+							
+							
+							
+							
+	Total	0	Total	0	Total	0	
+							
+	Cumulative Totals:	0		0		0	
+							
+First Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	First Year
+	MATH 115 	4	MATH 116	4			
+	CHEM 130/125/126 or 210/211	5	PHYSICS 140/141	5			
+	ENGR 100	4	ENGR 101	4			
+	Intellectual Breadth	4	Intellectual Breadth	4			
+							
+							
+	Term Totals:	17		17		0	
+							
+	Cumulative Totals:	17		34		34	
+							
+Second Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Second Year
+	MATH 215	4	MATH 216	4			
+	PHYSICS 240/241	5	EECS 230	4			
+	EECS 280	4	EECS 216	4			
+	EECS 215	4	EECS 200	2			
+			General Elective	3			
+							
+	Term Totals:	17		17		0	
+							
+	Cumulative Totals:	51		68		68	
+							
+Third Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Third Year
+	Intellectual Breadth	4	EECS 300	3			
+	EECS 301	4	Upper Level EE Technical Electives (from at least 2 categories and at least 7 credits @ 400-level)	8			
+	Flexible Technical Electives	3	Intellectual Breadth	4			
+	Upper Level EE Technical Electives (from at least 2 categories and at least 7 credits @ 400-level)	4					
+	TCHNCLCM 300	1					
+							
+	Term Totals:	16		15		0	
+							
+	Cumulative Totals:	84		99		99	
+							
+Fourth Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Fourth Year
+	Flexible Technical Electives	3	TCHNCLCM 496	2			
+	Upper Level EE Technical Electives (from at least 2 categories and at least 7 credits @ 400-level)	7	EECS 496	2			
+	General Electives	4	Flexible Technical Electives	3			
+			Major Design Experience	4			
+			General Electives	4			
+							
+	Term Totals:	14		15		0	
+							
+	Cumulative Totals:	113		128		128

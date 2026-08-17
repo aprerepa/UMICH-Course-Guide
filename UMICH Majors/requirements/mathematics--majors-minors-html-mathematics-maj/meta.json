@@ -4,17 +4,78 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM (Mathematics (Major), Winter 2025+)",
+  "message": "requirements page ready for LLM (Mathematics, Winter 2025+) (+8 course-list supplements: Courses, Directed Teaching:, Problems and Principles of Secondary Education:)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#mathematics-maj",
   "program_fetch_mode": "browser",
-  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/mathematics-major.html",
-  "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
-  "requirements_link_strategy": "lsa_listing:lsa_detail+lsa_math_current",
-  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/mathematics-major.html",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/actuarial-mathematics-submajor.html",
+  "requirements_link_text": "REQUIREMENTS \u2192 Actuarial Mathematics",
+  "requirements_link_score": 175,
+  "requirements_link_strategy": "lsa_listing:lsa_detail\u2192nested+lsa_historical_current",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/actuarial-mathematics-submajor.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:44:41.057377+00:00",
+  "fetched_at": "2026-08-10T16:22:46.466321+00:00",
   "lsa_resolved_row_id": "mathematics-maj",
-  "math_requirements_title": "Mathematics (Major)",
-  "math_requirements_term": "Winter 2025"
+  "lsa_requirements_title": "Mathematics",
+  "lsa_requirements_term": "Winter 2025",
+  "math_requirements_title": "Mathematics",
+  "math_requirements_term": "Winter 2025",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "http://lsa.umich.edu/math/graduates/Courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 3227
+    },
+    {
+      "id": "02-directed-teaching",
+      "url": "http://www.soe.umich.edu/academics/courses/EDUC_302/",
+      "link_text": "Directed Teaching:",
+      "status": "fetched",
+      "chars": 271
+    },
+    {
+      "id": "03-problems-and-principles-of-secondary-education",
+      "url": "http://www.soe.umich.edu/academics/courses/EDUC_304/",
+      "link_text": "Problems and Principles of Secondary Education:",
+      "status": "fetched",
+      "chars": 271
+    },
+    {
+      "id": "04-practicum-in-teaching-methods",
+      "url": "http://www.soe.umich.edu/academics/courses/EDUC_307/",
+      "link_text": "Practicum in Teaching Methods:",
+      "status": "fetched",
+      "chars": 271
+    },
+    {
+      "id": "05-educational-psychology",
+      "url": "http://www.soe.umich.edu/academics/courses/EDUC_391/",
+      "link_text": "Educational Psychology:",
+      "status": "fetched",
+      "chars": 271
+    },
+    {
+      "id": "06-education-in-a-multi-cultural-society",
+      "url": "http://www.soe.umich.edu/academics/courses/EDUC_392/",
+      "link_text": "Education in a Multi-cultural Society:",
+      "status": "fetched",
+      "chars": 271
+    },
+    {
+      "id": "07-reading-and-writing",
+      "url": "http://www.soe.umich.edu/academics/courses/EDUC_402/",
+      "link_text": "Reading and Writing:",
+      "status": "fetched",
+      "chars": 271
+    },
+    {
+      "id": "08-methods-of-teaching-mathematics-or-minor-field",
+      "url": "http://www.soe.umich.edu/academics/courses/EDUC_413/",
+      "link_text": "Methods of Teaching Mathematics (or minor field):",
+      "status": "fetched",
+      "chars": 271
+    }
+  ]
 }

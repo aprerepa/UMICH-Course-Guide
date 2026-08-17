@@ -1,0 +1,377 @@
+Page header:
+page title: Nuclear Engineering and Radiological Sciences Courses (NERS) – Bulletin
+
+Visible page text:
+Nuclear Engineering and Radiological Sciences Courses (NERS)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Nuclear Engineering and Radiological Sciences Courses (NERS)
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+100 Level Courses
+NERS 190. Special Topics in Nuclear Engineering and Radiological Sciences
+Advisory and Enforced Prerequisite: None. (1-4 credits)
+Selected topics in energy, nuclear and radiation science and engineering related fields offered at the first year and sophomore level.
+200 Level Courses
+NERS 201. Survey of Nuclear Engineering and Radiological Sciences
+Advisory and Enforced Prerequisite: None.
+(1 credit)
+An introduction to the fields of nuclear engineering and radiological sciences. Special emphasis is placed on emerging topics and research in fields of (i) fission systems and radiation transport, (ii) nuclear materials and radiation effects, (iii) radiation measurements and imaging, and (iv) plasmas and nuclear fusion.
+NERS 211 (ENSCEN 211). Introduction to Nuclear Engineering and Radiological Sciences
+Advisory Prerequisite: Preceded or accompanied by MATH 216.
+Enforced Prerequisite: None.
+(4 credits)
+Different forms of energy, the history of nuclear energy, the fundamentals of fission and fusion nuclear power, radiological health applications, and electromagnetic radiation in the environment. Current topics of interest such as radon, radioactive waste, and nuclear proliferation.
+NERS 250. Fundamentals of Nuclear Engineering and Radiological Sciences
+Advisory Prerequisite: None.
+Enforced Prerequisite: Preceded or accompanied by NERS 320 and PHYSICS 240; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+Technological, industrial and medical applications of radiation, radioactive materials and fundamental particles. Special relativity, basic nuclear physics, interactions of radiation with matter. Fission reactors and the fuel cycle.
+NERS 290. Special Topics for Nuclear Engineering and Radiological Sciences
+Advisory Prerequisite: Permission of instructor.
+Enforced Prerequisite: None.
+(1-3 credits)
+Special topics offered at the first and second year level. The subject matter may change from term to term.
+NERS 299. Directed Study in Nuclear Engineering and Radiological Sciences
+Advisory and Enforced Prerequisite: None.
+(1-3 credits)
+Offers a direct study experience to 1st and 2nd year students in an area of interest to the student and faculty member.
+300 Level Courses
+NERS 311. Elements of Nuclear Engineering and Radiological Sciences I
+Advisory Prerequisite: Concurrent enrollment in NERS 420. Enforced Prerequisite: PHYSICS 240, NERS 211 or NERS 250; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Photons, electrons, neutrons and protons. Particle and wave properties of radiation. Introduction to quantum mechanics. Properties and structure of atoms.
+NERS 312. Elements of Nuclear Engineering and Radiological Sciences II
+Advisory Prerequisite: N
+one.
+Enforced Prerequisite: NERS 250 and NERS 311; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Nuclear properties. Radioactive decay. Alpha-, beta- and gamma- decays of nuclei. Nuclear fission and fusion. Radiation interactions and reaction cross-sections.
+NERS 315. Nuclear Instrumentation Laboratory
+Advisory Prerequisite: None. Enforced Prerequisite: EECS 215 or EECS 314; preceded or accompanied by NERS 312; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+An introduction to the devices and techniques most common in nuclear measurements. Topics include the principles of operation of gas-filled, solid state and scintillation detectors for charged particle, gamma ray and neutron radiations. Techniques of pulse shaping, counting and analysis for radiation spectroscopy. Timing and coincidence measurements.
+NERS 320. Applied Mathematics for Engineering Physics I
+Advisory Prerequisite: None. Enforced Prerequisite: MATH 215 or MATH 285; No OP/F. Minimum grade requirement of “C” for enforced prerequisite.
+(4 credits)
+Applied linear algebra, ordinary differential equations, systems of ordinary differential equations, Laplace transforms, basic numerical methods, differential and integral vector calculus, curvilinear coordinates. Applications of these methods to problems in fluid mechanics, heat transfer, electromagnetism, quantum mechanics, medical physics, radiological engineering, nuclear reactor physics, radiation transport, and reliability analysis.
+NERS 344. Fluid Mechanics for Nuclear Engineers
+Advisory Prerequisite: None. Enforced Prerequisite: NERS 311 and MECHENG 235; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Mass, momentum, and energy balance in lumped-parameter and differential forms. Hydrostatics. Laminar and turbulent flow in pipes. Application of fluid mechanics to nuclear components and systems.
+400 Level Courses
+NERS 420. Applied Mathematics for Engineering Physics II
+Enforced
+Prerequisite: NERS 320 or graduate standing; No OP/F
+.
+Minimum grade requirement of “C” for enforced prerequisites.
+(4 credits)
+Fundamentals of probability, partial differential equations, complex numbers, integration in the complex plane,Fourier and Laplace transforms, special functions. Applications of these methods to problems in fluid mechanics,heat transfer, electromagnetism, quantum mechanics, medical physics, radiological engineering, nuclear reactorphysics, radiation transport, and reliability analysis.
+NERS 421. Nuclear Engineering Materials
+Advisory Prerequisite: (MATSCIE 220 or MATSCIE 250) and NERS 312. Enforced
+Prerequisite: None.
+(3 credits)
+An introduction to materials used in nuclear systems and radiation effects in materials (metals, ceramics, semiconductors, organics) due to neutrons, charged particles, electrons and photons.
+NERS 425. Application of Radiation
+Advisory Prerequisite: NERS 312. Enforced
+Prerequisite: None.
+(4 credits)
+Applications of radiation interaction with matter using various forms (neutrons, ions, electrons, photons) of radiation, including activation analysis, neutron radiography, nuclear reaction analysis, Rutherford backscattering analysis, proton-induced x-ray emission, plasma-solid interactions and wave-solid interactions. Lectures and laboratory.
+NERS 441. Nuclear Reactor Theory I
+Advisory Prerequisite: None. Enforced Prerequisite: NERS 312 and NERS 320; No OP/F; or graduate standing. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+An introduction to the theory of nuclear fission reactors including neutron transport theory, the P1 approximation, diffusion theory, criticality calculations, reactor kinetics, neutron slowing down theory, and numerical solution of the diffusion equation.
+NERS 442. Nuclear Power Reactors
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: NERS 441; No OP/F; or graduate standing. Minimum grade requirement of “C” for enforced prerequisite. (2 credits)
+Analysis of nuclear fission power systems including an introduction to nuclear reactor design, reactivity control, steady-state thermal-hydraulics and reactivity feedback, fuel cycle analysis and fuel management, environmental impact and plant siting and transient analysis of nuclear systems.
+NERS 444. Fundamentals of Heat and Mass Transfer
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: NERS 344; No OP/F; or graduate standing. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+The objective of the course is to study the physical mechanisms underlying heat transfer modes, and the fundamental principles and laws of heat transfer. The course includes heat conduction, convective heat transfer, and heat transfer by radiation. A broad range of real-world applications is used to develop problem-solving skills.
+NERS 462. Reactor Safety Analysis
+Advisory Prerequisite: Preceded or accompanied by NERS 441. Enforced
+Prerequisite: None.
+(3 credits)
+Analysis of design and operational features of nuclear reactor systems that are relevant to safety. Topics include radiation sources and exposure, engineered safety features, system reliability, transient and accident analysis, reactor containment and radionuclide source term, and NRC regulations and licensing. Emphasis will be placed on probabilistic risk assessment for representative nuclear power plants.
+NERS 471 (EECS 415). Introduction to Plasmas and Fusion
+Advisory Prerequisite: PHYSICS 240 or PHYSICS 260 and junior standing (or by permission). Enforced Prerequisite: None. (3 credits)
+Single particle orbits in electric and magnetic fields, moments of Boltzmann equation and introduction to fluid theory. Wave phenomena in plasmas. Diffusion of plasma in electric and magnetic fields. Analysis of laboratory plasmas and magnetic confinement devices and applications, including fusion and plasma materials semiconductor processing. Introduction to plasma kinetic theory.
+NERS 472. Fusion Reactor Technology
+Advisory Prerequisite: NERS 471. Enforced
+Prerequisite: None.
+(3 credits)
+Study of technological topics relevant to the engineering feasibility of fusion reactors as power sources. Basic magnetic fusion and inertial fusion reactor design. Problems of plasma confinement. Energy and particle balances in fusion reactors, neutronics and tritium breeding, and environmental aspects. Engineering considerations for ITER and NIF.
+NERS 484. (BIOMEDE 484) Radiological Health Engineering Fundamentals
+Advisory Prerequisite: None. Enforced Prerequisite: NERS 320 or MATH 216 or MATH 256 or MATH 286; or graduate standing;
+No OP/F.
+Minimum grade requirement of “C” for enforced prerequisite
+.
+Credit Exclusion: Only one course may earn credit from NERS/BIOMEDE 484 and NERS/BIOMEDE 582
+.
+(3 credits)
+Fundamental physics behind radiological health engineering and topics in quantitative radiation protection. Radiation quantities and measurement, regulations and enforcement, external and internal dose estimation, radiation biology, radioactive waste issues, radon gas, emergencies and wide variety of radiation sources from health physics perspective.
+NERS 490. Special Topics in Nuclear Engineering and Radiological Sciences
+Advisory and Enforced
+Prerequisite: None.
+(1-4 credits)
+Selected topics offered at the senior or first-year graduate level. The subject matter may change from term to term.
+NERS 491. Nuclear Engineering and Radiological Sciences Design 1
+Advisory
+Prerequisite: None.
+Enforced
+Prerequisite:
+Preceded or accompanied by NERS 441; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (1
+credit)
+Preparation of a proposal for the senior design project (NERS 492). Team selection, background literature review, identification/ familiarization with computational tools, writing reports, making presentations, writing a final report, and giving a final oral presentation. Experiments/Projects are overseen/graded by faculty and also involve mentoring by representatives from external organizations.
+NERS 492. Nuclear Engineering and Radiological Sciences Design 2
+Advisory Prerequisite: None. Enforced Prerequisite: NERS 491; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Carry out the design projects proposed in NERS 491. Present results in oral and written progress reports including a final presentation to the NERS community. Experiments/Projects are overseen/graded by faculty and also involve mentoring by representatives from external organizations.
+NERS 499. Research in Nuclear Engineering and Radiological Sciences
+Advisory Prerequisite: Permission of instructor. Enforced
+Prerequisite:
+Junior or senior standing. (1-3 credits)
+This course offers research or directed study experience to 3rd or 4th year students in an area of interest to the student and faculty member.
+500 Level Courses
+NERS 511. Quantum Mechanics in Neutron-Nuclear Reactions
+Advisory Prerequisite: NERS 312 and MATH 454. Enforced
+Prerequisite: None.
+(3 credits)
+An introduction to quantum mechanics with applications to nuclear science and nuclear engineering. Topics covered include the Schroedinger equation and neutron-wave equations, neutron absorption, neutron scattering, details of neutron-nuclear reactions, cross sections, the Breit-Wigner formula, neutron diffraction, nuclear fission, transuranic elements, the deuteron problem, masers and lasers.
+NERS 512. Interaction of Radiation and Matter
+Advisory Prerequisite: NERS 511. Enforced
+Prerequisite: None.
+(3 credits)
+Classical and quantum-mechanical analysis of the processes by which radiation interacts with matter. Review of nuclear structure and properties. Nuclear models. Nuclei as sources of radiation. Interaction of electromagnetic radiation with matter. Interaction of charged particles with matter. Radiative collisions and theory of Bremsstrahlung. Interaction of neutrons with matter. Interaction mechanisms and cross sections are developed.
+NERS 515. Nuclear Measurements Laboratory
+Advisory Prerequisite: Preceded or accompanied by NERS 312 or equivalent. Enforced
+Prerequisite: None.
+(4 credits)
+Principles of nuclear radiation detectors and their use in radiation instrumentation systems. Characteristics of important devices with applications in nuclear science. Gamma ray spectroscopy, fast and thermal neutron detection, charged particle measurements, pulse analysis, nuclear event timing and recent development in nuclear instrumentation.
+NERS 518. Advanced Radiation Measurements and Imaging
+Advisory Prerequisite: NERS 315 or NERS 515. Enforced
+Prerequisite: None.
+(2 credits)
+Detection and imaging of ionizing radiation that builds on a basic course in radiation measurements. Topics include statistical limits on energy and spatial resolution, analog and digital pulse processing, pulse shape analysis and discrimination, position sensing techniques, application of Ramo theorem for calculating induced charge and the use of statistical methods in data analysis. Specific devices used as examples of evolving technology include newly-developed scintillators and wave-shifters, optical sensors, gas-filled imaging and spectroscopic detectors, semiconductor spectrometers from wide bandgap materials, gamma ray/neutron imaging systems and cryogenic spectrometers.
+NERS 521. Radiation Materials Science I
+Advisory Prerequisite: NERS 421 or permission of instructor. Enforced
+Prerequisite: None.
+(3 credits)
+Radiation damage processes; defect production, spike phenomena, displacement cascades, interatomic potential, channeling, focusing, slowing down. Physical effects of radiation damage, radiation induced segregation, dislocations, dislocation loop and void formation, phase stability, unique effects of ion irradiation, comparison between ion and neutron irradiation.
+NERS 522. Radiation Materials Science II
+Advisory Prerequisite: NERS 421, NERS 521 or permission of instructor. Enforced
+Prerequisite: None.
+(3 credits)
+Mechanical and environmental effects of irradiation. Mechanical effects include hardening, embrittlement, fracture and creep. Thermodynamics and kinetics of corrosion, corrosion in high temperature aqueous environments, stress corrosion cracking and effects of irradiation on corrosion and stress corrosion cracking.
+NERS 524. Nuclear Fuels
+Advisory Prerequisite: Permission of instructor. Enforced
+Prerequisite: None.
+(3 credits)
+Nuclear reactor fuels and the fuel cycle; mining, processing, isotope separation and fabrication. Fuel/clad behavior; radiation damage, thermal response, densification, swelling, fission gas release, burn-up, clad corrosion, design and modeling. Spent fuel; characterization, performance, reprocessing, disposal.
+NERS 531 (EARTH 529) (ENSCEN 531). Nuclear Waste Management
+Advisory Prerequisite: Senior Standing. Enforced
+Prerequisite: None.
+(3 credits)
+Based on the nuclear fuel cycle, this course will review the origin, composition, form and volumes of waste generated by commercial reactors and defense programs. The scientific and engineering basis for near-field and far-field containment in a geologic repository will be reviewed in the context of performance assessment methodologies.
+NERS 532. Nuclear Safeguards
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: NERS 315 ; No OP/F; or graduate standing. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Students will be introduced to the history of nuclear-material safeguards, nuclear-safeguard techniques, international safeguards policy, and currently used neutron and gamma-ray measurement systems and techniques. Students will attend weekly lectures to prepare for a week-long training offered at the Safeguards Laboratory (SL) at Oak Ridge National Laboratory (ORNL).
+NERS 535. Detection Techniques of Nuclear Non-proliferation
+Advisory Prerequisite: NERS 315 or equivalent. Enforced
+Prerequisite: None.
+(4 credits)
+Laboratory course covering recent techniques for the detection, identification, and characterization of nuclear materials. It includes the study of Monte Carlo simulation and measurement techniques through hands-on experiments with isotopic gamma ray and neutron sources.
+NERS 543. Nuclear Reactor Theory II
+Advisory Prerequisite: NERS 441 or equivalent. Enforced
+Prerequisite: None.
+(3 credits)
+A continuation of NERS 441 including neutron resonance absorption and thermalization, perturbation and variational methods, flux synthesis. Analytic and numerical solutions of the neutron transport equation including the S
+n
+and B methods, collision probabilities and Monte Carlo methods.
+NERS 544. Monte Carlo Methods
+Advisory Prerequisite: Graduate standing in Engineering, Mathematics or Sciences. Enforced
+Prerequisite: None.
+(3 credits)
+Monte Carlo methods are applicable to a broad range of scientific disciplines. Topics include probability and statistics, generation of random variates, discrete and continuous Markov chains, random processes, Markov Chain Monte Carlo, simulated annealing, estimation techniques, variance reduction, perturbation methods, Green’s functions, and diffusion processes. Includes applications to particle transport.
+NERS 546. Thermal Fluids for Nuclear Reactor Safety Analysis
+Advisory Prerequisite: NERS 471 or graduate standing. Enforced
+Prerequisite: None.
+(3 credits)
+This course gives a broad overview of thermal-hydraulics/fluids for nuclear reactor safety. First, the basic principles of mass energy and momentum are discussed for nuclear applications. Then group projects are performed using NRC computer codes for simulating light water and gas cooled reactors.
+NERS 547 (NAVARCH 527) (AEROSP 528). Computational Fluid Dynamics for Industrial Applications
+Advisory Prerequisite: NERS 344, MECHENG 320, CEE 325 or equivalent. Enforced
+Prerequisite: None
+.
+(3 credits)
+Theoretical background on turbulence and modeling for single-phase and two-phase flow, and practical experience on using CFD codes. Evaluate simulations of 3-D flows, applicability/limitations of turbulence models, mesh generation and mesh convergence, numerical methods for solution of Navier-Stokes equation, theoretical exercises, computational project and presentation.
+NERS 551. Nuclear Reactor Kinetics
+Advisory Prerequisite: Preceded or accompanied by NERS 441. Enforced
+Prerequisite: None.
+(3 credits)
+Derivation and solution of point reactor kinetic equations. Concept of reactivity, inhour equations and reactor transfer function. Linear stability analysis of reactors. Reactivity feedback and nonlinear kinetics. Space-dependent reactor kinetics and xenon oscillations. Introduction to reactor noise analysis.
+NERS 554. Radiation Transport-Simulation
+Advisory Prerequisite: None. Enforced Prerequisite: Senior Standing or Graduate Standing. (3 credits)
+Introduction to Monte Carlo radiation transport simulation software. Basic input file definitions are covered, including geometry and cell descriptions, radiation sources, tallies, and essential file parameters. Advanced topics include scripting and automation of multiple simulations, Python/MATLAB data processing methods, voxel-based geometries, variance reduction techniques, activation and decay calculations, and advanced input options. Practical applications consist of radiation shielding, detector modeling, and radiation dosimetry, with emphasis on the connection between radiation transport theory and its implementation in Monte Carlo simulations. A final project allows application of course methods to student research, senior design projects, or individual technical interests.
+NERS 555. Radiological Physics and Dosimetry
+Advisory Prerequisite: None. Enforced Prerequisite: Senior standing or graduate standing. (2 credits)
+Principles of radiation physics and theoretical radiation dosimetry are presented, with emphasis on fundamental radiometric quantities used to characterize radiation fields. Topics include fluence, exposure, kerma, collision kerma, and absorbed dose for photons and electrons, as well as conditions of equilibrium and Fano’s theorem. Methods for dose calculation and measurement are examined, including Monte Carlo techniques, convolution methods, cavity theory, and saturation theory. The dosimetry chain and other analytical methods commonly used in radiation dosimetry are also addressed.
+NERS 561. Nuclear Core Design and Analysis I
+Advisory Prerequisite: Precedes or accompanied by NERS 543. Enforced
+Prerequisite: None.
+(3 credits)
+Analytical investigation of areas of special importance to the design of nuclear reactors. Includes development, evaluation and application of models for the neutronic, thermal-hydraulic and economic behavior of both thermal and fast reactors. Typical problems arising in both design and operation of nuclear reactors are considered. This course includes extensive use of digital computers.
+NERS 562. Nuclear Core Design and Analysis II
+Advisory Prerequisite: NERS 561. Enforced
+Prerequisite: None.
+(3 credits)
+Continuation of subject matter covered under NERS 561 with emphasis on applications of analytical models to the solution of current problems in reactor technology.
+NERS 570. (ENGR 570) Methods and Practice of Scientific Computing
+Advisory Prerequisite: MATH 371 or MATH 471. Enforced Prerequisite: (ENGR 101 or 151 or EECS 183) and (MATH 216 or MATH 256 or MATH 286); No OP/F; or graduate standing. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+Designed for graduate students developing the methods and using the tools of scientific computing. Students learn how to use HPC clusters, and utilize community tools and software engineering best practices to develop their own codes. Students are expected to have had some introduction to programming, linear algebra, and differential equations.
+NERS 571. Intermediate Plasma Physics I
+Advisory Prerequisite: NERS 471 or PHYSICS 405. Enforced
+Prerequisite: None.
+(3 credits)
+Single particle motion, collision and transport; plasma stability from orbital considerations; Vlasov and Liouville equations; Landau damping; kinetic modes and their reconstruction from fluid description; electrostatic and electromagnetic waves, cutoff and resonance.
+NERS 572 (APPPHYS 672). Intermediate Plasma Physics II
+Advisory Prerequisite: NERS 571. Enforced
+Prerequisite: None.
+(3 credits)
+Waves in non-uniform plasmas, magnetic shear; absorption, reflection and tunneling gradient-driven micro-instabilities; BGK mode and nonlinear Landau damping; macroscopic instabilities and their stabilization; non-ideal MHD effects.
+NERS 573. Plasma Engineering
+Advisory Prerequisite: NERS 471 or graduate standing. Enforced
+Prerequisite: None.
+(3 credits)
+This course covers the theory and application of plasma concepts relevant to plasma engineering problems encountered in the workplace. Focus areas addressed include plasma propulsion, semiconductor processing, lighting, and environmental mitigation. Students will accumulate over the term a toolbox of concepts and techniques directly applicable to real world situations.
+NERS 574. Introduction to Computational Plasma Physics
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: NERS 471 or 571. Minimum grade requirement of “B” for enforced prerequisite. (3 credits)
+An introduction to plasma simulation techniques, including fluid and Vlasov descriptions. Stability analysis. Finite difference and volume methods. The particle-in-cell method. Boundary conditions. Field solvers. Students will develop an understanding in the relationship between the hierarchy of kinetic models describing plasmas and their numerical equivalents. A series of short projects will demonstrate numerical modeling of plasma phenomena.
+NERS 575 (ECE 519). Plasma Generation and Diagnostics Laboratory
+Advisory Prerequisite: Preceded or accompanied by a course on electromagnetism. Enforced
+Prerequisite: None.
+(4 credits)
+Laboratory techniques for plasma ionization and diagnosis relevant to plasma processing, propulsion, vacuum electronics, and fusion. Plasma generation techniques includes: high voltage-DC, radio frequency, and e-beam discharges. Diagnostics include: Langmuir probes, microwave cavity perturbation, microwave interferometry, laser schlieren and optical emission spectroscopy. Plasma parameters measured are: electron/ion density and electron temperature.
+NERS 576. Charged Particle Accelerators and Beams
+Advisory Prerequisite: PHYSICS 240 or PHYSICS 260; or EECS 230. Enforced
+Prerequisite: None.
+(3 credits)
+Principles of electrostatic and electrodynamic charged particle accelerators, magnetic and electrostatic focusing, transient analysis of pulsed accelerators. Generation of intense electron and ion beams. Dynamics, stability, and beam transport in vacuum, neutral and ionized gases. Intense beams as drivers of coherent radiation generation. Novel accelerations using plasma and dielectric materials.
+NERS 577. Plasma Spectroscopy
+Advisory Prerequisite: Introductory courses in plasma and quantum mechanics. Enforced
+Prerequisite: None.
+(3 credits)
+Basic theory of atomic and molecular spectroscopy and its application to plasma diagnostics. Atomic structure and resulting spectra, electronic (including vibrational and rotational) structure of molecules and the resulting spectra, the absorption and emission of radiation and the shape and width of spectral lines. Use of atomic and molecular spectra as a means of diagnosing temperatures, densities and the chemistry of plasmas.
+NERS 578 (ECE 517). Low Temperature Plasmas
+Advisory Prerequisite: (PHYSICS 240 or PHYSICS 260) and (MATH 216 or MATH 286 or MATH 396). Enforced Prerequisite: None. (3 credits)
+Addresses the science and technology of low temperature, partially ionized, non-equilibrium plasmas as used for materials processing, biotechnology/medicine, environment/energy, lasers, displays and lighting. The course topics include the fundamentals of electron-atom/molecule collisions, electron and ion transport; and electrostatic, magnetostatic and electromagnetic interactions with plasmas.  Fundamental aspects of the kinetics of plasmas, electron energy distributions and diagnostics are addressed.  Applications of these fundamentals to electrical discharges and plasma sources are discussed.
+NERS 579. Introduction to the Science and Technology of Space Nuclear Power and Propulsion
+Advisory and Enforced Prerequisite: None. (3 credits)
+Course introduces students to the application of nuclear technology for space power and propulsion. Course provides students with the physics of mission trajectory analysis and the science behind nuclear power systems and propulsion approaches. With this background course surveys the history and state of the art In terms of nuclear space technologies. The course provides background for a team design project where the end goal Is the development of an all nuclear mission to the outer planets and beyond. The key design components Include nuclear power, propulsion, power conversion and rejection. mission analysis and shielding/life support.
+NERS 580
+(BIOMEDE 580
+)
+. Computation Projects in Radiation Imaging
+Advisory Prerequisite: Preceded or accompanied by NERS 481. Enforced Perquisite: None. (1 credit)
+Computational projects illustrate principles of radiation imaging from NERS 481 (BIOMEDE 481). Students will model the performance of radiation systems as a function of design variables. Results will be in the form of computer displayed images. Students will evaluate results using observer experiments. Series of weekly projects are integrated to describe the performance of imaging systems.
+CourseProfile (ATLAS)
+NERS 582 (BIOMEDE 582). Medical Radiological Health Engineering
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing. Credit Exclusion: Only one course may earn credit from NERS/BIOMEDE 484 and NERS/BIOMEDE 582. (3 credits)
+Fundamental approaches to radiation protection in radiology nuclear medicine, radiotherapy, and research environments at medical facilities.  Topics presented include health effects, radiation dosimetry and dose estimation, quality control of imaging equipment, regulations, licensing and health physics program.
+NERS 583. Radiological Dose Assessment and Response
+Advisory Prerequisite: NERS 484 or graduate standing. Enforced Prerequisite: Senior standing or graduate standing. (3 credits)
+Examines a radiation-exposure event, such as a medical incident or nuclear accident, which encompasses open-ended problems common in radiological engineering practice.  Student teams engage in standardized radiological dose assessment and apply radiation protection approaches culminating in comprehensive oral presentations and written reports.
+NERS 584. Radiation Biology
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: Senior or graduate standing. (3 credits)
+Lecture course covering three main areas of radiation biology: molecular and cellular radiation biology, radiation and human health, principles of radiation therapy.
+NERS 585. Physics of Medical Imaging
+Advisory and Enforced
+Prerequisite: None.
+(3 credits)
+Physics equipment and techniques basic to producing medical diagnostic images by x-rays, fluoroscopy, computerized tomography of x-ray images, mammography, ultrasound, and magnetic resonance imaging systems. Lectures and demonstrations.
+NERS 586. Applied Radiological Measurements
+Advisory Prerequisite: None.
+Enforced Prerequisite: Senior standing or graduate standing.
+(
+4 credits)
+Instrumentation and applied measurements of interest for radiation safety, nuclear engineering, environmental sciences, and medical physics. Calibrations, surveys, quality control, dosimeters, radon gas, beta and gamma ray spectroscopy, background radiation, applied electronics, and other selected practical considerations. Oral and written technical communications.
+NERS 588. Radiation Safety and Medical Physics Practicum
+Advisory Prerequisite: Permission of instructor. Enforced
+Prerequisite: None.
+(1-12 credits)
+Individuals intern at a medical or industrial facility. Students concentrate on a specific radiological health engineering problem and participate in broader facility activities. Assignments are arranged by agreement among the student, faculty member and facility personnel.
+NERS 590. Special Topics in Nuclear Engineering and Radiological Sciences II
+Advisory
+Prerequisite: Permission of instructor.
+Enforced
+Prerequisite: None.
+(1-4 credits)
+Selected topics offered at the graduate level. The subject matter will change from term to term.
+NERS 599. Master’s Project
+Advisory Prerequisite: Permission of instructor. Enforced
+Prerequisite: None.
+(1-3 credits)
+Individual or group investigations in a particular field or on a problem of special interest to the student. The course content will be arranged at the beginning of each term by mutual agreement between the student and a staff member. This course may be repeated for up to 6 credit hours.
+600 Level Courses
+NERS 621 (MATSCIE 621) (EARTH 620). Nuclear Waste Forms
+Advisory Prerequisite: NERS 531. Enforced
+Prerequisite: None.
+(3 credits)
+This interdisciplinary course will review the materials science of radioactive waste remediation and disposal strategies. The main focus will be on corrosion mechanisms, radiation effects and the long-term durability of glasses and crystalline ceramics proposed for the immobilization and disposal of nuclear waste.
+NERS 622 (MFG 622) (MATSCIE 622). Ion Beam Modification and Analysis of Materials
+Advisory Prerequisite: NERS 421 or NERS 521 or MATSCIE 350 or permission of instructor. Enforced
+Prerequisite: None.
+(3 credits)
+Ion-solid interactions, ion beam mixing, compositional changes, phase changes, micro-structural changes; alteration of physical and mechanical properties such as corrosion, wear, fatigue, hardness; ion beam analysis techniques such as RBS, NRA, PIXE, ion channeling, ion microprobe; accelerator system design and operation as it relates to implantation and analysis.
+NERS 644. Transport Theory
+Advisory Prerequisite: Math 555. Enforced
+Prerequisite: None.
+(3 credits)
+Mathematical study of linear transport equations with particular application to neutron transport, plasma physics, photon transport, electron conduction in solids, and rarefied gas dynamics; one-speed transport theory; Wiener-Hopf and singular eigen function methods; time-dependent transport processes; numerical methods including spherical harmonics, discrete ordinates and Monte Carlo techniques; non-linear transport phenomena.
+NERS 671. Theory of Plasma Confinement in Fusion Systems
+Advisory Prerequisite: NERS 572. Enforced
+Prerequisite: None.
+(3 credits)
+Study of the equilibrium, stability and transport of plasma in controlled fusion devices. Topics include MHD equilibrium for circular and non-circular cross section plasmas; magneto-hydrodynamic and micro-instabilities; classical and anomalous diffusion of particles and energy and scaling laws.
+NERS 672 (SPACE 545). High Energy Density Physics
+Advisory Prerequisite: MATH 450, PHYSICS 405 and PHYSICS 406. Enforced
+Prerequisite: None.
+(3 credits)
+Fundamental tools and discoveries of high-energy density physics, where pressures are above a million atmospheres. Fundamental physical models, equations of state, hydrodynamics including shocks and instabilities, radiation transport, radiation hydrodynamics, experimental technique, inertial fusion, experimental astrophysics and relativistic systems.
+NERS 673. Electrons and Coherent Radiation
+Advisory Prerequisite: NERS 471 or PHYSICS 405. Enforced
+Prerequisite: None.
+(3 credits)
+Collective interactions between electrons and surrounding structure studied. Emphasis given to generation of high power coherent microwave and millimeter waves. Devices include: cyclotron resonance maser, free electron laser, peniotron, orbitron, relativistic klystron and crossed-field geometry. Interactions between electron beam and wakefields analyzed.
+NERS 674 (APPPHYS 674). High Intensity Laser-Plasma Interactions
+Advisory Prerequisite: NERS 471, NERS 571 and graduate standing. Permission of instructor. Enforced
+Prerequisite: None.
+(3 credits)
+Coupling of intense electromagnetic radiation to electrons and collective modes in time-dependent and equilibrium plasmas, ranging from underdense to solid-density. Theory, numerical models and experiments in laser fusion, x-ray lasers, novel electron accelerators and nonlinear optics.
+NERS 675 (ECE 510). Plasma Chemistry and Plasma Surface Interactions
+Advisory Prerequisite: ECE 517, permission of instructor, or graduate standing. Enforced
+Prerequisite: None.
+(3 credits)
+Focuses on the plasma chemistry and plasma-surface interactions occurring in low temperature plasmas as used in, for example, materials processing, chemical conversion, biotechnology, environmental remediation, and photon sources. Emphasis is on the atomic and molecular processes that produce chemically reactive species by electron and ion-molecule collisions, neutral-neutral reactions; and reactions with inorganic, organic and liquid surfaces. Plasma-surface interactions will be addressed that result in deposition, etching and sputtering. Radiation transport producing photoionization and photodissociation, and trapping will be discussed.
+700 Level Courses
+NERS 799. Special Projects
+Advisory and Enforced
+Prerequisite: None.
+(1-6 credits)
+Individual or group investigations in a particular field or on a problem of special interest to the student. The project will be arranged at the beginning of the term by mutual agreement between the student and a staff member.
+900 Level Courses
+NERS 990. Dissertation/Pre-Candidate
+Advisory Prerequisite: Election for dissertation work by doctoral student not yet admitted as a Candidate
+.
+Enforced
+Prerequisite: None.
+(1-8 credits)
+Dissertation work by doctoral student not yet admitted to status as candidate. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+NERS 995. Dissertation/Candidate
+Advisory Prerequisite: None. Enforced Prerequisite: Candidate. (4-8 credits)
+Election for dissertation work by a doctoral student who has been admitted to candidate status. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.

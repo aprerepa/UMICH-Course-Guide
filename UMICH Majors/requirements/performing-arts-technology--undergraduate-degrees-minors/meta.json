@@ -4,7 +4,7 @@
   "school_college": "School of Music, Theatre & Dance (SMTD)",
   "program_url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+2 course-list supplements: 2025-2026 MYPAP Season Schedule, 2025-26 MYPAP Student Handbook)",
   "program_final_url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
   "program_fetch_mode": "http",
   "requirements_url": "https://smtd.umich.edu/beyond-the-curriculum/",
@@ -12,6 +12,23 @@
   "requirements_link_score": 75,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://smtd.umich.edu/beyond-the-curriculum/",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:46:41.867624+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:29:16.803445+00:00",
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-2025-2026-mypap-season-schedule",
+      "url": "https://drive.google.com/file/d/1O9icRqtft1_-ifXjgfrSdZp7VDoYl5p3/view?usp=sharing",
+      "link_text": "2025-2026 MYPAP Season Schedule",
+      "status": "fetched",
+      "chars": 3240
+    },
+    {
+      "id": "02-2025-26-mypap-student-handbook",
+      "url": "https://drive.google.com/file/d/1mwFkoTnXTM_HWnrwjku9d5j6AmRah2OY/view",
+      "link_text": "2025-26 MYPAP Student Handbook",
+      "status": "fetched",
+      "chars": 27936
+    }
+  ]
 }

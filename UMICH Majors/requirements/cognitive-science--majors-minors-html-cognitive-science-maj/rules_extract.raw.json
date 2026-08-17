@@ -1,0 +1,33 @@
+{
+  "id": "cognitive-science",
+  "displayName": "Cognitive Science",
+  "groupRules": {
+    "Prerequisites": {
+      "require": "COGSCI 200"
+    },
+    "Computation and Cognition Track": {
+      "minCourses": 9,
+      "minCredits": 27,
+      "countsTowardMajorTotal": true
+    },
+    "Decision and Cognition Track": {
+      "minCourses": 9,
+      "minCredits": 27,
+      "countsTowardMajorTotal": true
+    },
+    "Language and Cognition Track": {
+      "minCourses": 9,
+      "minCredits": 27,
+      "countsTowardMajorTotal": true
+    },
+    "Philosophy and Cognition Track": {
+      "minCourses": 9,
+      "minCredits": 27,
+      "countsTowardMajorTotal": true
+    },
+    "Research Course Options": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

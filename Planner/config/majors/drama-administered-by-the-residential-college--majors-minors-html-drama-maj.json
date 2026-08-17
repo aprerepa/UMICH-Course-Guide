@@ -1,0 +1,48 @@
+{
+  "id": "drama-administered-by-the-residential-college--majors-minors-html-drama-maj",
+  "displayName": "Drama (Administered by the Residential College)",
+  "requirementGroups": {
+    "Foundational Requirement": [
+      "RCDRAMA 281",
+      "RCDRAMA 282"
+    ],
+    "Capstone Requirement": [
+      "RCDRAMA 481",
+      "RCCORE 307",
+      "RCCORE 406",
+      "RCDRAMA 483"
+    ],
+    "Electives": [
+      "THTREMUS 101",
+      "THTREMUS 102",
+      "THTREMUS 110",
+      "THTREMUS 227",
+      "ENGLISH 227",
+      "THTREMUS 240",
+      "THTREMUS 241",
+      "THTREMUS 250",
+      "THTREMUS 251",
+      "THTREMUS 321",
+      "THTREMUS 322",
+      "THTREMUS 323",
+      "ENGLISH 349",
+      "RCDRAMA 332",
+      "RCDRAMA 334",
+      "RCDRAMA 335",
+      "RCDRAMA 381",
+      "RCDRAMA 383",
+      "RCDRAMA 387",
+      "RCDRAMA 389",
+      "RCDRAMA 390",
+      "RCDRAMA 483",
+      "RCDRAMA 482",
+      "RCDRAMA 485",
+      "RCHUMS 334",
+      "RCHUMS 341",
+      "RCMUSIC 254",
+      "ENGLISH 293",
+      "ENGLISH 346",
+      "ENGLISH 427"
+    ]
+  }
+}

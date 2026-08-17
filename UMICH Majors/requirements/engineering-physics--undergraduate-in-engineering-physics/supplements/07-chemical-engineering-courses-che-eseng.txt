@@ -1,0 +1,386 @@
+Chemical Engineering Courses (CHE + ESENG)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Chemical Engineering Courses (CHE + ESENG)
+Below are all of the courses that are available to be taken in CHE. Some courses may not be available every semester. Each course is listed in the following format:
+Subject Code and Course Number: Course Name
+If it is a cross listed class, the crosslist course subject and course number will be listed in parentheses
+Any advised or enforced prerequisites that should be taken before enrolling for the course
+A description of the course
+A link to the CourseProfile in ATLAS
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+200 Level Courses
+CHE 200. Chemical Engineering: What, Why, How
+Advisory and
+Enforced
+Prerequisite: None. (1 credit)
+Introduce the field of Chemical Engineering, discuss the range of career paths, and prepare students for their future careers. Students will learn how to work in a team, make effective presentations, build a resume, and prepare for job interviews. Guest speakers will give first-hand insights into the job world of an engineer. Students will be matched with an upper-class peer mentor for additional guidance.
+CourseProfile (ATLAS)
+CHE 230. Introduction to Material and Energy Balances
+Advisory Prerequisite: None. Enforced Prerequisite: ENGR 100 and (ENGR 101 or ENGR 151) and CHEM 130 and (MATH 116 or MATH 119 or MATH 156 or MATH 176 or MATH 186 or MATH 296 or MATH 121). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+An introduction to material and energy balances in chemical engineering applications, including
+environmental and biological systems. Systematic Engineering problem solving, the equilibrium concept in single phase or multiple phase systems, first law of thermodynamics, heats of reaction. Introduction to chemical engineering as a profession.
+CourseProfile (ATLAS)
+CHE 290. Directed Study, Research, and Special Problems
+Advisory Prerequisite: First or second year standing, and permission of instructor. Enforced Prerequisite: None. (1-4 credits)
+Provides an opportunity for undergraduate students to work in chemical engineering research or design problems.  For each hour of credit, it is expected that the student will work four hours per week in a full term. Oral presentation and/or written report due at end of term.  Not open to graduate students.
+CourseProfile (ATLAS)
+CHE 296. Special Topics in Chemical Engineering
+Advisory and Enforced Prerequisite: None. (1-4 credits)
+Selected topics pertinent to lower-level chemical engineering students.
+CourseProfile (ATLAS)
+300 Level Courses
+CHE 330. Chemical and Engineering Thermodynamics
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 230. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Development of fundamental thermodynamic property relations and complete energy and entropy balances. Analysis of heat pumps and engines and use of combined energy-entropy balance in flow devices. Calculation and application of total and partial properties in physical and chemical equilibria. Prediction and correlation of physical/chemical properties of various states and aggregates. Elements of statistical thermodynamics.
+CourseProfile (ATLAS)
+CHE 341. Fluid Mechanics
+Advisory Prerequisite
+:
+None. Enforced Prerequisite: (PHYSICS 140 or 160) and (MATH 215 or MATH 285), preceded or accompanied by CHE 230 and (MATH 216 or MATH 286). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Fluid mechanics for chemical engineering. Mass, momentum, and energy balance on static and flowing
+systems. Laminar and turbulent flow in pipes, equipment, and porous media. Advanced topics including boundary layers, potential and irrotational flows, non-Newtonian fluids, and microfluidic systems.
+CourseProfile (ATLAS)
+CHE 342. Mass and Heat Transfer
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 230 and CHE 341 and (MATH 216 or MATH 256 or MATH 286 or MATH 316). Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Theories and applications of mass and heat transport phenomena. Fick’s law and Fourier’s Law. Steady and unsteady diffusion and conduction. Mass and heat transfer coefficients. Simultaneous momentum and mass/heat transfer. Heat exchangers. Condensation and boiling. Radiation, Kirchoff’s law and view factors. Ion diffusion in solution. Mass transfer in polymer membranes.
+CourseProfile (ATLAS)
+CHE 343. Separation Processes
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 230 and CHE 330. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Introduction and survey of separations based on physical properties, phase equilibria and rate processes. Emphasis on analysis and modeling of separation processes. Staged and countercurrent operations. Includes applications to chemical, biological, and environmental systems.
+CourseProfile (ATLAS)
+CHE 344. Reaction Engineering and Design
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 330 and CHE 342.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Fundamentals of chemical reaction engineering. Rate laws, kinetics and mechanisms of homogeneous and heterogeneous reactions. Analysis of rate data, multiple reactions, heat effects, bioreactors, Safety (Runaway reactions). Design of industrial reactors.
+CourseProfile (ATLAS)
+CHE 360. Chemical Engineering Laboratory I
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 342 and CHE 343.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Experimentation in thermodynamics and heat, mass and momentum transport on a bench scale. Measurement error estimation and analysis. Lecture, laboratory, conferences and reports. Technical communications.
+CourseProfile (ATLAS)
+400 Level Courses
+CHE 407. Process Safety Risk
+Management
+Advisory Prerequisite: CHE 330, CHE 341 or graduate standing. Enforced Prerequisite: None. (2 credits)
+Process safety focuses on the prevention and mitigation of catastrophic releases of hazardous materials that may lead to fires, explosions, or toxic impacts. This course prepares students for process hazard evaluation, consequence analysis, accident investigation, and risk management. Speakers from industry will present first-hand knowledge of industrial process safety.
+CourseProfile (ATLAS)
+CHE 412 (MACROMOL 412) (MATSCIE 412). Polymeric Materials
+Advisory Prerequisite: None. Enforced Prerequisite:
+MATSCIE 220 or MATSCIE 250 or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+The synthesis, characterization, microstructure, rheology, and processing of polymeric materials. Polymers in solution and in the liquid, liquid-crystalline, crystalline and glassy states. Engineering and design properties, including viscoelasticity, yielding and fracture. Forming and processing methods. Recycling and environmental issues.
+CourseProfile (ATLAS)
+CHE 431. Engineering Statistics and Problem Solving
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 342 and CHE 343.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Introduction to the application of various statistical techniques, such as regression, hypothesis testing and design of experiments, to the analysis of data, particularly as applied to solving problems in the engineering field. Examples will be drawn from situations in manufacturing, and where possible, the chemical industry specifically.
+CourseProfile (ATLAS)
+CHE 444. Applied Chemical Kinetics
+Advisory Prerequisite: CHEM 260 or CHEM 261, CHE 344. Enforced Prerequisite: None. (3 credits)
+Fundamentals of chemical and engineering kinetics from a molecular perspective. Relationship between kinetics and mechanisms. Kinetics of elementary steps in gas, liquid and supercritical fluid reaction media. Gas-solid and surface reactions. Heterogeneous and homogeneous catalysis. Kinetics and mechanisms of chemical processes such as polymerization, combustion and enzymatic reactions.
+CourseProfile (ATLAS)
+CHE 460. Chemical Engineering Laboratory II
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 344 and CHE 360.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Experimentation in rate and separation processes on a scale that tests process models. Introduction to the use of instrumental analysis and process control. Introduction to biochemical processes. Lecture, laboratory, conferences, reports. Technical communications.
+CourseProfile (ATLAS)
+CHE 466. Process Dynamics and Control
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 343 and CHE 344.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Introduction to process control in chemical engineering. Control architecture design, notation, and
+implementation. Mathematical modeling and analysis of open-loop and closed-loop process dynamics.
+Applications to the control of level, flow, heat exchangers, reactors, and elementary multivariable systems.
+Optimization and model predictive control.
+CourseProfile (ATLAS)
+CHE 470. Colloids and Interfaces
+Advisory Prerequisite: CHE 330. Enforced Prerequisite: None. (3 credits)
+This is a first course in colloid and interface science. The repulsive forces and attractive forces at interfaces are described along with the dynamics of the interfaces. Topics include the stability of macroemulsions, the formulation and properties of microemulsions and surface metal-support interactions of catalysts.
+CourseProfile (ATLAS)
+CHE 472. Polymer Science and Engineering
+Advisory Prerequisite: CHE 344. Enforced Prerequisite: None. (4 credits)
+Polymer reaction engineering, characterization and processing for chemical engineers. Polymerization mechanisms, kinetics and industrial equipment. Thermodynamics of polymer solutions, morphology, crystallization and mechanical properties. Polymer processing equipment and technology. Adhesives, diffusion in polymers, reactive polymeric resins and biological applications of macromolecules.
+CourseProfile (ATLAS)
+CHE 485. Chemical Engineering Process Economics
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 343.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(1 credit)
+Economic and profitability analysis as applied to chemical engineering processes and products. Estimation of capital investment, cost of production, depreciation and cash flows. Discounted profitability analysis including net present value, internal rate of return and discounted payback period. Profitability decision making based on cost of capital and economic risk analysis. ChE process optimization based on economic profitability. Students will connect economics and business principles to real chemical engineering processes, as previously learned in the core chemical engineering courses of fluid mechanics, heat and mass transfer and separations.
+CourseProfile (ATLAS)
+CHE 487. Process Simulation and Design
+Advisory Prerequisite: P
+receded or accompanied by CHE 485.
+Enforced Prerequisite: CHE 360 and CHE 344, and (MATSCIE 220 or MATSCIE 250) or graduate standing.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(5 credits)
+Computer simulation of process and components.  A major team design project with progress reports, oral presentation, and a technical report with engineering drawings and economics. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+CHE 488. Chemical Product Design I
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 344 and co-requisite CHE 360.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(2 credits)
+Part one of a two-semester chemical product design sequence. Teams develop the process for a new chemical product that meets industrial, federal and local regulations. Survey development, literature research and development of an appropriate manufacturing process. Oral and written technology and economic feasibility reports. Safety, environmental and ethical issues.
+CourseProfile (ATLAS)
+CHE 489. Chemical Product Design II
+Advisory Prerequisite: None. Enforced Prerequisite: CHE 488 and CHE 360, preceded or accompanied by CHE 485 and (MATSCIE 220 or MATSCIE 250).
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Part two of a two-semester chemical product design sequence. Teams produce a consumer-ready prototype of a chemical product. Development of control and regulatory tests to ensure the product meets all relevant industrial, federal and local regulations. Oral and written technology and economic reports. Safety, environmental and ethical issues.
+CourseProfile (ATLAS)
+CHE 490. Advanced Directed Study, Research and Special Problems
+Advisory Prerequisite: Not open to graduate students. Enforced Prerequisite: (CHE 230 and CHE 341) or CHE 290 or equivalent and permission of instructor.  Credit Exclusions: Up to 8 credits of CHE 490 may be taken for a grade. Beyond that, CHE 490 credits must be taken pass/fail.
+(1-4 credits)
+Provides an opportunity for undergraduate students to work in chemical engineering research or design problems. For each hour of credit, it is expected that the student will work four hours per week in a full term. Oral presentation and/or written report due at end of term. Not open to graduate students.
+CourseProfile (ATLAS)
+CHE 496. Advanced Special Topics in Chemical Engineering
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: CHE 342 and CHE 343. Minimum grade requirement of “C-” for enforced prerequisite. (1-16 credits)
+Selected advanced undergraduate topics pertinent to chemical engineering.
+CourseProfile (ATLAS)
+CHE 497. Special Topics in Chemical Engineering
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: (CHE 342 and CHE 343) or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (1-16 credits)
+Selected topics pertinent to chemical engineering. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+500 Level Courses
+CHE 501 (CEE 565) (ESENG 501). Seminars on Energy Systems, Technology and Policy
+Advisory Prerequisite: Graduate student or permission of instructor. Enforced Prerequisite: None. (3 credits)
+Provide students with an understanding of the critical issues in energy technologies. Researchers, industry leaders, entrepreneurs, and policymakers discuss technology, policy and economic drivers for sustainable global energy systems.
+CourseProfile (ATLAS)
+CHE 502 (ESENG 505) (MECHENG 571). Energy Generation and Storage Using Modern Materials
+Advisory Prerequisite: MECHENG 382 and MECHENG 335 or equivalent. Enforced Prerequisite: None. (3 credits)
+Energy storage, with an emphasis on electrochemical storage. Topics include fundamental electrochemistry, materials for electrochemical storage, and system integration. Attention is given to scalability, manufacturing, and the role of storage in enabling reliable and sustainable energy systems.
+CourseProfile (ATLAS)
+CHE 504 (ESENG 504). Fuel Cells and Fuel Processors
+Advisory Prerequisite: Graduate student or permission of instructor. Enforced Prerequisite: None. (3 credits)
+Aimed at students interested in the fundamental science and engineering of fuel cells and fuel processors.
+Covers the fundamentals of electrochemistry relevant for fuel cells, and the basics of fuel cell technology. Emphasis will be placed on PEM fuel cells for automotive applications, and on solid oxide fuel cells for auxiliary power units. Concepts in catalysts for fuel reforming, water gas shift, and preferential oxidation of hydrocarbons will be covered, along with hydrogen storage and hydrogen safety.
+CourseProfile (ATLAS)
+CHE 505. Applied Mathematics for Chemical Engineers
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (3 credits)
+Analytical and numerical techniques applicable to statistical mechanics, transport phenomena, fluid mechanics and reaction engineering. Groups and linear spaces; tensors and linear operators; computational approaches to nonlinear systems and integration; special functions; spectral theory of ordinary and partial differential equations; series expansions; coordinate transformations; complex algebra and analysis; integral transformations.
+CourseProfile (ATLAS)
+CHE 506 (MACROMOL 506) (MATSCIE 506). Soft Robotic Matter
+Advisory Prerequisite: None. Enforced Prerequisite: Senior standing or graduate standing. (3 credits)
+This course consists of active materials that can sense, move within, and alter their working environment. Fundamentals and emerging approaches will be explored in soft active matter design, actuation, power, and fabrication across length scales, with focus on engineering their properties and structures for programmable robotic functions.
+CourseProfile (ATLAS)
+CHE 509 (BIOMEDE 509) (MACROMOL 509) (MATSCIE 509). Advanced Biomaterials
+Advisory Prerequisite: MATSCIE 220 or MATSCIE 250. Enforced Prerequisite: None. (3 credits)
+Applications of biomaterials in implants, regenerative medicine, tissue engineering, and drug delivery
+systems will be covered. Principles of biomaterials incorporating contemporary research related to rational design strategies for biomaterials, their processing and fabrication, biomimetics, immunomodulation, degradation, and in vivo responses will be included.
+CourseProfile (ATLAS)
+CHE 510. Mathematical Methods in Chemical Engineering
+Advisory Prerequisite: Graduate standing, differential equations. Enforced Prerequisite: None. (3 credits)
+Linear algebra, ordinary and partial differential equations, integral equations with chemical engineering applications. Analytical techniques and preliminaries for numerical methods, including: spectral analysis, orthogonal polynomials, Green’s functions, separation of variables, existence and uniqueness of solutions.
+CourseProfile (ATLAS)
+CHE 511. (MACROMOL 511) (MATSCIE 511). Rheology of Polymeric Materials
+Advisory Prerequisite: A course in fluid mechanics or permission of instructor. Enforced Prerequisite: None. (3 credits)
+An introduction to the relationships between the chemical structure of polymer chains and their rheological behavior. The course will make frequent reference to synthesis, processing, characterization and use of polymers for high technology applications.
+CourseProfile (ATLAS)
+CHE 512. (MACROMOL 512) (MATSCIE 512). Physical Polymers
+Advisory Prerequisite: Senior or graduate standing in engineering or physical science. Enforced Prerequisite: None. (3 credits)
+Structure and properties of polymers as related to their composition, annealing and mechanical treatments. Topics include creep, stress-relaxation, dynamic mechanical properties, viscoelasticity, transitions, fracture, impact response, dielectric properties, permeation and morphology.
+CourseProfile (ATLAS)
+CHE 516. Applied Pharmacokinetics and Toxicokinetics
+Advisory Prerequisite: CHE 344 or equivalent Enforced Prerequisite: None. (3 credits)
+This course focuses on (1) ADME process (Absorption, Distribution, Metabolism, Elimination) and the major pathways and mechanisms (e.g. transporters, liver enzymes, etc.); (2) basic concepts of pharmacokinetics/pharmacodynamics and their application in drug discovery/development; (3) introduction to pharmacokinetic analysis using WINNONLIN.
+CourseProfile (ATLAS)
+CHE 517 (MFG 517). Biopharmaceutical Engineering
+Advisory Prerequisite: BIOLOGY 172 or equivalent and CHE 330 or BIOMEDE 221 or CHEM 230, or graduate standing or enrollment in PharmD program. Enforced Prerequisite: None. (3 credits)
+Covers fundamental concepts essential for the discovery, development and characterization of biopharmaceuticals. Topics include basic immunology, molecular biology and cloning, in vitro protein library generation and screening, antibody discovery and engineering, biophysical characterization, and protein expression and purification.
+CourseProfile (ATLAS)
+CHE 519 (PHARMSCI 519). Pharmaceutical Engineering
+Advisory Prerequisite: Senior or graduate standing, instructor permission. Enforced Prerequisite: None. (3 credits)
+Concepts necessary in the adaptation of engineering principles to pharmaceutical and life sciences related industries.  Topics include process engineering in drug discovery, high throughput characterization and optimization of new chemical entities, solid-state engineering and intelligent pharmaceutical manufacturing systems.
+CourseProfile (ATLAS)
+CHE 520 (PHARMSCI 761). Population Pharmacokinetics
+Advisory Prerequisite: PHARMSCI 560 or permission of instructor. Enforced Prerequisite: None. (2 credits)
+This course teaches the basic concepts in population pharmacokinetic (PK) and pharmacodynamic (PD) modeling and its application in drug development. The material covers both the theoretical and practical aspects of the population approach. Software (WINNONLIN, NONMEN, and SPLUS) will be installed in a centralized area for hands-on training and learning.
+CourseProfile (ATLAS)
+CHE 527. Fluid Flow
+Advisory Prerequisite: CHE 341. Enforced Prerequisite: None. (3 credits)
+Applications of fluid dynamics to chemical engineering systems. Theory and practice of laminar and turbulent flow of Newtonian and non-Newtonian fluids in conduits and other equipment. Multi-phase flow. Introduction to the dynamics of suspended particles, drops, bubbles, foams and froth. Selected topics relevant to chemical and other engineering disciplines.
+CourseProfile (ATLAS)
+CHE 528. Chemical Reactor Engineering
+Advisory Prerequisite: CHE 344. Enforced Prerequisite: None. (3 credits)
+Analysis of kinetic, thermal, diffusive and flow factors on reactor performance. Topics include batch, plug flow, backmix reactors, empirical rate expressions, residence time analysis, catalytic reactions, stability and optimization.
+CourseProfile (ATLAS)
+CHE 531. Introduction to Chemoinformatics
+Advisory Prerequisite: Senior or graduate standing, permission by instructor. Enforced Prerequisite: None. (3 credits)
+This course is designed to give students an overview of chemoinformatics techniques, in particular their application in the pharmaceutical industry. Topics include: representation and use of chemical structures, chemical databases, molecular modeling, 3D visualization and computation, ADME/tox prediction and hot topics in the pharmaceutical industry.
+CourseProfile (ATLAS)
+CHE 538. Statistical and Irreversible Thermodynamics
+Advisory Prerequisite: CHE 330. Enforced Prerequisite: None. (3 credits)
+The laws of probability and statistics are applied to microscopic matter to yield properties of macroscopic systems. Relations between classical and statistical thermodynamics are developed. Coupling of irreversible processes is treated through the entropy balance and microscopic reversibility.
+CourseProfile (ATLAS)
+CHE 540. Mathematical Methods for Biological Network Analysis
+Advisory Prerequisite: Senior or graduate standing, permission by instructor. Enforced Prerequisite: None. (3 credits)
+This course focuses on methods and applications. Methods include ordinary differential equations, mathematical programming, Bayesian networks and statistical analysis, etc. Applications to the modeling of various biological systems are discussed and students perform a critical evaluation of current literature as well as hands-on computational projects using high level computing languages.
+CourseProfile (ATLAS)
+CHE 542. Intermediate Transport Phenomena
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (3 credits)
+Foundations of transport phenomena. Heat and mass transfer with chemical reaction in three dimensions, selective motion. Unsteady energy and mass balances in three dimensions. Distributions in more than one variable. Boundary layer theory. Estimation of interfacial transport coefficients. Dispersive flows: Taylor Dispersion. Application to equipment design.
+CourseProfile (ATLAS)
+CHE 543. Advanced Separation Processes
+Advisory Prerequisite: CHE 343. Enforced Prerequisite: None. (3 credits)
+Forces for adsorption, equilibrium adsorption isotherms, sorbent materials, pore size distribution, heterogeneity, predicting mixture adsorption, rate processes in adsorption/adsorbers, adsorber dynamics, cyclic adsorption processes, temperature and pressure swing adsorption, membrane separation processes, polymer membranes, dialysis electrolysis, pervaporation, reverse osmosis, research projects.
+CourseProfile (ATLAS)
+CHE 548. Electrochemical Engineering
+Advisory Prerequisite: CHE 344. Enforced Prerequisite: None. (3 credits)
+Analysis of electrochemical systems from a theoretical and practical point of view. Topics include the application of electrochemical thermodynamics and kinetics to batteries, fuel cells, electroplating, electrosynthesis and corrosion.
+CourseProfile (ATLAS)
+CHE 554 (MATSCIE 554). Computational Methods in MATSCIE and CHE
+Advisory and Enforced Prerequisite: None. (3 credits)
+Broad introduction to the methods of numerical problem solving in Materials Science and Chemical Engineering. Topics include numerical techniques, computer algorithms and the formulation and use of computational approaches for the modeling and analysis of phenomena peculiar to these disciplines.
+CourseProfile (ATLAS)
+CHE 557 (MATSCIE 557). Computational Nanoscience of Soft Matter
+Advisory Prerequisite: Differential equations course, and a statistical thermodynamics or statistical mechanics course. Enforced Prerequisite: None. (3 credits)
+Provides an understanding of strategies, methods, capabilities and limitations of computer simulation as it pertains to the modeling and simulation of soft materials at the nanoscale. The course consists of lectures and hands-on, interactive simulation labs using research codes and commercial codes. Ab initio, molecular dynamics, Monte Carlo and mesoscale methods.
+CourseProfile (ATLAS)
+CHE 558 (MATSCIE 558) (MACROMOL 558). Foundations of Nanotechnology
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+The focus of this course is on the scientific foundations of nanotechnology. The effects of nanoscale dimensions on optical, electrical, and mechanical properties are explained based on atomistic properties and related to applications in electronics, optics, structural materials and medicine. Projects and discussions include startup technological assessment and societal implications of the nanotechnology revolution.
+CourseProfile (ATLAS)
+CHE 559 (MATSCIE 559) (MACROMOL 559). Foundations of Nanotechnology II
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+This course will cover the synthesis and processing of nano-sized metal, metal oxide, and semiconductor powders. It will also include organic/inorganic and nanobiomaterials. Emphasis will be on particle properties and their use in making nonstructured materials with novel properties.
+CourseProfile (ATLAS)
+CHE 563. (BIOMEDE 563) (MATSCIE 563) Biomolecular Engineering of Interfaces
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+This class focuses on biomolecular engineering of surfaces and interfaces in contact with biological systems. Recent advances in the interfacial design of materials as well as methods that enable studying such systems will be highlighted.
+CourseProfile (ATLAS)
+CHE 568. Fuel Cells and Fuel Processors
+Advisory Prerequisite: CHE 344 and senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+This course provides a comprehensive overview of the major fuel cell types, with emphasis on PEM and SOFC fuel cells. The scientific and engineering principles of fuel cell technology and catalytic fuel processing will be covered. The course also reviews hydrogen properties, storage and safety issues.
+CourseProfile (ATLAS)
+CHE 574. Engineering Principles in Drug Delivery and Targeting
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+This course focuses on engineering aspects of designing Drug Delivery and Targeted Systems for human use. Sample topics include: carriers and biocompatibility issues in DDT; passive and active targeting; organ and disease specific targeting; and barriers to use of DDTS. Assessment will include problem sets, a student project and exams.
+CourseProfile (ATLAS)
+CHE 578. Molecular Heterogeneous Catalysis and Electro-Catalysis
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+The course will address numerous topics including: 1) Chemical bonding on metal surfaces; 2) Various experimental and theoretical tools that are used to study chemical transformations on surfaces at molecular level. The material will be discussed through a number of examples addressing contemporary issues related to the fields of energy and environment. We will also discuss strategies that can be utilized to employ molecular insights to identify optimal electrocatalysts for different electrochemical processes.
+CourseProfile (ATLAS)
+CHE 584 (BIOMEDE 584) (BIOMATLS 584). Advances in Tissue Engineering
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (3 credits)
+Fundamentals engineering and biological principles underlying field of tissue engineering are studied, along with specific examples and strategies to engineer specific tissues for clinical use (e.g. skin). Student design teams propose new approaches to tissue engineering challenges.
+CourseProfile (ATLAS)
+CHE 588 (BIOMEDE 588). Global Quality Systems and Regulatory Innovation
+Advisory Prerequisite: Senior or graduate students enrolled in the CoE and health related professional schools. Enforced Prerequisite: None. (2 credits)
+This course is for scientists, engineers, and clinicians to understand and interpret various relevant global and regional quality systems for traditional and cutting edge global health technologies, solutions and their implementation. Speakers from academia, the FDA, and biomedical related industries will be invited to participate in teaching this course.
+CourseProfile (ATLAS)
+CHE 590 (CEE 588). Sustainability Finance: Investment Models for Green Growth
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+The course reviews a range of financial innovations and investment models to scale capital allocations and reduce climate risks in portfolios, while driving green growth.
+CourseProfile (ATLAS)
+CHE 595. Chemical Engineering Research Survey
+Advisory and Enforced Prerequisite: None. (2 credits)
+Explore research activities, developmental workshops and resource orientation geared toward student success. Lectures by guest lecturers and University of Michigan faculty. Topics are drawn from current research interests of the faculty.
+CourseProfile (ATLAS)
+CHE 596 (BIOMEDE 596) (PHARMSCI 596). Health Science and Engineering Seminar
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (1 credit)
+This seminar will feature invited speakers from pharmaceutical, biomedical and other life sciences-related industries, and academic institutions.
+CourseProfile (ATLAS)
+CHE 597 (PHARMACY 597). Regulatory Issues for Scientists, Engineers, and Managers
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (2 credits)
+Science- and technology-based rationale behind various regulatory issues involved in pharmaceutical and related industries.
+CourseProfile (ATLAS)
+CHE 598. Advanced Special Topics in Chemical Engineering
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (2-4 credits)
+Selected topics pertinent to chemical engineering.
+CourseProfile (
+ATLAS
+)
+600 Level Courses
+CHE 601. Chemical Engineering Seminar
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing. (1 credit)
+This seminar will feature various chemical engineering-related speakers.
+CourseProfile (ATLAS)
+CHE 606. Microfluidic Science and Engineering
+Advisory Prerequisite: Graduate standing or permission of instructor. Enforced Prerequisite: None. (3 credits)
+This course exposes students to both the theoretical and applied aspects of microfluidics, with a particular emphasis on designing microfluidic biological assays. The class provides broad exposure to fluid dynamic, surface phenomena and mass transfer concepts related to microfluidics in an effort to provide a theoretical underpinning for microfluidic device design.
+CourseProfile (ATLAS)
+CHE 616 (BIOMEDE 616). Analysis of Chemical Signaling
+Advisory Prerequisite: MATH 216 ad BIOLCHEM 415. Enforced Prerequisite: None. (3 credits)
+Quantitative analysis of chemical signaling systems, including receptor/ligand binding and trafficking, signal transduction and second messenger production and cellular responses such as adhesion and migration.
+CourseProfile (ATLAS)
+CHE 617 (MFG 617). Advanced Biochemical Technology
+Advisory Prerequisite: CHE 517 or permission of instructor. Enforced Prerequisite: None. (3 credits)
+Practical and theoretical aspects of various unit operations required to separate and purify cells, proteins and other biological compounds. Topics covered include various types of chromatography, liquid/liquid extractions, solid/ liquid separations, membrane processing and field-enhanced separations. This course will focus on new and non-traditional separation methods.
+CourseProfile (ATLAS)
+CHE 628. Industrial Catalysis
+Advisory Prerequisite: CHE 528. Enforced Prerequisite: None. (3 credits)
+Theoretical and experimental aspects of heterogeneous catalysis and surface science. Design, preparation, and characterization of catalysts. Kinetics of heterogeneous catalytic reactions, thermal and diffusional effects in catalytic reactors. Case studies of important industrial catalytic processes.
+CourseProfile (ATLAS)
+CHE 629 (PHYSICS 629). Complex Fluids
+Advisory Prerequisite: CHEM 527 and graduate standing. Enforced Prerequisite: None. (3 credits)
+Structure, dynamics, and flow properties of polymers, colloids, liquid crystals and other substances with both liquid and solid-like characteristics.
+CourseProfile (ATLAS)
+CHE 695. Research Problems in Chemical Engineering
+Advisory Prerequisite: Graduate students and admitted SUGS students with graduate advisor’s permission. Enforced Prerequisite: None. (1-16 credits)
+Laboratory and conferences. Provides an opportunity for individual or group work in a particular field or on a problem of special interest to the student. The program of work is arranged at the beginning of each term by mutual agreement between the student and a member of the faculty. Any problem in the field of chemical engineering may be selected. The student writes a final report on his project.
+CourseProfile (ATLAS)
+CHE 696 (ISD 599). Selected Topics in Chemical Engineering
+Advisory and Enforced Prerequisite: None. (1-16 credits)
+Selected topics pertinent to chemical engineering.
+CourseProfile (ATLAS)
+CHE 697. Problems in Chemical Engineering
+Advisory and Enforced Prerequisite: None. (1-16 credits)
+CourseProfile (ATLAS)
+CHE 698. Directed Study in Chemical Engineering
+Advisory and Enforced Prerequisite: None. (1-16 credits)
+This project course is intended to provide students with relevant industrial project experience. The program of work is arranged at the beginning of each term by mutual agreement between the student and a member of the faculty. Any problem in the field of chemical engineering may be selected. The student writes a final report on his project.
+CourseProfile (ATLAS)
+700 Level Courses
+CHE 751 (CHEM 751) (MACROMOL 751) (MATSCIE 751) (PHYSICS 751). Special Topics in Macromolecular Science and Engineering
+Advisory Prerequisite: Graduate standing and permission of instructor. Enforced Prerequisite: None. (2 credits)
+Advanced topics of current interest will be stressed. The specific topics will vary with the instructor.
+CourseProfile (ATLAS)
+900 Level Courses
+CHE 990. Dissertation/Pre-Candidate
+Advisory Prerequisite: Election for dissertation work by doctoral student not yet admitted as a Candidate. Enforced Prerequisite: None. (1-8 credits)
+Dissertation work by doctoral student not yet admitted to status as candidate. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)
+CHE 995. Dissertation/Candidate
+Advisory Prerequisite: None. Enforced Prerequisite: Candidate. (4-8 credits)
+Election for dissertation work by a doctoral student who has been admitted to candidate status. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)
+Energy Systems Engineering Courses
+500 Level Courses
+ESENG 501 (CEE 565) (CHE 501). Seminars on Energy Systems, Technology and Policy
+Advisory Prerequisite: Graduate student or permission by instructor. Enforced Prerequisite: None. (3 credits)
+Provide students with an understanding of the critical issues in energy technologies. Researchers, industry leaders, entrepreneurs, and policymakers discuss technology, policy and economic drivers for sustainable global energy systems.
+CourseProfile (ATLAS)
+ESENG 503.
+Energy Systems Engineering Project
+Advisory Prerequisite: ESENG 501. Enforced
+Prerequisite: None.
+(3 credits)
+This required project course is intended to provide students with a relevant experience in energy systems.
+CourseProfile (ATLAS)
+ESENG 504 (CHE 504). Fuel Cells and Fuel Processors
+Advisory Prerequisite: Graduate student or permission of instructor. Enforced Prerequisite: None. (3 credits)
+Aimed at students interested in the fundamental science and engineering of fuel cells and fuel processors.
+Covers the fundamentals of electrochemistry relevant for fuel cells, and the basics of fuel cell technology. Emphasis will be placed on PEM fuel cells for automotive applications, and on solid oxide fuel cells for auxiliary power units. Concepts in catalysts for fuel reforming, water gas shift, and preferential oxidation of hydrocarbons will be covered, along with hydrogen storage and hydrogen safety.
+CourseProfile (ATLAS)
+ESENG 505 (CHE 502) (MECHENG 571). Energy Generation and Storage Using Modern Materials
+Advisory Prerequisite: MECHENG 382 and MECHENG 335 or equivalent. Enforced
+Prerequisite: None.
+(3 credits)
+Energy storage, with an emphasis on electrochemical storage. Topics include fundamental electrochemistry, materials for electrochemical storage, and system integration. Attention is given to scalability, manufacturing, and the role of storage in enabling reliable and sustainable energy systems.
+CourseProfile (ATLAS)
+ESENG 532 (EAS 574) (ISD 532) (RCNSCI 419) (PUBPOL 519). Sustainable Energy Systems
+Advisory Prerequisite: Senior standing, college level course in math or economics or physical science. Enforced
+Prerequisite: None.
+(3 credits)
+Examines the production and consumption of energy from a systems perspective. Students will examine sustainability by studying global and regional environmental impacts, economics, energy efficiency, consumption patterns and energy policy. The physics of energy and energy accounting methods are introduce, followed by the current energy system that encompasses resource extraction, conversion processes and end-uses. Responses to current challenges such as declining fossil fuels and climate change are then explored, including unconventional fossil fuels, carbon sequestration, emerging technologies (e.g., renewable sources: biomass, wind, and photovoltaics; fuel cells) and end-use efficiency/conse
+
+[truncated supplement]

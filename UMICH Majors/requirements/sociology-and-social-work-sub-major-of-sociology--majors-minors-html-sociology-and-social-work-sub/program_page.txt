@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -41,6 +45,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -2328,21 +2336,6 @@ HUM
 NAT
 SOC
 INT
-Sociology and Social Work (Sub-Major)
-The Sociology and Social Work subplan is intended for students who have an interest in pursuing a career in social work or related helping professions. Much of the content in Sociology—particularly its emphasis on social and economic inequality, processes of social change, and community engagement—serves as an important basis for future studies in social work.
-Students in the Sociology and Social Work subplan may enter an accelerated MSW program at the University of Michigan School of Social Work if they take 12 additional Social Work credits during their senior year. Completion of the Sociology and Social Work subplan and these 12 credits with a B average or better will place them into the School of Social Work’s existing 45-credit accelerated program instead of the more traditional 60-credit MSW program.
-Related Programs
-Sociology Major
-Law, Justice, and Social Change Sub-Major
-Sociology of Health and Medicine Sub-Major
-Law, Justice and Social Change Minor
-Sociology of Health and Medicine Minor
-Community Action and Social Change Minor
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Sociology
 Sociology of Health & Medicine (Sub-Major)
 sm
 SOC

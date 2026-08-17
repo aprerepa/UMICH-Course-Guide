@@ -4,14 +4,24 @@
   "school_college": "School of Public Health",
   "program_url": "https://sph.umich.edu/undergrad/apply/#phs",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+1 course-list supplement: Requirement details and a list of approved courses can be found here)",
   "program_final_url": "https://sph.umich.edu/undergrad/apply/#phs",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://sph.umich.edu/undergrad/degrees/degree-requirements.html",
   "requirements_link_text": "Degree Requirements",
   "requirements_link_score": 215,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://sph.umich.edu/undergrad/degrees/degree-requirements.html",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:48:13.576999+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:34:11.738549+00:00",
+  "supplements_count": 1,
+  "supplements": [
+    {
+      "id": "01-requirement-details-and-a-list-of-approved-courses-can-be-found-here",
+      "url": "https://sph.umich.edu/undergrad/degrees/healthequity.html",
+      "link_text": "Requirement details and a list of approved courses can be found here",
+      "status": "fetched",
+      "chars": 1605
+    }
+  ]
 }

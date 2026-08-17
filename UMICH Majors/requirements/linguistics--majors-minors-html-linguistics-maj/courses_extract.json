@@ -1,0 +1,12 @@
+{
+  "id": "linguistics--majors-minors-html-linguistics-maj",
+  "displayName": "Linguistics",
+  "requirementGroups": {
+    "Required Core Courses": [
+      "LING 313",
+      "LING 315",
+      "LING 316",
+      "LING 497"
+    ]
+  }
+}

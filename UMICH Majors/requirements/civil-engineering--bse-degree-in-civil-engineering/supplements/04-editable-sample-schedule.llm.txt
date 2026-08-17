@@ -1,0 +1,103 @@
+Page header:
+page title: Google Sheet export (all tabs)
+
+Visible page text:
+### Sheet: Civil Sample Schedule
+								revised:11/04/2024
+Civil Engineering Sample Schedule	Credit Hours	Term 1	Term 2	Term 3	Term 4	Term 5	Term 6	Term 7	Term 8
+Subjects Required by all Programs (55 hours)									
+MATH 115, 116, 215, 216	16.0	4.0	4.0	4.0	4.0	-	-	-	-
+ENGR 100, Intro to Engineering	4.0	4.0	-	-	-	-	-	-	-
+ENGR 101, Intro to Computers	4.0	-	4.0	-	-	-	-	-	-
+CHEM 130 & 125/126 or CHEM 210 and 211¹	5.0	5.0	-	-	-	-	-	-	-
+PHYSICS 140 with Lab 141²	5.0	-	5.0	-	-	-	-	-	-
+PHYSICS 240 with Lab 241²	5.0	-	-	5.0	-	-	-	-	-
+Intellectual Breadth (includes ECON 101 or 102)	16.0	4.0	4.0	-	4.0	-	-	-	4.0
+Mathematical Methods (7 hours) +									
+CEE 303, Computational Methods	4.0	-	-	-	-	-	4.0	-	-
+CEE 373, Statistical Methods	3.0	-	-	-	-	3.0	-	-	-
+Required Program Subjects (22 hours)³ +									
+CEE 200, Intro to Civil & Environmental Engineering	1.0	-	-	-	1.0	-	-	-	-
+CEE 211, Statics and Dynamics	4.0	-	-	4.0	-	-	-	-	-
+CEE 212, Solid and Structural Mechanics	3.0	-	-	-	3.0	-	-	-	-
+CEE 230, Thermodynamics and the Environment or
+CEE 375, Sensors and Circuits	3.0	-	-	3          or            3		-	-	-	-
+CEE 265, Sustainable Engineering Principles	3.0	-	-	3          or            3		-	-	-	-
+CEE 325, Fluid Mechanics	4.0	-	-	-	-	4.0	-	-	-
+CEE 402, Professional Issues & Design₆	4.0	-	-	-	-	-	-	-	4.0
+Science Elective (3 hours) +									
+Biology 171 or 172	3.0	-	-	-	-	-	-	3.0	-
+EARTH 119, 201, 222, 284, or 320									
+CEE 482/582, Environmental Microbiology									
+Program Electives (24 hours)⁴ +									
+CEE 312, Structural Engineering	24.0	-	-	-	-	8.0	8.0	8.0	-
+CEE 331, Construction Management									
+CEE 345, Geotechnical Engineering									
+CEE 351, Civil Engineering Materials									
+CEE 365, Environmental Engineering Principles									
+CEE 421, Hydrology and Floodplain Hydraulics									
+CEE 450, Transportation Engineering									
+Technical Electives (6 hours)⁵ +									
+CEE 413, 415, 428, 435, 465, 480, 521 526, 534, 537, 545, 546, 547, 551, 552	6.0	-	-	-	-	-	-	3.0	3.0
+General Electives (11 hours)	11.0	-	-	-	-	-	4.0	3.0	4.0
+Total	128.0	17.0	17.0	16.0	15.0	15.0	16.0	17.0	15.0
+Notes: Courses offered only in the fall term are purple. Courses offered only in the winter term are green.
+(+) Civil Engineering students must earn a C- or better in all courses whose categories are marked with a plus.
+¹- If you have a satisfactory score or grade in Chemistry AP, A-Level, IB Exams, or transfer credit from another institution for CHEM 130/125/126, you will have met the Chemistry Core Requirement for the College of Engineering.
+²- If you have a satisfactory score or grade in Physics AP, A-Level, IB Exams, or transfer credit from another institution for PHYSICS 140/141 and 240/241, you will have met the Physics Core Requirement for the College of Engineering.
+³- CEE may accept equivalent courses offered by other departments in the College of Engineering, with permission from the program advisor.
+⁴- At least six of the seven program electives are required.
+⁵- A seventh program elective may count as a technical elective.
+⁶ - CEE 402 must be taken in the last Winter semester.
+
+### Sheet: Civil Prerequisite Schedule
+Civil Engineering BSE			
+Subject	Prerequisite(s)	Must Be Taken Before	Term(s) Offered
+College Requirements			
+MATH 115		MATH 116, PHYSICS 140	Fall, Winter, Spring, Summer
+MATH 116	MATH 115	MATH 215, 216; PHYSICS 240; CEE 230, CEE 265	Fall, Winter, Spring, Summer
+MATH 215	MATH 116	CEE 373, CEE 450	Fall, Winter, Spring, Summer
+MATH 216	MATH 116	CEE 303, CEE 373	Fall, Winter, Spring, Summer
+ENGR 100			Fall, Winter
+ENGR 101	Prior or concurrent enrollment in MATH 115	CEE 303	Fall, Winter
+CHEM 130		CEE 230, CEE 265	Fall, Winter, Spring
+CHEM 125/126		CEE 230	Fall, Winter, Spring
+PHYSICS 140/141	MATH 115	CEE 211, PHYSICS 240	Fall, Winter, Spring
+PHYSICS 240/241	PHYSICS 140, MATH 116	CEE 375, CEE 450	Fall, Winter, Spring
+Mathematical Methods			
+CEE 303	MATH 215, 216; ENGR 101	CEE 421	Winter
+CEE 373	MATH 215, MATH 216 C or better	CEE 552	Fall
+Required Program Subjects			
+CEE 200			Fall, Winter
+CEE 211	PHYSICS 140	CEE 212, CEE 325	Fall, Winter
+CEE 212	CEE 211	CEE 312, CEE 345, CEE 351, & CEE 574	Fall, Winter
+CEE 230	MATH 116, CHEM 130 & 125/126 or CHEM 210 & 211		Fall
+CEE 265	MATH 116, CHEM 130	CEE 365	Fall, Winter
+CEE 325	CEE 211	CEE 421, CEE 428, CEE 465,& CEE 526	Fall, Winter
+CEE 375	PHYSICS 240		Winter
+CEE 402	Senior Standing		Winter
+Program Electives			
+CEE 312	CEE 212	CEE 413, CEE 415	Fall
+CEE 331	Junior Standing	CEE 435, CEE 534	Winter
+CEE 345	PHYSICS 140,	CEE 545, CEE 546, & CEE 547	Fall, Winter
+CEE 351	CEE 212		Fall, Winter
+CEE 365	CHEM 130, MATH 116, CEE 265	CEE 465	Fall
+CEE 421	CEE 303, CEE 325		Fall
+CEE 450	 MATH 215 (C or better), CEE 373, or Equivalent 	CEE 551, CEE 552	Winter
+Technical Electives			
+CEE 413	CEE 312		Fall
+CEE 415	CEE 312		Winter
+CEE 428	CEE 325, (CEE 345 or CEE 366)		Fall
+CEE 435	CEE 331 C or better		Fall
+CEE 465	CEE 325, CEE 365	CEE 480	Fall
+CEE 480	CEE 465		Fall
+CEE 521	CEE 325 or equivalent, and CEE 421		Winter
+CEE 526	CEE 325		Winter
+CEE 534	CEE 331, Junior Standing		Winter
+CEE 537	CEE 331 and CEE 351		Winter
+CEE 545	CEE 345		Fall
+CEE 546	CEE 345		Winter
+CEE 547	CEE 345		Fall
+CEE 551	CEE 450 C or better		Fall
+CEE 552	CEE 373, CEE 450 C or better		Fall
+Unless otherwise noted, a grade of C- is required for prerequisites.

@@ -1,0 +1,19 @@
+{
+  "id": "mechanical-engineering",
+  "displayName": "Mechanical Engineering",
+  "groupRules": {
+    "CoE Core Courses": {
+      "minCredits": 52
+    },
+    "Intellectual Breadth": {
+      "minCredits": 16
+    },
+    "Technical Electives": {
+      "minCredits": 9
+    },
+    "Electrical Circuits": {
+      "minCourses": 1,
+      "minCredits": 4
+    }
+  }
+}

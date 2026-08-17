@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-editable-ce-sample-schedule",
+    "url": "https://docs.google.com/spreadsheets/d/1iF3Su4IUN9w_HfgjUfxhuC4aEONVeHQzm4N-4NdUvmA/edit?usp=sharing",
+    "link_text": "Editable CE Sample Schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (4468 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1iF3Su4IUN9w_HfgjUfxhuC4aEONVeHQzm4N-4NdUvmA/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 4468
+  },
+  {
+    "id": "02-after-arrival-checklist",
+    "url": "https://ece.engin.umich.edu/academics/graduate-programs/new-student-info/after-arrival/",
+    "link_text": "After Arrival Checklist",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (1018 chars)",
+    "final_url": "https://ece.engin.umich.edu/academics/graduate-programs/new-student-info/after-arrival/",
+    "fetch_mode": "http",
+    "chars": 1018
+  },
+  {
+    "id": "03-before-arrival-checklist",
+    "url": "https://ece.engin.umich.edu/academics/graduate-programs/new-student-info/before-arrival/",
+    "link_text": "Before Arrival Checklist",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (1619 chars)",
+    "final_url": "https://ece.engin.umich.edu/academics/graduate-programs/new-student-info/before-arrival/",
+    "fetch_mode": "http",
+    "chars": 1619
+  },
+  {
+    "id": "04-fall-winter-teaching-assighments-gid1434186160",
+    "url": "https://docs.google.com/spreadsheets/d/19bQmYvBBOfN0yFeBObREjUdTiqKIv5vkL3cJ3Y3DIF8/edit#gid=1434186160",
+    "link_text": "Fall /Winter Teaching Assighments",
+    "score": 100,
+    "status": "failed",
+    "message": "Client error '401 Unauthorized' for url 'https://docs.google.com/spreadsheets/d/19bQmYvBBOfN0yFeBObREjUdTiqKIv5vkL3cJ3Y3DIF8/export?format=tsv&gid=1434186160'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401",
+    "final_url": null,
+    "fetch_mode": null,
+    "chars": 0
+  },
+  {
+    "id": "05-spring-teaching-assignments-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1K_lab-c7YdotTOzQyKu1pMuVyrZA2AVHHLDfG0GQYGw/edit#gid=0",
+    "link_text": "Spring Teaching Assignments",
+    "score": 100,
+    "status": "failed",
+    "message": "Client error '401 Unauthorized' for url 'https://docs.google.com/spreadsheets/d/1K_lab-c7YdotTOzQyKu1pMuVyrZA2AVHHLDfG0GQYGw/export?format=tsv&gid=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401",
+    "final_url": null,
+    "fetch_mode": null,
+    "chars": 0
+  },
+  {
+    "id": "06-edit-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1iF3Su4IUN9w_HfgjUfxhuC4aEONVeHQzm4N-4NdUvmA/edit#gid=0",
+    "link_text": "here",
+    "score": 100,
+    "status": "fetched",
+    "message": "ok (1749 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1iF3Su4IUN9w_HfgjUfxhuC4aEONVeHQzm4N-4NdUvmA/edit#gid=0",
+    "fetch_mode": "http",
+    "chars": 1749
+  },
+  {
+    "id": "07-grad-course-list",
+    "url": "https://ece.engin.umich.edu/academics/course-information/graduate-course-list/",
+    "link_text": "Grad Course List",
+    "score": 100,
+    "status": "fetched",
+    "message": "ok (7596 chars)",
+    "final_url": "https://ece.engin.umich.edu/academics/course-information/graduate-course-list/",
+    "fetch_mode": "browser",
+    "chars": 7596
+  },
+  {
+    "id": "08-grad-cognate-courses",
+    "url": "https://ece.engin.umich.edu/academics/course-information/graduate-course-list/grad-cognate-courses/",
+    "link_text": "Grad Cognate Courses",
+    "score": 80,
+    "status": "fetched",
+    "message": "ok (3739 chars)",
+    "final_url": "https://ece.engin.umich.edu/academics/course-information/graduate-course-list/grad-cognate-courses/",
+    "fetch_mode": "http",
+    "chars": 3739
+  }
+]

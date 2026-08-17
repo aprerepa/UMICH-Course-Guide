@@ -1,0 +1,49 @@
+{
+  "id": "physics--majors-minors-html-physics-maj",
+  "displayName": "Physics",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "PHYSICS 140",
+              "PHYSICS 160"
+            ]
+          },
+          {
+            "anyOf": [
+              "PHYSICS 141",
+              "PHYSICS 161"
+            ]
+          },
+          {
+            "anyOf": [
+              "PHYSICS 240",
+              "PHYSICS 260"
+            ]
+          },
+          {
+            "anyOf": [
+              "PHYSICS 241",
+              "PHYSICS 261"
+            ]
+          }
+        ]
+      }
+    },
+    "Intermediate Courses Requirement": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Advanced Courses Requirement": {
+      "minCourses": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Elective Requirement": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

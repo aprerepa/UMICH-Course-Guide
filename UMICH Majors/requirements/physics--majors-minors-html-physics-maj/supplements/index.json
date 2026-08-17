@@ -1,0 +1,68 @@
+[
+  {
+    "id": "01-physics-major-checklist-document-pre-fa26",
+    "url": "https://docs.google.com/document/d/1M98W1jIklPxD4s_8IYFr4qNs13BH9C9ORXQAs78RWhc/edit?usp=sharing",
+    "link_text": "Physics Major Checklist Document - Pre-FA26",
+    "score": 130,
+    "status": "fetched",
+    "message": "ok (3795 chars)",
+    "final_url": "https://docs.google.com/document/d/1M98W1jIklPxD4s_8IYFr4qNs13BH9C9ORXQAs78RWhc/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 3795
+  },
+  {
+    "id": "02-physics-major-checklist-document-fa26-and-beyond",
+    "url": "https://docs.google.com/document/d/1Ok7AxNbnEm5JTMaGarsp9zy3DsM-Fc5FUgQkEFwF7Xo/edit?usp=sharing",
+    "link_text": "Physics Major Checklist Document - FA26 and Beyond",
+    "score": 130,
+    "status": "fetched",
+    "message": "ok (2790 chars)",
+    "final_url": "https://docs.google.com/document/d/1Ok7AxNbnEm5JTMaGarsp9zy3DsM-Fc5FUgQkEFwF7Xo/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 2790
+  },
+  {
+    "id": "03-physics-minor-checklist-document",
+    "url": "https://docs.google.com/document/d/1iXg9o8HA0QEeAYR5fAJZmHGEAFOHF6UyY9oAkjM_X_0/edit?usp=sharing",
+    "link_text": "Physics Minor Checklist Document",
+    "score": 130,
+    "status": "fetched",
+    "message": "ok (1029 chars)",
+    "final_url": "https://docs.google.com/document/d/1iXg9o8HA0QEeAYR5fAJZmHGEAFOHF6UyY9oAkjM_X_0/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 1029
+  },
+  {
+    "id": "04-interdisciplinary-physics-checklist-document",
+    "url": "https://docs.google.com/document/d/1p4XiaWTOG6IbLJpLG3brhRf53BQ_a-tfS3KJvbZs0xI/edit?usp=sharing",
+    "link_text": "Interdisciplinary Physics Checklist Document",
+    "score": 130,
+    "status": "fetched",
+    "message": "ok (2600 chars)",
+    "final_url": "https://docs.google.com/document/d/1p4XiaWTOG6IbLJpLG3brhRf53BQ_a-tfS3KJvbZs0xI/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 2600
+  },
+  {
+    "id": "05-courses",
+    "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (4215 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "fetch_mode": "http",
+    "chars": 4215
+  },
+  {
+    "id": "06-browse-copies-of-past-lsa-bulletins",
+    "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "link_text": "Browse copies of past LSA bulletins",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (3662 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "fetch_mode": "browser",
+    "chars": 3662
+  }
+]

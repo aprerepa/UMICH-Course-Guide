@@ -4,14 +4,73 @@
   "school_college": "College of Engineering",
   "program_url": "https://cee.engin.umich.edu/undergraduate-studies/bse-degree-in-civil-engineering/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+8 course-list supplements: sample schedule here, sample schedule here., Editable sample schedule)",
   "program_final_url": "https://cee.engin.umich.edu/undergraduate-studies/major-in-civil-engineering/",
-  "program_fetch_mode": "browser",
-  "requirements_url": "https://docs.google.com/spreadsheets/d/1-QNF4On-_HMpmoN8zlrrVnOKx-tfUAuHZFiHIN-saHA/edit?usp=sharing",
-  "requirements_link_text": "Editable sample schedule",
-  "requirements_link_score": 115,
+  "program_fetch_mode": "http",
+  "requirements_url": "https://bulletin.engin.umich.edu/courses/cee/",
+  "requirements_link_text": "CEE Course Guide",
+  "requirements_link_score": 145,
   "requirements_link_strategy": "page",
-  "requirements_final_url": "https://docs.google.com/spreadsheets/d/1-QNF4On-_HMpmoN8zlrrVnOKx-tfUAuHZFiHIN-saHA/edit?usp=sharing",
+  "requirements_final_url": "https://bulletin.engin.umich.edu/courses/cee/",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T15:33:17.126079+00:00"
+  "fetched_at": "2026-08-10T15:59:23.868233+00:00",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-sample-schedule-here",
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/06/Civil-Engineering-Sample-Schedule_AY202526_Final.pdf",
+      "link_text": "sample schedule here",
+      "status": "fetched",
+      "chars": 5791
+    },
+    {
+      "id": "02-sample-schedule-here",
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/06/CEE-Env-Eng-BSE-Program_Sample-Schedule_6.11.2026.pdf",
+      "link_text": "sample schedule here.",
+      "status": "fetched",
+      "chars": 7315
+    },
+    {
+      "id": "03-editable-sample-schedule",
+      "url": "https://docs.google.com/spreadsheets/d/1-QNF4On-_HMpmoN8zlrrVnOKx-tfUAuHZFiHIN-saHA/edit?usp=sharing",
+      "link_text": "Editable sample schedule",
+      "status": "fetched",
+      "chars": 6583
+    },
+    {
+      "id": "04-editable-sample-schedule",
+      "url": "https://docs.google.com/spreadsheets/d/1_BmdTc3e02kdAsrN5xE8IjoTtB4N1KcLspOLLddyOZY/edit?usp=sharing",
+      "link_text": "Editable sample schedule",
+      "status": "fetched",
+      "chars": 5337
+    },
+    {
+      "id": "05-https-bulletin-engin-umich-edu-courses-course-info",
+      "url": "https://bulletin.engin.umich.edu/courses/course-info/",
+      "link_text": "https://bulletin.engin.umich.edu/courses/course-info/",
+      "status": "fetched",
+      "chars": 3397
+    },
+    {
+      "id": "06-schedule-of-classes-office-of-the-registrar",
+      "url": "http://www.ro.umich.edu/schedule",
+      "link_text": "Schedule of Classes | Office of the Registrar",
+      "status": "fetched",
+      "chars": 1878
+    },
+    {
+      "id": "07-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CEE%20200/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "08-courseprofile-atlas",
+      "url": "https://atlas.ai.umich.edu/course/CEE%20211/",
+      "link_text": "CourseProfile (ATLAS)",
+      "status": "fetched",
+      "chars": 59
+    }
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "spanish",
+  "displayName": "Spanish",
+  "requirementGroups": {
+    "Prerequisites": [
+      "SPANISH 277",
+      "SPANISH 278",
+      "RCLANG 324"
+    ]
+  },
+  "openGroups": {
+    "Prerequisites": {
+      "subjects": [
+        "SPANISH",
+        "RCLANG"
+      ],
+      "minLevel": 277
+    }
+  }
+}

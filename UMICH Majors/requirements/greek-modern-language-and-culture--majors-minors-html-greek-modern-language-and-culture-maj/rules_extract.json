@@ -1,0 +1,26 @@
+{
+  "id": "greek-modern-language-and-culture--majors-minors-html-greek-modern-language-and-culture-maj",
+  "displayName": "Greek (Modern) Language and Culture",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          "GREEKMOD 101",
+          "GREEKMOD 102"
+        ]
+      }
+    },
+    "Modern Greek Language": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Modern Greek Literature and Culture": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Structure course": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

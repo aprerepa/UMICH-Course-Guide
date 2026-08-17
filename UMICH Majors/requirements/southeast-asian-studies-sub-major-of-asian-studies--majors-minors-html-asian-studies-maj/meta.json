@@ -4,15 +4,60 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#asian_studies-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+6 course-list supplements: Course Information and Policies, Course Information and Policies, filterable course list)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#asian_studies-maj",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/asian-studies-major.html",
   "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
+  "requirements_link_score": 65,
   "requirements_link_strategy": "lsa_listing:lsa_detail",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/asian-studies-major.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:49:42.178784+00:00",
-  "lsa_resolved_row_id": "asian_studies-maj"
+  "fetched_at": "2026-08-10T16:38:51.042016+00:00",
+  "lsa_resolved_row_id": "asian_studies-maj",
+  "supplements_count": 6,
+  "supplements": [
+    {
+      "id": "01-course-information-and-policies",
+      "url": "http://lsa.umich.edu/asian/undergraduates/course-information-and-policies.html",
+      "link_text": "Course Information and Policies",
+      "status": "fetched",
+      "chars": 6967
+    },
+    {
+      "id": "02-course-information-and-policies",
+      "url": "http://www.lsa.umich.edu/asian/undergraduates/course-information-and-policies.html",
+      "link_text": "Course Information and Policies",
+      "status": "fetched",
+      "chars": 6967
+    },
+    {
+      "id": "03-filterable-course-list",
+      "url": "http://lsa.umich.edu/asian/undergraduates/course-gallery1/course-list1.html",
+      "link_text": "filterable course list",
+      "status": "fetched",
+      "chars": 986
+    },
+    {
+      "id": "04-this-spreadsheet",
+      "url": "https://docs.google.com/spreadsheets/d/1UFBx_SAgmmWuFQdnYfqG_-ftYQTXbLyxca7_fIOG07Y/edit?usp=sharing",
+      "link_text": "this spreadsheet",
+      "status": "fetched",
+      "chars": 20678
+    },
+    {
+      "id": "05-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4071
+    },
+    {
+      "id": "06-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3806
+    }
+  ]
 }

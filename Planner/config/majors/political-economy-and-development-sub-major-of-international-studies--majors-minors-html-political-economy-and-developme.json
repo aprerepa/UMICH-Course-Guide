@@ -1,0 +1,15 @@
+{
+  "id": "political-economy-and-development-sub-major-of-international-studies--majors-minors-html-political-economy-and-developme",
+  "displayName": "Political Economy and Development (Sub-major of International Studies)",
+  "requirementGroups": {
+    "Program Core": [
+      "INTLSTD 301",
+      "INTLSTD 300",
+      "INTLSTD 341",
+      "INTLSTD 401"
+    ],
+    "Research Design Course": [
+      "INTLSTD 390"
+    ]
+  }
+}

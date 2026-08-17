@@ -19,10 +19,6 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 About
 Academics
 Research
@@ -50,10 +46,6 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 for
 Prospective Students
 Current Students
@@ -849,6 +841,23 @@ HUM
 NAT
 SOC
 INT
+Data Science (Major)
+Data Science is a multidisciplinary undergraduate major, co-located in the College of Engineering (CoE) and the College of Literature, Science, and the Arts (LSA) and is jointly managed by the Division of Computer Science and Engineering (CSE) in the College of Engineering (CoE) and the Department of Statistics in LSA. The students from CoE will receive a BSE in Data Science and the students in LSA will receive a B.S. with a Data Science major.
+The program draws on our expertise in Computer Science, Statistics, and Mathematics, complementing them with exposure to application domains to provide a multidisciplinary degree to develop future generations of data scientists. To provide exposure to application domains and to broader issues in data science, the data science program will include technical electives from LSA, Engineering, School of Information, and other U-M schools and colleges.
+The undergraduate program in Data Science will provide sufficient background in mathematics (linear algebra and advanced calculus) and build a strong foundation in data science, covering data structures, algorithms, database management, and machine learning (courses in Computer Science) and data collection, data mining, modeling, and inference (Statistics). The Data Science program is designed to produce students with a deeper and broad intellectual understanding of both statistical and computing principles when working with big data, with those principles being applicable to a variety of domains. Students completing this program should be able to:
+find excellent data science jobs across a range of industries, including biotechnology, business analytics, financial services, government, manufacturing and medicine;
+attend graduate schools to pursue research in data science-related areas.
+Related Programs
+Computer Science Major
+Computer Science Minor
+Data Science Minor
+Statistics Major
+Statistics Minor
+REQUIREMENTS
+WEBSITE
+ADVISING
+DEPARTMENT/PROGRAM
+LSA Statistics
 Data Science  (Minor)
 m
 NAT

@@ -1,0 +1,62 @@
+Page header:
+page title: Google Sheet export
+
+Visible page text:
+Robotics Engineering Sample Schedule							
+To edit this Sample Schedule, make a copy of this sheet to your own Google Drive.  Click File > Make a Copy.							
+Please note: This sample schedule is based off of the CoE Bulletin and can be found on the EAC Website.  Changes may occur, and students need to work with their Major Advisors to create a plan for completing requirement.  This document has multiple tabs.  Use Alt ^ to switch tabs.  See the next tab for CoE General Requirements.							
+							
+Sample Schedules for all majors can be found on the							
+EAC Website							
+Pre-UM Credit (if applicable)	Course	Credits	Course	Credits	Course	Credits	Pre-UM Credit (if applicable)
+							
+							
+							
+							
+	Total	0	Total	0	Total	0	
+							
+	Cumulative Totals:	0		0		0	
+							
+First Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	First Year
+	Math 115	4	Math 116	4			
+	Rob 101 or Math 214	4	Physics 140/141	5			
+	Engr 101 or Rob 102	4	Engr 100	4			
+	Intellectual Breadth	4	General Elective	3			
+							
+							
+	Term Totals:	16		16		0	
+							
+	Cumulative Totals:	16		32		32	
+							
+Second Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Second Year
+	Math 216	4	Rob 204	4			
+	Physics 240/241	5	IOE 265	3			
+	Intellectual Breadth	4	EECS 215/270 or BIOMEDE 211	4			
+	EECS 280	4	Chem 130/125/126	5			
+							
+							
+	Term Totals:	17		16		0	
+							
+	Cumulative Totals:	49		65		65	
+							
+Third Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Third Year
+	Rob 311	4	Rob 310	4			
+	Rob 340	4	MECHENG 240/360 or BIOMEDE 231	4			
+	NAVARCH 270	4	Upper Level Rob Elective	4			
+	Intellectual Breadth	4	General Elective	4			
+							
+							
+	Term Totals:	16		16		0	
+							
+	Cumulative Totals:	81		97		97	
+							
+Fourth Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Fourth Year
+	Rob 330	4	Rob 320	4			
+	TCHNCLCM 350	3	Rob 450/EECS 467	4			
+	Upper Level Rob Elective	4	Upper Level Rob Elective	4			
+	General Elective	4	Intellectual Breadth	4			
+							
+							
+	Term Totals:	15		16		0	
+							
+	Cumulative Totals:	112		128		128

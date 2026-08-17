@@ -4,14 +4,73 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/rc/curriculum/social-theory-and-practice--stp-.html",
   "status": "fetched",
-  "message": "requirements page ready for LLM (program URL)",
+  "message": "requirements page ready for LLM (+8 course-list supplements: RCSTP 490: STP Capstone Class, course list, AmCult 300)",
   "program_final_url": "https://lsa.umich.edu/rc/curriculum/social-theory-and-practice--stp-.html",
-  "program_fetch_mode": "browser",
-  "requirements_url": "https://lsa.umich.edu/rc/curriculum/social-theory-and-practice--stp-.html",
-  "requirements_link_text": "(program page is requirements)",
-  "requirements_link_score": 200,
-  "requirements_link_strategy": "program_is_requirements",
-  "requirements_final_url": "https://lsa.umich.edu/rc/curriculum/social-theory-and-practice--stp-.html",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:48:56.253458+00:00"
+  "program_fetch_mode": "http",
+  "requirements_url": "https://docs.google.com/document/d/12UpY1aP7JPmmBKRtmPYNsVyxDRIEuaxpH2vdza_auzo/edit",
+  "requirements_link_text": "(program page is requirements) \u2192 STP Major Checklist",
+  "requirements_link_score": 275,
+  "requirements_link_strategy": "program_is_requirements\u2192google_doc",
+  "requirements_final_url": "https://docs.google.com/document/d/12UpY1aP7JPmmBKRtmPYNsVyxDRIEuaxpH2vdza_auzo/edit",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:36:53.471394+00:00",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-rcstp-490-stp-capstone-class",
+      "url": "https://atlas.ai.umich.edu/courses/RCSTP490/2560/",
+      "link_text": "RCSTP 490: STP Capstone Class",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "02-course-list",
+      "url": "https://docs.google.com/rc",
+      "link_text": "course list",
+      "status": "fetched",
+      "chars": 89
+    },
+    {
+      "id": "03-amcult-300",
+      "url": "https://atlas.ai.umich.edu/courses/AMCULT300/2560/",
+      "link_text": "AmCult 300",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "04-anthrcul-359",
+      "url": "https://atlas.ai.umich.edu/courses/ANTHRCUL359/2560/",
+      "link_text": "AnthrCul 359",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "05-qmss-201",
+      "url": "https://atlas.ai.umich.edu/courses/QMSS201/2560/",
+      "link_text": "QMSS 201",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "06-rcstp-101",
+      "url": "https://atlas.ai.umich.edu/courses/RCSTP101/2560/",
+      "link_text": "RCSTP 101",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "07-rcstp-260",
+      "url": "https://atlas.ai.umich.edu/courses/RCSTP260/2520/",
+      "link_text": "RCSTP 260",
+      "status": "fetched",
+      "chars": 59
+    },
+    {
+      "id": "08-rcstp",
+      "url": "https://atlas.ai.umich.edu/courses/RCSTP290/2520/",
+      "link_text": "RCSTP",
+      "status": "fetched",
+      "chars": 59
+    }
+  ]
 }

@@ -27,7 +27,7 @@ IOE SURE Project 1:
 Influence of morphological variation on the brain’s response to impact: an AI-driven human digital twin study
 Faculty mentor:
 Jingwen Hu,
-jwhu@umich.edu
+[email protected]
 Students needed:
 1-2
 Prerequisites:
@@ -39,7 +39,7 @@ IOE SURE Project 2:
 Evaluating emotion regulation strategy selection for dynamic driving anger
 Faculty mentor:
 Manhua Wang,
-manhuaw@umich.edu
+[email protected]
 Students needed:
 2
 Prerequisites:
@@ -51,7 +51,7 @@ IOE SURE Project 3:
 Improving radiotherapy treatments with optimization tools
 Faculty mentor:
 Marina Epelman,
-mepelman@umich.edu
+[email protected]
 and
 Daniel Polan
 (co-supervisor)
@@ -64,7 +64,7 @@ This is a joint project with Michigan Medicine Radiation Oncology group, co-supe
 IOE SURE Project 4: EV battery modeling, simulation and prognostic analysis
 Faculty mentor:
 Judy Jin,
-jhjin@umich.edu
+[email protected]
 Students needed:
 1-2
 Prerequisites:
@@ -78,7 +78,7 @@ IOE SURE Project 5:
 Optimizing human-automation interaction: evaluating augmented reality and virtual reality display interfaces for enhanced performance
 Faculty mentor:
 Amelia Warden,
-acwarden@umich.ed
+[email protected]
 u
 Students needed:
 2-3
@@ -97,7 +97,7 @@ IOE SURE Project 6:
 Exploring the role of clutter and salience with complex displays
 Faculty mentor:
 Amelia Warden,
-acwarden@umich.ed
+[email protected]
 u
 Students needed:
 1-2
@@ -115,7 +115,7 @@ IOE SURE Project 7:
 Applications of industrial engineering and data analytics to medical decision making and health care
 Faculty mentor:
 Mariel Lavieri,
-lavieri@umich.edu
+[email protected]
 Students needed:
 1
 Prerequisites:
@@ -133,7 +133,7 @@ IOE SURE Project 8:
 Advancing health care system efficiency and patient safety through applied engineering research
 Faculty mentor:
 Amy Cohn,
-amycohn@umich.edu
+[email protected]
 Students needed:
 3
 Prerequisites:
@@ -146,7 +146,7 @@ IOE SURE Project 9:
 WinAI: Propelling UM Soccer with Data-Driven AI
 Faculty mentor:
 Albert Berahas,
-aberahas@umich.edu
+[email protected]
 Students needed:
 1-2
 Prerequisites:
@@ -157,7 +157,7 @@ IOE SURE Project 10:
 Evaluations of human-robot-automation teams
 Faculty mentor:
 Leia Stirling,
-leias@umich.edu
+[email protected]
 Students needed:
 3
 Prerequisites:

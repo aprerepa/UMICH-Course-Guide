@@ -1,0 +1,24 @@
+[
+  {
+    "id": "01-culture-and-media-approved-courses",
+    "url": "https://lsa.umich.edu/anthro/undergraduates/anthropology-major/culture-and-media-sub-major.html",
+    "link_text": "Culture and Media approved courses",
+    "score": 130,
+    "status": "fetched",
+    "message": "ok (6414 chars)",
+    "final_url": "https://lsa.umich.edu/anthro/undergraduates/anthropology-major/culture-and-media-sub-major.html",
+    "fetch_mode": "browser",
+    "chars": 6414
+  },
+  {
+    "id": "02-anthropology-department-website",
+    "url": "https://lsa.umich.edu/anthro/undergraduates/anthropology-major.html",
+    "link_text": "Anthropology Department website",
+    "score": 95,
+    "status": "fetched",
+    "message": "ok (4448 chars)",
+    "final_url": "https://lsa.umich.edu/anthro/undergraduates/anthropology-major.html",
+    "fetch_mode": "browser",
+    "chars": 4448
+  }
+]

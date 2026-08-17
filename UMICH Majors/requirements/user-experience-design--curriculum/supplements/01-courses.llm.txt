@@ -1,0 +1,17 @@
+Page header:
+page title: Courses | umsi
+description: Browse the School of Information course catalog to see classes available to undergraduate, graduate and doctoral students, including syllabi.
+
+Visible page text:
+Courses
+The UMSI course catalog is currently under construction! We will have a new catalog available next term.
+For now, please use this spreadsheet to find the most up-to-date course information. Scroll to the left for more course details. Study abroad courses and SIADS (MADS) courses can be found by changing tabs at the bottom of the spreadsheet.
+You can also browse courses and plan your schedule using
+U-M’s Atlas Schedule Builder
+.
+Undergraduate courses
+Graduate (MSI/MHI) and Doctoral courses
+MADS courses
+Study abroad courses
+Special Topics
+View Full Screen

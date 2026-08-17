@@ -1,0 +1,22 @@
+{
+  "id": "judaic-studies",
+  "displayName": "Judaic Studies",
+  "groupRules": {
+    "Core": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "anyOf": [
+          "JUDAIC 205",
+          "JUDAIC 210",
+          "JUDAIC 281"
+        ]
+      }
+    },
+    "Electives": {
+      "minCredits": 28,
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

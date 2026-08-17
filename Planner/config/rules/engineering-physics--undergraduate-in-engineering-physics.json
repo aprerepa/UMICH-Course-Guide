@@ -1,0 +1,136 @@
+{
+  "id": "engineering-physics--undergraduate-in-engineering-physics",
+  "displayName": "Engineering Physics",
+  "groupRules": {
+    "Mathematics Core": {
+      "require": {
+        "allOf": [
+          "MATH 115",
+          "MATH 116",
+          "MATH 215",
+          "MATH 216"
+        ]
+      },
+      "minCredits": 16,
+      "countsTowardMajorTotal": true
+    },
+    "Engineering Core": {
+      "require": {
+        "allOf": [
+          "ENGR 100",
+          "ENGR 101"
+        ]
+      },
+      "minCredits": 8,
+      "countsTowardMajorTotal": true
+    },
+    "Chemistry Core": {
+      "require": {
+        "anyOf": [
+          {
+            "allOf": [
+              "CHEM 125",
+              "CHEM 126",
+              "CHEM 130"
+            ]
+          },
+          {
+            "allOf": [
+              "CHEM 210",
+              "CHEM 211"
+            ]
+          }
+        ]
+      },
+      "minCredits": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Physics Core": {
+      "require": {
+        "allOf": [
+          {
+            "allOf": [
+              "PHYSICS 140",
+              "PHYSICS 141"
+            ]
+          },
+          {
+            "allOf": [
+              "PHYSICS 240",
+              "PHYSICS 241"
+            ]
+          }
+        ]
+      },
+      "minCredits": 10,
+      "countsTowardMajorTotal": true
+    },
+    "Advanced Mathematics": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Related Technical Subjects": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "MATSCIE 250",
+              "MATSCIE 220"
+            ]
+          },
+          {
+            "anyOf": [
+              "EECS 314",
+              "EECS 215"
+            ]
+          }
+        ]
+      },
+      "minCredits": 8,
+      "countsTowardMajorTotal": true
+    },
+    "Physics Technical Subjects": {
+      "require": {
+        "allOf": [
+          "PHYSICS 340",
+          "PHYSICS 316",
+          {
+            "anyOf": [
+              "PHYSICS 390",
+              "NERS 311"
+            ]
+          },
+          "PHYSICS 401",
+          "PHYSICS 405",
+          "PHYSICS 406"
+        ]
+      },
+      "minCredits": 23,
+      "countsTowardMajorTotal": true
+    },
+    "Physics Lab Elective": {
+      "minCourses": 1,
+      "minCredits": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Physics Elective": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Engineering Concentration": {
+      "minCredits": 20,
+      "countsTowardMajorTotal": true
+    },
+    "Engineering Laboratory Elective": {
+      "minCourses": 1,
+      "minCredits": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Technical Electives": {
+      "minCredits": 7,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

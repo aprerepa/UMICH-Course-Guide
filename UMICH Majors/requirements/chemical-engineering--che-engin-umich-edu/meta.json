@@ -4,7 +4,7 @@
   "school_college": "College of Engineering",
   "program_url": "https://che.engin.umich.edu/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+3 course-list supplements: ChE Program Scheduling Worksheet, Sample Schedule, Engineering Elective Requirements)",
   "program_final_url": "https://che.engin.umich.edu/",
   "program_fetch_mode": "browser",
   "requirements_url": "https://che.engin.umich.edu/undergraduate/requirements/",
@@ -12,6 +12,30 @@
   "requirements_link_score": 295,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://che.engin.umich.edu/undergraduate/requirements/",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:33:00.340998+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T15:58:51.893543+00:00",
+  "supplements_count": 3,
+  "supplements": [
+    {
+      "id": "01-che-program-scheduling-worksheet",
+      "url": "https://che.engin.umich.edu/wp-content/uploads/sites/5/2023/09/CHE-PROGRAM-SCHEDULING-WORKSHEET.pdf",
+      "link_text": "ChE Program Scheduling Worksheet",
+      "status": "fetched",
+      "chars": 1704
+    },
+    {
+      "id": "02-sample-schedule",
+      "url": "https://che.engin.umich.edu/wp-content/uploads/sites/5/2023/09/Sample-Schedule.pdf",
+      "link_text": "Sample Schedule",
+      "status": "fetched",
+      "chars": 3272
+    },
+    {
+      "id": "03-engineering-elective-requirements",
+      "url": "https://che.engin.umich.edu/wp-content/uploads/sites/5/2026/05/Engineering-Electives-Doc.pdf",
+      "link_text": "Engineering Elective Requirements",
+      "status": "fetched",
+      "chars": 2939
+    }
+  ]
 }

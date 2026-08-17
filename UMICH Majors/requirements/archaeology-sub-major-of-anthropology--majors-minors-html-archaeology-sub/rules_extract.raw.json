@@ -1,0 +1,48 @@
+{
+  "id": "archaeology-sub-major-of-anthropology",
+  "displayName": "Archaeology (Sub-major of Anthropology)",
+  "groupRules": {
+    "Anthropological Archaeology": {
+      "require": {
+        "anyOf": [
+          "ANTHRARC 282",
+          "ANTHRARC 386"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Biological Anthropology": {
+      "require": {
+        "anyOf": [
+          "ANTHRBIO 201"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Linguistic Anthropology": {
+      "require": {
+        "anyOf": [
+          "ANTHRCUL 272",
+          "ANTHRCUL 374"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Sociocultural Anthropology": {
+      "require": {
+        "anyOf": [
+          "ANTHRCUL 222",
+          "ANTHRCUL 226",
+          "ANTHRCUL 230",
+          "ANTHRCUL 330"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "minCredits": 16,
+      "countsTowardMajorTotal": true,
+      "completion": "manual"
+    }
+  }
+}

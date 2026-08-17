@@ -4,14 +4,73 @@
   "school_college": "College of Engineering",
   "program_url": "https://robotics.umich.edu",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+7 course-list supplements: Editable Robotics Sample Schedule spreadsheet, Courses, AEROSP 215)",
   "program_final_url": "https://robotics.umich.edu",
   "program_fetch_mode": "http",
-  "requirements_url": "https://robotics.umich.edu/academics/undergraduate/degree-requirements/",
-  "requirements_link_text": "Degree Requirements",
-  "requirements_link_score": 290,
-  "requirements_link_strategy": "page",
-  "requirements_final_url": "https://robotics.umich.edu/academics/undergraduate/degree-requirements/",
+  "requirements_url": "https://docs.google.com/document/d/1S2JqdV4nay4NPOCW_27Jc6UZhChaKCZ9miSFnOtk69k/edit",
+  "requirements_link_text": "Degree Requirements \u2192 2024 - 2025 Program Guide",
+  "requirements_link_score": 200,
+  "requirements_link_strategy": "page\u2192google_doc",
+  "requirements_final_url": "https://docs.google.com/document/d/1S2JqdV4nay4NPOCW_27Jc6UZhChaKCZ9miSFnOtk69k/edit",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T15:48:24.669991+00:00"
+  "fetched_at": "2026-08-10T16:34:32.532731+00:00",
+  "supplements_count": 7,
+  "supplements": [
+    {
+      "id": "01-editable-robotics-sample-schedule-spreadsheet-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1TJlbxRgqN-CUQzcEMHj9r_YzORPVk6ElG63vBJYi2Ms/edit#gid=0",
+      "link_text": "Editable Robotics Sample Schedule spreadsheet",
+      "status": "fetched",
+      "chars": 2105
+    },
+    {
+      "id": "02-winter-202-gid1751113885",
+      "url": "https://docs.google.com/spreadsheets/d/1qXqC4uJqZYVOadw0eIn9LAWEu_8lLwX65nOFFohlj4Y/edit?gid=1751113885#gid=1751113885",
+      "link_text": "Winter 202",
+      "status": "failed",
+      "chars": 0
+    },
+    {
+      "id": "03-courses",
+      "url": "https://docs.google.com/academics/courses/",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 89
+    },
+    {
+      "id": "04-aerosp-215",
+      "url": "https://bulletin.engin.umich.edu/courses/aero/",
+      "link_text": "AEROSP 215",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "05-eecs-200",
+      "url": "https://bulletin.engin.umich.edu/courses/eecs/",
+      "link_text": "EECS 200",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "06-ioe-366",
+      "url": "https://bulletin.engin.umich.edu/courses/ioe/",
+      "link_text": "IOE 366",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "07-mecheng-360",
+      "url": "https://bulletin.engin.umich.edu/courses/me/",
+      "link_text": "MECHENG 360",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "08-navarch-340",
+      "url": "https://bulletin.engin.umich.edu/courses/name/",
+      "link_text": "NAVARCH 340",
+      "status": "fetched",
+      "chars": 34446
+    }
+  ]
 }

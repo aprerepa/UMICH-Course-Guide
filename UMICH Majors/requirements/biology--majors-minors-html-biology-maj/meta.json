@@ -4,15 +4,39 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#biology-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+3 course-list supplements: Course Information, Courses, Browse copies of past LSA bulletins)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#biology-maj",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/biology-major.html",
   "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
+  "requirements_link_score": 65,
   "requirements_link_strategy": "lsa_listing:lsa_detail",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/biology-major.html",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:32:10.216758+00:00",
-  "lsa_resolved_row_id": "biology-maj"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T15:56:58.140129+00:00",
+  "lsa_resolved_row_id": "biology-maj",
+  "supplements_count": 3,
+  "supplements": [
+    {
+      "id": "01-course-information",
+      "url": "http://lsa.umich.edu/biology/undergraduates.html",
+      "link_text": "Course Information",
+      "status": "fetched",
+      "chars": 4002
+    },
+    {
+      "id": "02-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    },
+    {
+      "id": "03-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3806
+    }
+  ]
 }

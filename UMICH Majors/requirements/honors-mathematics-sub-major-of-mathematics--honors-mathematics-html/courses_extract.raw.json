@@ -1,0 +1,87 @@
+{
+  "id": "honors-mathematics",
+  "displayName": "Honors Mathematics (Sub-major of Mathematics)",
+  "requirementGroups": {
+    "Prerequisites": [
+      "MATH 156",
+      "MATH 285",
+      "MATH 286",
+      "MATH 275",
+      "MATH 276",
+      "MATH 185",
+      "MATH 186",
+      "MATH 295",
+      "MATH 296",
+      "MATH 395",
+      "MATH 396",
+      "MATH 217",
+      "MATH 297"
+    ],
+    "Basic Courses": [
+      "MATH 420",
+      "MATH 494",
+      "MATH 571",
+      "MATH 451",
+      "MATH 493",
+      "MATH 431",
+      "MATH 433",
+      "MATH 490",
+      "MATH 590",
+      "MATH 525",
+      "MATH 404",
+      "MATH 454",
+      "MATH 556",
+      "MATH 557",
+      "MATH 558"
+    ],
+    "Elective Courses": [
+      "MATH 289",
+      "MATH 389",
+      "MATH 416",
+      "MATH 431",
+      "MATH 433",
+      "MATH 440",
+      "MATH 452",
+      "MATH 462",
+      "MATH 463",
+      "MATH 464",
+      "MATH 465",
+      "MATH 471",
+      "MATH 481",
+      "MATH 490",
+      "MATH 525",
+      "MATH 526",
+      "MATH 537",
+      "MATH 551",
+      "MATH 555",
+      "MATH 556",
+      "MATH 557",
+      "MATH 558",
+      "MATH 559",
+      "MATH 561",
+      "MATH 563",
+      "MATH 565",
+      "MATH 566",
+      "MATH 567",
+      "MATH 571",
+      "MATH 572",
+      "MATH 575",
+      "MATH 582",
+      "MATH 590",
+      "MATH 591",
+      "MATH 592",
+      "MATH 593",
+      "MATH 594",
+      "MATH 596",
+      "MATH 597"
+    ]
+  },
+  "openGroups": {
+    "Elective Courses": {
+      "subjects": [
+        "MATH"
+      ],
+      "minLevel": 600
+    }
+  }
+}

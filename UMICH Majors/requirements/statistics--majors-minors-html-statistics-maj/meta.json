@@ -4,15 +4,32 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#statistics-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+2 course-list supplements: Courses, Browse copies of past LSA bulletins)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#statistics-maj",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/statistics-major.html",
   "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
+  "requirements_link_score": 65,
   "requirements_link_strategy": "lsa_listing:lsa_detail",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/statistics-major.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:50:05.312368+00:00",
-  "lsa_resolved_row_id": "statistics-maj"
+  "fetched_at": "2026-08-10T16:40:08.291991+00:00",
+  "lsa_resolved_row_id": "statistics-maj",
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    },
+    {
+      "id": "02-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3662
+    }
+  ]
 }

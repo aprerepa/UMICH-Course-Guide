@@ -1,0 +1,35 @@
+[
+  {
+    "id": "01-che-program-scheduling-worksheet",
+    "url": "https://che.engin.umich.edu/wp-content/uploads/sites/5/2023/09/CHE-PROGRAM-SCHEDULING-WORKSHEET.pdf",
+    "link_text": "ChE Program Scheduling Worksheet",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (1704 chars)",
+    "final_url": "https://che.engin.umich.edu/wp-content/uploads/sites/5/2023/09/CHE-PROGRAM-SCHEDULING-WORKSHEET.pdf",
+    "fetch_mode": "http",
+    "chars": 1704
+  },
+  {
+    "id": "02-sample-schedule",
+    "url": "https://che.engin.umich.edu/wp-content/uploads/sites/5/2023/09/Sample-Schedule.pdf",
+    "link_text": "Sample Schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (3272 chars)",
+    "final_url": "https://che.engin.umich.edu/wp-content/uploads/sites/5/2023/09/Sample-Schedule.pdf",
+    "fetch_mode": "http",
+    "chars": 3272
+  },
+  {
+    "id": "03-engineering-elective-requirements",
+    "url": "https://che.engin.umich.edu/wp-content/uploads/sites/5/2026/05/Engineering-Electives-Doc.pdf",
+    "link_text": "Engineering Elective Requirements",
+    "score": 65,
+    "status": "fetched",
+    "message": "ok (2939 chars)",
+    "final_url": "https://che.engin.umich.edu/wp-content/uploads/sites/5/2026/05/Engineering-Electives-Doc.pdf",
+    "fetch_mode": "http",
+    "chars": 2939
+  }
+]

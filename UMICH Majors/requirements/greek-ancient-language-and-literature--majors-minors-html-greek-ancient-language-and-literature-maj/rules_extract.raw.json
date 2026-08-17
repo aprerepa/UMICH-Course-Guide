@@ -1,0 +1,25 @@
+{
+  "id": "greek-ancient-language-and-literature",
+  "displayName": "Greek (Ancient) Language and Literature",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          {
+            "allOf": [
+              "GREEK 101",
+              "GREEK 102"
+            ]
+          },
+          "GREEK 103"
+        ]
+      }
+    },
+    "Requirements": {
+      "minCourses": 8,
+      "minCredits": 24,
+      "countsTowardMajorTotal": true,
+      "completion": "manual"
+    }
+  }
+}

@@ -4,14 +4,31 @@
   "school_college": "College of Engineering",
   "program_url": "https://ioe.engin.umich.edu/current-students/undergrad-research/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+2 course-list supplements: View the Master\u2019s audit sheet, IOE Courses & course codes)",
   "program_final_url": "https://ioe.engin.umich.edu/undergraduate/undergrad-research/",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://docs.google.com/presentation/d/1NgCbvWIVE4NbU7TpF0ABiA8yI4Tb8_jZOftySfoh8Ow/edit?usp=sharing",
   "requirements_link_text": "Major in IOE \u2192 IOE Course Guide",
   "requirements_link_score": 355,
   "requirements_link_strategy": "hub:Major in IOE\u2192page",
   "requirements_final_url": "https://docs.google.com/presentation/d/1NgCbvWIVE4NbU7TpF0ABiA8yI4Tb8_jZOftySfoh8Ow/edit?usp=sharing",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T16:20:40.076352+00:00"
+  "fetched_at": "2026-08-10T16:14:22.976278+00:00",
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-view-the-master-s-audit-sheet",
+      "url": "https://drive.google.com/file/d/1u_rrxXTWcmUU-WsOfw-rceoFtDJ4pZsc/",
+      "link_text": "View the Master\u2019s audit sheet",
+      "status": "fetched",
+      "chars": 3145
+    },
+    {
+      "id": "02-ioe-courses-course-codes",
+      "url": "https://bulletin.engin.umich.edu/courses/ioe/#post-211",
+      "link_text": "IOE Courses & course codes",
+      "status": "fetched",
+      "chars": 40024
+    }
+  ]
 }

@@ -132,9 +132,14 @@ def google_docs_txt_export_url(url: str) -> str | None:
 
 
 def google_sheets_export_url(url: str) -> str | None:
-    """Turn a Sheets edit/share URL into a plain-text TSV export (LLM-friendly)."""
+    """Turn a Sheets edit/share URL into a plain-text TSV export (LLM-friendly).
+
+    Published links (/d/e/2PACX-…/pubhtml) are not supported here — use browser fetch.
+    """
+    if re.search(r"spreadsheets/d/e/", url or "", re.I):
+        return None
     m = re.search(
-        r"docs\.google\.com/spreadsheets/d/([a-zA-Z0-9_-]+)", url or "", re.I
+        r"docs\.google\.com/spreadsheets/d/([a-zA-Z0-9_-]{10,})", url or "", re.I
     )
     if not m:
         return None
@@ -148,6 +153,23 @@ def google_sheets_export_url(url: str) -> str | None:
     if gid:
         export += f"&gid={gid}"
     return export
+
+
+def google_sheets_xlsx_export_url(url: str) -> str | None:
+    if re.search(r"spreadsheets/d/e/", url or "", re.I):
+        return None
+    m = re.search(
+        r"docs\.google\.com/spreadsheets/d/([a-zA-Z0-9_-]{10,})", url or "", re.I
+    )
+    if not m:
+        return None
+    return f"https://docs.google.com/spreadsheets/d/{m.group(1)}/export?format=xlsx"
+
+
+def is_google_published_sheet_url(url: str) -> bool:
+    return bool(
+        re.search(r"docs\.google\.com/spreadsheets/d/e/[A-Za-z0-9_-]+", url or "", re.I)
+    )
 
 
 def google_slides_export_url(url: str) -> str | None:
@@ -272,15 +294,124 @@ def fetch_google_docs_txt(url: str, *, timeout: float = DEFAULT_TIMEOUT) -> Fetc
     )
 
 
-def fetch_google_sheets_tsv(url: str, *, timeout: float = DEFAULT_TIMEOUT) -> FetchResult:
-    export = google_sheets_export_url(url) or url
-    headers = {"User-Agent": USER_AGENT, "Accept": "text/tab-separated-values,*/*"}
+def is_xlsx_url(url: str) -> bool:
+    path = urlparse(url).path.lower()
+    return path.endswith(".xlsx") or path.endswith(".xls")
+
+
+def fetch_xlsx(url: str, *, timeout: float = DEFAULT_TIMEOUT) -> FetchResult:
+    """Download an Excel workbook and extract all sheets as TSV text."""
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,*/*",
+    }
     with httpx.Client(timeout=timeout, follow_redirects=True, headers=headers) as client:
+        resp = client.get(url)
+        resp.raise_for_status()
+        data = resp.content
+        final_url = str(resp.url)
+        status = resp.status_code
+    if not data.startswith(b"PK"):
+        raise ValueError(
+            f"Expected xlsx bytes from {url}, got "
+            f"{resp.headers.get('content-type')!r} ({len(data)} bytes)"
+        )
+    body = _xlsx_sheets_as_tsv(data)
+    return FetchResult(
+        requested_url=url,
+        final_url=final_url,
+        status_code=status,
+        html=_wrap_plain_as_html("Excel workbook export", body),
+        mode="http",
+    )
+
+
+def _xlsx_sheets_as_tsv(data: bytes) -> str:
+    """Convert an .xlsx workbook into labeled TSV text (all sheets)."""
+    import io
+    import zipfile
+    from xml.etree import ElementTree as ET
+
+    ns = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
+    rel_ns = {"r": "http://schemas.openxmlformats.org/package/2006/relationships"}
+    zf = zipfile.ZipFile(io.BytesIO(data))
+    shared: list[str] = []
+    if "xl/sharedStrings.xml" in zf.namelist():
+        sroot = ET.fromstring(zf.read("xl/sharedStrings.xml"))
+        for si in sroot.findall("m:si", ns):
+            shared.append(
+                "".join(t.text or "" for t in si.iter("{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t"))
+            )
+
+    wb = ET.fromstring(zf.read("xl/workbook.xml"))
+    rid_to_target: dict[str, str] = {}
+    rels = ET.fromstring(zf.read("xl/_rels/workbook.xml.rels"))
+    for rel in rels:
+        rid_to_target[rel.attrib.get("Id", "")] = rel.attrib.get("Target", "")
+
+    parts: list[str] = []
+    for sh in wb.findall("m:sheets/m:sheet", ns):
+        name = sh.attrib.get("name") or "Sheet"
+        rid = sh.attrib.get(
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id"
+        )
+        target = rid_to_target.get(rid or "", "")
+        if not target:
+            continue
+        path = "xl/" + target.lstrip("/")
+        if path not in zf.namelist():
+            continue
+        root = ET.fromstring(zf.read(path))
+        rows_out: list[str] = []
+        for row in root.findall("m:sheetData/m:row", ns):
+            cells: list[str] = []
+            for c in row.findall("m:c", ns):
+                v = c.find("m:v", ns)
+                if v is None or v.text is None:
+                    cells.append("")
+                elif c.attrib.get("t") == "s":
+                    try:
+                        cells.append(shared[int(v.text)])
+                    except (ValueError, IndexError):
+                        cells.append(v.text)
+                else:
+                    cells.append(v.text)
+            if any(x.strip() for x in cells):
+                rows_out.append("\t".join(cells))
+        if not rows_out:
+            continue
+        parts.append(f"### Sheet: {name}\n" + "\n".join(rows_out))
+    if not parts:
+        raise ValueError("xlsx export contained no sheet text")
+    return "\n\n".join(parts)
+
+
+def fetch_google_sheets_tsv(url: str, *, timeout: float = DEFAULT_TIMEOUT) -> FetchResult:
+    headers = {"User-Agent": USER_AGENT, "Accept": "*/*"}
+    # No gid → pull the whole workbook (BME Depth Guide etc. put courses on later tabs).
+    has_gid = bool(
+        re.search(r"[#&?]gid=\d+", url or "")
+        or re.search(r"gid=\d+", urlparse(url).fragment or "")
+    )
+    with httpx.Client(timeout=timeout, follow_redirects=True, headers=headers) as client:
+        if not has_gid:
+            xlsx_url = google_sheets_xlsx_export_url(url)
+            if xlsx_url:
+                resp = client.get(xlsx_url)
+                resp.raise_for_status()
+                body = _xlsx_sheets_as_tsv(resp.content)
+                return FetchResult(
+                    requested_url=url,
+                    final_url=url,
+                    status_code=resp.status_code,
+                    html=_wrap_plain_as_html("Google Sheet export (all tabs)", body),
+                    mode="http",
+                )
+        export = google_sheets_export_url(url) or url
         resp = client.get(export)
         resp.raise_for_status()
         body = resp.text
         status = resp.status_code
-    # Keep the stable Docs URL — export redirects to a short-lived googleusercontent link.
     return FetchResult(
         requested_url=url,
         final_url=url,
@@ -315,37 +446,46 @@ def fetch_page(
     min_chars: int = MIN_PAGE_TEXT_CHARS,
 ) -> tuple[FetchResult, str]:
     """HTTP first; Playwright if short / empty. Returns (FetchResult, llm_text)."""
-    # PDFs / Docs / Sheets / Slides need specialized extractors (edit UIs are JS chrome).
+    # PDFs / Docs / Sheets / Slides / Excel need specialized extractors (edit UIs are JS chrome).
     if is_pdf_url(url):
         try:
             fetched = fetch_pdf(url)
             return fetched, html_to_llm_input(fetched.html)
         except Exception:
             pass
+    if is_xlsx_url(url):
+        try:
+            fetched = fetch_xlsx(url)
+            return fetched, html_to_llm_input(fetched.html)
+        except Exception:
+            pass
+    # Published Google Sheets (/d/e/2PACX-…) need the browser — no private export id.
+    if is_google_published_sheet_url(url):
+        fetched = fetch_page_browser(url)
+        text = html_to_llm_input(fetched.html)
+        if len(html_to_text(fetched.html)) < min(min_chars, 200):
+            raise ValueError(f"Published Google Sheet too short for {url}")
+        return fetched, text
+    # Google Docs / Sheets / Slides edit UIs are Playwright chrome — never scrape them.
+    # Prefer export endpoints; if those fail, raise instead of returning menu soup.
     if google_docs_export_url(url):
-        try:
-            fetched = fetch_google_docs_txt(url)
-            text = html_to_llm_input(fetched.html)
-            if len(html_to_text(fetched.html)) >= min(min_chars, 200):
-                return fetched, text
-        except Exception:
-            pass
+        fetched = fetch_google_docs_txt(url)
+        text = html_to_llm_input(fetched.html)
+        if len(html_to_text(fetched.html)) < min(min_chars, 200):
+            raise ValueError(f"Google Docs export too short for {url}")
+        return fetched, text
     if google_sheets_export_url(url):
-        try:
-            fetched = fetch_google_sheets_tsv(url)
-            text = html_to_llm_input(fetched.html)
-            if len(html_to_text(fetched.html)) >= min(min_chars, 200):
-                return fetched, text
-        except Exception:
-            pass
+        fetched = fetch_google_sheets_tsv(url)
+        text = html_to_llm_input(fetched.html)
+        if len(html_to_text(fetched.html)) < min(min_chars, 200):
+            raise ValueError(f"Google Sheets export too short for {url}")
+        return fetched, text
     if google_slides_export_url(url):
-        try:
-            fetched = fetch_google_slides_txt(url)
-            text = html_to_llm_input(fetched.html)
-            if len(html_to_text(fetched.html)) >= min(min_chars, 200):
-                return fetched, text
-        except Exception:
-            pass
+        fetched = fetch_google_slides_txt(url)
+        text = html_to_llm_input(fetched.html)
+        if len(html_to_text(fetched.html)) < min(min_chars, 200):
+            raise ValueError(f"Google Slides export too short for {url}")
+        return fetched, text
 
     if not force_browser:
         try:

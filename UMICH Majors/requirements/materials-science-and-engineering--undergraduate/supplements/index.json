@@ -1,0 +1,68 @@
+[
+  {
+    "id": "01-google-sheet-template-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1oQoOu2SMg-gaqsllW8wdlo60rjIkcB25xNgB_cQkUAg/edit#gid=0",
+    "link_text": "Google Sheet Template",
+    "score": 100,
+    "status": "fetched",
+    "message": "ok (2156 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1oQoOu2SMg-gaqsllW8wdlo60rjIkcB25xNgB_cQkUAg/edit#gid=0",
+    "fetch_mode": "http",
+    "chars": 2156
+  },
+  {
+    "id": "02-college-of-engineering-bulletin",
+    "url": "https://bulletin.engin.umich.edu/courses/",
+    "link_text": "College of Engineering Bulletin",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (1023 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/",
+    "fetch_mode": "http",
+    "chars": 1023
+  },
+  {
+    "id": "03-courses",
+    "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (4215 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "fetch_mode": "http",
+    "chars": 4215
+  },
+  {
+    "id": "04-courses",
+    "url": "https://lsa.umich.edu/math/graduates/Courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (3227 chars)",
+    "final_url": "https://lsa.umich.edu/math/graduates/Courses.html",
+    "fetch_mode": "http",
+    "chars": 3227
+  },
+  {
+    "id": "05-graduate-courses",
+    "url": "https://mse.engin.umich.edu/graduate/courses",
+    "link_text": "Graduate Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (3665 chars)",
+    "final_url": "https://mse.engin.umich.edu/graduate/courses",
+    "fetch_mode": "http",
+    "chars": 3665
+  },
+  {
+    "id": "06-undergraduate-courses",
+    "url": "https://mse.engin.umich.edu/undergraduate/courses",
+    "link_text": "Undergraduate Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (3710 chars)",
+    "final_url": "https://mse.engin.umich.edu/undergraduate/courses",
+    "fetch_mode": "http",
+    "chars": 3710
+  }
+]

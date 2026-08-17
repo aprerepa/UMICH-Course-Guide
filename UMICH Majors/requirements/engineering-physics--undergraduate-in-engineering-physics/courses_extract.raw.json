@@ -1,0 +1,91 @@
+{
+  "id": "engineering-physics",
+  "displayName": "Engineering Physics",
+  "requirementGroups": {
+    "Mathematics Core": [
+      "MATH 115",
+      "MATH 116",
+      "MATH 215",
+      "MATH 216"
+    ],
+    "Engineering Core": [
+      "ENGR 100",
+      "ENGR 101",
+      "EECS 215",
+      "EECS 314"
+    ],
+    "Chemistry Core": [
+      "CHEM 125",
+      "CHEM 126",
+      "CHEM 130",
+      "CHEM 210",
+      "CHEM 211"
+    ],
+    "Physics Core": [
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 240",
+      "PHYSICS 241"
+    ],
+    "Related Technical Subjects": [
+      "MATSCIE 220",
+      "MATSCIE 250"
+    ],
+    "Physics Technical Subjects": [
+      "PHYSICS 316",
+      "PHYSICS 340",
+      "PHYSICS 390",
+      "NERS 311",
+      "PHYSICS 401",
+      "PHYSICS 405",
+      "PHYSICS 406"
+    ]
+  },
+  "openGroups": {
+    "Advanced Mathematics": {
+      "subjects": [
+        "MATH"
+      ],
+      "minLevel": 300
+    },
+    "Physics Lab Elective": {
+      "subjects": [
+        "PHYSICS"
+      ],
+      "minLevel": 100
+    },
+    "Physics Elective": {
+      "subjects": [
+        "PHYSICS"
+      ],
+      "minLevel": 300
+    },
+    "Engineering Concentration": {
+      "subjects": [
+        "ENGR"
+      ],
+      "minLevel": 100
+    },
+    "Engineering Laboratory Elective": {
+      "subjects": [
+        "ENGR"
+      ],
+      "minLevel": 400
+    },
+    "Technical Electives": [
+      {
+        "subjects": [
+          "MATH",
+          "PHYSICS"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "ENGR"
+        ],
+        "minLevel": 300
+      }
+    ]
+  }
+}

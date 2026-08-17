@@ -1,0 +1,24 @@
+{
+  "id": "film-television-and-media",
+  "displayName": "Film, Television, and Media",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "FTVM 150",
+          "RCHUMS 150",
+          "FTVM 236",
+          "RCHUMS 236"
+        ]
+      }
+    },
+    "Core Required Courses": {
+      "minCredits": 25,
+      "countsTowardMajorTotal": true
+    },
+    "Required Electives": {
+      "minCredits": 7,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

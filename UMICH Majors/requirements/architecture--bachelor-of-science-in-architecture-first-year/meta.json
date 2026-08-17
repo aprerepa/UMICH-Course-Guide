@@ -7,11 +7,21 @@
   "message": "requirements page ready for LLM",
   "program_final_url": "https://taubmancollege.umich.edu/admissions/apply/bachelor-of-science-in-architecture-first-year/",
   "program_fetch_mode": "http",
-  "requirements_url": "https://docs.google.com/document/d/1clM3sEk4xFyH5D3Up34VEkkOOLtU5hzUvICkhQ7y7_s/edit",
-  "requirements_link_text": "one-page checklist",
-  "requirements_link_score": 65,
+  "requirements_url": "https://enrollmentconnect.umich.edu/portal/appstatus",
+  "requirements_link_text": "Enrollment Connect",
+  "requirements_link_score": 160,
   "requirements_link_strategy": "page",
-  "requirements_final_url": "https://docs.google.com/document/d/1clM3sEk4xFyH5D3Up34VEkkOOLtU5hzUvICkhQ7y7_s/edit?tab=t.0",
+  "requirements_final_url": "https://enrollmentconnect.umich.edu/account/login?r=https%3a%2f%2fenrollmentconnect.umich.edu%2fportal%2fappstatus&cookie=1",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:31:00.690210+00:00"
+  "fetched_at": "2026-08-10T15:55:17.369641+00:00",
+  "supplements_count": 0,
+  "supplements": [
+    {
+      "id": "01-one-page-checklist",
+      "url": "https://docs.google.com/document/d/1clM3sEk4xFyH5D3Up34VEkkOOLtU5hzUvICkhQ7y7_s/edit",
+      "link_text": "one-page checklist",
+      "status": "failed",
+      "chars": 0
+    }
+  ]
 }

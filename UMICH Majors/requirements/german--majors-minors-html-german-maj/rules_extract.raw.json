@@ -1,0 +1,20 @@
+{
+  "id": "german",
+  "displayName": "German",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "GERMAN 230",
+          "GERMAN 232",
+          "RCLANG 291"
+        ]
+      }
+    },
+    "Requirements": {
+      "minCredits": 30,
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

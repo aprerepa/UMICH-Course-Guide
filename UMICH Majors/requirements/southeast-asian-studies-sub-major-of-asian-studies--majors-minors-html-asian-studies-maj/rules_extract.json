@@ -1,0 +1,14 @@
+{
+  "id": "southeast-asian-studies-sub-major-of-asian-studies--majors-minors-html-asian-studies-maj",
+  "displayName": "Southeast Asian Studies (Sub-major of Asian Studies)",
+  "groupRules": {
+    "Asian Studies (ASIAN) Requirement": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Electives Requirement": {
+      "minCourses": 8,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

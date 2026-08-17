@@ -1,0 +1,153 @@
+Visible page text:
+Physics Major - Pre-Fall 2026
+University of Michigan - Department of Physics
+Effective September, 2025
+Advisory Prerequisites:
+It is recommended that students should have completed MATH 115 (or equivalent) prior to beginning an introductory sequence.
+Prerequisites:
+Earn 10 credits by fulfilling one of the following introductory course sequences.
+Course #
+Course Title
+Term Completed
+Credits
+One of the following 100-Level lectures with laboratory.
+PHYSICS 140/141
+OR
+PHYSICS 150/151
+OR
+PHYSICS 160/161
+General Physics I/Laboratory I
+4/1
+Fundamental Physics for the Life Sciences I/Laboratory I
+4/1
+Honors Physics I/Laboratory I
+4/1
+One of the following 200-Level lectures with laboratory.
+PHYSICS 240/241
+OR
+PHYSICS 250/251
+OR
+PHYSICS 260/261
+General Physics II/Laboratory II
+4/1
+Fundamental Physics for the Life Sciences II/Laboratory II
+4/1
+Honors Physics II/Laboratory II
+4/1
+Core Courses:
+Earn a minimum of 29 credits by fulfilling Intermediate, Advanced, Advanced Laboratory, and Advanced Elective courses. It is recommended that you complete math courses through MATH 216 (Differential Equations).
+Intermediate Courses: Students must complete the following courses.
+Course #
+Course Title
+Term Completed
+Credits
+PHYSICS 340
+OR
+PHYSICS 360
+Waves, Heat, and Light
+3
+Honors Physics III
+3
+PHYSICS 316
+Mathematical Methods for Physics and Engineering
+3
+PHYSICS 390
+and
+PHYSICS 391
+Introduction to Modern Physics
+3
+Introduction to Modern Physics Laboratory
+2
+Advanced Courses: Students must complete the following courses.
+*Students are encouraged to complete PHYSICS 401 AND 405 prior to electing PHYSICS 453*
+Course #
+Course Title
+Term Completed
+Credits
+PHYSICS 401
+Intermediate Mechanics
+3
+PHYSICS 405
+Intermediate Electricity and Magnetism
+3
+PHYSICS 406
+Statistical and Thermal Physics
+3
+PHYSICS 453
+Quantum Mechanics
+3
+PHYSICS 441
+Advanced Laboratory I
+3
+Elective Courses: Students must take TWO of the following courses.
+PHYSICS 380
+Topics in Physics, specifically just Quantum Computing
+3
+PHYSICS 402
+Optics
+3
+PHYSICS 411
+Introduction to Computational Physics
+3
+PHYSICS 413/
+CMPLXSYS 541
+Introduction to Nonlinear Dynamics and the Physics of Complexity
+3
+PHYSICS/BIOPHYS/
+CHEM 417
+Dynamical Processes in Biophysics
+3
+PHYSICS/BIOPHYS 433
+Biocomplexity
+3
+PHYSICS 435
+Gravitational Physics
+3
+PHYSICS 438
+Electromagnetic Radiation
+3
+PHYSICS/BIOPHYS 450
+Laboratory Techniques in Biophysics
+3
+PHYSICS 452
+Methods of Theoretical Physics II
+3
+PHYSICS 457
+Particle Physics and Cosmology
+3
+PHYSICS 460
+Quantum Mechanics II
+*Requires previous completion of PHYSICS 453*
+3
+PHYSICS 463
+Introduction to Solid State Physics
+*Requires previous completion of PHYSICS 453*
+3
+PHYSICS/CMPLXSYS 470
+Experiments in Nonlinear Dynamics
+3
+PHYSICS 457
+Particle Physics and Cosmology
+3
+Advanced Elective: Students must  take one of the following courses
+PHYSICS 411*
+Introduction to Computational Physics
+*If used to meet the Elective Requirement, this course can’t be used to meet the Advanced Elective Requirement
+3
+PHYSICS 440*
+Instrumentation
+*If used to meet the Elective Requirement, this course can’t be used to meet the Advanced Elective Requirement
+PHYSICS 442*
+Advanced Laboratory II
+*If used to meet the Elective Requirement, this course can’t be used to meet the Advanced Elective Requirement
+3
+PHYSICS 495*
+Physics Research Capstone
+*Physics Honors students are ineligible to take PHYSICS 495 as their Advanced Elective Requirement. Honors students should elect PHYSICS 496/497
+3
+Honors Requirements
+Minimum cumulative GPA of 3.4
+Additional 6 credits in PHYSICS courses numbered at the 400 level or above.
+Produce a senior thesis (PHYSICS 496/497, optional) under the supervision of a faculty member.
+Residency requirements:
+A minimum of 15 credits at the 300 level or above must be done in residence.

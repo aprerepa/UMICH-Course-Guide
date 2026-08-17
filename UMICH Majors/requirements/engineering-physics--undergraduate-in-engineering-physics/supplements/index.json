@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-sample-schedule",
+    "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/09/Engineering-Physics-Sample-Schedule-Winter-2025-1.pdf",
+    "link_text": "sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (3897 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/09/Engineering-Physics-Sample-Schedule-Winter-2025-1.pdf",
+    "fetch_mode": "http",
+    "chars": 3897
+  },
+  {
+    "id": "02-editable-sample-schedule",
+    "url": "https://docs.google.com/spreadsheets/d/1BrcjBIoBOdZTClsh0YL7aJjDURB-ZY9U9dj2swwJobk/edit?usp=sharing",
+    "link_text": "Editable sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (7400 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1BrcjBIoBOdZTClsh0YL7aJjDURB-ZY9U9dj2swwJobk/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 7400
+  },
+  {
+    "id": "03-aerospace-engineering-courses-aerosp",
+    "url": "https://bulletin.engin.umich.edu/courses/aero/",
+    "link_text": "Aerospace Engineering Courses (AEROSP)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/aero/",
+    "fetch_mode": "http",
+    "chars": 40024
+  },
+  {
+    "id": "04-applied-physics-courses-appphys",
+    "url": "https://bulletin.engin.umich.edu/courses/appl-phys/",
+    "link_text": "Applied Physics Courses (APPPHYS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (9212 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/appl-phys/",
+    "fetch_mode": "http",
+    "chars": 9212
+  },
+  {
+    "id": "05-biomedical-engineering-courses-biomede",
+    "url": "https://bulletin.engin.umich.edu/courses/bme/",
+    "link_text": "Biomedical Engineering Courses (BIOMEDE)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/bme/",
+    "fetch_mode": "http",
+    "chars": 40024
+  },
+  {
+    "id": "06-civil-and-environmental-engineering-courses-cee",
+    "url": "https://bulletin.engin.umich.edu/courses/cee/",
+    "link_text": "Civil and Environmental Engineering Courses (CEE)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/cee/",
+    "fetch_mode": "http",
+    "chars": 40024
+  },
+  {
+    "id": "07-chemical-engineering-courses-che-eseng",
+    "url": "https://bulletin.engin.umich.edu/courses/che/",
+    "link_text": "Chemical Engineering Courses (CHE + ESENG)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/che/",
+    "fetch_mode": "browser",
+    "chars": 40024
+  },
+  {
+    "id": "08-climate-and-space-sciences-and-engineering-courses-climate-space",
+    "url": "https://bulletin.engin.umich.edu/courses/clasp/",
+    "link_text": "Climate and Space Sciences and Engineering Courses (CLIMATE & SPACE)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/clasp/",
+    "fetch_mode": "http",
+    "chars": 40024
+  }
+]

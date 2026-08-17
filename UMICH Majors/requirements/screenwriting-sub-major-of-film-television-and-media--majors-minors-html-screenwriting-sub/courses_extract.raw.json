@@ -1,0 +1,18 @@
+{
+  "id": "screenwriting-sub-major-of-film-television-and-media",
+  "displayName": "Screenwriting (Sub-major of Film, Television, and Media)",
+  "requirementGroups": {
+    "Prerequisites": [
+      "FTVM 236",
+      "FTVM 290",
+      "FTVM 210",
+      "FTVM 310",
+      "FTVM 410"
+    ],
+    "Requirements": [
+      "FTVM 427",
+      "FTVM 423",
+      "FTVM 311"
+    ]
+  }
+}

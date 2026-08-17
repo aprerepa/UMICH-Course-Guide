@@ -4,14 +4,31 @@
   "school_college": "School of Nursing",
   "program_url": "https://nursing.umich.edu/academics/BSN",
   "status": "fetched",
-  "message": "degree program page saved (no nested requirements link)",
+  "message": "requirements page ready for LLM (+2 course-list supplements: HEAL, Schedule of Classes)",
   "program_final_url": "https://nursing.umich.edu/academics/BSN",
-  "program_fetch_mode": "browser",
-  "requirements_url": "https://nursing.umich.edu/academics/dnp",
-  "requirements_link_text": "Doctor of Nursing Practice (DNP)",
-  "requirements_link_score": 115,
-  "requirements_link_strategy": "hub_program_page",
-  "requirements_final_url": "https://nursing.umich.edu/academics/dnp",
-  "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-09T15:46:27.034527+00:00"
+  "program_fetch_mode": "http",
+  "requirements_url": "https://nursing.umich.edu/cdn-cgi/l/email-protection#51243c223f7c323e3c3c11243c3832397f343524",
+  "requirements_link_text": "[email\u00a0protected]",
+  "requirements_link_score": 65,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://nursing.umich.edu/cdn-cgi/l/email-protection#51243c223f7c323e3c3c11243c3832397f343524",
+  "requirements_fetch_mode": "browser",
+  "fetched_at": "2026-08-10T16:28:22.707135+00:00",
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-heal-gid332034256",
+      "url": "https://docs.google.com/spreadsheets/d/1X_RRgyTWyPJCa2Tws8MiiunK0ykbkmpMD-lZmFksFMo/edit#gid=332034256",
+      "link_text": "HEAL",
+      "status": "fetched",
+      "chars": 3122
+    },
+    {
+      "id": "02-schedule-of-classes",
+      "url": "http://www.ro.umich.edu/schedule/",
+      "link_text": "Schedule of Classes",
+      "status": "fetched",
+      "chars": 1878
+    }
+  ]
 }

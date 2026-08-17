@@ -4,14 +4,38 @@
   "school_college": "College of Engineering",
   "program_url": "https://name.engin.umich.edu/home/academics/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+3 course-list supplements: Sample Schedule, Download Sample Plan, Course Guide)",
   "program_final_url": "https://name.engin.umich.edu/home/academics/",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://name.engin.umich.edu/home/academics/undergraduate-studies/degree-requirements/",
   "requirements_link_text": "Degree Requirements",
   "requirements_link_score": 265,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://name.engin.umich.edu/home/academics/undergraduate-studies/degree-requirements/",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:46:09.929669+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:27:37.778682+00:00",
+  "supplements_count": 3,
+  "supplements": [
+    {
+      "id": "01-sample-schedule-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1ZtmoeCK41KXsP_dYMW5ACTNcmBbqL0k2M2AeiZFh4QE/edit?gid=0#gid=0",
+      "link_text": "Sample Schedule",
+      "status": "fetched",
+      "chars": 2184
+    },
+    {
+      "id": "02-download-sample-plan",
+      "url": "https://drive.google.com/file/d/1_Jf9FMvahBI3h9itPHI8TwZJ40HfWtlm/view",
+      "link_text": "Download Sample Plan",
+      "status": "fetched",
+      "chars": 1668
+    },
+    {
+      "id": "03-course-guide",
+      "url": "https://bulletin.engin.umich.edu/courses/name/",
+      "link_text": "Course Guide",
+      "status": "fetched",
+      "chars": 34446
+    }
+  ]
 }

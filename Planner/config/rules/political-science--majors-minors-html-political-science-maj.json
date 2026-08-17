@@ -1,0 +1,37 @@
+{
+  "id": "political-science--majors-minors-html-political-science-maj",
+  "displayName": "Political Science",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "minOf": 2,
+        "options": [
+          "POLSCI 101",
+          "POLSCI 111",
+          "POLSCI 140",
+          "POLSCI 160"
+        ]
+      }
+    },
+    "American Government": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Comparative Politics": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Methods": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Political Theory": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "World Politics": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

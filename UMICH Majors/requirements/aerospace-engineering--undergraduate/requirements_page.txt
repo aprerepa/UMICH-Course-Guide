@@ -1,98 +1,552 @@
-Degree Requirements
-Home
+Aerospace Engineering Courses (AEROSP)
+Bulletin
 /
-Undergraduate
+All Department & Program Course Guides
 /
-Degree Requirements
-The BSE in aerospace engineering degree has course requirements in several subjects listed below. Rules for choosing “intellectual breadth electives,” “technical electives,” and “general elective” courses are available here (link to requirements document). Most undergraduate AEROSP courses are offered every semester providing flexibility for students to plan their schedule according to their interests and needs, particularly in the junior and senior years. However, it is important to meet with an academic advisor for planning out the courses that may no be offered each semester and to discuss other options available to you during your undergraduate career. Any substitutions of the courses listed below must be approved by an advisor. Seek written approval before taking a course to ensure that it will count for a requirement.
-UG-Handbook (SampSchedule)
-Download
-Course breakdown by subjects
-Jump to
-Mathematics, Chemistry, Physics, and Engineering
-,
-Intellectual Breadth Electives
-,
-Related Technical Core
-,
-Aerospace Science
-,
-Aerospace Engineering
-,
-Technical Electives
-,
-Pilot Training Technical Electives
-,
-General Electives
-Mathematics, Chemistry, Physics, and Engineering
-(39 Credits)
-MATH 115, 116, 215, and 216
-ENGR 100, Intro to Engr
-ENGR 101, Intro to Computers or
-ENGR 151, Accel Intro to Computers
-CHEM 125/126 and 130, or 210 and 211
-Physics 140 with Lab 141
-Physics 240 with Lab 241
-Intellectual Breadth Electives
-(16 Credits)
-Intellectual breadth (16 credits). See the
-College of Engineering Bulletin
-for rules in selecting intellectual breadth courses that satisfy this requirement. A 3-credit humanities course and a 3-credit, 300-level or higher humanities or liberal arts course (LAC) are required. The 100-level foreign language credit received by placement exam does not count as intellectual breath.
-Related Technical Core
-(12 Credits)
-ME 240 (4) Introduction to Dynamics and Vibrations
-Engineering Distribution. Select two courses from MSE 220, MSE 350, MSE 250, MSE 420, EECS 215, EECS 216, EECS 280, EECS 281.  Other courses may be petitioned for approval by an advisor, prior to taking the course.
-Aerospace Science
-(26 Credits)
-AEROSP 201, Intro to Aerospace Engineering
-AEROSP 215, Intro to Solid Mechanics and Aerospace Structures
-AEROSP 225, Intro to Gas Dynamics
-AEROSP 315, Aircraft and Spacecraft Structures
-AEROSP 325, Aerodynamics
-AEROSP 335, Aircraft and Spacecraft Propulsion
-AEROSP 341, Aircraft Dynamics or AEROSP 343 Spacecraft Dynamics
-AEROSP 350, Introduction to Aerospace Computing
-AEROSP 470, Control of Aerospace Vehicles
-Aerospace Engineering (13 Credits)
-AEROSP 200, Introduction to the Aerospace Enterprise
-AEROSP 205, Intro to Aerospace Engr Systems or Aerosp 288: Fundamentals of Product Development
-AEROSP 305, Aerospace Engr Lab I
-AEROSP 481, Aircraft Design or Aero 483, Space System Design
-Prior to Fall 2025, AEROSP 405 was a requirement.  It has now been removed as a required course and replaced with 4 extra credits of technical electives.
-Technical Electives
-(13 Credits)
-A total of 13 credits of technical elective courses is required. The courses must be upper division (300-level or above) courses from engineering, mathematics, physical science, or other courses approved by an academic adviser, that are chosen to satisfy the following constraints:
-A maximum of 2 credits of seminar, such as AE 585, is allowed for technical elective credit.
-A maximum of 3 credits of directed study is allowed for technical elective credit.
-A maximum of 3 credits of AE 390 or AE 490, based on satisfactory completion of flight certification, can be used to satisfy the technical elective requirement.
-One course of three or more credits must be advanced mathematics or advanced science; this could include a course in astronomy, biology, chemistry, computer science, mathematics, or physics.
-Other courses can be selected if approved by an academic adviser.
-Prior to Fall 2025, the technical elective requirement was 9 credits.
-Pilot Training Technical Electives
-Policy on directed study credit for formal aircraft pilot training activities
-Aerospace Engineering students can earn directed study credit based on successful completion of pilot training activities during their tenure as undergraduate students in the Aerospace Engineering Department, according to the following procedures:
-AEROSP 290:
-One AEROSP 290 credit can be earned with a passing score on the FAA Private Pilot Exam, Aircraft Single-Engine Land (ASEL). This exam is typically taken as part of a ground school course that covers the basic knowledge required for a private pilot license.
-Students requesting this credit must register for AEROSP 290 PASS/FAIL under the cognizant faculty corresponding section. A copy of their FAA exam results must be provided via email to the cognizant Aerospace Engineering faculty member for approval by the last day of classes in the semester in which the registration occurred. An FAA passing exam score will translate to a grade of “Pass” in AEROSP 290 and can be counted toward General Electives.
-Aerospace major students eligible for this credit must have taken the FAA written exam while a University of Michigan student, if starting in Fall 2026 or later. Aerospace majors who joined the University of Michigan undergraduate program before Fall 2026 are eligible for credit if they have taken and passed the FAA written exam, whether they were University of Michigan students at the time of the exam or not.
-AEROSP 390:
-Three AEROSP 390 credits can be earned by students who obtain an FAA-issued license for private or commercial pilot, Aircraft Single-Engine Land (ASEL), or helicopters. More advanced FAA-issued ratings, such as instrument, instructor, instrument instructor, and multi-engine, are acceptable but cannot be used to obtain additional credit.
-Students requesting this credit must register for AEROSP 390 PASS/FAIL under the cognizant faculty’s corresponding section. To earn AEROSP 390 credit, students must provide a copy of their pilot’s license, their current medical certificate, and their pilot’s logbook page showing currency at the time of the documents’ submission to the Aerospace Engineering cognizant faculty member for approval. Credit for a pilot’s license is offered to enhance the traditional Aerospace Engineering curriculum with practical study and may be counted as Technical Electives.
-The AEROSP 390 “pilot” credit can only be obtained by students who have declared the Aerospace Engineering major. Students eligible for this credit must have obtained their license while a University of Michigan student if starting in Fall 2026 or later. For Aerospace majors who joined the University of Michigan undergraduate program before Fall 2026, they are eligible for credit if they have obtained their license while a University of Michigan student or if they maintain currency at the time of submitting the material for grading by completing a documented annual or biennial proficiency check.
-Aerospace undergraduate students applying for this credit are encouraged to register for AEROSP 390 only after they have completed their pilot training and obtained the license. If the student does not complete their training in the semester they have registered for AEROSP 390, they will fail the class.
-Cognizant faculty member:
-The cognizant faculty member for pilot training activities is Professor Carlos Cesnik.
-General Electives
-(9 Credits)
-See
-College of Engineering Bulletin
-for rules selecting general elective courses.
-UG-Handbook (Flowchart)
-Download
-How can I learn more about the Aerospace Engineering department and degree programs?
-You can learn more about the Aerospace Engineering department and degree programs by enrolling in
-the Aero Dept. 101 Piazza page
+Aerospace Engineering Courses (AEROSP)
+Below are all of the courses that are available to be taken in AEROSP. Some courses may not be available every semester. Each course is listed in the following format:
+Subject Code and Course Number: Course Name
+If it is a cross listed class, the crosslist course subject and course number will be listed in parentheses
+Any advised or enforced prerequisites that should be taken before enrolling for the course
+A description of the course
+A link to the CourseProfile in ATLAS
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+200 Level Courses
+AEROSP 200. Introduction to the Aerospace Enterprise
+Advisory
+and Enforced Prerequisite: None. (2 credits)
+An introduction to leadership, culture, and wide variety of technical fields that are part of the design, construction, and operations of Aeronautical and Astronautical vehicles. The course includes numerous seminars by notable practitioners.
+CourseProfile (ATLAS)
+AEROSP 201. Introduction to Aerospace Engineering
+Advisory Prerequisite: None. Enforced Prerequisite: (ENGR 100 (or equivalent) and ENGR 101 or ENGR 151) and (PHYSICS 140 and 141) and MATH 116 or equivalent. Minimum grade requirement of “C-” for enforced prerequisite. (2 credits)
+An introduction to aerospace engineering science. Flight vehicles in the atmosphere and in space.
+Introduction to propulsion, aerodynamics, and aircraft performance. Introduction to satellites, rockets, and orbital mechanics.
+CourseProfile (ATLAS)
+AEROSP 205. Introduction to Aerospace Engineering Systems
+Advisory Prerequisite: None. Enforced Prerequisite: PHYSICS 140 or PHYSICS 141 or MATH 116 or ENGR 100 or ENGR 101 or ENGR 151. (3 credits)
+A Systems Engineering Experience: Introduces engineering processes by means of design, build, test and operation of flight vehicles. Exposure to technologies including: computer aided design, manufacturing, simulation, composites, mechanisms, instrumentation and basic electronics. Embedded software development for data acquisition and processing, control and communications. Individual and team projects.
+CourseProfile (ATLAS)
+AEROSP 215. Introduction to Solid Mechanics and Aerospace Structures
+Advisory Prerequisite: Preceded or accompanied by MATH 216. Enforced Prerequisite: MATH 116 and PHYSICS 140 and PHYSICS 141.
+Minimum grade requirement of “C-” for enforced prerequisite
 .
-NEED HELP?
-The Academic Services Office is always here to help! Send any questions about the program or admissions.
-Email the Academic Services Office
+(3 credits)
+An introduction to the fundamental phenomena of solid and structural mechanics in Aerospace systems. Includes analysis and numerical methods of solution used for design of Aerospace structures.
+CourseProfile (ATLAS)
+AEROSP 225. Introduction to Gas Dynamics
+Advisory Prerequisite: None. Enforced Prerequisite: (MATH 215 or 255 or 285) and (CHEM 125 and 130) and (PHYSICS 140 or 160) and PHYSICS 141. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course covers fundamental concepts in thermodynamics and fluid dynamics. Topics include molecular and continuum concepts for fluids, first and second laws of thermodynamics, conservation laws for moving fluids, one-dimensional compressible flows, shocks and expansion waves, flows in nozzles.
+CourseProfile (ATLAS)
+AEROSP 290. Directed Study
+Advisory and Enforced Prerequisite: None.
+(1-3 credits)
+Study of aspects of aerospace engineering that is not suitable for technical elective credit. May be used for student team projects, pilot ground school, UROP or other academic studies that are directed by an Aerospace Engineering faculty member.
+CourseProfile (ATLAS)
+300 Level Courses
+AEROSP 305. Aerospace Engineering Laboratory I
+Advisory Prerequisite: None. Enforced Prerequisite:
+AEROSP 215, AEROSP 225, and (PHYSICS 240 or PHYSICS 260)
+.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+First course of a two-semester sequence covering fundamentals of instrumentation and measurement and their application in engineering testing and experimentation. Includes principles of analog and digital data acquisition, analysis of discrete measurement data, statistical assessment of hypotheses, design of experiments and similarity scaling of data. Emphasized development of skills for written communication and for working effectively in a team environment.
+CourseProfile (ATLAS)
+AEROSP 315. Aircraft/Spacecraft Structures
+Advisory Prerequisite: None. Enforced Prerequisite:
+AEROSP 215 and MATH 216.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+An introduction to the fundamental phenomena of solid and structural mechanics in aerospace systems. Includes analysis and numerical methods of solution that are used for design of aerospace structures.
+CourseProfile (ATLAS)
+AEROSP 325. Aerodynamics
+Advisory Prerequisite: None. Enforced Prerequisite:
+MATH 216 and AEROSP 225.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Fundamental concepts in aerodynamics. Students learn how airfoils produce lift and how the pressure distribution about an airfoil can be calculated. Introduces the boundary-layer concept, how boundary layers lead to drag and what makes them prone to instability and turbulence or separation. Effects of the wing planform shape on lift and drag.
+CourseProfile (ATLAS)
+AEROSP 335. Aircraft and Spacecraft Propulsion
+Advisory Prerequisite: None. Enforced Prerequisite:
+AEROSP 225 and MATH 216.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Airbreathing propulsion, rocket propulsion and an introduction to modern advanced propulsion concepts. Includes thermodynamic cycles as related to propulsion and the chemistry and thermodynamics of combustion. Students analyze turbojets, turbofans and other air-breathing propulsion systems. Introduces liquid- and solid-propellant rockets and advanced propulsion concepts such as Hall thrusters and pulsed plasma thrusters. Students also learn about the environmental impact of propulsion systems and work in teams to design a jet engine.
+CourseProfile (ATLAS)
+AEROSP 341. Aircraft Dynamics
+Advisory Prerequisite: None. Enforced Prerequisite: MECHENG 240, MATH 216 and AEROSP 201. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Introduction to the dynamics and control of atmospheric flight vehicles. Nonlinear equations of motion. Stability derivatives and linearized equations for longitudinal and lateral flight dynamics. Concepts from linear systems: state equations, transfer functions, stability, time response, frequency response. Flight simulation using relevant software.
+CourseProfile (ATLAS)
+AEROSP 343. Spacecraft Dynamics
+Advisory Prerequisite: None. Enforced Prerequisite: MECHENG 240, MATH 216 and AEROSP 201. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Introduction to space flight mechanics. The two-body problem. Orbital transfers, maneuvers and orbital analysis. Ground tracks and relative motion in orbit. Gravity-assist trajectories. Spacecraft attitude and rotational dynamics. Euler’s and Poisson’s equations and their linearization. Stability analysis. Momentum management using thrusters and reaction wheels. Orbital simulation using Matlab and STK.
+CourseProfile (ATLAS)
+AEROSP 350. Fundamentals of Aerospace Computing
+Advisory Prerequisite: None. Enforced Prerequisite:
+(ENGR 101 or ENGR 151 or EECS 183) and (ENGR 161 or [EECS 180 and ENGR 161]).
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Fundamentals of computer science, computational science, and embedded systems, with applications from aerospace engineering. Topics include: pointers; data structures; algorithms; computational complexity; signal decomposition; numerical linear algebra; numerical integration; and modeling, design, analysis and verification of sensors, actuators, and embedded processors.
+CourseProfile (ATLAS)
+AEROSP 384. Introduction to Solid Modeling and CAD
+Advisory Prerequisite: Preceded or accompanied by AEROSP 201 and AEROSP 215. Enforced Prerequisite: None. (3 credits)
+Design process including specifications, configurations, trades and design drivers. Introduction to solid visualization and modeling through an integrated CAD/CAE/CAM/PDM software package in the context of the design process. The role of CAD in analysis, manufacturing and product management. Flight vehicle related.
+CourseProfile (ATLAS)
+AEROSP 388. Systems Engineering Processes and Digital Tools (MBSE)
+Advisory Prerequisite: None. Enforced Prerequisite: Preceded or accompanied by AEROSP 215 and AEROSP 225.
+Minimum grade requirement of “C-” for enforced prerequisite
+. (7 credits)
+Model-Based Systems Engineering (MBSE) tools and methods will be taught on a known system, so students can learn fundamentals and apply them to their own student projects such as the development of complex products such as aircraft, spacecraft, automobiles, etc.. Other product development leadership tools and processes are also included.
+CourseProfile (ATLAS)
+AEROSP 390. Directed Study
+Advisory and Enforced Prerequisite: None. (1-3 credits)
+Study of specialized aspects of aerospace engineering. May be used for student team projects, pilot certification or other academic studies that are directed by an Aerospace Engineering faculty member. The student will submit a final report.
+CourseProfile (ATLAS)
+400 Level Courses
+AEROSP 405. Aerospace Laboratory II
+Advisory Prerequisite: Preceded by AEROSP 305. Enforced Prerequisite: None. (4 credits)
+Second course of two-semester sequence covering instrumentation and measurement and their application in engineering testing and experimentation. Application of the principles learned in Aero 305 to more advanced test and measurement applications. Experiments and Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+AEROSP 416 (NAVARCH 416). Theory of Plates and Shells
+Advisory Prerequisite: AEROSP 315. Enforced Prerequisite: None. (3 credits)
+Linear elastic plates. Membrane and bending theory of axisymmetric and non-axisymmetric shells. Variational formulation of governing equations boundary conditions. Finite element techniques for plate and shell problems.
+CourseProfile (ATLAS)
+AEROSP 421. Engineering Aerodynamics
+Advisory Prerequisite: None. Enforced Prerequisite: AEROSP 325. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course teaches contemporary aerodynamic analysis and design of aerospace vehicles and other systems. Topics include: review of theoretical concepts and methods, computer-based CFD tools, experimental methods and wind tunnel testing. Case studies are discussed to illustrate the combined use of advanced aerodynamic design methods. A team project is required.
+CourseProfile (ATLAS)
+AEROSP 423. Computational Methods for Aerospace Engineering
+Advisory Prerequisite: None. Enforced Prerequisite: (ENGR 101 or ENGR 151), MATH 216, and AEROSP 350. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+This course covers computational methods used in Aerospace engineering, including time integration techniques for ordinary differential equations, finite differences, finite volumes, finite elements, and probabilistic methods. Emphasis is placed on analysis and implementation of the underlying numerical methods. Computer programming in Matlab or a similar language is required.
+CourseProfile (ATLAS)
+AEROSP 450. Flight Software Systems
+Advisory Prerequisite: Preceded by ENGR 101 and AEROSP 201, or graduate standing. Enforced Prerequisite: None. (3 credits)
+Theory and practice of embedded flight software systems. Computational theory topics include discrete mathematics, finite automata, computational complexity, and model checking. Software development concepts include object oriented programming, networks, multi-threaded software, real-time scheduling, and sensor/actuator interface protocols. Emphasis placed on C/C++ development in Linux with guidance, navigational control applications.
+CourseProfile (ATLAS)
+AEROSP 470. Control of Aerospace Vehicles
+Advisory Prerequisite: AEROSP 341 or AEROSP 343. Enforced Prerequisite: MATH 216 and MECHENG 240.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Introduces foundations of classical control theory in the context of aerospace engineering applications. Topics covered include observers and state space control theory, effects of nonlinearities, application to aircraft and spacecraft, and simulation of control systems using relevant software.
+CourseProfile (ATLAS)
+AEROSP 481. Aircraft Design
+Advisory Prerequisite: None. Enforced Prerequisite: AEROSP 325; and preceded or accompanied by AEROSP 315 and AEROSP 335. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Multidisciplinary integration of aerodynamics, performance, stability and control, propulsion, structures and aeroelasticity in a system approach aimed at designing an aircraft for a set of specifications. Includes weight estimates, configuration and powerplant selection, tail-sizing, maneuver and gust diagrams, wing loading, structural and aeroelastic analysis. Students work in teams on the design project. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+AEROSP 483. Space System Design
+Advisory Prerequisite: SPACE 310; and preceded or accompanied by AEROSP 335. Enforced Prerequisite:
+AEROSP 343.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Engineering design process for space systems. Mission planning, launch vehicle integration, propulsion, power systems, communications, budgeting, and reliability. Space-systems engineering by including components, subsystems and mission design. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+AEROSP 488. Product Development Leadership
+Advisory Prerequisite: None. Enforced Prerequisite: AEROSP 388. Minimum grade requirement of “B” or instructor permission for enforced prerequisite. (4 credits)
+Leading and managing a comprehensive product design and development project, using systems engineering principles as a framework. Senior team leader training, including both non-technical and technical coaching and facilitation. Will include coaching and mentorship of undergraduate students in AEROSP 388.
+CourseProfile (ATLAS)
+AEROSP 490. Directed Study
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1-3 credits)
+Study of advanced aspects of aerospace engineering directed by an Aerospace faculty member. The student will submit a final report.
+CourseProfile (ATLAS)
+AEROSP 495. Special Topics in Aerospace Engineering
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1-4 credits)
+Specific aerospace engineering topics that are not treated in the regular Aerospace Engineering undergraduate curriculum.
+CourseProfile (ATLAS)
+500 Level Courses
+AEROSP 501. Aerospace Economics
+Advisory
+and Enforced Prerequisite: None. (3 credits)
+Graduate course in informing optimal engineering decisions based upon product lifecycles and customer
+usage profiles. Students will learn about customer needs and how they’re fulfilled by aerospace products,
+ultimate lifecycles of those products, how they inform the best product decisions, and future considerations around technology, sustainability, and industry trends.
+CourseProfile (ATLAS)
+AEROSP 502. Aerospace Leadership Capstone
+Advisory
+and Enforced Prerequisite: None. (3 credits)
+Graduate Capstone course/project where students work in teams of 4-5 to develop a comprehensive
+technology, product development, and business proposal, and apply all program learnings to the project. Students present to a panel of industry judges who grade the quality of the project, presentation, and use of the tools/methods.
+CourseProfile (ATLAS)
+AEROSP 505. Engineering Tools & Methods
+Advisory
+and Enforced Prerequisite: None.
+(2 credits)
+A Model-Based Systems Engineering (MBSE) course covering physical and virtual engineering, emphasizing move from physical to virtual. Correlations between physical and virtual evaluations for different technologies and systems will be discussed. Formal requirements delivery through MBSE, and Six Sigma (6𝜎) tools/processes will drive understanding of MBSE model use and limitations.
+CourseProfile (ATLAS)
+AEROSP 510. Finite Elements in Mechanical and Structural Analysis I
+Advisory Prerequisite: AEROSP 315. Enforced Prerequisite: None. (3 credits)
+Introductory level. Finite element solutions for structural dynamics and nonlinear problems. Normal modes, forced vibrations, Euler buckling (bifurcations), large deflections, nonlinear elasticity, transient heat conduction. Computer laboratory based on a general purpose finite element code.
+CourseProfile (ATLAS)
+AEROSP 511. Finite Elements in Mechanical and Structural Analysis II
+Advisory Prerequisite: AEROSP 510 or MECHENG 505. Enforced Prerequisite: None. (3 credits)
+Introduction to fundamental principles and latest developments in aerosol science. The dependence of aerosol composition and size distributions on the underlying atmospheric thermodynamics, dynamics, chemistry, and physics will be presented. Recent observations and theoretical treatments are used to illustrate aspects of aerosol science that are poorly quantified at present.
+CourseProfile (ATLAS)
+AEROSP 512. Experimental Solid Mechanics
+Advisory Prerequisite: AEROSP 305 and AEROSP 315 or equivalent. Enforced Prerequisite: None. (3 credits)
+Lectures and experiments that demonstrate historical and contemporary methods of measurement in solid mechanics. A review of classical experiments that substantiate many typical assumptions (e.g., material linearity or Hooke’s Law) concerning the response of solids. An introduction to contemporary techniques or process measurement involving piezoresistivity.
+CourseProfile (ATLAS)
+AEROSP 513. Foundations of Solid and Structural Mechanics I
+Advisory Prerequisite: AEROSP 315, MECHENG 311 or equivalent. Enforced Prerequisite: None. (3 credits)
+Introduction to linear continuum and structural mechanics. Three-dimensional analysis of stress and infinitesimal strain, including transformation of tensors, equations of motion, and kinematic compatibility. Boundary value problem formation. Constitutive relations for isotropic and anisotropic linear elastic materials. Introduction to variational calculus and energy methods. Applications to thin-walled and slender aerospace structures.
+CourseProfile (ATLAS)
+AEROSP 514. Foundations of Solid and Structural Mechanics II
+Advisory Prerequisite: AEROSP 315 or equivalent. Enforced Prerequisite: None. (3 credits)
+Introduction to nonlinear continuum and structural mechanics. Elements of tensor calculus, basic kinematics, conservation laws (mass, linear and angular momentum, energy, etc.), constitutive equations in continual applications in hyper-realistic solids, numerical (f.e.m.) methods for the corresponding nonlinear boundary value problems, derivation of nonlinear shell theories from 3-D considerations.
+CourseProfile (ATLAS)
+AEROSP 515. Mechanics of Composite and Microstructured Media
+Advisory Prerequisite: AEROSP 514 or equivalent. Enforced Prerequisite: None. (3 credits)
+An introduction to the mechanics of composite (more than one phase) solids with an emphasis on the derivation of macroscopical constitutive laws based on the microstructure. Eshelby transformation theory, self consistent methods, homogenization theory for periodic media, bounding properties for effective moduli of composites. Applications of aerospace interest.
+CourseProfile (ATLAS)
+AEROSP 516. Mechanics of Fibrous Composites
+Advisory Prerequisite: AEROSP 315 or MECHENG 412. Enforced Prerequisite: None. (3 credits)
+Effective stiffness properties of composites. Constitutive description of laminated plates. Laminated plate theory. Edge effects in laminates. Nonlinear theory of generally laminated plates. Governing equations in the Von Karman sense. Laminated plates with moderately large deflections. Post-buckling and nonlinear vibration of laminated plates. Failure theories and experimental results for laminates.
+CourseProfile (ATLAS)
+AEROSP 518. Theory of Elastic Stability I
+Advisory Prerequisite: AEROSP 315 or MECHENG 412 or equivalent. Enforced Prerequisite: None. (3 credits)
+Concepts of stability and bifurcation. Simple examples to illustrate buckling and instability mechanisms in structures. Both equilibrium and time dependent problems discussed. General theory for stability in continuum, conservative elastic solids. Applications to bars, rings, plates and shells.
+CourseProfile (ATLAS)
+AEROSP 520. Compressible Flow I
+Advisory Prerequisite: AEROSP 325. Enforced Prerequisite: None. (3 credits)
+Elements of inviscid compressible-flow theory: review of thermodynamics; equations of frictionless flow; analysis of unsteady one-dimensional and steady supersonic two-dimensional flows; including the method of characteristics; small-disturbance theory with applications to supersonic thin-airfoil theory.
+CourseProfile (ATLAS)
+AEROSP 521. Experimental Methods in Fluid Mechanics
+Advisory Prerequisite: AEROSP 405 or graduate standing. Enforced Prerequisite: None. (3 credits)
+Fundamentals principles and practice of non-intrusive measurement techniques for compressible and incompressible flows. Review of geometric and Gaussian beam optics; Laser Doppler Velocimetry; quantitative flow field measurement techniques including interferometry, Laser Induced Fluorescence and Particle Image Velocimetry. Advanced data processing techniques for turbulent flow. Error estimation.
+CourseProfile (ATLAS)
+AEROSP 522. Viscous Flow
+Advisory Prerequisite: AEROSP 325. Enforced Prerequisite: None. (3 credits)
+The Navier-Stokes equations, including elementary discussion of tensors, exact solutions. Laminar boundary-layer theory; three-dimensional and compressible boundary layers. Laminar-flow instability theory; transition. Introduction to the mechanics of turbulence; turbulent free shear flows and boundary layers.
+CourseProfile (ATLAS)
+AEROSP 523 (MECHENG 523). Computational Fluid Dynamics I
+Advisory Prerequisite: AEROSP 325 or preceded or accompanied by MECHENG 520.
+Enforced Prerequisite: None.
+(3 credits)
+Physical and mathematical foundations of computational fluid mechanics with emphasis on applications. Solution methods for model equations and the Euler and the Navier-Stokes equations.  The finite volume formulation of the equations. Classification of partial differential equations and solution techniques. Truncation errors, stability, conservation, and monotonicity.
+CourseProfile (ATLAS)
+AEROSP 524. Aerodynamics II
+Advisory Prerequisite: AEROSP 420.
+Enforced Prerequisite: None.
+(3 credits)
+Two- and three-dimensional potential flow about wings and bodies; complex-variable methods; singularity distributions; numerical solution using panel methods. Unsteady aerodynamics; slender-body theory. Viscous effects: airfoil stall, high-lift systems, boundary-layer control. Wings and bodies at transonic and supersonic speeds; numerical methods.
+CourseProfile (ATLAS)
+AEROSP 525. Introduction to Turbulent Flows
+Advisory Prerequisite: AEROSP 522.
+Enforced Prerequisite: None.
+(3 credits)
+Mathematical description of turbulent flow phenomena. Flow equations, vorticity dynamics, Reynolds-averaged equations, engineering turbulence models. Theory of homogeneous turbulence, spectral dynamics. Shear flow turbulence, mean and fluctuating structure of free and wall-bounded turbulent flows.
+CourseProfile (ATLAS)
+AEROSP 526. Hypersonic Aerothermodynamics
+Advisory Prerequisite: Graduate standing or AEROSP 225 and AEROSP 325.
+Enforced Prerequisite: None.
+(3 credits)
+Hypersonic vehicles offer rapid air transportation and access to space. This course provides an introduction to the aerothermodynamics of hypersonic vehicles. Topics covered include: vehicle types (missiles, space planes, air-breathers); flight dynamics (trajectory, range, stability); aerothermodynamics (fluid dynamics, thermodynamics, aerodynamics, heating); and propulsion systems (scramjets, combined cycles).
+CourseProfile (ATLAS)
+AEROSP 527. Unsteady Aerodynamics and Aeroacoustics
+Advisory Prerequisite: AEROSP 325 or equivalent or permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+Theoretical and numerical aspects of unsteady aerodynamics and aerodynamically-generated noise. Topics include vortex dynamics, steady and unsteady airfoil theory, indicial methods, unsteady compressible flow, basics of physical acoustics, sound generation by moving bodies and turbulence, combustion noise.
+CourseProfile (ATLAS)
+AEROSP 530. Gas-Turbine Propulsion
+Advisory Prerequisite: AEROSP 335.
+Enforced Prerequisite: None.
+(3 credits)
+Advanced analysis of turbojet engines: effect of altitude parameters on engine performance; off-design equilibrium running of a turbojet engine; dynamics of engine considered as a quasi-static system; fluid mechanics of a rotating axial blade row; centrifugal compressors; transonic flow problems.
+CourseProfile (ATLAS)
+AEROSP 532. Molecular Gas Dynamics
+Advisory Prerequisite: Permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+Analysis of basic gas properties at the molecular level. Kinetic theory: molecular collisions, the Boltzmann equation, Maxwellian distribution function. Quantum mechanics: the Schrodinger equation, quantum energy states for translation, rotation, vibration, and electronic models of atoms and molecules. Statistical mechanics: the Boltzmann relation, the Boltzmann energy distribution, partition functions. These ideas are combined for the analysis of a chemically reacting gas at the molecular level.
+CourseProfile (ATLAS)
+AEROSP 533 (ENSCEN 533). Combustion Processes
+Advisory Prerequisite: AEROSP 225.
+Enforced Prerequisite: None.
+(
+3 credits)
+This course covers the fundamentals of combustion systems and fire and explosion phenomena. Topics covered include thermochemistry, chemical kinetics, laminar flame propagation, detonations and explosions, flammability and ignition, spray combustion and the use of computer techniques in combustion problems.
+CourseProfile (ATLAS)
+AEROSP 535. Rocket Propulsion
+Advisory Prerequisite: AEROSP 335.
+Enforced Prerequisite: None.
+(3 credits)
+Analysis of liquid and solid propellant rocket power plants; propellant thermochemistry, heat transfer, system considerations. Low-thrust rockets, multi-stage rockets, trajectories in powered flight, electric propulsion.
+CourseProfile (ATLAS)
+AEROSP 536. Electric Propulsion
+Advisory Prerequisite: AEROSP 335, senior standing.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to electric propulsion with an overview of electricity and magnetism, atomic physics, non-equilibrium flows and electrothermal, electromagnetic and electrostatic electric propulsion systems.
+CourseProfile (ATLAS)
+AEROSP 540 (MECHENG 540). Intermediate Dynamics
+Advisory Prerequisite: MECHENG 240.
+Enforced Prerequisite: None.
+(3 credits)
+Newton/Euler and Lagrangian formulations for three-dimensional motion of particles and rigid bodies. Principles of dynamics applied to various rigid-body and multi-body dynamics problems that arise in aerospace and mechanical engineering.
+CourseProfile (ATLAS)
+AEROSP 543. Structural Dynamics
+Advisory Prerequisite: AEROSP 315.
+Enforced Prerequisite: None.
+(3 credits)
+A Natural frequencies and mode shapes of elastic bodies. Non-conservative elastic systems. Structural and viscous damping. Influence coefficient methods for typical flight structures. Response of structures to random and shock loads.
+CourseProfile (ATLAS)
+AEROSP 544. Introduction to Aeroelasticity
+Advisory Prerequisite: AEROSP 315.
+Enforced Prerequisite: None.
+(3 credits)
+Vibration and flutter of elastic bodies exposed to fluid flow. Static divergence and flutter of airplane wings. Flutter of flat plates and thin walled cylinders at supersonic speeds. Oscillations of structures due to vortex shedding.
+CourseProfile (ATLAS)
+AEROSP 545. Aeromechanics of Rotary Wing Vehicles
+Advisory Prerequisite: Preceded by AEROSP 315 and AEROSP 325.
+Enforced Prerequisite: None.
+(3 credits)
+This course deals with fundamental aspects of helicopter aerodynamics, performance, dynamics, stability and control, aeroelastic stability in flap-pitch, flap-lag and coupled flap-lag-torsion. Aeroelastic response in forward flight or the vibration problem is also considered.
+CourseProfile (ATLAS)
+AEROSP 548. Astrodynamics
+Advisory Prerequisite: AEROSP 343 or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Review of two-body problem for spacecraft: orbital trajectories, transfers, targeting and time of flight. Orbit perturbation formulations and analysis. Restricted 3-body problem and applications.
+CourseProfile (ATLAS)
+AEROSP 549. Orbital Analysis
+Advisory Prerequisite: AEROSP 548, AEROSP 540, or AEROSP 573, or permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+The analysis, characterization and determination of space trajectories from a dynamical systems viewpoint. The general formulation and solution of the spacecraft trajectory design and navigation problems. Computation of periodic orbits and their stability. Estimation of model parameters from spacecraft tracking data (e.g., gravity field estimation). Elements of precision modeling and precision orbit determination.
+CourseProfile (ATLAS)
+AEROSP 550 (CEE 571) (ECE 560) (MECHENG 564). Linear Systems Theory
+Advisory Prerequisite: Graduate standing.
+Enforced Prerequisite: None.
+(4 credits)
+Linear spaces and linear operators. Bases, subspaces, eigenvalues and eigenvectors, canonical forms. Linear differential and difference equations. Mathematical representations: state equations, transfer functions, impulse response, matrix fraction and polynomial descriptions. System-theoretic concepts: causality, controllability, observability, realizations, canonical decomposition, stability.
+CourseProfile (ATLAS)
+AEROSP 551 (ECE 562). Nonlinear Systems and Control
+Advisory Prerequisite: Graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to the analysis and design of nonlinear systems and nonlinear control systems. Stability analysis using Liapunov, input-output and asymptotic methods. Design of stabilizing controllers using a variety of methods: linearization, absolute stability theory, vibrational control, sliding modes and feedback linearization.
+CourseProfile (ATLAS)
+AEROSP 552. Aerospace Information Systems
+Advisory Prerequisite: ENGR 101 and MATH 216, or graduate standing. Enforced Prerequisite: AEROSP 350. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Information systems for Aerospace applications. Data abstraction, elementary data structures. Graphs, automata theory. Life cycle models, validation & verification. Deterministic search algorithms. Decision making under uncertainty; review of probability theory, introduction to information theory, Bayesian Networks, Markov chains, Markov Decision Processes. Substantial code development in a traditional programming language.
+CourseProfile (ATLAS)
+AEROSP 566. Data Analysis and System Identification
+Advisory Prerequisite: Graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Methods of data analysis and empirical modeling. Sensors and measurement concepts. Time and frequency data analysis; statistical and spectral concepts. Linear regression and identification of time-series models. Parameter estimation using optimization. Basis-function expansions and nonlinear time series identification. Eigensystem realization and subspace identification. Nonlinear state space identification.
+CourseProfile (ATLAS)
+AEROSP 567. Inference, Estimation, and Learning
+Advisory and Enforced Prerequisite: None. (3 credits)
+Theory and algorithms for synthesizing models and data for general applications across science and engineering. Topics include algorithms for maximum likelihood estimation, Bayesian inference, and regression for static inference problems and for estimation in dynamical systems. Theoretical foundations of the algorithms and projects that focus on implementation.
+CourseProfile (ATLAS)
+AEROSP 568. Computational Methods for Engineered Systems Design
+Advisory Prerequisite: Programming skills (e.g., AEROSP 350) and/or systems design (e.g., AEROSP 481 or 483) and/or statistical methods (e.g., CEE 373) or permission of instructor.
+Enforced Prerequisite: None. (3 credits)
+Examines computational and statistical methods for the design of complex engineered systems. Topics
+include design of experiments, surrogate modeling and surrogate-based optimization, sensitivity analysis, and mixed-variable design space exploration. Aerospace examples highlight advanced aircraft and propulsion system concepts, including methods for co-optimization of aircraft, propulsion, and energy/power management.
+CourseProfile (ATLAS)
+AEROSP 573. Spacecraft Attitude Dynamics and Control
+Advisory Prerequisite: AEROSP 470 or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to spacecraft attitude dynamics and control. Topics include attitude representations; dynamics and stability of rigid spacecraft with momentum wheels; deterministic and stochastic attitude estimation; and attitude control of spacecraft using internal and external torques. Focus on underlying mechanics with coverage of typical spacecraft attitude sensors and actuators.
+CourseProfile (ATLAS)
+AEROSP 574 (SPACE 574). Introduction to Space Physics
+Advisory Prerequisite: None.
+Enforced Prerequisite:
+Senior and Above. (4 credits)
+A graduate level introduction to physical and aeronomical processes in the space environment. Discussion of theoretical tools, the Sun, solar wind, heliosphere, magnetosphere, ionosphere and the upper atmosphere. Spacecraft interaction with radiation, spacecraft-plasma interactions.
+CourseProfile (ATLAS)
+AEROSP 575. Flight and Trajectory Optimization
+Advisory Prerequisite: AEROSP 470 or graduate standing.
+Enforced Prerequisite: None.
+(
+3 credits)
+Formulation and solution of optimization problems for atmospheric flight vehicles and space flight vehicles. Optimality criteria, constraints, vehicle dynamics. Flight and trajectory optimization as problems of nonlinear programming, calculus of variations and optimal control. Algorithms and software for solution of flight and trajectory optimization problems.
+CourseProfile (ATLAS)
+AEROSP 577. Data-driven & Reduced Complexity Modeling
+Advisory Prerequisite: Good background in Linear Algebra, Probability and Statistics.
+Enforced Prerequisite: None.
+(3 credits)
+Review of Linear Algebra and Probability; Linear and Kernel Regression; Discovery of dynamical systems and PDEs from data; Statistical Learning Theory; Dimensionality reduction & Manifold Learning; Variational Inference & Variational Autoencoders; Compression/Sensing/Reconstruction; Projection-based Reduced Order Modeling.
+CourseProfile (ATLAS)
+AEROSP 579. Control of Structures and Fluids
+Advisory Prerequisite: AEROSP 470 or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Control-oriented modeling of structural and fluid-structure systems. Fixed-gain and adaptive disturbance rejection for vibration suppression. Application to aeroelastic flutter, limit-cycle oscillations, and gust alleviation.
+CourseProfile (ATLAS)
+AEROSP 580. Linear-Quadratic Feedback Control
+Advisory Prerequisite: AEROSP 550.
+Enforced Prerequisite: None.
+Credit Exclusions:
+Student may only receive credit for one course
+,
+AEROSP 580 or ECE 565. (3 credits)
+Standard problem for state space and transfer function models. Specialization to the basic servo loop with feedback and feedforward control. Pole placement. Internal model principle for commands and disturbances. Stability, norms, and solution of the Lyapunov equation. Treatment of the linear-quadratic regulator and linear-quadratic-Gaussian controllers. Analysis of the Riccati equation.
+CourseProfile (ATLAS)
+AEROSP 581 (SPACE 581). Space Policy and Management
+Advisory Prerequisite: Graduate Standing. Enforced Prerequisite: None. (3 credits)
+The first part of the course will provide detailed information on how space policy is developed in the United States and the international space community, and how these policies result in specific missions. The second part will provide detailed information on modern management techniques and processes. Project managers from NASA centers and industry will lecture on the detailed management techniques and processes.
+CourseProfile (ATLAS)
+AEROSP 582 (SPACE 582). Spacecraft Technology
+Advisory Prerequisite: Graduate Standing. Enforced Prerequisite: None. (4 credits)
+Systematic and comprehensive review of spacecraft and space mission design and key technologies for space missions. Discussions on project management and the economic and political factors that affect space missions. Specific space mission designs are developed in teams. Students of AERO 483/583 choose their projects based on these designs. Projects are overseen/graded by faculty and may involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+AEROSP 583 (SPACE 583). Management of Space Systems Design
+Advisory Prerequisite: Graduate standing.
+Enforced Prerequisite: None.
+(4 credits)
+Students lead teams in high level project design of a space system. Modern methods of concurrent engineering manufacturing, marketing and finance, etc., are incorporated. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+AEROSP 584. Avionics, Navigation and Guidance of Aerospace Vehicles
+Advisory Prerequisite: AEROSP 470 or graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Principles of aerospace navigation and guidance. Deterministic and stochastic linear perturbation theory. Position fixing and celestial navigation with redundant measurements. Recursive navigation and Kalman filtering. Pursuit guidance, proportional navigation, ballistic guidance and velocity-to-be-gained guidance.
+CourseProfile (ATLAS)
+AEROSP 585. Aerospace Engineering Seminar
+Advisory Prerequisite: AEROSP 285 or senior standing.
+Enforced Prerequisite: None.
+(1 credit)
+A series of seminars by noted speakers designed to acquaint graduate and undergraduate students with contemporary research and technological issues in the aerospace industry. Involves a short term paper pertinent to one of the seminar topics.
+CourseProfile (ATLAS)
+AEROSP 586 (IOE 586). Air Transportation Systems
+Advisory and Enforced Prerequisite: None. (3 credits)
+Overview of air transportation systems; course splits into four modules: Airlines, airports, airspace, and emerging topics. Topics include airline schedule development, fleet/crew assignment, airline revenue management; airport capacity and planning, tactical/strategic demand management; air traffic control, deterministic/stochastic air traffic flow management; drone traffic management and air-space integration.
+CourseProfile (ATLAS)
+AEROSP 588. Multidisciplinary Design Optimization
+Advisory Prerequisite: MATH 419 or equivalent; MATH 371 or equivalent; graduate standing.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to numerical optimization and its application to the design of aerospace systems, including: mathematical formulation of multidisciplinary design problems, overview of gradient-based and gradient-free algorithms, optimality conditions (unconstrained and constrained, Pareto optimality), sensitivity analysis and multidisciplinary problem decomposition. No background in aerospace is required.
+CourseProfile (ATLAS)
+AEROSP 590. Directed Study
+Advisory Prerequisite: Graduate standing and permission of instructor.
+Enforced Prerequisite: None.
+(1-6 credits)
+Study of advanced aspects of aerospace engineering directed by an Aerospace Engineering faculty member. Primarily for graduates. The student will submit a final report.
+CourseProfile (ATLAS)
+AEROSP 597 (SPACE 597). Fundamentals of Space Plasma Physics
+Advisory Prerequisite: Senior-level statistical Physics course.
+Enforced Prerequisite: None.
+(3 credits)
+Basic plasma concepts, Boltzmann equation, higher order moments equations, MHD equations, double adiabatic theory. Plasma expansion to vacuum, transonic flows, solar wind, polar wind. Collisionless shocks, propagating and planetary shocks. Fokker-Planck equation, quasilinear theory, velocity diffusion, cosmic ray transport, shock acceleration. Spacecraft charging, mass loading.
+CourseProfile (ATLAS)
+600 Level Courses
+AEROSP 611. Advanced Topics in Finite Element Structural Analysis
+Advisory Prerequisite: AEROSP 511 or MECHENG 605.
+Enforced Prerequisite: None.
+(3 credits)
+Cyclic symmetry, design sensitivities and optimization. Applications to stress analysis, vibration, heat conduction, centrifugal effects, buckling. Introduction to high-level matrix-oriented programming languages (e.g., Direct Matrix Abstraction Program). Use of a large, general purpose finite element code as a research tool.
+CourseProfile (ATLAS)
+AEROSP 614. Advanced Theory of Plates and Shells
+Advisory Prerequisite: AEROSP 416.
+Enforced Prerequisite: None.
+(3 credits)
+Differential geometry of surfaces. Linear and nonlinear plate and shell theories in curvilinear coordinates. Anisotropic and laminated shells. Stability and post-buckling behavior. Finite element techniques, including special considerations for collapse analysis.
+CourseProfile (ATLAS)
+AEROSP 618. Theory of Elastic Stability II
+Advisory Prerequisite: AEROSP 518 or equivalent and graduate
+standing.
+Enforced Prerequisite: None.
+(3 credits)
+Koiter’s theory for buckling, post-buckling, mode interaction and imperfection sensitivity behavior in nonlinear solids. Applications to thin-walled beams, cylindrical and spherical shells as well as to 3-D hyperelastic solids. Loss of ellipticity in finitely strained solids. Hill’s theory on bifurcation, uniqueness and post-bifurcation analysis in elastic-plastic solids with applications.
+CourseProfile (ATLAS)
+AEROSP 623. Computational Fluid Dynamics II
+Advisory Prerequisite: AEROSP 523 or equivalent, substantial computer programming experience.
+Enforced Prerequisite: None.
+(3 credits)
+Advanced mathematical and physical concepts in computational fluid dynamics, with applications to one- and two-dimensional compressible flow. Euler and Navier-Stokes equations, numerical flux functions, boundary conditions, monotonicity, marching in time, marching to a steady state, grid generation.
+CourseProfile (ATLAS)
+AEROSP 625. Advanced Topics in Turbulent Flow
+s
+Advisory Prerequisite: AEROSP 525.
+Enforced Prerequisite: None.
+(3 credits)
+Fundamentals of turbulent shear flows, with emphasis on dimensional reasoning and similarity scaling. Development of laminar shear flows, instability and transition to turbulent flow, kinetic and scalar energy transport mechanisms in turbulent shear flows, critical examination of numerical methods for turbulent flows, comparisons with experiments.
+CourseProfile (ATLAS)
+AEROSP 627. Advanced Gas Dynamics
+Advisory Prerequisite: AEROSP 520, AEROSP 522.
+Enforced Prerequisite: None.
+(3 credits)
+Linear and nonlinear surface waves. Flow instabilities; nonlinear stability analysis. Vorticity dynamics: vortex motions, instabilities and breakdown. Boundary layers: steady and unsteady interactions; nonlinear instability.
+CourseProfile (ATLAS)
+AEROSP 633. Advanced Combustion
+Advisory Prerequisite: AEROSP 533.
+Enforced Prerequisite: None.
+(3 credits)
+Thermodynamics of gas mixtures, chemical kinetics, conservation equations for multi-component reacting gas mixtures, deflagration and detonation waves. Nozzle flows and boundary layers with reaction and diffusion.
+CourseProfile (ATLAS)
+AEROSP 638. Aerodynamic Design
+Advisory Prerequisite: AEROSP 325 or permission of instructor.
+Enforced Prerequisite: None.
+(3 credits)
+Students learn to design efficient lifting surfaces and streamlined bodies for enhanced performance, including energy efficiency. Covers wing sizing and planform design, airfoil design, configuration layout, hydrofoil design, propeller and turbine design, automotive aerodynamics, and design optimization.
+CourseProfile (ATLAS)
+AEROSP 650. Aerospace Enterprise Leadership
+Advisory Prerequisite: None.
+Enforced Prerequisite: Declaration in MEng program in Global Aerospace Leadership. (1.5 credits)
+Leadership, strategic technology, and critical business skills essential to leading and managing large technical teams and operations, with a focus on the Aerospace Enterprise. Provides teachings and coaching on role-model leadership behaviors through instructor lectures, case study analyses, and thoughts and perspectives from senior leaders in industry, government, and academia.
+CourseProfile (ATLAS)
+AEROSP 656. Technical Project Management & Leadership Skills for Engineers
+Advisory Prerequisite: None.
+Enforced Prerequisite: Declaration in MEng program in Global Aerospace Leadership. (1.5 credits)
+Provides essential project management skills and tools. Topics range from initiating projects and project planning through project execution, control, and close-out. Emphasizes commonly used tools and their practical application along with the interpersonal skills to successfully manage complex technical projects.
+CourseProfile (ATLAS)
+AEROSP 690. Financial Analysis for Non-Finance Managers
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: Declaration in MEng program in Global Aerospace Leadership. (1 credit)
+Explores decision-making frameworks using evaluation tools to evaluate the impact and efficacy of different projects. Takes a deep dive into valuation at the firm level, getting to grips with new techniques and mechanisms to estimate the value of an enterprise.
+CourseProfile (ATLAS)
+700 Level Courses
+AEROSP 714. Special Topics in Structural Mechanics
+Advisory Prerequisite: Permission of instructor.
+Enforced Prerequisite: None.
+(1-16 credits)
+CourseProfile (ATLAS)
+AEROSP 729. Special Topics in Gas Dynamics
+Advisory Prerequisite: Permission of instructor.
+Enforced Prerequisite: None.
+(1-16 credits)
+Advanced topics of current interest.
+CourseProfile (ATLAS)
+AEROSP 740. Special Topics in Flight Dynamics and Control Systems
+Advisory and Enforced Prerequisite:
+None.
+(1-16 credits)
+Special topics in flight dynamics and control systems relevant to Aerospace Engineering. Course content may vary across sections and terms.
+CourseProfile (ATLAS)
+800 Level Courses
+AEROSP 800. Seminar
+Advisory and Enforced Prerequisite:
+None.
+(1-16 credits)
+CourseProfile (ATLAS)
+AEROSP 820. Seminar in Aerodynamics
+Advisory and Enforced Prerequisite:
+None.
+(1-16 credits)
+CourseProfile (ATLAS)
+AEROSP 840. Dynamics and Control Systems
+Advisory and Enforced Prerequisite:
+None.
+(1-16 credits)
+CourseProfile (ATLAS)
+900 Level Courses
+AEROSP 990. Dissertation/Pre-Candidate
+Advisory Prerequisite: Advanced doctoral student. Enforced Prerequisite:
+None.
+(1-8 credits)
+Dissertation work by doctoral student not yet admitted to status as candidate. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)
+AEROSP 995. Dissertation/Candidate
+Advisory Prerequisite:
+None.
+Enforced
+Prerequisite: Candidate. (4-8 credits)
+Election for dissertation work by a doctoral student who has been admitted to candidate status. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)

@@ -1,0 +1,26 @@
+{
+  "id": "electrical-engineering",
+  "displayName": "Electrical Engineering",
+  "groupRules": {
+    "CoE Common Core": {
+      "minCredits": 39,
+      "countsTowardMajorTotal": true
+    },
+    "EE Program Core Courses": {
+      "minCredits": 30,
+      "countsTowardMajorTotal": true
+    },
+    "Upper Level EE Electives": {
+      "minCredits": 19,
+      "countsTowardMajorTotal": true
+    },
+    "Major Design Experience": {
+      "minCredits": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Flexible Technical Electives": {
+      "minCredits": 9,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -1,0 +1,359 @@
+Civil and Environmental Engineering Courses (CEE)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Civil and Environmental Engineering Courses (CEE)
+Below are all of the courses that are available to be taken in CEE. Some courses may not be available every semester. Each course is listed in the following format:
+Subject Code and Course Number: Course Name
+If it is a cross listed class, the crosslist course subject and course number will be listed in parentheses
+Any advised or enforced prerequisites that should be taken before enrolling for the course
+A description of the course
+A link to the CourseProfile in ATLAS
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+200 Level Courses
+CEE 200. Introduction to Civil and Environmental Engineering
+Advisory and Enforced Prerequisite: None. (1 credit)
+An introduction to the nature and scope of the civil and environmental engineering disciplines and specialty programs. Includes case studies from practice and information about academic and professional opportunities for CEE students.
+CourseProfile (ATLAS)
+CEE 211. Statics and Dynamics
+Advisory Prerequisite: PHYSICS 140. Enforced Prerequisite: None. (4 credits)
+Statics: review of vector mathematics; moment and force resultants; static equilibrium in two & three dimensions; centroids; center of gravity; distributed loadings; mass and area moments of inertia and principal directions. Dynamics: review of concepts of velocity and acceleration; dynamics of particles and rigid bodies; concepts of work, energy momentum.
+CourseProfile (ATLAS)
+CEE 212. Solid and Structural Mechanics
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 211. Minimum grade requirement of “C-” for enforced prerequisite. Credit Exclusions: No credit granted to those who have completed or are enrolled in MECHENG 211. (3 credits)
+Fundamental principles of solid and structural mechanisms and their application in engineering disciplines. Covered: concepts of stress and strain, stress and strain transformations, axial, torsion, bending and combined loading, and elastic deformations.
+CourseProfile (ATLAS)
+CEE 230. Thermodynamics and the Environment
+Advisory Prerequisite: MATH 116, CHEM 130, CHEM 125, CHEM 126 or CHEM 210 and CHEM 211. Enforced Prerequisite: None. (3 credits)
+The First and Second Laws of thermodynamics are applied to systems impacting built and natural environments to determine the performance requirements and thermodynamic efficiencies of engineered processes. Topics of coverage include the properties of pure substances and mixtures, phase changes, reaction and phase equilibrium, heating, air conditioning, and power generation.
+CourseProfile (ATLAS)
+CEE 265. Sustainable Engineering Principles
+Advisory Prerequisite: CHEM 130 and MATH 116. Enforced Prerequisite: None. Credit Exclusions: Student may only receive credit for one course
+,
+CEE 265 or MECHENG 489. (3 credits)
+Sustainable engineering principles include calculations of environmental emissions and resource consumption. Mass and energy balance calculations in context of pollution generation and prevention, resource recovery and life-cycle assessment. Economic aspects of sustainable engineering decision-making. Social impacts of technology system design decisions including ethical frameworks, government legislation and health risks.
+CourseProfile (ATLAS)
+300 Level Courses
+CEE 303. Computational Methods of Engineering and Scientists
+Advisory Prerequisite: None. Enforced Prerequisite: (ENGR 101 or ENGR 151 or EECS 180 or EECS 183 or ROB 102) and (MATH 215 or MATH 285 or MATH 385) AND (MATH 216 or MATH 286 or MATH 396)
+.
+Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Applications of numerical methods to infrastructure and environmental problems. Development of mathematical models and computer programs. Formulation and solution of initial and boundary-value problems with emphasis on structural analysis, fluid flow, and transport of contaminants. Introduction to optimization and data science.
+CourseProfile (ATLAS)
+CEE 307 (ENVIRON 407). Sustainable Cities
+Advisory Prerequisite: Junior or Senior Standing and two environmental science classes. Enforced Prerequisite: None. (3 credits)
+Achieving sustainable urban environments requires an interdisciplinary, systems-level approach to ensure cities are both environmentally and economically sustainable. This course explores how multiple disciplines can be integrated to identify and discuss this broad goal, including law, public health, engineering, finance, communication, land planning, and construction.
+CourseProfile (ATLAS)
+CEE 312. Structural Engineering
+Advisory Prerequisite: CEE 212 or equivalent. Enforced Prerequisite: None. (4 credits)
+Introduction to the field of structural engineering. Discussion of structural analysis techniques and concepts such as virtual work, flexibility method, stiffness method, influence lines and matrix structural analysis. Training in AutoCAD and exposure to commonly used structural analysis computer program(s). Discussion of basic design concepts and principles.
+CourseProfile (ATLAS)
+CEE 325. Fluid Mechanics
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 211. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Principles of mechanics applied to real and ideal fluids. Fluid properties and statics; continuity, energy, and momentum equations by control volume analysis; differential equations of motion for laminar and turbulent flow; dimensional analysis and similitude; boundary layers, drag and lift; incompressible flow in pipes; fluid measurement and turbomachinery.
+CourseProfile (ATLAS)
+CEE 331. Construction Management
+Advisory Prerequisite: Junior Standing. Enforced Prerequisite: None. (4 credits)
+Introduction to a construction management process for engineers in which the project life-cycle is broken into organizing, evaluating, planning, monitoring and controlling. Students will learn about the project delivery, financial and procurement systems; legal issues; cost estimation; scheduling; bonding and insurance; and project resource planning and control.
+CourseProfile (ATLAS)
+CEE 345. Geotechnical Engineering
+Advisory Prerequisite: PHYSICS 140. Enforced Prerequisite: None. (4 credits)
+Soil origins, classification and index properties; phase relationships; earth moving and soil compaction; groundwater seepage; compressibility and consolidation; settlement; shear strength and failure; applications to foundations; retaining structures and slopes.
+CourseProfile (ATLAS)
+CEE 351. Civil Engineering Materials
+Advisory Prerequisite: CEE 212 or equivalent. Enforced Prerequisite: None. (4 credits)
+Discussion of basic mechanical and physical properties of a variety of important civil and environmental engineering materials such as concrete, steel, plastic, asphalt, wood and fiber composites.  Evaluation of constituents and design of mixtures and composites, load-time deformation characteristics, response to typical service environments.
+CourseProfile (ATLAS)
+CEE 365. Environmental Engineering Principles
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 265. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+An introduction to mass balance modeling of contaminant fate, transport and removal in the environment; commonly used reactor configurations for water and air quality control; partitioning of contaminant types and sources; regional and global contemporary environmental issues.
+CourseProfile (ATLAS)
+CEE 366. Environmental Engineering Laboratory
+Advisory Prerequisite: CEE 365 and CEE 373. Enforced Prerequisite: None. (3 credits)
+Weekly lecture and experimental projects designed to illustrate key analytical measurements of water and air quality parameters, soil properties, and environmental process engineering. Emphasis on data analysis, report writing, oral presentations, experimental design and teamwork.
+CourseProfile (ATLAS)
+CEE 373. Statistical Methods for Data Analysis and Uncertainty Modeling
+Advisory Prerequisite: None. Enforced Prerequisite: MATH 215 and MATH 216; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Introductory probability and statistics with emphasis on data analysis and uncertainty modeling for engineering and environmental systems. Descriptive statistics, graphical representation of data, linear regression, correlation, discrete and continuous probability distributions, conditional probability, estimation, statistical inference, extreme events, reliability analysis and techniques for design under uncertainty.
+CourseProfile (ATLAS)
+CEE 375. Sensors, Circuits, and Signals
+Advisory Prerequisite: PHYSICS 240. Enforced Prerequisite: None. (3 credits)
+This course introduces students to the fundamentals of collecting and processing experimental data. The course begins with an introduction to DC and AC circuits. The design and operation of sensors are then introduced followed by an introduction to digital signal processing.
+CourseProfile (ATLAS)
+400 Level Courses
+CEE 402. Professional Issues and Design
+Advisory Prerequisite: None. Enforced Prerequisite: Senior standing. (4 credits)
+Multidisciplinary team design experience including consideration of codes, regulations, alternate solutions, economic factors, sustainability, constructability, reliability and aesthetics in the solution of a civil or environmental engineering problem. Professionalism and ethics in the practice of engineering.
+CourseProfile (ATLAS)
+CEE 412. Matrix Structural Analysis
+Advisory Prerequisite: MATH 216 and CEE 312 or equivalent. Enforced Prerequisite: None. (3 credits)
+Displacement-based linear analysis of truss, beam, frame, and cable structures, including axial loading and structural pre-tension effects. Analytical derivation of stiffness equations from first principles. Matrix assembly techniques and implementation of computational solution techniques. Approximate stability analysis. Elementary plasticity analysis, using incremental loading techniques. Introduction to structural dynamics.
+CourseProfile (ATLAS)
+CEE 413. Design of Metal Structures
+Advisory Prerequisite: CEE 312. Enforced Prerequisite: None. (3 credits)
+Design of metal members and connections and their use in buildings and bridges. Application of relevant design specifications with emphasis on structural steel.
+CourseProfile (ATLAS)
+CEE 415. Design of Reinforced Concrete Structures
+Advisory Prerequisite: CEE 312. Enforced Prerequisite: None. (3 credits)
+Design of reinforced concrete members and slabs, and their user in buildings and bridges. Application of relevant design specifications.
+CourseProfile (ATLAS)
+CEE 421. Hydrology and Floodplain Hydraulics
+Advisory Prerequisite: CEE 303 and CEE 325. Enforced Prerequisite: None. (4 credits)
+Fundamentals of surface-water hydrology, flow in open channels and flood hazard mitigation. Rainfall-runoff relations. Unit hydrograph method. Uniform and nonuniform flow in open channels. Measurement and control of river flow. Flood waves in rivers, floodplains and reservoirs. Design of storage basins, storm channels and culverts. Lecture, laboratory and computation.
+CourseProfile (ATLAS)
+CEE 428. (ENSCEN 428) Groundwater Hydrology
+Advisory Prerequisite: CEE 325 and (CEE 345 or CEE 366). Enforced Prerequisite: None. (3 credits)
+Basic principles which govern the flow of water in the subsurface. Development and solution of groundwater flow and contaminant transport equations, in presence and absence of pumping wells, for both confined and phreatic aquifers. Measurement and estimation of parameters governing flow and transport. Use of computer software for the simulation of flow.
+CourseProfile (ATLAS)
+CEE 430. Special Problems in Construction Engineering
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1-3 credits)
+Individual student may choose his or her special problem from a wide range of construction engineering and management areas.
+CourseProfile (ATLAS)
+CEE 435. Building Information Modeling
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 331; No OP/F; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Fundamentals of Building Information Modeling (BIM) and its significance in construction project management; Application of BIM in construction engineering and management functions such as coordination, clash detection, sequencing, safety, and communication; Projects are overseen and graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+CEE 446. Engineering Geology & Site Characterization
+Advisory Prerequisite: CEE 345 or permission of instructor. Enforced Prerequisite: None. (3 credits)
+Composition and properties of rocks and soil, geologic processes, geologic structures and engineering consequences, mapping and map analysis, airphoto interpretation, in-situ testing of soils and rock, field demonstration, civil engineering facility siting.
+CourseProfile (ATLAS)
+CEE 450. Introduction to Transportation Engineering
+Advisory Prerequisite: CEE 373 or equivalent. Enforced Prerequisite: MATH 215; No OP/F; or graduate standing. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+Fundamentals of planning, design and operation of transportation infrastructure. Topics covered include driver and vehicle performance characteristics, roadway design principles, multimodal system design, traffic flow modeling and traffic operations analysis, transportation planning and forecasting, and the impacts of emerging technologies (e.g., connected and automated vehicle) on transportation infrastructure.
+CourseProfile (ATLAS)
+CEE 465. Environmental Process Engineering
+Advisory Prerequisite: CEE 325 and CEE 365. Enforced Prerequisite: None. (3 credits)
+An introduction to the analysis, characterization and principles of physical, chemical and biological processes, operations and reactor configurations commonly using for water quality control; preliminary and operations; discussion of economic and legislative constraints and requirements.
+CourseProfile (ATLAS)
+CEE 480. Design of Environmental Engineering Systems
+Advisory Prerequisite: CEE 465. Enforced Prerequisite: None. (3 credits)
+Design and theoretical understanding of environmental processes; biological, physical and chemical processes and reactor configurations commonly used for water quality control; applications to the design of specific water and wastewater treatment operations; discussion of pollution prevention and green engineering options.
+CourseProfile (ATLAS)
+CEE 481. Aquatic Chemistry
+Advisory Prerequisite: None.
+Enforced Prerequisite: CHEM 130 or CHEM 210; or senior standing.
+Minimum grade requirement of “C-” for enforced prerequisite.
+Credit Exclusions: No credit granted to those who have completed or are enrolled in CEE 581.
+Student may only receive credit for one course
+,
+CEE 481 or CEE 581
+.
+(3 credits)
+Chemical principles applicable to the analysis of the chemical composition of natural waters and engineered water treatment systems; covers acid-base, precipitation-dissolution, complexation, and oxidation-reduction reactions; emphasis on graphical and analytical speciation methods; presented in the context of contemporary environmental issues including water quality, climate change and pollution prevention and abatement.
+CourseProfile (ATLAS)
+CEE 482. Environmental Microbiology
+Advisory Prerequisite: CHEM 130. Enforced Prerequisite: None.
+Credit Exclusion: Student may only receive credit for one course
+,
+CEE 482 or CEE 582.
+(3 credits)
+Introductions to microbial metabolic processes and nutrition, thermodynamics of growth and energy generation, genetic and metabolic diversity, evolution and systematics, and microbial ecology.  Emphasis is placed on the application of these concepts to environmental biotechnology.
+CourseProfile (ATLAS)
+CEE 490. Independent Study in Civil and Environmental Engineering
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1-4 credits)
+Individual or group experimental or theoretical research in any area of Civil and Environmental Engineering. The program of work is arranged at the beginning of each term by mutual agreement between the student and a faculty member. Written and oral reports may be required.
+CourseProfile (ATLAS)
+500 Level Courses
+CEE 500. Environmental Systems and Processes I
+Advisory Prerequisite: CEE 460. Enforced Prerequisite: None. (3 credits)
+Concepts of environmental systems and principles of related transport and transformation phenomena and processes, focusing on aquatic systems; development of fundamental models for articulation of relevant process dynamics; system and process scaling factors and methods; extension of process models to ideal and non-ideal natural and engineer homogeneous environmental systems.
+CourseProfile (ATLAS)
+CEE 503. Infrastructure Project Finance
+Advisory Prerequisite: CEE 504. Enforced Prerequisite: None. (3 credits)
+Financing models across infrastructure use cases. Public, private and public-private partnership contract structures Data markets for performance, operational, and infrastructure health metadata. Pricing and veracity of data offtake mechanisms. Blockchain financing and tokenization models. Risk allocation models for public and private investors. Term project focused on smart infrastructure systems.
+CourseProfile (A
+T
+LAS)
+CEE 504. Engineering Economics and Finance
+Advisory Prerequisite: ECON 101 and CEE 373 or equivalent. Enforced Prerequisite: None. (3 credits)
+Focuses on evolving financial decision making in engineering practice. Topics like accounting, public and private investment decision making, project management and risk and uncertainty are covered and linked to practical problems that are meaningful to (smart) infrastructure systems and the students’ professional futures.
+CourseProfile (ATLAS)
+CEE 505. Infrastructure Finance Internship
+Advisory and Enforced Prerequisite: None. (1 credit)
+This internship is required for the MEng in Smart Infrastructure Finance (SIF). The course consists of a 6-week internship at financial services, data analytics or construction/project development firms. Required deliverables to the SIF MEng committee include a workplan/approach and a final report.
+CourseProfile (ATLAS)
+CEE 509. (MECHENG 512) Theory of Elasticity
+Advisory Prerequisite: MECHENG 412 or MECHENG 511. Enforced Prerequisite: None. (3 credits)
+Stress, strain and displacement, equilibrium and compatibility. Use of airy stress function in rectangular and polar coordinates, asymptotic fields at discontinuities, forces and dislocations, contact and crack problems, rotating and accelerating bodies. Galerkin and Papcovich-Neuber solutions, singular solutions, spherical harmonics. Thermoelasticity. Axisymmetric contact and crack problem. Axisymmetric torsion.
+CourseProfile (ATLAS)
+CEE 510. (NAVARCH 512) Finite Element Methods in Solid and Structural Mechanics
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (3 credits)
+Basic equations of three-dimensional elasticity. Derivation of relevant variational principles. Finite element approximation. Convergence requirements. Isoparametric elements in two and three dimensions. Implementational considerations. Locking phenomena. Problems involving non-linear material behavior.
+CourseProfile (ATLAS)
+CEE 511. Dynamics of Structures
+Advisory Prerequisite: CEE 412 or equivalent. Enforced Prerequisite: None. (3 credits)
+Dynamic equilibrium of structures. Response of a single degree of freedom system to dynamic excitation: free vibration, harmonic loads, pulses and earthquakes. Response spectra. Response of multi-degree-of-freedom systems. Seismic behavior of buildings and the basis for seismic building codes.
+CourseProfile (ATLAS)
+CEE 512. Nonlinear Analysis of Structures
+Advisory Prerequisite: CEE 412 or equivalent. Enforced Prerequisite: None. (3 credits)
+Extension of matrix structural analysis to solve geometric and material nonlinear problems in structural engineering. Topics include elastic stability of columns, P-delta effects, large-displacement analysis of cable structures, inelastic analysis of frames using lumped and distributed plasticity models, and solution algorithms for nonlinear systems of equations.
+CourseProfile (ATLAS)
+CEE 513. Plastic Analysis and Design of Frames
+Advisory Prerequisite: CEE 413. Enforced Prerequisite: None. (3 credits)
+Plastic analysis and design of steel framed structures. Stepwise incremental load and mechanism methods. Behavior beyond elastic range; failure mechanisms. Use of computer programs and AISC specifications. Application to earthquake resistant design.
+CourseProfile (ATLAS)
+CEE 514. Prestressed Concrete
+Advisory Prerequisite: CEE 415. Enforced Prerequisite: None. (3 credits)
+Fundamental principles of prestressing; prestressing materials; prestress losses; allowable stress and ultimate strength design methods; analysis and design of beams for flexure, shear and deflection; composite construction; bridges; slab systems; partial prestressings; FRP tendons.
+CourseProfile (ATLAS)
+CEE 515. Advanced Design of Reinforced Concrete Structures
+Advisory Prerequisite: CEE 415. Enforced Prerequisite: None. (3 credits)
+Analysis and design of concrete structural systems including two-way floor systems, slender columns, members subjected to torsion, structural walls and connections. Applications of computer-aided design programs. Use of design code provisions. Design projects.
+CourseProfile (ATLAS)
+CEE 516. Bridge Structures
+Advisory Prerequisite: CEE 413 and CEE 415. Enforced Prerequisite: None. (3 credits)
+Advanced concepts and modern trends in design of bridges. Rehabilitation, repair and retrofit of existing bridges. Use of relevant codes. Study of alternative structural forms and materials for efficiency and economy. Design problems and reports.
+CourseProfile (ATLAS)
+CEE 517. Reliability of Structures
+Advisory Prerequisite: CEE 270 or equivalent. Enforced Prerequisite: None. (3 credits)
+Fundamental concepts related to structural reliability, safety measures, load models, resistance models, system reliability, optimum safety levels, and optimization of design codes.
+CourseProfile (ATLAS)
+CEE 518. Deployable and Reconfigurable Structures
+Advisory Prerequisite: Course equivalent to CEE 412, CEE 510, or MECHENG 305. Enforced Prerequisite: None. (3 credits)
+Covers theory, analysis, and design of deployable and reconfigurable structures, including linkage-based,
+origami, and inflatable systems. Students will learn about kinematics, geometric constraints, stability, stiffness, energy behaviors, design, material systems, fabrication, and actuation. Includes a student project to explore and design practical deployable structures.
+CourseProfile (ATLAS)
+CEE 519. Hybrid and Composite Structures
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 413 and CEE 415. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Behavior and design of hybrid and composite structural members, connections and systems, including composite frame construction, structural walls systems and braced frames; design of advanced fiber cementitious materials and applications in new and deficient structural systems; Fiber Reinforced Polymers (FRP) for structural repair and retrofit.
+CourseProfile (ATLAS)
+CEE 520. Physical Processes of Land-Surface Hydrology
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 421; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Key elements of land-surface hydrology. Water in the atmosphere; dry adiabatic and pseudoadiabatic processes. Vapor turbulent transfer. Heat fluxes and surface energy budgets. Mass transfer and energy budget methods for estimating evapotranspiration. Soil physical properties; water flow in unsaturated soils; infiltration. Snow hydrology. Runoff generation. Probabilistic approaches to describing spatial variability.
+CourseProfile (ATLAS)
+CEE 521. Flow in Open Channels
+Advisory Prerequisite: CEE 325 or equivalent and CEE 421. Enforced Prerequisite: None. (3 credits)
+Conservation laws for transient flow in open channels; shallow-water approximation; the method of characteristics; simple waves and hydraulic jumps; nonreflective boundary conditions; dam-break analysis; overland flow; prediction and mitigation of flood waves.
+CourseProfile (ATLAS)
+CEE 522. Sediment Transport
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 325 or MECHENG 330 or CHE 341 or NAVARCH 320 or CLIMATE/EARTH 401; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Mechanics of sediment transport processes in Fluvial systems; initiation of motion; bed forms; resistance to flow; suspended sediment transport; bed load transport; cohesive sediments; geomorphology principles.
+CourseProfile (ATLAS)
+CEE 524. Restoration Fundamentals and Practice in Aquatic Systems
+Advisory Prerequisite: MATH 115. Enforced Prerequisite: None. (3 credits)
+The topics to be covered in the lectures are Sediment transport, Fluid mechanics/bluff body flows—Hydraulics, Geomorphology, Dimensional analysis, Field measurement techniques—Particle Image Velocimetry, Acoustic Doppler Velocimetry, flow and wave gauges. Biological overview: fishes, macrobenthos, plants. Current restoration techniques in a variety of environments.
+CourseProfile (ATLAS)
+CEE 525. Environmental Turbulence
+Advisory Prerequisite: CEE 325 or equivalent. Enforced Prerequisite: None. (3 credits)
+Introduction to the topic of turbulence with special emphasis on physical processes; characterization of fundamental turbulent flows such as shear layers, wakes, jets, plumes and thermals; effect of stratification on turbulence; forcing and control of turbulence by acceleration and pulsation.
+CourseProfile (ATLAS)
+CEE 526. Design of Hydraulic Systems
+Advisory Prerequisite: CEE 325 or equivalent. Enforced Prerequisite: None. (3 credits)
+Hydraulic design of pipe systems; includes pump design, operation, cavitation, water hammer, control valves, and flow metering. Hydropower systems design; hydraulic control structures, turbines, motor and generator operational principles, gravity dam stability analysis, and penstocks. Also covered are pumped hydro, powerhouses, economics, and pipe optimization.
+CourseProfile (ATLAS)
+CEE 527. Flood, Tsunami, and Hurricane Hydraulics, Damage, and Countermeasures
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 325 or MECHENG 320 or NAVARCH 320 or CHE 341 or NERS 344 or AEROSP 225 or graduate standing. (3 credits)
+Practical concepts for inland and coastal flood risk reduction. Physics of natural hazards, damage prediction, effects of climate change, structural and land use planning methods. Numerical modeling, hydraulic design tools for rainfall, hurricane storm surge and waves, and tsunami hazards. Geotechnical and structural fundamentals of floodwall, breakwater, building damage.
+CourseProfile (ATLAS)
+CEE 530. Construction Professional Practice
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (3 credits)
+Capstone project in CEM where student teams work with faculty or construction industry clients to investigate solutions to industry problems. Students compile professional report and video. Invited speakers discuss contemporary topics in CEM. Projects are overseen and graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+CEE 531. Construction Cost Engineering
+Advisory Prerequisite: Graduate standing and preceded or accompanied by CEE 431. Enforced Prerequisite: None. (3 credits)
+Cost engineering for construction organizations, projects and operations. Break-even and profit analyses. Equipment cost and procurement decisions. Construction financial accounting, cost accounting, cost control systems. Cost indices, parametric estimates, unit price proposals. Projects are overseen and graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+CEE 532. Advanced Construction Project Engineering
+Advisory Prerequisite: Graduate standing and preceded or accompanied by CEE 539 or CEE 331 (or equivalent). Enforced Prerequisite: None.
+(3 credits)
+Advanced project management techniques and their applications to real-world projects focusing on project/company organizations, dealing with project complexity, performance measurement and improvement including productivity, quality, and safety, construction innovations, and an in-depth understanding of individual and organizational behavior with human factors and cultures. Examples and cases from construction.
+CourseProfile (ATLAS)
+CEE 533. Engineering Process Modeling and Risk Analysis
+Advisory Prerequisite: CEE 373. Enforced Prerequisite: None. (3 credits)
+Modeling, simulation and risk analysis of engineering systems. Monte Carlo and discrete-event simulation model development for practical engineering problems using advanced computational tools. Applications from on-site construction, prefabrication, tunneling, earthmoving, bridges, land, air, and marine transportation systems.
+CourseProfile (ATLAS)
+CEE 534. Construction Engineering, Equipment, and Methods
+Advisory and Enforced Prerequisite: None. (3 credits)
+Engineering principles of earthmoving equipment; Mobile and tower cranes; Concrete production, transportation, and placement; Formwork and reinforcement systems; Aggregate production; Concrete and steel bridge construction; Asphalt and concrete paving; Piled foundations. Projects are overseen and graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+CEE 535. Excavation and Tunneling
+Advisory Prerequisite: CEE 345. Enforced Prerequisite: None. (3 credits)
+Selection of methods of attack for excavation of tunnels and deep vertical-sided openings. Tunneling procedures based on behavioral characteristics of soil and rock. Study of tunnel boring machines, shielded and drill-and-blast operations, linings. Soil liner interaction. Deep excavation procedures related to support of excavation systems, methods of installation and dewatering.
+CourseProfile (ATLAS)
+CEE 536 (MFG 536). Project Planning Scheduling and Control
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+Project planning and scheduling with arrow and precedence networks using CPM (Critical Path Method). Project control, Cost/Schedule Control Systems Criteria (C/SCSC), Earned Value Systems. Scheduling under uncertainty, PERT (Program Evaluation and Review Technique), PNET (Probabilistic Networks), simulation. Time-cost tradeoff, resource allocation, and resource leveling. Overlapping networks. RSM (Repetitive Scheduling Method).
+CourseProfile (ATLAS)
+CEE 537. Construction of Buildings
+Advisory Prerequisite: CEE 331 and CEE 351 or graduate standing. Enforced Prerequisite: None. (3 credits)
+Material selection, construction details, manufacture, fabrication and erection of building structures using steel, light wood, timber, cast-in-place concrete, precast concrete and masonry; and materials for roof, floor and wall surfaces. Zoning, building codes and other legal issues. Introduction to HVAC and electrical systems. Field trips to construction sites.
+CourseProfile (ATLAS)
+CEE 538. Computer-aided Project Management
+Advisory and Enforced Prerequisite: None. (2 credits)
+Introduction to the application of modern project management computer systems, for example, Primavera P6 Professional and Microsoft Project, for construction project planning, scheduling and control.
+CourseProfile (ATLAS)
+CEE 539. Modern Construction Management
+Advisory Prerequisite: Graduate standing. Enforced
+Prerequisite: None.
+(3 credits)
+Introduces modern construction management techniques and their applications to real-world construction projects focusing on how to organize, evaluate, and manage a construction project. Specific topics include project delivery methods, contracts, procurement, estimating, bidding, construction risk, bond, insurance, change orders, claims, dispute resolutions, and leadership.
+CourseProfile (ATLAS)
+CEE 540. Advanced Soil Mechanics
+Advisory Prerequisite: CEE 345. Enforced Prerequisite: None. (3 credits)
+Deformation and strength of soils; total and effective stress; drained and undrained behavior. Constitutive description: elastic-plastic, hardening/softening, Cam clay model, critical states. Stress paths, and testing of soils. Modeling of reinforced soil: multi-component model and homogenization approach; fiber-reinforced soil. Theorems of limit analysis; applications in stability assessment.
+CourseProfile (ATLAS)
+CEE 541. Soil Sampling and Testing
+Advisory Prerequisite: Preceded or accompanied by CEE 345. Enforced Prerequisite: None. (3 credits)
+Field and laboratory practice in sampling and testing of soils for engineering purposes. Field sampling and testing; standard split-spoon sampler, Dutch Cone penetrometer, field vane, Iowa borehole shear device. Lab tests; direct shear, unconfined compression, triaxial compression, consolidation. Laboratory and lecture.
+CourseProfile (ATLAS)
+CEE 543. Numerical Modeling in Geotechnical Engineering
+Advisory Prerequisite: CEE 345 or equivalent. Enforced Prerequisite: None. (3 credits)
+Finite element method formulation, constitute laws for geotechnical materials including elastic-perfectly plastic and nonlinear elasto-plastic. Critical state framework for modeling soil behavior. Finite element program PLAXIS for performing static analyses of earth structures. Soil structure interaction. Finite difference method and discrete element method. Advanced soil models.
+CourseProfile (ATLAS)
+CEE 544. Rock Mechanics
+Advisory Prerequisite: MECHENG 211. Enforced Prerequisite: None. (3 credits)
+Engineering properties and classification of rocks. Strength and deformability of intact and jointed rock; in situ stresses; lab and field test methods. Stereonets and structural geology. Rock slopes; stability and reinforcement. Foundations on rock.
+CourseProfile (ATLAS)
+CEE 545. Foundation Engineering
+Advisory Prerequisite: CEE 345. Enforced Prerequisite: None. (3 credits)
+Application of principles of soil mechanics to: determination of bearing capacity and settlement of spread footings, mats, single piles and pile groups; site investigation, evaluation of data from field and laboratory tests; estimation of stresses in soil masses; soil structure interaction.
+CourseProfile (ATLAS)
+CEE 546. Slopes, Dams and Retaining Structures
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 345; or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Slope stability analyses, seepage through soils, settlements and horizontal movements in embankments, earthen embankment and dam design, landslide and embankment stabilization, earth pressures and retaining structure design.
+CourseProfile (ATLAS)
+CEE 547. Soils Engineering and Pavement Systems
+Advisory Prerequisite: CEE 345. Enforced Prerequisite: None. (3 credits)
+Soils engineering as applied to the design, construction and rehabilitation of pavement systems. The design, evaluation and rehabilitation of rigid, flexible and composite pavements.
+CourseProfile (ATLAS)
+CEE 548. Geotechnical Earthquake Engineering
+Advisory Prerequisite: CEE 345. Enforced Prerequisite: None. (3 credits)
+Ground motion attenuation relationships, seismic site response analysis, evaluation and modeling of dynamic soil properties, soil structure interaction, evaluation and mitigation of soil liquefaction, seismic code provisions and practice, seismic earth pressures, slope stability and deformation analysis, safety of dams and embankments, performance of pile foundations and additional current topics.
+CourseProfile (ATLAS)
+CEE 549. Geoenvironmental Engineering
+Advisory Prerequisite: CEE 345. Enforced Prerequisite: None. (3 credits)
+Waste generation/disposal; waste types; waste facilities regulations; geoenvironmental site characterization; soil-water-contaminant interactions; design and construction of base and cover containment systems; geosynthetic materials in geoenvironmental applications; landfill settlement and stability; introduction to bioreactor landfills and emerging technologies for waste disposal; technologies for site restoration and clean up.
+CourseProfile (ATLAS)
+CEE 550. Quality Control of Construction Materials
+Advisory Prerequisite: CEE 351. Enforced Prerequisite: None. (3 credits)
+Construction material specification and test procedures. Sampling methods, data collection and statistical data distributions. Quality control charts, development of quality assurance specifications and acceptance plans. Examples using data from actual field construction and laboratory experiments collected by destructive and non-destructive methods.
+CourseProfile (ATLAS)
+CEE 551. Traffic Science
+Advisory Prerequisite: None. Enforced Prerequisite: CEE 450; No OP/F; or graduate standing.  Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+This course provides fundamentals of traffic science, including data collection, analysis, design, and operations.  Main components include traffic flow theory, traffic simulation, and traffic operations.  An introduction to connected and automated vehicle technology and its applications in traffic flow and signal control will be introduced.
+CourseProfile (ATLAS)
+CEE 552. Travel Behavior Analysis and Forecasting
+Advisory
+Prerequisite: None
+. Enforced Prerequisite:
+(CEE 373 and CEE 450) or graduate standing. Minimum grade requirement of “C” for enforced prerequisite.
+(3 credits)
+Foundational concepts of travel behavior theory, data, modeling, and analysis are introduced. Fundamental behavioral theories influencing actions and decisions are examined, along with types of data used to study transport-related choices. Building on these concepts, the derivation and application of discrete choice models for passenger travel demand are presented, with emphasis placed on both analysis and forecasting. A background in statistics and an introduction to transportation engineering are recommended.
+CourseProfile (ATLAS)
+CEE 553. Infrastructure Systems Optimization
+Advisory and Enforced Prerequisite: None. (3 credits)
+Systems-level approach to the analysis and design of civil infrastructure systems. The fundamental concepts are taught through a series of examples drawn from various infrastructure systems applications. Optimization techniques covered include model building, linear programming, nonlinear programming and the use of algebraic modeling languages.
+CourseProfile (ATLAS)
+CEE 554. Machine Learning for Infrastructure Systems
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate or senior standing. (3 credits)
+Machine learning techniques – supervised, unsupervised, and Bayesian learning – with real-world applications in infrastructure systems will be explored. Foundational theory with hands-on examples from transportation, energy, systems, etc., will equip students to develop intelligent, data-driven solutions for complex infrastructure challenges.
+CourseProfile (ATLAS)
+CEE 555. Sustainability of Civil Infrastructure Systems
+Advisory and Enforced Prerequisite: None. (3 credits)
+Life Cycle Cost Analysis and Life Cycle Analysis – Methods and Applications in Civil Infrastructure Systems; Building Energy Modeling and Simulation; Energy Management in Buildings; Impact of Building Occupants and Behavioral Challenges; Renewable Energy and Efficiency in Buildings; Existing Buildings and Technical/Social Challenges of Energy Retrofits; a
+
+[truncated supplement]

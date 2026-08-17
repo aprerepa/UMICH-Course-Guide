@@ -1,0 +1,71 @@
+{
+  "id": "womens-and-gender-studies",
+  "displayName": "Women\u2019s and Gender Studies",
+  "requirementGroups": {
+    "Gender, Culture, & Rep.": [
+      "WGS 211",
+      "WGS 217",
+      "WGS 275",
+      "WGS 314",
+      "WGS 315",
+      "WGS 322",
+      "WGS 323",
+      "WGS 332",
+      "WGS 370",
+      "WGS 414",
+      "WGS 434",
+      "WGS 439"
+    ],
+    "Gender in a Global Context": [
+      "WGS 212",
+      "WGS 250",
+      "WGS 252.002",
+      "WGS 307",
+      "WGS 324",
+      "WGS 332",
+      "WGS 333",
+      "WGS 365"
+    ],
+    "Gender, Race, & Ethnicity": [
+      "WGS 220",
+      "NURS 220",
+      "WGS 275",
+      "WGS 322",
+      "WGS 323",
+      "WGS 343.001",
+      "WGS 343.002",
+      "WGS 365",
+      "WGS 370",
+      "WGS 410",
+      "WGS 434",
+      "WGS 439"
+    ],
+    "Prerequisite": [
+      "WGS 240"
+    ],
+    "LGBTQ+ & Sexuality": [
+      "WGS 245",
+      "WGS 252.002",
+      "WGS 348",
+      "WGS 370",
+      "WGS 380",
+      "WGS 415",
+      "WGS 416",
+      "WGS 431",
+      "WGS 439",
+      "WGS 449"
+    ],
+    "Elective": [
+      "WGS 253",
+      "WGS 257",
+      "WGS 451"
+    ],
+    "Feminist Theory": [
+      "WGS 330.001"
+    ],
+    "Practicum": [
+      "WGS 351",
+      "WGS 404"
+    ]
+  }
+}

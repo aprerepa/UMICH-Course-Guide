@@ -4,14 +4,73 @@
   "school_college": "College of Engineering",
   "program_url": "https://ners.engin.umich.edu/academics/undergraduate-in-engineering-physics/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+8 course-list supplements: sample schedule, Editable sample schedule, Aerospace Engineering Courses (AEROSP))",
   "program_final_url": "https://ners.engin.umich.edu/academics/undergraduate-in-engineering-physics/",
-  "program_fetch_mode": "browser",
-  "requirements_url": "https://ners.engin.umich.edu/academics/undergraduate/degree-requirements/",
-  "requirements_link_text": "Degree Requirements",
-  "requirements_link_score": 290,
+  "program_fetch_mode": "http",
+  "requirements_url": "https://bulletin.engin.umich.edu/engin-phys/",
+  "requirements_link_text": "Engineering Physics Course Guide",
+  "requirements_link_score": 315,
   "requirements_link_strategy": "page",
-  "requirements_final_url": "https://ners.engin.umich.edu/academics/undergraduate/degree-requirements/",
+  "requirements_final_url": "https://bulletin.engin.umich.edu/engin-phys/",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:37:31.702130+00:00"
+  "fetched_at": "2026-08-10T16:06:48.702873+00:00",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-sample-schedule",
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/09/Engineering-Physics-Sample-Schedule-Winter-2025-1.pdf",
+      "link_text": "sample schedule",
+      "status": "fetched",
+      "chars": 3897
+    },
+    {
+      "id": "02-editable-sample-schedule",
+      "url": "https://docs.google.com/spreadsheets/d/1BrcjBIoBOdZTClsh0YL7aJjDURB-ZY9U9dj2swwJobk/edit?usp=sharing",
+      "link_text": "Editable sample schedule",
+      "status": "fetched",
+      "chars": 7400
+    },
+    {
+      "id": "03-aerospace-engineering-courses-aerosp",
+      "url": "https://bulletin.engin.umich.edu/courses/aero/",
+      "link_text": "Aerospace Engineering Courses (AEROSP)",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "04-applied-physics-courses-appphys",
+      "url": "https://bulletin.engin.umich.edu/courses/appl-phys/",
+      "link_text": "Applied Physics Courses (APPPHYS)",
+      "status": "fetched",
+      "chars": 9212
+    },
+    {
+      "id": "05-biomedical-engineering-courses-biomede",
+      "url": "https://bulletin.engin.umich.edu/courses/bme/",
+      "link_text": "Biomedical Engineering Courses (BIOMEDE)",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "06-civil-and-environmental-engineering-courses-cee",
+      "url": "https://bulletin.engin.umich.edu/courses/cee/",
+      "link_text": "Civil and Environmental Engineering Courses (CEE)",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "07-chemical-engineering-courses-che-eseng",
+      "url": "https://bulletin.engin.umich.edu/courses/che/",
+      "link_text": "Chemical Engineering Courses (CHE + ESENG)",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "08-climate-and-space-sciences-and-engineering-courses-climate-space",
+      "url": "https://bulletin.engin.umich.edu/courses/clasp/",
+      "link_text": "Climate and Space Sciences and Engineering Courses (CLIMATE & SPACE)",
+      "status": "fetched",
+      "chars": 40024
+    }
+  ]
 }

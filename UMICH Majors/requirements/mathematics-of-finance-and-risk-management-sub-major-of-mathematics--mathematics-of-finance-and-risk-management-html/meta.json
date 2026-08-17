@@ -4,7 +4,7 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematics-of-finance-and-risk-management.html",
   "status": "fetched",
-  "message": "requirements page ready for LLM (program URL)",
+  "message": "requirements page ready for LLM (+3 course-list supplements: Explore Course Options, Courses, Courses)",
   "program_final_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematics-of-finance-and-risk-management.html",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematics-of-finance-and-risk-management.html",
@@ -13,5 +13,29 @@
   "requirements_link_strategy": "program_is_requirements",
   "requirements_final_url": "https://lsa.umich.edu/math/undergraduates/major-and-minor-programs/mathematics-of-finance-and-risk-management.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:44:47.976151+00:00"
+  "fetched_at": "2026-08-10T16:25:07.817925+00:00",
+  "supplements_count": 3,
+  "supplements": [
+    {
+      "id": "01-explore-course-options",
+      "url": "https://lsa.umich.edu/math/undergraduates/your-first-math-course-at-uofm---a-guide-for-incoming-students/explore-course-options.html",
+      "link_text": "Explore Course Options",
+      "status": "fetched",
+      "chars": 27932
+    },
+    {
+      "id": "02-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4071
+    },
+    {
+      "id": "03-courses",
+      "url": "https://lsa.umich.edu/math/graduates/Courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 3083
+    }
+  ]
 }

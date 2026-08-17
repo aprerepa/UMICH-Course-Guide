@@ -1,0 +1,39 @@
+{
+  "id": "user-experience-design--curriculum",
+  "displayName": "User Experience Design",
+  "requirementGroups": {
+    "Prerequisites": [
+      "SI 101",
+      "EECS 183",
+      "ENGR 101",
+      "ENGLISH 124",
+      "ENGLISH 125"
+    ],
+    "Core courses": [
+      "SI 110",
+      "SI 201",
+      "EECS 280",
+      "EECS 281",
+      "SI 261",
+      "SI 300",
+      "SI 310"
+    ],
+    "Capstone prerequisite courses": [
+      "SI 307",
+      "SI 357",
+      "SI 347",
+      "SI 303",
+      "SI 313"
+    ],
+    "Capstone sequence": [
+      "SI 487",
+      "SI 497"
+    ],
+    "Advanced selectives": [
+      "SI 407",
+      "SI 457",
+      "SI 403",
+      "SI 413"
+    ]
+  }
+}

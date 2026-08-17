@@ -1,0 +1,35 @@
+{
+  "id": "civil-engineering",
+  "displayName": "Civil Engineering",
+  "groupRules": {
+    "Subjects Required by all Programs": {
+      "minCredits": 55,
+      "countsTowardMajorTotal": true
+    },
+    "Mathematical Methods": {
+      "minCourses": 2,
+      "minCredits": 7,
+      "countsTowardMajorTotal": true
+    },
+    "Required Program Subjects": {
+      "minCourses": 7,
+      "minCredits": 22,
+      "countsTowardMajorTotal": true
+    },
+    "Science Elective": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Program Electives": {
+      "minCourses": 5,
+      "minCredits": 20,
+      "countsTowardMajorTotal": true
+    },
+    "Technical Electives": {
+      "minCourses": 3,
+      "minCredits": 9,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

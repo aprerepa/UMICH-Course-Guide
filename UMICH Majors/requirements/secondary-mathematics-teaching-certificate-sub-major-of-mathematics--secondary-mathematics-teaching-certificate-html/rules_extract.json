@@ -1,0 +1,60 @@
+{
+  "id": "secondary-mathematics-teaching-certificate-sub-major-of-mathematics--secondary-mathematics-teaching-certificate-html",
+  "displayName": "Secondary Mathematics Teaching Certificate (Sub-major of Mathematics)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "MATH 205",
+              "MATH 215"
+            ]
+          },
+          "MATH 217",
+          "EECS 183"
+        ]
+      }
+    },
+    "Basic Courses": {
+      "require": {
+        "allOf": [
+          "MATH 487",
+          "MATH 431",
+          {
+            "anyOf": [
+              "MATH 425",
+              "MATH 525"
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 351",
+              "MATH 451"
+            ]
+          },
+          "MATH 486"
+        ]
+      },
+      "minCourses": 5
+    },
+    "Specific Courses": {
+      "require": {
+        "allOf": [
+          "EDUC 413",
+          "EDUC 307I",
+          "EDUC 391",
+          "EDUC 402",
+          "EDUC 392",
+          "EDUC 302",
+          "EDUC 304",
+          "EDUC 446",
+          "EDUC 445"
+        ]
+      },
+      "minCourses": 10,
+      "minCredits": 30,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

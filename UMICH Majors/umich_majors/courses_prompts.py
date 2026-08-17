@@ -61,7 +61,11 @@ Rules:
 4. openGroups: use when the page says you may take ANY course in a subject / level
    band, often with exclusions — e.g. "BIOLOGY, EEB, or MCDB 200-, 300-, or 400-level
    (excluding BIOLOGY 200, 212, 241, 299; MCDB/EEB 300, 301, ...)" OR phrasing like
-   "CHEM 230 and above", "MATH 200-level or above", "STATS 400-level or above".
+   "CHEM 230 and above", "MATH 200-level or above", "STATS 400-level or above",
+   OR major-wide credit rules such as "At least 32 credits at the 200-level or above"
+   in ANTHRARC / ANTHRBIO / ANTHRCUL (or the major's subject codes) — that is an
+   Electives (or "Additional Credits") openGroup even when no individual elective
+   codes are listed.
    - subjects: subject codes that are allowed
    - minLevel: lowest allowed catalog number (200 for "200-level or above";
      230 for "CHEM 230 and above"; 400 for "400-level or above")
@@ -72,6 +76,8 @@ Rules:
    If one group has multiple subject/level bands with DIFFERENT minLevels, set
    openGroups[group] to an ARRAY of rule objects (one per band). If all subjects
    share the same minLevel/exclusions, a single rule object is fine.
+   For subject-only bands with no catalog numbers listed, still emit openGroups
+   (requirementGroups entry may be an empty list []).
 5. Do NOT try to invent every BIOLOGY 2xx/3xx/4xx / MATH 200+ course yourself —
    use openGroups for those bands; only list explicit codes in requirementGroups.
 6. Skip graduate-only sections, admissions fluff, and LSA college distribution rules.

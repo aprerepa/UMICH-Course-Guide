@@ -1,0 +1,29 @@
+{
+  "id": "global-environment-and-health-sub-major-of-international-studies--majors-minors-html-global-environment-and-health-geh-s",
+  "displayName": "Global Environment and Health (Sub-major of International Studies)",
+  "groupRules": {
+    "Program Core": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "INTLSTD 301",
+              "INTLSTD 300",
+              "INTLSTD 341"
+            ]
+          },
+          "INTLSTD 401"
+        ]
+      },
+      "minCourses": 2,
+      "minCredits": 7,
+      "countsTowardMajorTotal": true
+    },
+    "Research Design Course": {
+      "require": "INTLSTD 390",
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -8,6 +8,11 @@ from bs4 import BeautifulSoup
 
 from umich_majors.config import MAJORS_LISTING_URL
 
+# Admissions listing entries that are not undergrad majors for the guide
+SKIP_LISTING_IDS = {
+    "dental-hygiene",  # graduate MS / degree-completion track
+}
+
 
 def slug_for_major(name: str, url: str) -> str:
     """Stable-ish id for run folders / jsonl keys."""
@@ -75,4 +80,4 @@ def parse_majors(html: str, base_url: str = MAJORS_LISTING_URL) -> list[dict]:
             )
 
     majors.sort(key=lambda m: m["name"].lower())
-    return majors
+    return [m for m in majors if m["id"] not in SKIP_LISTING_IDS]

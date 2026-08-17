@@ -1,0 +1,22 @@
+{
+  "id": "communication-and-media",
+  "displayName": "Communication and Media",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          "COMM 101",
+          "COMM 102"
+        ]
+      }
+    },
+    "Communication in Action": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Additional Advanced Communication and Media Credits": {
+      "minCredits": 25,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

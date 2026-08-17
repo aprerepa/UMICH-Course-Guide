@@ -1,0 +1,10 @@
+{
+  "id": "general-studies",
+  "displayName": "General Studies",
+  "groupRules": {
+    "Upper-Level Credits Requirement": {
+      "minCredits": 60,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

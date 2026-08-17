@@ -1,0 +1,32 @@
+{
+  "id": "sociology-and-social-work-sub-major-of-sociology",
+  "displayName": "Sociology and Social Work (Sub-major of Sociology)",
+  "requirementGroups": {
+    "Required Courses": [
+      "SW 305",
+      "SOC 225"
+    ],
+    "Sub-major Electives": [
+      "SOC 204",
+      "SOC 221",
+      "SOC 233",
+      "SOC 250",
+      "SOC 303",
+      "SOC 304",
+      "SOC 325",
+      "SOC 335",
+      "SOC 344",
+      "SOC 345",
+      "SOC 354",
+      "SOC 368",
+      "SOC 391",
+      "SOC 404",
+      "SOC 422",
+      "SOC 447",
+      "SOC 455",
+      "SOC 458",
+      "SOC 461",
+      "SOC 468"
+    ]
+  }
+}

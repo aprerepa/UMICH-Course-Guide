@@ -16,6 +16,7 @@ RUNS = ROOT / "runs"
 # Per-major program page + hopped requirements page (LLM-ready text).
 REQUIREMENTS = ROOT / "requirements"
 PLANNER_MAJORS = ROOT.parent / "Planner" / "config" / "majors"
+PLANNER_RULES = ROOT.parent / "Planner" / "config" / "rules"
 
 # Only this project's env file — do not load ../.env (Tokenplex lives there).
 _ENV_PATH = ROOT / ".env"

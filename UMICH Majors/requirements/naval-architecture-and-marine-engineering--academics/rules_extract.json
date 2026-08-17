@@ -1,0 +1,9 @@
+{
+  "id": "naval-architecture-and-marine-engineering--academics",
+  "displayName": "Naval Architecture and Marine Engineering",
+  "groupRules": {
+    "Technical Electives": {
+      "minCourses": 2
+    }
+  }
+}

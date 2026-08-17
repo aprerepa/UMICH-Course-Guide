@@ -1,0 +1,357 @@
+{
+  "id": "computer-engineering",
+  "displayName": "Computer Engineering",
+  "requirementGroups": {
+    "CoE Common Core": [
+      "CHEM 125",
+      "CHEM 126",
+      "CHEM 130",
+      "CHEM 210",
+      "CHEM 211",
+      "ENGR 100",
+      "ENGR 101",
+      "ENGR 151",
+      "EECS 180",
+      "MATH 115",
+      "MATH 120",
+      "MATH 116",
+      "MATH 121",
+      "MATH 214",
+      "MATH 215",
+      "MATH 217",
+      "MATH 417",
+      "MATH 419",
+      "MATH 216",
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 240",
+      "PHYSICS 241"
+    ],
+    "CE Program Core Courses": [
+      "EECS 203",
+      "EECS 215",
+      "EECS 216",
+      "EECS 270",
+      "EECS 280",
+      "EECS 301",
+      "MATH 425",
+      "STATS 412",
+      "EECS 370",
+      "EECS 400",
+      "ENGR 499",
+      "TCHNCLCM 300",
+      "TCHNCLCM 496"
+    ],
+    "Core Electives": [
+      "EECS 281",
+      "EECS 312",
+      "EECS 351",
+      "EECS 373"
+    ],
+    "Upper Level CE Electives": [
+      "EECS 427",
+      "EECS 442",
+      "EECS 452",
+      "EECS 461",
+      "EECS 467",
+      "EECS 470",
+      "EECS 471",
+      "EECS 472",
+      "EECS 473",
+      "EECS 478",
+      "EECS 479",
+      "EECS 482",
+      "EECS 483",
+      "EECS 489",
+      "EECS 491",
+      "EECS 507",
+      "EECS 570",
+      "EECS 573",
+      "EECS 578",
+      "CSE 582",
+      "CSE 583",
+      "CSE 589",
+      "EECS 627"
+    ],
+    "Major Design Experience (MDE)": [
+      "EECS 427",
+      "EECS 452",
+      "EECS 467",
+      "EECS 470",
+      "EECS 472",
+      "EECS 473"
+    ],
+    "EECS Elective": [
+      "EECS 281",
+      "EECS 311",
+      "EECS 312",
+      "EECS 320",
+      "EECS 330",
+      "EECS 334",
+      "EECS 351",
+      "EECS 367",
+      "EECS 373",
+      "EECS 376",
+      "EECS 388",
+      "EECS 408",
+      "EECS 411",
+      "EECS 413",
+      "EECS 414",
+      "EECS 417",
+      "BIOMEDE 417",
+      "EECS 418",
+      "EECS 419",
+      "EECS 420",
+      "EECS 421",
+      "EECS 423",
+      "EECS 424",
+      "EECS 427",
+      "EECS 428",
+      "EECS 429",
+      "EECS 430",
+      "SPACE 431",
+      "CLIMATE 431",
+      "EECS 434",
+      "EECS 435",
+      "EECS 438",
+      "EECS 442",
+      "EECS 444",
+      "EECS 445",
+      "EECS 449",
+      "EECS 452",
+      "EECS 453",
+      "EECS 455",
+      "EECS 458",
+      "BIOMEDE 458",
+      "EECS 460",
+      "EECS 461",
+      "EECS 463",
+      "EECS 464",
+      "EECS 467",
+      "EECS 470",
+      "EECS 471",
+      "EECS 473",
+      "EECS 475",
+      "EECS 477",
+      "EECS 479",
+      "EECS 480",
+      "EECS 481",
+      "EECS 482",
+      "EECS 483",
+      "EECS 484",
+      "EECS 485",
+      "EECS 486",
+      "EECS 487",
+      "EECS 489",
+      "EECS 490",
+      "EECS 491",
+      "EECS 492",
+      "EECS 493",
+      "EECS 494",
+      "EECS 497",
+      "MECHENG 552"
+    ],
+    "Flexible Technical Electives": [
+      "AEROSP 215",
+      "AEROSP 225",
+      "ASTRO 404",
+      "BIOINF 501",
+      "BIOLOGY 305",
+      "BIOMEDE 221",
+      "BIOMEDE 231",
+      "CHE 230",
+      "CHEM 210",
+      "CHEM 211",
+      "CHEM 215",
+      "CHEM 216",
+      "CHEM 230",
+      "CHEM 241",
+      "CHEM 242",
+      "CHEM 260",
+      "CEE 211",
+      "CEE 212",
+      "CEE 230",
+      "CEE 265",
+      "CMPLXSYS 270",
+      "DATASCI 315",
+      "ECON 409",
+      "ECON 452",
+      "EECS 200",
+      "EECS 201",
+      "EECS 230",
+      "EECS 245",
+      "EECS 281",
+      "ENGR 350",
+      "ENGR 355",
+      "ENGR 450",
+      "ENGR 455",
+      "IOE 202",
+      "LING 445",
+      "MATSCIE 220",
+      "MATSCIE 242",
+      "MATSCIE 250",
+      "MATH 214",
+      "MATH 215",
+      "MATH 217",
+      "MATH 297",
+      "MECHENG 211",
+      "MECHENG 235",
+      "MECHENG 240",
+      "MECHENG 250",
+      "MCDB 306",
+      "MCDB 310",
+      "NAVARCH 270",
+      "NERS 211",
+      "NERS 250",
+      "PAT 452",
+      "PAT 462",
+      "PHIL 417",
+      "ROB 101",
+      "ROB 204",
+      "ROB 310",
+      "ROB 311",
+      "ROB 330",
+      "ROB 422",
+      "SI 301",
+      "SI 357",
+      "SI 422",
+      "SI 630",
+      "STATS 401",
+      "STATS 403",
+      "STATS 406",
+      "STATS 413",
+      "STATS 415",
+      "STATS 426",
+      "STATS 430",
+      "STATS 470",
+      "STATS 531"
+    ]
+  },
+  "openGroups": {
+    "Flexible Technical Electives": [
+      {
+        "subjects": [
+          "AEROSP"
+        ],
+        "minLevel": 300,
+        "exclude": [
+          "AEROSP 495"
+        ]
+      },
+      {
+        "subjects": [
+          "BIOLOGY"
+        ],
+        "minLevel": 400
+      },
+      {
+        "subjects": [
+          "BIOMEDE"
+        ],
+        "minLevel": 400
+      },
+      {
+        "subjects": [
+          "CHE"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "CEE"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "CLIMATE",
+          "SPACE"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "EECS"
+        ],
+        "minLevel": 300,
+        "exclude": [
+          "EECS 314",
+          "EECS 402",
+          "EECS 403",
+          "EECS 406",
+          "EECS 409",
+          "EECS 410",
+          "EECS 495"
+        ]
+      },
+      {
+        "subjects": [
+          "IOE"
+        ],
+        "minLevel": 300,
+        "exclude": [
+          "IOE 373",
+          "IOE 422"
+        ]
+      },
+      {
+        "subjects": [
+          "MATSCIE"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "MATH"
+        ],
+        "minLevel": 300,
+        "exclude": [
+          "MATH 310",
+          "MATH 327",
+          "MATH 333",
+          "MATH 385",
+          "MATH 389",
+          "MATH 399",
+          "MATH 422",
+          "MATH 429",
+          "MATH 431",
+          "MATH 485",
+          "MATH 486",
+          "MATH 489",
+          "MATH 497"
+        ]
+      },
+      {
+        "subjects": [
+          "MECHENG"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "NAVARCH"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "NERS"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "PHYSICS"
+        ],
+        "minLevel": 300,
+        "exclude": [
+          "PHYSICS 333",
+          "PHYSICS 334",
+          "PHYSICS 365",
+          "PHYSICS 420",
+          "PHYSICS 481"
+        ]
+      }
+    ]
+  }
+}

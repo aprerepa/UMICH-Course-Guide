@@ -4,14 +4,28 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors/structural-biology-sub-major.html",
   "status": "fetched",
-  "message": "requirements page ready for LLM (program URL)",
+  "message": "requirements page ready for LLM (Structural Biology Track (Sub-Major), Winter 2026+) (+1 course-list supplement: Courses)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/structural-biology-sub-major.html",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/structural-biology-sub-major.html",
   "requirements_link_text": "(program page is requirements)",
   "requirements_link_score": 200,
-  "requirements_link_strategy": "program_is_requirements",
+  "requirements_link_strategy": "program_is_requirements+lsa_historical_latest_term",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/structural-biology-sub-major.html",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:50:16.915528+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:40:27.582718+00:00",
+  "lsa_requirements_title": "Structural Biology Track (Sub-Major)",
+  "lsa_requirements_term": "Winter 2026",
+  "math_requirements_title": "Structural Biology Track (Sub-Major)",
+  "math_requirements_term": "Winter 2026",
+  "supplements_count": 1,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    }
+  ]
 }

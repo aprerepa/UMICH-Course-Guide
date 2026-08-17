@@ -1,0 +1,35 @@
+[
+  {
+    "id": "01-sample-schedule-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1ZtmoeCK41KXsP_dYMW5ACTNcmBbqL0k2M2AeiZFh4QE/edit?gid=0#gid=0",
+    "link_text": "Sample Schedule",
+    "score": 150,
+    "status": "fetched",
+    "message": "ok (2184 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1ZtmoeCK41KXsP_dYMW5ACTNcmBbqL0k2M2AeiZFh4QE/edit?gid=0#gid=0",
+    "fetch_mode": "http",
+    "chars": 2184
+  },
+  {
+    "id": "02-download-sample-plan",
+    "url": "https://drive.google.com/file/d/1_Jf9FMvahBI3h9itPHI8TwZJ40HfWtlm/view",
+    "link_text": "Download Sample Plan",
+    "score": 110,
+    "status": "fetched",
+    "message": "ok (1668 chars)",
+    "final_url": "https://drive.usercontent.google.com/download?id=1_Jf9FMvahBI3h9itPHI8TwZJ40HfWtlm&export=download",
+    "fetch_mode": "http",
+    "chars": 1668
+  },
+  {
+    "id": "03-course-guide",
+    "url": "https://bulletin.engin.umich.edu/courses/name/",
+    "link_text": "Course Guide",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (34446 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/name/",
+    "fetch_mode": "http",
+    "chars": 34446
+  }
+]

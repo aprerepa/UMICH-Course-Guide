@@ -1,0 +1,48 @@
+{
+  "id": "classical-civilization",
+  "displayName": "Classical Civilization",
+  "requirementGroups": {
+    "Prerequisites": [
+      "CLCIV 101",
+      "CLCIV 202",
+      "HISTORY 200",
+      "HISTORY 201",
+      "GTBOOKS 191",
+      "CLARCH 221",
+      "CLARCH 222",
+      "ARCHAM 221",
+      "ARCHAM 222"
+    ],
+    "Language, Literature and Reception": [
+      "CLCIV 328",
+      "CLCIV 371",
+      "CLCIV 385",
+      "CLCIV 464",
+      "CLCIV 473",
+      "GREEKMOD 325",
+      "GREEKMOD 340"
+    ],
+    "History and Archaeology": [
+      "CLCIV 302",
+      "CLCIV 365",
+      "CLCIV 372",
+      "CLCIV 375",
+      "CLCIV 376",
+      "CLCIV 382",
+      "CLCIV 392",
+      "HIST 292",
+      "CLCIV 468"
+    ],
+    "Religion and Philosophy": [
+      "CLCIV 293",
+      "CLCIV 347",
+      "CLCIV 381",
+      "CLCIV 389",
+      "CLCIV 475",
+      "CLCIV 466",
+      "CLCIV 476",
+      "CLCIV 388",
+      "PHIL 388"
+    ]
+  }
+}

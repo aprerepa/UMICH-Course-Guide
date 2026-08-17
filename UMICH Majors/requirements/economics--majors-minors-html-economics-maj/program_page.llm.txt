@@ -19,6 +19,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -46,6 +50,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -973,20 +981,6 @@ HUM
 NAT
 SOC
 INT
-Economics (Major)
-Economists study the choices people make when allocating limited resources among competing uses.  They seek to describe, explain, predict,  and evaluate the behaviors of individual households, business enterprises, and government agencies.  They also seek to describe, explain, predict, and evaluate the aggregate outcomes of those behaviors in individual markets, individual countries, and the world.  While much of their work examines interactions among actors in market settings, economists also examine behavior inside households, inside companies, and inside government agencies.
-Economists use a rich set of tools and methods, including abstract mathematical modeling and formal statistical analysis.  Undergraduate economists need a solid background in calculus and statistics.
-The study of economics prepares undergraduates exceptionally well for careers in business, consulting, finance, law, politics, public and private administration, and teaching.  Many professional economists, including virtually all academic economists, have earned doctorates in the discipline.
-Undergraduates study economics for many reasons.  To accommodate this diversity, the Department of Economics offers a wide variety of courses, beginning with a mainstay of a liberal arts education, the two-semester sequence in the principles of economics.  Given the multiplicity of paths through the departmental curriculum, students interested in majoring or minoring in economics should consult a departmental adviser as early as possible in their studies.  The department’s website presents several possible strategies for completing the major.
-Related Programs
-Economics Minor
-Philosophy, Politics, and Economics Major
-Political Economy and Development (PED) Sub-Major
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Economics
 Economics (Minor)
 m
 SOC

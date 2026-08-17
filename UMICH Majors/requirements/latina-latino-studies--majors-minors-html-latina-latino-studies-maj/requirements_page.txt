@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -41,6 +45,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -88,9 +96,9 @@ Undergraduate Education
 Skip to Page Content
 Academics
 Majors and Minors
-Latina & Latino Studies Major
+Ethnic Studies Sub
 ...
-Latina & Latino Studies Major
+Ethnic Studies Sub
 Academics
 Majors and Minors
 [X] close
@@ -109,7 +117,7 @@ Engaged Learning
 STEM
 Business
 What Will You Do with an LSA Degree?
-Latina & Latino Studies Major
+Ethnic Studies Sub
 Academics
 Majors and Minors
 Departments and Units
@@ -127,167 +135,95 @@ Business
 What Will You Do with an LSA Degree?
 Advising
 Department Website
-Effective Winter 2019
+American Culture (Major)
+Effective Winter 2014
 Advising
-Students can set up advising appointments for any of the program's major or minor plans by visiting
-https://lsa.umich.edu/ac/undergraduates/advising.html
-.
+Students are encouraged to discuss their academic program and related concerns with the American Culture department advisor. Appointments are scheduled on the American Culture Department's website under academic advising. For questions of immediate concern or general questions about the major, students may speak with the Undergraduate Administrator by calling 734.763.1460, emailing ac.inq@umich.edu, or by coming to 3700 Haven Hall.
 Prerequisites
 None.
 Requirements
 Minimum Credits:
-30
-An interdisciplinary degree, the Latina/o Studies major consists of 30 credits. The objective of this major program is to engage students in a diversity of disciplinary approaches to the study of U.S. Latinas/os as well as to introduce them to the central intellectual questions and topics that have emerged in this field of inquiry. Given the interdisciplinary nature of Latino Studies, students interested in pursuing graduate study in a particular discipline should double concentrate in the respective department in order to have the needed background to enter graduate school. The major consists of:
-Latino Studies Major Second Language Proficiency Requirement:
-Given the importance of second language proficiency to the study of Latina/o populations in the United States, the Latina/o Studies Program requires all majors to satisfy their 4th term proficiency in Spanish, or another relevant language approved by the program advisor.
-AMCULT 213
-: Introduction to Latina/o Studies
-Students will be required to take
-six
-additional Latina/o Studies courses.
-Two
-of the six courses must be at the 300 level or above.
-AMCULT 498:
-Capstone. Students will take AMCULT 498 (or an equivalent approved by the LS advisor). They will use this course to complete a major independent project on a topic relevant to Latina/o Studies.
-Tracks.
-When declaring the major, students will identify one of five primary tracks (comparative ethnic studies, gender and sexuality, migration and transnationalism, community engagement and social action, and arts and media). The LS director will consult with students, helping them to select courses to complete the track (and to confirm the completion at the time of the senior release). The expectation will be that at least 4 courses, but no more than 6, will combine to provide coherence for the selected track. Students may propose alternative tracks with the approval of the LS Director.
+28
+The General Program:
+Core course:
+AMCULT 300: Practices of American Culture.
+Capstone:
+AMCULT 498: Capstone Seminar in American Culture.
+Breadth Requirements:
+Students must also have classes focused on the following Breath Requirements at the 200-level or higher. Depending on content, one course might satisfy two or more of these requirements.
+Pre-Twentieth-Century United States
+Transnationalism, Diaspora, and/or Empire
+Women, Gender, and/or Sexuality
+Ethnic and/or Indigenous Studies
+Electives:
+Students must elect additional courses at the 200 level or higher under American Culture (AMCULT) and/or any of American Culture's Ethnic Studies SUBJECT Codes (LATINOAM, ASIANPAM, NATIVEAM, ARABAM) to reach the 28 minimum credits required for the major. (Includes Breadth Requirement courses).
+Optional Sub-Major:
+Ethnic Studies
+Constraints
+No more than 9 credits at the 200 level can be counted toward the major.
+Honors
+American Culture Honors provides an opportunity for majors in American Culture and Latina/o Studies to complete a comprehensive, original independent project under the guidance of a faculty member as the culmination of their undergraduate studies. Honors requirements consist of regular American Culture or Latina/o Studies requirements plus the Honors requirements.
+American Culture and Latina/o Studies majors with a grade-point average of 3.5 or higher in the major may apply for the Honors major. Students usually apply in the fall term of their junior year.
+Honors requirements spans three terms.
+In the second term of the junior year, the student must successfully complete AMCULT 398, which involves preparing a thesis prospectus and bibliography and identifying a supervising faculty advisor and a second reader.
+In both terms of the senior year, the student will enroll in AMCULT 493 (3 credits per term) to research and write the thesis.
+participation in three Friday colloquia. Colloquia will focus on peer response to work in progress, as well as on topics of particular usefulness to a given cohort of students. The series will be facilitated by the Director of Undergraduate Studies and is intended to provide seniors with ongoing mentoring.
+The primary advisor and the second reader determine the designation of Honors (Honors, High Honors, Highest Honors).
+Ethnic Studies (Sub-Major)
+Effective Winter 2021
+Prerequisites
+none.
+Requirements
+Minimum Credits:
+28
+To have a notation of the Ethnic Studies submajor appear on your transcript, you must successfully complete the following in your American Culture major elective credits in addition to the other American Culture major requirements:
+A) One of the following introductory ethnic studies courses:
+AAS 201: Intro to Afro-American Studies
+LATINOAM 213: Intro to Latina/o Studies
+ASIANPAM 214: Intro to Asian/Pacific Islander American Studies
+ARABAM 215: Intro to Arab American Studies
+ARABAM 216: Intro to American Muslims
+NATIVEAM 217: Intro to Native American Studies
+B) four additional approved Ethnic Studies courses in consultation with an advisor.
+Ethnic Studies electives may be chosen from any ARABAM; ASIANPAM; LATINOAM; NATIVEAM; AMCULT/AAS courses; or approved courses.
+American Culture (Major) (Winter 2014 - )
+Effective Winter 2014
+Advising
+Students are encouraged to discuss their academic program and related concerns with the American Culture department advisor. Appointments are scheduled on the American Culture Department's website under academic advising. For questions of immediate concern or general questions about the major, students may speak with the Undergraduate Administrator by calling 734.763.1460, emailing ac.inq@umich.edu, or by coming to 3700 Haven Hall.
+Prerequisites
+None.
+Requirements
+Minimum Credits:
+28
+The General Program:
+Core course:
+AMCULT 300: Practices of American Culture.
+Capstone:
+AMCULT 498: Capstone Seminar in American Culture.
+Breadth Requirements:
+Students must also have classes focused on the following Breath Requirements at the 200-level or higher. Depending on content, one course might satisfy two or more of these requirements.
+Pre-Twentieth-Century United States
+Transnationalism, Diaspora, and/or Empire
+Women, Gender, and/or Sexuality
+Ethnic and/or Indigenous Studies
+Electives:
+Students must elect additional courses at the 200 level or higher under American Culture (AMCULT) and/or any of American Culture's Ethnic Studies SUBJECT Codes (LATINOAM, ASIANPAM, NATIVEAM, ARABAM) to reach the 28 minimum credits required for the major. (Includes Breadth Requirement courses).
+Optional Sub-Major:
+Ethnic Studies
+Constraints
+No more than 9 credits at the 200 level can be counted toward the major.
 Distribution Policy
 No course used to fulfill a major requirement may be used toward the
 LSA Distribution Requirement
 . In addition, courses in the AMAS, AMCULT, ARABAM, ASIANPAM, LATINOAM, and NATIVEAM subject areas may not be used toward the Distribution Requirement.
 Honors
-The American Culture Honors Program provides an opportunity for majors in American Culture and Latina/o Studies to complete a comprehensive, original independent project under the guidance of a faculty member as the culmination of their undergraduate studies. We recommend that students choose topics on which they have already done some academic study. The Honors thesis may take a variety of forms, for example, a research project, a critical or interpretive project, or a creative or performance piece. Creative and community-based projects should include a substantive introductory essay that sets forth the premises, aims, and cultural/intellectual contexts of the student's undertaking. Honors requirements consist of regular American Culture or Latina/o Studies requirements plus the Honors requirements.
-American Culture and Latina/o Studies majors with an overall grade-point average of 3.5 or higher may apply for an Honors major. The Program spans three terms. Students usually apply in the fall term of their junior year. Though the program occasionally accepts a few late applicants in the Winter or Spring/Summer terms, students' chances of success are greatest if they apply in the fall of the Junior Year and if they have begun thinking about a possible focus.
-The application process has three stages:
-In the first semester of his or her junior year, the student must consult with the American Culture department advisor to gain permission to enroll in AMCULT 398, the Junior Honors Writing Workshop (three credits).
-In the second semester of the junior year, the student must successfully complete AMCULT 398, which involves preparing a thesis prospectus and bibliography and identifying a supervising faculty advisor and a second reader.
-At the end of the second semester of the junior year, the student will submit the prospectus and a letter of agreement from the faculty advisor. The student will then meet with the director of the Program in American Culture to discuss the prospectus and be accepted into the Honors major.
-The application consists of a cover sheet, transcript, and prospectus.
-In both semesters of the senior year, the student will enroll in AMCULT 493 (3 credits per semester) to research and write the thesis.
-In addition, effective in Fall 2010, as part of AMCULT 493, students in the Honors program will participate in three Friday colloquia. The colloquia are also open to Latina/o Studies majors pursuing Honors. The colloquia will focus on peer response to work in progress, as well as on topics of particular usefulness to a given cohort of students. The series will be facilitated by the Director of Undergraduate Studies and is intended to provide seniors with ongoing mentoring.
-Early selection of an appropriate thesis advisor is crucial to the success of the Honors thesis. Only tenure track faculty members in the Program in American Culture and the Ethnic Studies Programs may serve as Honors thesis advisors. Exceptions to this policy may be made in consultation with the Director of Undergraduate Studies. Faculty are listed on the Program's web site.
-The second reader is a faculty member chosen jointly by the student and the thesis advisor by the end of the fall semester of the senior year. The second reader need not be affiliated with the Program, but her or his area of expertise should be relevant to the thesis topic. The student should consult with the second reader throughout the writing process, and the second reader should comment on thesis drafts as well as contribute to the final evaluation of the thesis.
-Submission of Thesis
-Students should submit one copy to their primary faculty advisor, one copy to the second reader, and one copy to the Undergraduate Program Assistant in the Program Office. The copy submitted to the office should include a cover sheet (providing the student's name, email, and telephone number; thesis title; and the names of the primary advisor and second reader). The primary advisor and the second reader determine the designation of Honors (Honors, High Honors, Highest Honors).
-Graduating seniors should also complete an Honors Plan Release with the AC academic advisor, an application for graduation online, and a distribution worksheet with an Honors advisor.
-Latina/Latino Studies (Major) (Winter 2014 - Fall 2018)
-Effective Winter 2014
-Advising
-Students can set up advising appointments for any of the program's major or minor plans by visiting
-https://lsa.umich.edu/ac/undergraduates/advising.html
-.
-Prerequisites
-AMCULT 213 / LATINOAM: 213: Introduction to Latino Studies.
-Requirements
-Minimum Credits:
-27
-An interdisciplinary degree, the Latina/o Studies major consists of 27 credits beyond the introductory prerequisite. The objective of this major program is to engage students in a diversity of disciplinary approaches to the study of U.S. Latinas/os as well as to introduce them to the central intellectual questions and topics that have emerged in this field of inquiry. Given the interdisciplinary nature of Latino Studies, students interested in pursuing graduate study in a particular discipline should double concentrate in the respective department in order to have the needed background to enter graduate school. The major consists of:
-Latino Studies Major Second Language Proficiency Requirement:
-Given the importance of second language proficiency to the study of Latina/o populations in the United States, the Latina/o Studies Program requires all majors to satisfy their 4th term proficiency in Spanish, or another relevant language approved by the program advisor.
-Students will be required to take
-one
-3 credit course, focusing on Latinos in the U.S.,in each of the following areas (
-Note:
-the courses listed below the distribution areas are courses that are regularly offered through Latina/o Studies. Students, however, can use courses not listed here to satisfy distribution area requirements, pending approval from the program advisor).
-History and Society
-AMCULT 205 / LATINOAM 205: Latina/o Religions & Cultures
-AMCULT 315 / LATINOAM 315: History of U.S. Latinos
-AMCULT 301. Topics in Chicana/o History
-AMCULT 226 / LATINOAM 226: The Latin Tinge: Latin Music in Social Context in Latin America and the United States
-AMCULT 304. American Immigration
-AMCULT 313 / LATINOAM 313: Cuba and its Diaspora
-Gender and Sexuality
-AMCULT 243 / LATINOAM 243: Latinas in the United States
-AMCULT 293. Women of Color
-Language & the Arts
-AMCULT 327 / LATINOAM 327: Latino/Latina Literature in the United States
-Media & Popular Culture
-AMCULT 381 / LATINOAM 381: Latinas/os and the Media
-AMCULT 226 / LATINOAM 226: The Latin Tinge: Latin Music in Social Context in Latin America and the United States
-AMCULT 380 / LATINOAM 380: Studies in Transnational Media
-AMCULT 420 / LATINOAM 420: Latin American and Latino/a Film Studies
-Community Service Learning:
-Community-service learning courses must be in a Latino context. Courses may be chosen from among the following:
-AMCULT 309
-AMCULT 388
-AMCULT 219
-AMCULT 425
-SPANISH 428
-RCCORE 309.006
-SOC 225 (or 389)
-PSYCH 401
-WOMENSTD 425
-Electives.
-Two 300- 400-level courses in Latina/o Studies.
-Cognates.
-Two courses outside the Latina/o Studies Curriculum including advisor-approved courses offered by other departments, one each from the following areas:
-Latin American culture, history, literature (may include courses in Latin American and Caribbean Studies, Romance Languages and Literatures, Anthropology, History, Sociology, Political Science);
-Asian Pacific Islander American Studies; African American Studies (may include courses offered through DAAS); Native American Studies; or Arab American Studies.
-Distribution Policy
-No course used to fulfill a major requirement may be used toward the
-LSA Distribution Requirement
-. In addition, courses in the AMCULT, ARABAM, ASIANPAM, LATINOAM, and NATIVEAM subject areas may not be used toward the Distribution Requirement.
-Honors
-The American Culture Honors Program provides an opportunity for majors in American Culture and Latina/o Studies to complete a comprehensive, original independent project under the guidance of a faculty member as the culmination of their undergraduate studies. We recommend that students choose topics on which they have already done some academic study. The Honors thesis may take a variety of forms, for example, a research project, a critical or interpretive project, or a creative or performance piece. Creative and community-based projects should include a substantive introductory essay that sets forth the premises, aims, and cultural/intellectual contexts of the student's undertaking. Honors requirements consist of regular American Culture or Latina/o Studies requirements plus the Honors requirements.
-American Culture and Latina/o Studies majors with an overall grade-point average of 3.5 or higher may apply for an Honors major. The Program spans three terms. Students usually apply in the fall term of their junior year. Though the program occasionally accepts a few late applicants in the Winter or Spring/Summer terms, students' chances of success are greatest if they apply in the fall of the Junior Year and if they have begun thinking about a possible focus.
-The application process has three stages:
-In the first semester of his or her junior year, the student must consult with the American Culture department advisor to gain permission to enroll in AMCULT 398, the Junior Honors Writing Workshop (three credits).
-In the second semester of the junior year, the student must successfully complete AMCULT 398, which involves preparing a thesis prospectus and bibliography and identifying a supervising faculty advisor and a second reader.
-At the end of the second semester of the junior year, the student will submit the prospectus and a letter of agreement from the faculty advisor. The student will then meet with the director of the Program in American Culture to discuss the prospectus and be accepted into the Honors major.
-The application consists of a cover sheet, transcript, and prospectus.
-In both semesters of the senior year, the student will enroll in AMCULT 493 (3 credits per semester) to research and write the thesis.
-In addition, effective in Fall 2010, as part of AMCULT 493, students in the Honors program will participate in three Friday colloquia. The colloquia are also open to Latina/o Studies majors pursuing Honors. The colloquia will focus on peer response to work in progress, as well as on topics of particular usefulness to a given cohort of students. The series will be facilitated by the Director of Undergraduate Studies and is intended to provide seniors with ongoing mentoring.
-Early selection of an appropriate thesis advisor is crucial to the success of the Honors thesis. Only tenure track faculty members in the Program in American Culture and the Ethnic Studies Programs may serve as Honors thesis advisors. Exceptions to this policy may be made in consultation with the Director of Undergraduate Studies. Faculty are listed on the Program's web site.
-The second reader is a faculty member chosen jointly by the student and the thesis advisor by the end of the fall semester of the senior year. The second reader need not be affiliated with the Program, but her or his area of expertise should be relevant to the thesis topic. The student should consult with the second reader throughout the writing process, and the second reader should comment on thesis drafts as well as contribute to the final evaluation of the thesis.
-Submission of Thesis
-Students should submit one copy to their primary faculty advisor, one copy to the second reader, and one copy to the Undergraduate Program Assistant in the Program Office. The copy submitted to the office should include a cover sheet (providing the student's name, email, and telephone number; thesis title; and the names of the primary advisor and second reader). The primary advisor and the second reader determine the designation of Honors (Honors, High Honors, Highest Honors).
-Graduating seniors should also complete an Honors Plan Release with the AC academic advisor, an application for graduation online, and a distribution worksheet with an Honors advisor.
-Latina/o Studies Major (Winter 2011-Fall 2013)
-Effective Winter 2011-Fall 2013
-Prerequisites to the Major
-AMCULT 213 "Introduction to Latino Studies.
-Program of study in a major
-An interdisciplinary degree, the Latina/o Studies major consists of 27 credits beyond the introductory prerequisite. The objective of this major program is to engage students in a diversity of disciplinary approaches to the study of U.S. Latinas/os as well as to introduce them to the central intellectual questions and topics that have emerged in this field of inquiry. Given the interdisciplinary nature of Latino Studies, students interested in pursuing graduate study in a particular discipline should double concentrate in the respective department in order to have the needed background to enter graduate school. The major consists of:
-Latino Studies Major Second Language Proficiency Requirement:
-Given the importance of second language proficiency to the study of Latina/o populations in the United States, the Latina/o Studies Program requires all majors to satisfy their 4th term proficiency in Spanish, or another relevant language approved by the program advisor.
-Students will be required to take
-one
-3 credit course, focusing on Latinos in the U.S.,in each of the following areas (
-Note:
-the courses listed below the distribution areas are courses that are regularly offered through Latina/o Studies. Students, however, can use courses not listed here to satisfy distribution area requirements, pending approval from the program advisor).
-History and Society
-AMCULT 205. Latina/o Religions & Cultures
-AMCULT 315 or 312, History of U.S. Latinos
-AMCULT 301. Topics in Chicana/o History
-AMCULT 226. The Latin Tinge: Latin Music in Social Context in Latin America and the United States
-AMCULT 304. American Immigration
-AMCULT 313. Cuba and its Diaspora
-Gender and Sexuality
-AMCULT 243. Latinas in the United States
-WOMENSTD 293. Women of Color
-Language & the Arts
-AMCULT 327. Latino/Latina Literature in the United States
-Media & Popular Culture
-AMCULT 381. Latinas/os and the Media
-AMCULT 226. The Latin Tinge
-AMCULT 380. Studies in Transnational Media
-AMCULT 420. Latin American and Latino/a Film Studies
-Community Service Learning
-Community-service learning courses must be in a Latino context. Courses may be chosen from among the following:
-AMCULT 309
-AMCULT 388
-AMCULT 219
-AMCULT 425
-SPANISH 428
-RCCORE 309.006; SOC 389; PSYCH 401; or WOMENSTD 425
-Electives.
-Two 300- 400-level courses in Latina/o Studies.
-Cognates.
-Two courses outside the Latina/o Studies Curriculum including advisor-approved courses offered by other departments, one each from the following areas:
-Latin American culture, history, literature (may include courses in Latin American and Caribbean Studies, Romance Languages and Literatures, Anthropology, History, Sociology, Political Science);
-Asian Pacific Islander American Studies; African American Studies (may include courses offered through CAAS); Native American Studies; or Arab American Studies.
-Honors Plan.
-(Effective Fall 2010)
+American Culture Honors provides an opportunity for majors in American Culture and Latina/o Studies to complete a comprehensive, original independent project under the guidance of a faculty member as the culmination of their undergraduate studies. Honors requirements consist of regular American Culture or Latina/o Studies requirements plus the Honors requirements.
+American Culture and Latina/o Studies majors with a grade-point average of 3.5 or higher in the major may apply for the Honors major. Students usually apply in the fall term of their junior year.
+Honors requirements spans three terms.
+In the second term of the junior year, the student must successfully complete AMCULT 398, which involves preparing a thesis prospectus and bibliography and identifying a supervising faculty advisor and a second reader.
+In both terms of the senior year, the student will enroll in AMCULT 493 (3 credits per term) to research and write the thesis.
+participation in three Friday colloquia. Colloquia will focus on peer response to work in progress, as well as on topics of particular usefulness to a given cohort of students. The series will be facilitated by the Director of Undergraduate Studies and is intended to provide seniors with ongoing mentoring.
+The primary advisor and the second reader determine the designation of Honors (Honors, High Honors, Highest Honors).
 Information for
 Prospective Students
 Current Students

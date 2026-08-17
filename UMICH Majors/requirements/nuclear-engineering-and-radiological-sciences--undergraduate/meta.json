@@ -4,14 +4,45 @@
   "school_college": "College of Engineering",
   "program_url": "https://ners.engin.umich.edu/academics/undergraduate/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+4 course-list supplements: Editable sample schedule, Required courses, NERS Course Guide)",
   "program_final_url": "https://ners.engin.umich.edu/academics/undergraduate/",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://ners.engin.umich.edu/academics/undergraduate/degree-requirements/",
   "requirements_link_text": "Degree Requirements",
   "requirements_link_score": 290,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://ners.engin.umich.edu/academics/undergraduate/degree-requirements/",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:46:21.863073+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:28:17.215408+00:00",
+  "supplements_count": 4,
+  "supplements": [
+    {
+      "id": "01-editable-sample-schedule",
+      "url": "https://docs.google.com/spreadsheets/d/1TfjD0YQNzrqhz8FfhOdgKvJvIk80QwThUJpMif3ul0U/edit?usp=sharing",
+      "link_text": "Editable sample schedule",
+      "status": "fetched",
+      "chars": 7363
+    },
+    {
+      "id": "02-required-courses",
+      "url": "https://bulletin.engin.umich.edu/courses/clasp/",
+      "link_text": "Required courses",
+      "status": "fetched",
+      "chars": 40024
+    },
+    {
+      "id": "03-ners-course-guide",
+      "url": "https://bulletin.engin.umich.edu/courses/ners/",
+      "link_text": "NERS Course Guide",
+      "status": "fetched",
+      "chars": 37454
+    },
+    {
+      "id": "04-additional-readings",
+      "url": "https://docs.google.com/spreadsheets/d/1G36B1ONyOHZRUgnCrUJrRYlh-mkascnn0EyCXoP48Nw/edit?usp=sharing",
+      "link_text": "Additional Readings",
+      "status": "fetched",
+      "chars": 2556
+    }
+  ]
 }

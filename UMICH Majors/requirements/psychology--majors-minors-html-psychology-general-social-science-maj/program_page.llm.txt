@@ -19,10 +19,6 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 About
 Academics
 Research
@@ -50,10 +46,6 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 for
 Prospective Students
 Current Students
@@ -2135,6 +2127,31 @@ HUM
 NAT
 SOC
 INT
+Psychology (Major)
+The overall goal of the Psychology major is to provide students with a broad background in the various levels of analysis and methodological approaches used in the study of behavior, particularly human behavior, and to prepare students for graduate study in a number of fields. Students can gain research training, experience in a wide variety of community settings, and tailor course selections to meet their long-term post-graduate goals. A Psychology degree, in conjunction with courses chosen from other disciplines, can prepare students for careers interacting with people of all ages and backgrounds in a wide range of fields.
+The curriculum in psychology is intended to enhance one's understanding of behavioral science and of oneself and others in terms of concepts developed by study. The undergraduate major program is not intended to prepare students for any specific vocational objective; to become a professional psychologist requires from two to four years (or more) of graduate study.
+Curriculum Guides.
+Curriculum Guides are available for both Psychology and Biopsychology, Cognition, and Neuroscience majors. Clusters are groupings of courses (both within the Department of Psychology and throughout other programs at the University of Michigan) that focus on a more specific area related to psychology. Students are encouraged to refer to these clusters when making academic and career goals.
+The following clusters are currently available:
+Behavioral and Cognitive Neuroscience
+Business, Systems, and Organizations
+Culture, Context, and Communities
+Development, Psychopathology, and Mental Health
+Evolution, Biology, and Behavior
+Gender, Psychology, and Society
+Health, Development, and Aging
+Intergroup Relations
+Language, Thought, and Culture
+Law, Criminal Justice, and Forensics
+Related Programs
+Biopsychology, Cognition, and Neuroscience Major
+Cognitive Science Major
+Neuroscience Major
+REQUIREMENTS
+WEBSITE
+ADVISING
+DEPARTMENT/PROGRAM
+LSA Psychology
 Public Policy (Minor)
 m
 M

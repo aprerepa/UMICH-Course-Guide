@@ -1,0 +1,153 @@
+{
+  "id": "ecology-evolution-and-biodiversity",
+  "displayName": "Ecology, Evolution, and Biodiversity",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              {
+                "allOf": [
+                  "BIOLOGY 171",
+                  {
+                    "anyOf": [
+                      "BIOLOGY 172",
+                      "BIOLOGY 174"
+                    ]
+                  },
+                  {
+                    "anyOf": [
+                      "BIOLOGY 173",
+                      "BIOLOGY 196"
+                    ]
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  "BIOLOGY 195",
+                  {
+                    "anyOf": [
+                      "BIOLOGY 173",
+                      "BIOLOGY 196"
+                    ]
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  "BIOLOGY 191",
+                  "BIOLOGY 192",
+                  "BIOLOGY 173"
+                ]
+              }
+            ]
+          },
+          {
+            "allOf": [
+              "CHEM 210",
+              "CHEM 211"
+            ]
+          },
+          {
+            "minOf": 3,
+            "options": [
+              {
+                "anyOf": [
+                  "MATH 115",
+                  "MATH 120",
+                  "MATH 175",
+                  "MATH 185",
+                  "MATH 295"
+                ]
+              },
+              {
+                "anyOf": [
+                  "MATH 116",
+                  "MATH 121",
+                  "MATH 156",
+                  "MATH 176",
+                  "MATH 186",
+                  "MATH 296"
+                ]
+              },
+              {
+                "anyOf": [
+                  "PHYSICS 125",
+                  "PHYSICS 135",
+                  "PHYSICS 139",
+                  "PHYSICS 140",
+                  "PHYSICS 150",
+                  "PHYSICS 160"
+                ]
+              },
+              {
+                "anyOf": [
+                  "PHYSICS 126",
+                  "PHYSICS 235",
+                  "PHYSICS 239",
+                  "PHYSICS 240",
+                  "PHYSICS 250",
+                  "PHYSICS 260"
+                ]
+              },
+              {
+                "anyOf": [
+                  "EECS 180",
+                  "EECS 183",
+                  "EECS 203",
+                  "EECS 280"
+                ]
+              },
+              {
+                "anyOf": [
+                  "STATS 180",
+                  "STATS 206",
+                  "STATS 250",
+                  "STATS 280"
+                ]
+              },
+              "BIOLOGY 202",
+              {
+                "anyOf": [
+                  "BIOLOGY 131",
+                  "BIOPHYS 131"
+                ]
+              },
+              "BIOPHYS 117",
+              {
+                "anyOf": [
+                  "BIOPHYS 290",
+                  "PHYSICS 290"
+                ]
+              },
+              "EARTH 468"
+            ]
+          }
+        ]
+      }
+    },
+    "EEB Major Core": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Biodiversity Focus (BD)": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Field or Research Experience (FR)": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Additional Courses": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Upper-Level Electives for EEB": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

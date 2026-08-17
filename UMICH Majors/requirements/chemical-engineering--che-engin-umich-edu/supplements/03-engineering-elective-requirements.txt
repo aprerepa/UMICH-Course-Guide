@@ -1,0 +1,68 @@
+CHEMICAL ENGINEERING PROGRAM 
+SAMPLING OF COURSES THAT FULFILL THE ENGINEERING ELECTIVE REQUIREMENT 
+2026-2027 
+Engineering elective courses must be engineering courses at the 200 level or above. Seminar-style 
+courses with minimal academic workload are not eligible. Eligible courses should include substantive 
+assignments that require students to apply engineering knowledge, such as homework, projects, quizzes, 
+exams, or similar assessments. 
+  
+Research: Engineering research credits at the 400 level or higher may be used to satisfy this 
+requirement. Up to 8 credits of ChE 490 or ChE 695 may be taken for a grade. Beyond that, ChE 490 or 
+695 credits must be taken pass/fail. Note: ChE 290 and other 200-level engineering research courses 
+only count as general electives. 
+ 
+ChE Courses 
+Find current and upcoming ChE Electives on the ChE UG Intranet 
+Also see “Concentrations within the BSE ChE Program” website for other Engineering courses 
+ChE 296 Special Topics (cannot double-count for other degree req.) 4 
+ChE 407 Process safety risk management 2 
+ChE 431 Engineering statistics and problem solving 3 
+ChE 496/497/696 Various special topics courses 1-4 
+ChE 490 Advanced directed study, research, special problems 1-4 
+ChE 504 Fuel Cells and Fuel Processors 3 
+ChE 517 Biopharmaceutical Engineering 3 
+ChE 538 Statistical and irreversible thermodynamics 3 
+  
+CEE courses 
+CEE 265 Sustainable engr. principles  3 
+CEE 373 Statistical methods for data analysis and uncertainty 
+modeling 
+4 
+CEE 482 Environmental microbiology 3 
+CEE 567/ ESENG 567 Energy infrastructure systems 3 
+CEE 586 Industrial Ecology 3 
+  
+EECS Courses 
+EECS 203 Discrete Mathematics  4 
+EECS 215 Intro to electronic circuits 4 
+EECS 280 Programming and introductory data structures 4 
+EECS 314 Electrical circuits, systems, & apps. 4 
+EECS 370 Intro to computer organization 4 
+ 
+ENGR Courses 
+ENGR 255 Introductory multidisciplinary engr. project 1-3 
+ENGR 256 Peer mentorship in engr. design 1-2 
+ENGR 350 Int’l lab experience for engineers 3 
+ENGR 355 Intermediate multidisciplinary engr. project  1-4 
+ENGR 371/Math 371 Numerical methods for engineers and scientists  3 
+ENGR 455 Advanced multidisciplinary engr. project 2-5 
+ENGR 460 Engineering Across Cultures II 
+NOTE: ENGR 260-Eng Across Cultures I does not count 
+toward the Engineering elective 
+1 
+ 
+  
+Other Popular Courses 
+BME 410 Design and applications of biomaterials -OK for non-BME 
+majors 
+3 
+IOE 201 Economic decision making (Priority for IOE majors) 2 
+IOE 202 Operations Modeling (Priority for IOE majors) 2 
+IOE 265 Probability and statistics for engr (Priority for IOE Majors) 3 
+ME 211 Introduction to solid mechanics 4 
+ME 240 Dynamics and vibrations 4 
+ME 250 Design and manufacturing I (CAD) 4 
+MSE 242 Physics of Materials 4 
+MSE 350 Structures of materials 4 
+MSE 412/ChE 412 Polymeric materials 3 
+NERS 211 Intro to nuclear engineering and radiological sciences 4

@@ -1,0 +1,29 @@
+{
+  "id": "communication-and-media",
+  "displayName": "Communication and Media",
+  "requirementGroups": {
+    "Prerequisites": [
+      "COMM 101",
+      "COMM 102"
+    ],
+    "Communication in Action": [
+      "COMM 452",
+      "COMM 492"
+    ],
+    "Additional Advanced Communication and Media Credits": []
+  },
+  "openGroups": {
+    "Communication in Action": {
+      "subjects": [
+        "COMM"
+      ],
+      "minLevel": 350
+    },
+    "Additional Advanced Communication and Media Credits": {
+      "subjects": [
+        "COMM"
+      ],
+      "minLevel": 200
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "japanese-studies-sub-major-of-asian-studies",
+  "displayName": "Japanese Studies (Sub-major of Asian Studies)",
+  "groupRules": {
+    "Asian Studies (ASIAN) Requirement": {
+      "minCredits": 34,
+      "require": {
+        "allOf": [
+          "ASIAN 235",
+          "ASIAN 381"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    }
+  }
+}

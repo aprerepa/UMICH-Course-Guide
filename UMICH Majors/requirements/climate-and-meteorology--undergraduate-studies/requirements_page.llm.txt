@@ -1,317 +1,445 @@
 Page header:
-page title: Editable Climate & Meterology Sample Schedule - Google Sheets
+page title: Climate and Space Sciences and Engineering Courses (CLIMATE & SPACE) – Bulletin
 
 Visible page text:
-This browser version is no longer supported. Please upgrade to a supported browser.
-Editable Climate & Meterology Sample Schedule
-Tab
-Share
-File
-Edit
-View
-Insert
-Format
-Data
-Tools
-Extensions
-Help
-Accessibility
-Debug
-Unsaved changes to Drive
-Accessibility
-View only
-Loading...
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
-AA
-AB
-1
-Climate and Meteorology Sample Schedule
+Climate and Space Sciences and Engineering Courses (CLIMATE & SPACE)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Climate and Space Sciences and Engineering Courses (CLIMATE & SPACE)
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+100 Level Courses
+SPACE 101. Rocket Science
+Advisory and Enforced Prerequisite: None. (3 credits)
+An introduction to the science of space and space exploration. Topics covered include history of spaceflight, rockets, orbits, the space environment, satellites, remote sensing and the future human presence in space. The mathematics will be at the level of algebra and trigonometry.
+CourseProfile (ATLAS)
+CLIMATE 102 (EARTH 122) (ENVIRON 102). Extreme Weather
+Advisory and Enforced Prerequisite: None. (3 credits)
+This course provides an introduction to the physics of extreme weather events. The course uses examples of the thunderstorms, jet stream, floods, lake-effect snow storms, lightning, thunder, hail, hurricanes and tornadoes to illustrate the physical laws governing the atmosphere. Participants apply these principles in hands-on storm forecasting and weather analysis assignments.
+CourseProfile (ATLAS)
+SPACE 103 (ASTRO 183). Intro Space Weather
+Advisory and Enforced Prerequisite: None. (3 credits)
+“Space weather” is an emerging discipline of space science that studies the conditions in space that impact society and Earth’s technological systems. Space weather is a consequence of the behavior of the sun, the nature of Earth’s magnetic field and atmosphere, and our location in the solar system.
+CourseProfile (ATLAS)
+CLIMATE 105 (CHEM 105) (ENVIRON 105) (STS 105). Our Changing Atmosphere
+Advisory and Enforced Prerequisite: None. (3 credits)
+The science of the greenhouse effect, stratospheric ozone depletion, polar ozone holes, and urban smog.
+These phenomena and their possible consequences are discussed, along with the properties and behavior of the atmosphere and its components of the environment.
+CourseProfile (ATLAS)
+CLIMATE 110 (SPACE 110). Climate and Space Science and Engineering Seminar
+Advisory and Enforced Prerequisite: None. (1 credit)
+Seminars by noted speakers, faculty and research scientists, designed to acquaint undergraduates with contemporary science and engineering problems, technologies and broader issues in the global climate and space sciences. Technical communication assignments include written and/or oral reports based upon the seminars.
+CourseProfile (ATLAS)
+CLIMATE 171 (BIOLOGY 110) (EARTH 171) (ENVIRON 110) (RCNSCI 110). Introduction to Global Change:  The Science Behind Sustainability
+Advisory and Enforced Prerequisite: None. (4 credits)
+Students learn about the evolution of the universe, Earth, our changing environment and our planets living organisms.  Global Change I, which is part of the GC curriculum, assumes no prior science background.  Homework and laboratories use computer-based systems modeling and analysis, and includes a group presentation.
+CourseProfile (ATLAS)
+CLIMATE 172
+(EARTH 172)
+(ENVIRON 111) (GEOG 111). Climate Change and Sustainability: Environmental Challenges of the 21st Century
+Advisory and Enforced Prerequisite: None. (4 credits)
+This course explores impacts of modern human society on land, ocean and atmosphere, considering all aspects relevant to a sustainable future. Throughout the semester, students work on a sustainability pledge to apply class material to everyday life.
+CourseProfile (ATLAS)
+200 Level Courses
+CLIMATE 205 (SPACE 205). Special Topics in Climate and Space
+Advisory
+Prerequisite: Non-freshmen and non-sophomore students interested should seek instructor consent.
+Enforced Prerequisite: Freshmen or Sophomore Standing. (1-4 credits)
+Special topics of interest in Climate and Space Sciences & Engineering, offered at the first- and second-year level.
+CourseProfile (ATLAS)
+300 Level Courses
+SPACE 310. Introduction to Satellite Mission Design
+Advisory
+Prerequisite: ENGR 100 and ENGR 101. Enforced Prerequisite: None. (3 credits)
+This class teaches the fundamentals of designing a satellite mission, using projects.  Topics that will be discussed include: (1) different subsystems; (2) formulating instrument requirements; (3) power, mass, data, and financial budgets; (5) solar power and depth of discharge; (6) thermal design; (7) orbits and launch vehicles; and (8) attitude control.
+CourseProfile (ATLAS)
+CLIMATE 320
+(EARTH 320)
+(SPACE 320). Earth Systems Evolution
+Advisory
+Prerequisite: MATH 115, MATH 116. Minimum grade requirement of “C” for advisory prerequisite. Enforced Prerequisite: None. (3 credits)
+Introduction to the physics and chemistry of Earth and space. Gravitational energy, radiative energy, Earth’s energy budget and Earth tectonics are discussed along with chemical evolution and biogeochemical cycles. The connections among the carbon cycle, silicate weathering and the natural greenhouse effect are discussed.
+CourseProfile (ATLAS)
+CLIMATE 321
+(EARTH 321)
+(SPACE 321). Earth and Space System Dynamics
+Advisory
+Prerequisite: CLIMATE/SPACE 320. Preceded or accompanied by MATH 215 and MATH 216. Enforced Prerequisite: None. (3 credits)
+This course will describe the major wind systems and ocean currents that are important to climate studies. The primary equations will be developed and simple solutions derived that will explain many of these motions. The relations among the dynamics and other parameters in the climate system will be illustrated by examples from both paleo and present day systems.
+CourseProfile (ATLAS)
+CLIMATE 323
+(EARTH 323)
+(SPACE 323). Earth System Analysis
+Advisory and Enforced Prerequisite: None. (4 credits)
+Introduction to the analysis of Earth and Atmospheric Science Systems. Topics include linear systems, harmonic analysis, sampling theory and statistical error analysis. Lectures emphasize underlying mathematical concepts. Labs emphasize application of mathematical methods to analysis of field data in a computer programming environment. Applications include turbulent air motion in the planetary boundary layer, cloud and precipitation microphysical composition, oceanic wave propagation, stratospheric ozone depletion and satellite remote sensing.
+CourseProfile (ATLAS)
+CLIMATE 324 (SPACE 324). Instrumentation for Atmospheric and Space Science
+Advisory and Enforced Prerequisite: None. (4 credits)
+Introduction to fundamentals of atmospheric, space-based, and meteorological instrumentation. Includes basics of electronic sensors, optics, lasers, radar, data acquisition/management, error analysis, and data presentation. Consists of two lectures and one lab each week, and a team-based term project.
+CourseProfile (ATLAS)
+CLIMATE 350
+(EARTH 350)
+(SPACE 350). Atmospheric Thermodynamics
+Advisory Prerequisite: None. Enforced Prerequisite: MATH 216 or MATH 256 or MATH 286 or MATH 316; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Fundamentals of thermodynamics are presented, including the First, Second and Third Laws, ideal gases, adiabatic processes, phase changes, vapor pressure, humidity and atmospheric stability. The Kinetic Theory of Gases provides a molecular perspective on the various forms of atmospheric water substance and on macroscopic phenomenology in general.
+CourseProfile (ATLAS)
+SPACE 370 (EARTH 370). Solar-Terrestrial Relations
+Advisory Prerequisite: MATH 216 and PHYSICS 240. Enforced Prerequisite: None. (4 credits)
+Introduction to solar terrestrial relations with an overview of solar radiation and its variability on all time-scales. The effects of this variability on the near-Earth space environment and upper atmosphere are considered, as well as effects on the lower and middle atmosphere with connections to weather and climate. Subjects are approached through extensive data analysis, including weekly computer lab sessions.
+CourseProfile (ATLAS)
+SPACE 371. Introduction to Optical Remote Sensing
+Advisory
+Prerequisite: SPACE 310 and SPACE 370. Enforced Prerequisite: CLIMATE 320/EARTH 320/SPACE 320 and CLIMATE 324/SPACE 324. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Introduces the principles of optical remote sensing of the Earth and planetary bodies in visible, ultraviolet
+(UV) and infrared (IR) bands. Physical principles for visible cameras, UV and IR spectrometers; foundational principles of light, radiative transfer, scattering and geometric optics. Fundamental aspects of viewing the surface from space, such as ground track, field of view and scanning modes. Common computation tools used for remote sensing will be introduced. ‘Hands-on’ project will be emphasized in addition to theoretical concepts.
+CourseProfile (ATLAS)
+CLIMATE 380
+(EARTH 381)
+(SPACE 380). Introduction to Atmospheric Radiation
+Advisory Prerequisite: None. Enforced Prerequisite: MATH 216 or MATH 256 or MATH 286 or MATH 316; No OP/F. Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Basic concepts and processes of radiative transfer including radiometric quantities, electromagnetic spectrum, absorption, emission and scattering. The physics laws governing these processes including the Planck Law and the Kirchhoff Law. Radiative properties of atmospheric constituents. Reflection and refraction. Introductory-level descriptions of relevant applications in atmospheric sciences and climate physics.
+CourseProfile (ATLAS)
+400 Level Courses
+CLIMATE 401 (EARTH 401). Geophysical Fluid Dynamics
+Advisory
+Prerequisite: CLIMATE 323, SPACE 323 or EARTH 323 or GEOSCI 323; MATH 215 and MATH 216 and PHYSICS 240. Enforced Prerequisite: None. (3 credits)
+Dynamics of the oceans and atmosphere. Equations of motion in spherical coordinates, beta-plane approximation, wave properties in the oceans and atmosphere.
+CourseProfile (ATLAS)
+CLIMATE 405 (SPACE 405). Special Topics
+Advisory and Enforced Prerequisite: None. (1-4 credits)
+Advances in specific field of Climate and Space Sciences as revealed by recent research.
+CourseProfile (ATLAS)
+CLIMATE 407 (SPACE 407). Mathematical Methods in Geophysics
+Advisory
+Prerequisite: MATH 216. Enforced Prerequisite: None. (4 credits)
+Vector calculus and Cartesian tensors; Sturm-Liouville systems, Green’s Functions and solution of boundary value problems; Fourier series, Fourier and Laplace transforms, discrete Fourier transform, fast Fourier transforms, and energy spectra and singular perturbation theory.
+CourseProfile (ATLAS)
+CLIMATE 410 (EARTH 409). Earth System Modeling
+Advisory
+Prerequisite: CLIMATE 320, CLIMATE 321, SPACE 320, SPACE 321. Enforced Prerequisite: None. (4 credits)
+Introduction to Earth System Modeling; discussion of energy balance models, carbon cycle models and atmospheric chemistry models with multiple time scales; methods for numerical solution and practice building and analyzing results from models.
+CourseProfile (ATLAS)
+CLIMATE 411 (EARTH 411). Cloud and Precipitation Processes
+Advisory
+Prerequisite: CLIMATE 350, SPACE 350, MATH 216. Enforced Prerequisite: None. (3 credits)
+The special nature of water substance; nucleation of phase changes in the free atmosphere; the structure and content of clouds; the development of physical characteristics of precipitation; and the dynamics of rain systems.
+CourseProfile (ATLAS)
+CLIMATE 414 (EARTH 414). Weather Systems
+Advisory
+Prerequisite: CLIMATE 350, SPACE 350, CLIMATE 401 or CLIMATE 551. Enforced Prerequisite: None. (3 credits)
+Introduction to the basic characteristics, thermodynamics and dynamics of atmospheric weather systems on Earth and other planets. The students are exposed to observations of weather systems while reviewing non-dimensional analysis, dynamics and thermodynamics. Weather systems on earth are compared to that of other planets and analytical tools are used to gain insights into their basic physics.
+CourseProfile (ATLAS)
+CLIMATE 420 (SPACE 420). Machine Learning for Earth and Environmental Sciences
+Advisory Prerequisite: MATH 115 or EARTH 132 (C- or better) (No OP/F); or graduate standing. Enforced
+Prerequisite: None.
+(3 credits)
+Machine learning methods for environmental applications, including a brief review of key statistical concepts, core ML concepts, and hands-on experience building models for prediction and hypothesis formulation. Topics include clustering, random forests, feedforward, recurrent, and convolutional neural networks, autoencoders, and physics-informed ML. Applications center on climate, hydrology and ecology, including forecasting temperature and streamflow; analyzing drivers of snowmelt trends; clustering regional precipitation patterns; and examining climatic teleconnections that shape environmental variability.
+CourseProfile (ATLAS)
+CLIMATE 421. (EARTH 421) (ENVIRON 426). Introduction of Physical Oceanography
+Advisory Prerequisite: MATH 115 and MATH 116 and an
+introductory science course
+.
+Enforced Prerequisite: None. (3 credits)
+This course examines the fundamentals of physical oceanography; the physical properties of the ocean and water masses; circulation of the atmosphere; wind-driven and buoyancy-driven ocean circulation; tides; surface and internal waves; eddies; and mixing.
+CourseProfile (ATLAS)
+CLIMATE 422 (EARTH 423). Boundary Layer Meteorology
+Advisory
+Prerequisite: CLIMATE 350, SPACE 350 or equivalent. Enforced Prerequisite: None. (4 credits)
+This course explores processes in the atmospheric boundary layer, which plays an important role in the exchange of energy, mass and momentum between land and atmosphere. Topics include applications of governing atmospheric equations, atmospheric turbulence, turbulent kinetic energy, the surface energy balance and the collection and analysis of field flux tower data.
+CourseProfile (ATLAS)
+CLIMATE 423 (SPACE 423). Data Analysis and Visualization for Geoscientists
+Advisory Prerequisite: ENGR 101 and CLIMATE 323, SPACE 323
+.
+Enforced
+Prerequisite: None.
+(4 credits)
+Fundamental data science, data and error analysis, data-model comparison tests and metrics, and visualization techniques. By course end, students will be able to produce publication ready scientific data visualization, process data sets using Python, perform large data set analysis, conduct data-model comparisons, and scientifically test hypotheses and interpret results.
+CourseProfile (ATLAS)
+CLIMATE 431 (SPACE 431) (EECS 430). Wireless Link Design
+Advisory Prerequisite: None. Enforced Prerequisite: EECS 330; No OP/F; or graduate standing. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+Fundamentals of electromagnetic propagation and radiation; radiowave propagation in different environments (near Earth, troposphere, ionosphere, indoor and urban); antenna parameters; practical antennas; link analysis; system noise; fading and multipath interference. Course includes lectures, labs and a project in which student teams develop and implement practical wireless systems. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations
+CourseProfile (ATLAS)
+CLIMATE 440 (EARTH 454). Meteorological Analysis Laboratory
+Advisory
+Prerequisite: CLIMATE 350, SPACE 350, CLIMATE 401. Enforced Prerequisite: None. (4 credits)
+This course provides an introduction into the analysis of both surface-based and remotely-sensed meteorological data. The development and application of operational numerical forecast models will be discussed. Techniques for the prediction of both synoptic and mesoscale meteorological phenomena will also be presented.
+CourseProfile (ATLAS)
+CLIMATE 451
+(EARTH 457)
+. Atmospheric Dynamics I
+Advisory
+Prerequisite: CLIMATE 401 or MATH 450. Enforced Prerequisite: None. (4 credits)
+Quasi-geostrophic energetics; fronts; the mean circulation; planetary and equatorial waves: overview of the dynamics of the middle atmosphere; wave-mean flow interaction; spectral methods; and tropical meteorology.
+CourseProfile (ATLAS)
+CLIMATE 455 (SPACE 455). Senior Capstone Design
+Advisory
+Prerequisite: Senior Standing. Not open to graduate students. Enforced Prerequisite: None. (1-4 credits)
+A CLIMATE or SPACE SCIENCE and engineering design project by which the student is exposed to the design process from concept through analysis to layout and report. Projects are proposed from the different areas of study within Climate and Space Sciences and Engineering and reflect the expertise of instructional faculty and industrial or laboratory representatives.
+CourseProfile (ATLAS)
+CLIMATE 463. Air Pollution Meteorology
+Advisory Prerequisite: MATH 215. Enforced Prerequisite: None. (3 credits)
+Weather and motion systems of the atmosphere; topographic influences on winds, atmospheric stability and inversions; atmospheric diffusion; natural cleansing processes; meteorological factors in plant location, design and operation.
+CourseProfile (ATLAS)
+CLIMATE 466. Carbon-Climate Interaction
+Advisory
+Prerequisite: For undergraduates: CLIMATE 320, SCIENCE 320 and CLIMATE 321, SCIENCE 321. Enforced Prerequisite: None. (3 credits)
+The class will focus on the exchange of carbon among reservoirs in the Earth system — atmosphere, ocean, lithosphere and biosphere — and the role of carbon dioxide, CO
 2
-Meterology Concentration
-3
-**See the next tab for the Climate Sciences Concentration**
-4
-To edit this Sample Schedule, make a copy of this sheet to your own Google Drive.  Click File > Make a Copy.
-5
-Please note: This sample schedule is based off of the CoE Bulletin and can be found on the EAC Website.  Changes may occur, and students need to work with their Major Advisors to create a plan for completing requirement.  This document has multiple tabs.  Use Alt ^ to switch tabs.  See the third tab for CoE General Requirements.
-6
-7
-Sample Schedules for all majors can be found on the
-8
-EAC Website
-9
-Pre-UM Credit (if applicable)
-Course
-Credits
-Course
-Credits
-Course
-Credits
-Pre-UM Credit (if applicable)
-10
-11
-12
-13
-14
-Total
-0
-Total
-0
-Total
-0
-15
-16
-Cumulative Totals:
-0
-0
-0
-17
-18
-First Year
-Fall
-Credits
-Winter
-Credits
-Spring/Summer (Optional)
-Credits
-First Year
-19
-Math 115
-4
-Math 116
-4
-20
-Chem 130/125/126 or 210/211
-5
-Physics 140/141
-5
-21
-Engr 100
-4
-Engr 101
-4
-22
-Intellectual Breadth
-4
-Intellectual Breadth
-4
-23
-24
-25
-Term Totals:
-17
-17
-0
-26
-27
-Cumulative Totals:
-17
-34
-34
-28
-29
-Second Year
-Fall
-Credits
-Winter
-Credits
-Spring/Summer (Optional)
-Credits
-Second Year
-30
-Math 215
-4
-Math 216
-4
-31
-Physics 240/241
-5
-Intellectual Breadth
-4
-32
-Intellectual Breadth
-4
-Climate 321
-3
-33
-Climate 320
-3
-Climate 323
-4
-34
-35
-36
-Term Totals:
-16
-15
-0
-37
-38
-Cumulative Totals:
-50
-65
-65
-39
-40
-Third Year
-Fall
-Credits
-Winter
-Credits
-Spring/Summer (Optional)
-Credits
-Third Year
-41
-Climate 380
-3
-Climate 350
-3
-42
-Climate 401
-3
-Climate 414
-3
-43
-Climate 463
-3
-Climate 324
-4
-44
-Technical Electives
-4
-Climate 423
-4
-45
-General Electives
-3
-General Electives
-3
-46
-47
-Term Totals:
-16
-17
-0
-48
-49
-Cumulative Totals:
-81
-98
-98
-50
-51
-Fourth Year
-Fall
-Credits
-Winter
-Credits
-Spring/Summer (Optional)
-Credits
-Fourth Year
-52
-Climate 410
-4
-Climate 455
-4
-53
-Climate 440
-4
-Climate 411
-3
-54
-Technical Electives
-4
-Climate 485
-3
-55
-General Electives
-3
-Technical Electives
-5
-56
-57
-58
-Term Totals:
-15
-15
-0
-59
-60
-Cumulative Totals:
-113
-128
-128
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-Quotes are not sourced from all markets and may be delayed up to 20 minutes. Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice.
-Disclaimer
-CLASP: Meterology Editable Sample Schedule
-CLASP: Climate Sciences Editable Sample Schedule
-CoE Requirements
-GPA Calculator
-Honor Point Deficit Calculator
-A browser error has occurred.
-Please hold the Shift key and click the Refresh button to try again.
+, as a greenhouse gas.
+CourseProfile (ATLAS)
+CLIMATE 467 (CHEM 467) (EARTH 465) (ENSCEN 467) (ENVIRON 467). Biogeochemical Cycles
+Advisory
+Prerequisite: MATH 116, CHEM 210, and PHYSICS 240, PHYSICS 260. Enforced Prerequisite: None. (3 credits)
+The biogeochemical cycles of water, carbon, nitrogen and sulfur; the atmosphere and oceans as reservoirs and reaction media; the fate of natural and man-made sources of carbon, nitrogen, and sulfur compounds; the interactions among the major biogeochemical cycles and resultant global change; greenhouse gases, acid rain and ozone depletion.
+CourseProfile (ATLAS)
+SPACE 471. Space Instrumentation
+Advisory
+Prerequisite: SPACE 310 or SPACE 370 or graduate standing. Enforced Prerequisite: None. (3 credits)
+Fundamental principles and techniques of space physics observations and discussion of hardware and analysis techniques including in situ and remote sensing. The physical measurement principles, details of the designs of different instrumentation, and how instrument measurement output is converted to different parameters. The assumptions, limitations, and errors of different techniques to measure magnetized plasma, particle and field environments of the Earth, solar system objects and the Sun.
+CourseProfile (ATLAS)
+CLIMATE 473. Climate Physics
+Advisory
+Prerequisite: Senior or graduate standing in science or engineering. Enforced Prerequisite: None. (3 credits)
+Introduction to physical mechanisms that determine climate, including relevant atmospheric, hydrologic, cryospheric, solar/orbital, volcanic and human processes. Discusses qualitative and descriptive techniques to understand how radiative, thermodynamic and dynamic processes distribute energy throughout the Earth System, drive climate feedbacks and determine the sensitivity of Earth’s climate to external perturbations.
+CourseProfile (ATLAS)
+CLIMATE 474 (EARTH 474). Ice Sheets, Glaciers and Climate Change
+Advisory
+Prerequisite: MATH 115 and MATH 116. Enforced Prerequisite: None. (3 credits)
+The dynamics and mass balance of ice sheets and glaciers introduced along with mathematical theories describing how ice sheets and glaciers flow and current methods of observation. The course integrates lectures, assignments and discussion of journal articles.
+CourseProfile (ATLAS)
+CLIMATE 475
+(EARTH 475)
+. Earth System Interactions
+Advisory Prerequisite: Senior standing in science or engineering. Enforced Prerequisite: None. (4 credits)
+Students will work on open-ended research problems with mathematical models from Earth System Science. The models may include, for example, surface characteristics, hydrology, solar-land-ocean-atmosphere exchanges and space-based observations. Numerical experiments will promote further understanding and interpretation of earth system interactions, team building and scientific communication.
+CourseProfile (ATLAS)
+SPACE 477. Space Weather Modeling
+Advisory Prerequisite: None. Enforced Prerequisite: SPACE 370. Minimum grade requirement of “C” for enforced prerequisite. (4 credits)
+An introduction to a variety of models of the space environment, including models of the sun, magnetosphere, ring current, ionosphere, thermosphere and ionospheric electrodynamics. Students will learn the origins of different models, what each represents, to run the models and become familiar with the output.
+CourseProfile (ATLAS)
+SPACE 478. Engineering for Space Environment
+Advisory
+Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (4 credits)
+This course will cover the basics of the Sun and the solar wind and their influence on the space environment. In addition, atmospheric effects on spacecraft are considered. We discuss not only the physics of the drivers of space weather, but also the implications for satellite systems and their design and operation.
+CourseProfile (ATLAS)
+CLIMATE 479. Atmospheric Chemistry
+Advisory Prerequisite: CHEM 130, MATH 216. Enforced Prerequisite: None. (4 credits)
+Thermochemistry, photochemistry and chemical kinetics of the atmosphere; geochemical cycles, generation of atmospheric layers and effects of pollutants are discussed.
+CourseProfile (ATLAS)
+CLIMATE 480 (EAS 480). Climate Change: A Multidisciplinary Approach to Problem Solving
+Advisory
+Prerequisite: Senior or graduate standing, MATH 116. Enforced Prerequisite: None. (3 credits)
+All sectors of society are affected by climate change: science, policy, business, economics, public health, energy, ecosystems, environmental engineering, journalism, religion, etc. This course explores the intersections of these communities and exposes students the factual and contextual elements that will allow effective participation in the adaption to climate change.
+CourseProfile (ATLAS)
+CLIMATE 485 (SPACE 485). Principles and Applications of Remote Sensing
+Advisory
+Prerequisite: CLIMATE 323 and CLIMATE 380. Enforced
+Prerequisite: PHYSICS 240.
+Minimum grade requirement of “C” for enforced prerequisite. (3 credits)
+Introduction to the use of electromagnetic remote sensing to study planetary atmospheres and surfaces from space. Topics include: 1) interactions between geophysical properties and propagating electromagnetic waves; 2) design of orbiting sensors to measure them; 3) interpreting the measurements to estimate the geophysical properties.
+CourseProfile (ATLAS)
+SPACE 495. Upper Atmosphere and Ionosphere
+Advisory and Enforced Prerequisite: None. (4 credits)
+Basic physical and chemical processes important in controlling the upper/middle atmosphere and ionosphere: photochemistry, convection, diffusion, wave activity, ionization, heating and cooling. The terrestrial, as well as planetary atmospheres and ionospheres are to be considered.
+CourseProfile (ATLAS)
+CLIMATE 498 (SPACE 498). Practicum in Climate and Space Science
+Advisory and Enforced Prerequisite: None. (1-2 credits)
+Course may be repeated to a maximum of 8 credit hours. Students taking this course will participate in research and/or engineering tasks. Supervision will be undertaken by faculty and engineers of the Climate & Science department. Reporting requirements include a final written summary. Diverse tasks include aircraft spacecraft and rocket payload design field campaign support calibration simulation test. Students will join an active research program of Climate & Science for a given semester.
+CourseProfile (ATLAS)
+CLIMATE 499 (SPACE 499). Directed Study
+Advisory and Enforced Prerequisite: None. Credit Exclusions:
+Only 4 credits can be applied as a Technical Elective.
+(1-16 credits)
+Offers research or directed study experience for students in an area of interest to the student and faculty member. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+500 Level Courses
+CLIMATE 501 (SPACE 501). Seminars in Climate, Atmospheres and Space Sciences
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing. (1 credit)
+Current research efforts will be presented by graduate students and faculty dealing with all phases of the climate, atmospheric and space sciences.
+CourseProfile (ATLAS)
+CLIMATE 524. General Circulation
+Advisory Prerequisite: Previous or concurrent with CLIMATE 401. Enforced Prerequisite: None. (3 credits)
+Processes that maintain the general circulation of the Earth’s atmosphere; the observed general circulation; energetics; balance requirements; comparison of observations with simple theories and results from general circulation model simulations.
+CourseProfile (ATLAS)
+CLIMATE 530. Using Climate-Change Knowledge in Planning and Design
+Advisory Prerequisite: Basic knowledge of climate change and its impact. Enforced Prerequisite: None. (2 credits)
+This seminar focuses on special topics on the use of climate-change data and knowledge in planning, design, engineering and management. Topics include, for example, uncertainty in the context of decision making, nonstationarity in design and engineering, and vulnerability and risk assessment.
+CourseProfile (ATLAS)
+CLIMATE 532 (SPACE 532). Radiative Transfer
+Advisory
+Prerequisite: PHYSICS 405. Enforced Prerequisite: None. (4 credits)
+Physical processes, mathematical representation and numerical modeling of radiative transfer through atmospheres. Rayleigh and Mie scattering.  Gaseous absorption and emission lines and line broadening.  Numerical considerations and approximations.  Applications include radiative energy balance and global climate, satellite remote sensing of atmospheres, and propagation through ionized media.
+CourseProfile (ATLAS)
+SPACE 545 (
+NERS 672
+)
+. High Energy Density Physics
+Advisory Prerequisite: MATH 450, PHYSICS 405 and PHYSICS 40
+6.
+Enforced
+Prerequisite: None.
+(3 credits)
+Fundamental tools and discoveries of high-energy density physics, where pressures are above a million atmospheres. Fundamental physical models, equations of state, hydrodynamics including shocks and instabilities, radiation transport, radiation hydrodynamics, experimental technique, inertial fusion, experimental astrophysics and relativistic systems.
+CourseProfile (ATLAS)
+CLIMATE 551 (SPACE 551). Fluid Dynamics for Climate and Space Sciences
+Advisory
+Prerequisite: MATH 215, MATH 216, and MATH 450. Enforced
+Prerequisite: None.
+(4 credits)
+Covers the fundamentals of fluid dynamics.  The purpose of the course is to provide fundamental grounding in fluid dynamics and in fundamental mathematical technique at the level required to do serious quantitative graduate research that involves fluid dynamics effects.  The emphasis of the examples is on geophysical and space applications.
+CourseProfile (ATLAS)
+CLIMATE 565 (SPACE 565). Planetary Science
+Advisory
+Prerequisite: Graduate standing. Enforced Prerequisite: None. (4 credits)
+Solar system formation; giant planets and origin of their atmospheres; biogeochemical evolution of terrestrial planet atmospheres; radiative transfer, internal energy and thermal structure; thermochemical cloud formation; radiative and charged particle energetic processes for neutrals and ions; origin of satellite atmospheres; extrasolar planets; life in the universe; planetary exploration.
+CourseProfile (ATLAS)
+CLIMATE 567 (CHEM 567). Chemical Dynamics
+Advisory Prerequisite: CHEM 461 or CLIMATE 479 or permission of instructor. Enforced Prerequisite: None. (3 credits)
+A general course in chemical kinetics, useful for any branch of chemistry where reaction rates and mechanisms are important. Scope of subject matter: practical analysis of chemical reaction rates and mechanisms, theoretical concepts relating to gas and solution phase reactions.
+CourseProfile (ATLAS)
+SPACE 571. Space Plasma Measurement Techniques
+Advisory Prerequisite: SPACE 310 or SPACE 370. Enforced Prerequisite: None. (4 credits)
+Identify, define, and practice the way to get from a science question to a set of measurements
+necessary to answer the question. Phases are: 1) highlight the relevant scientific themes, 2) practice with
+the simulation tools available, and 3) carry out 4 hardware experiments in the lab.
+CourseProfile (ATLAS)
+SPACE 574 (AEROSP 574). Introduction to Space Physics
+Advisory Prerequisite: None.
+Enforced Prerequisite:
+Senior and Above. (4 credits)
+A graduate level introduction to physical and aeronomical processes in the space environment. Discussion of theoretical tools, the Sun, solar wind, heliosphere, magnetosphere, ionosphere and the upper atmosphere. Spacecraft interaction with radiation, spacecraft-plasma interactions.
+CourseProfile (ATLAS)
+SPACE 581 (AEROSP 581). Space Policy and Management
+Advisory Prerequisite: Graduate Standing. Enforced Prerequisite: None. (3 credits)
+The first part of the course will provide detailed information on how space policy is developed in the United States and the international space community and how these policies result in specific missions. The second part will provide detailed information on modern management techniques and processes. Project managers from NASA centers and industry will lecture on the detailed management techniques and processes.
+CourseProfile (ATLAS)
+SPACE 582 (AEROSP 582). Spacecraft Technology
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (4 credits)
+Systematic and comprehensive review of spacecraft and space mission design and key technologies for space missions. Discussions on project management and the economic and political factors that affect space missions. Specific space mission designs are developed in teams. Students of AEROSP 483/583 choose their projects based on these designs. Projects are overseen/graded by faculty and may involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+SPACE 583 (AEROSP 583). Management of Space Systems Design
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (4 credits)
+Students lead teams in high level project design of a space system. Modern methods of concurrent engineering manufacturing, marketing and finance, etc., are incorporated. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+SPACE 584. Space Mission Design and Implementation on a High-Altitude Balloon
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (4 credits)
+This class teaches students how to design, build, test and deploy a completely autonomous, sophisticated system that is designed to accomplish a specific task. The primary system is a small-satellite, deployed on a high-altitude balloon. This system involves communication, position tracking, microcontrollers, instruments and a power system.
+CourseProfile (ATLAS)
+CLIMATE 585 (SPACE 585). Inverse Methods for Remote Sensing
+Advisory
+Prerequisite: Graduate standing. Enforced Prerequisite: None. (3 credits)
+Introduction to active (radar and lidar) and passive (thermal emission) visible, infrared and microwave remote sensing. Fundamentals of electromagnetic emission, absorption and scattering. Sensor performance characteristics. Mathematical methods for inversion of integral transforms and ill-conditioned systems of equations commonly encountered in remote sensing applications.
+CourseProfile (ATLAS)
+CLIMATE 586 (SPACE 586). Advanced Data Analysis Techniques
+Advisory
+Prerequisite: Graduate standing. Enforced Prerequisite: None. (3 credits)
+Objective methods are introduced for analyzing climate data with inherent spatial and/or temporal correlation scales. These include time series analysis, pattern recognition techniques, regression, and linear modeling. The emphases are both the usage of such methods and critical evaluation of literature that employ them.
+CourseProfile (ATLAS)
+CLIMATE 587 (ECE 532) (SPACE 587). Microwave Remote Sensing
+Advisory Prerequisite: EECS 330 and graduate standing. Enforced Prerequisite: None. (3 credits)
+Theory, systems and applications of active and passive microwave remote sensing; radiative transfer; blackbody radiation; microwave radiometry; atmospheric propagation and emission radiometer receivers; surface and volume scattering and emission; radar systems; resolution techniques; calibration; synthetic aperture radar; scatterometers; applications to meteorology, oceanography and hydrology.
+CourseProfile (ATLAS)
+CLIMATE 588. Regional Scale Climate
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (4 credits)
+Regional scale climate processes are introduced along with the tools needed for their analysis, including downscaling techniques. The course integrates lectures, assigned journal papers and hands-on data analysis. In a course project, students will apply the analytical tools to a subject chosen by the student.
+CourseProfile (ATLAS)
+CLIMATE 589. The Art of Climate Modeling
+Advisory and Enforced Prerequisite: None (4 credits)
+The course introduces the newest climate modeling techniques by surveying the design decisions in atmospheric General Circulation Models (GCMs), the trends in GCM and dynamical core modeling and how GCMs are coupled. It is built upon hands-on GCM modeling and data projects, journal paper discussions, lectures, shared cyber-infrastructure and computational tools.
+CourseProfile (ATLAS)
+SPACE 590. Space Systems Projects
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (1-4 credits)
+Space science and application mission related team project. Student teams will participate in ongoing projects in the Space Physics Research Laboratory in conjunction with industry and government sponsors. Projects are overseen and graded by faculty and may also involve mentoring by representatives from industrial, governmental and/or non-profit organizations.
+CourseProfile (ATLAS)
+CLIMATE 591. Climate Practicum I
+Advisory
+Prerequisite: Senior or graduate standing. This course is followed by CLIMATE 592. Enforced Prerequisite: None. (4 credits)
+Introduction to individual and team research on real-world problems in the area of applied climate. A mentor from a commercial or governmental laboratory will pose the problem and help to guide the research. Students will learn how to apply knowledge they have already acquired.
+CourseProfile (ATLAS)
+CLIMATE 592. Climate Practicum II
+Advisory Prerequisite: Senior or graduate standing and CLIMATE 591. Enforced Prerequisite: None. (4 credits)
+Introduction to individual and team research on real-world problems in the area of applied climate. On a research project started in CLIMATE 591 and guided by a mentor from a commercial or government laboratory, students will apply the principles of risk analysis and objective assessment of adaptive strategies.
+CourseProfile (ATLAS)
+SPACE 595 (ECE 518). Magnetosphere and Solar Wind
+Advisory Prerequisite: Graduate standing. Enforced Prerequisite: None. (3 credits)
+General principles of magnetohydrodynamics; theory of the expanding atmosphere; properties of solar wind, interaction of solar wind with the magnetosphere of the Earth and other planets; bow shock and magnetotail, trapped particles, auroras.
+CourseProfile (ATLAS)
+SPACE 596. Gaskinetic Theory
+Advisory
+Prerequisite: Graduate standing. Enforced Prerequisite: None. (3 credits)
+Maxwell-Boltzmann distribution, kinetic determination of equation of state, specific heats of gases. Dynamics of two-particle collisions. Elementary transport theory, molecular effusion, hydrodynamic transport coefficients, mean free path method. Advanced transport theory, the Boltzmann equation, collision terms, Champman-Enskog transport theory. Aerodynamics of free-molecular flow. Shock waves.
+CourseProfile (ATLAS)
+SPACE 597 (AEROSP 597). Fundamentals of Space Plasma Physics
+Advisory Prerequisite: Senior level statistical PHYSICS course. Enforced Prerequisite: None. (3 credits)
+Basic plasma concepts, Boltzmann equation, higher order moments equations, MHD equations, double adiabatic theory. Plasma expansion to vacuum, transonic flows, solar wind, polar wind. Collisionless shocks, propagating and planetary shocks. Fokker-Planck equation, quasilinear theory, velocity diffusion, cosmic ray transport, shock acceleration. Spacecraft charging, mass loading.
+CourseProfile (ATLAS)
+SPACE 598. The Sun and the Heliosphere
+Advisory Prerequisite: SPACE 574 and PHYSICS 505 or equivalent. Enforced Prerequisite: None. (3 credits)
+A complete description of the physical processes that govern the behavior of the Sun and the heliosphere with emphasis on recent theoretical and observational results.
+CourseProfile (ATLAS)
+600 Level Courses
+CLIMATE 605 (SPACE 605). Current Topics in Climate and Space Sciences and Engineering
+Advisory and Enforced Prerequisite: None. (1-4 credits)
+Advances in specific fields of climate and space sciences, as revealed by recent research.
+CourseProfile (ATLAS)
+CLIMATE 690 (SPACE 690). Thesis/Master of Science
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing. (2-6 credits)
+Provides credit for research and writing of a Masters Thesis under direction of a faculty member.
+CourseProfile (ATLAS)
+700 Level Courses
+CLIMATE 701. Special Problems in Climate and Space Sciences
+Advisory Prerequisite: Permission of Instructor. Enforced Prerequisite: None. (1-16 credits)
+Supervised analysis of selected problems in various areas of climate and space sciences.
+CourseProfile (ATLAS)
+CLIMATE 746 (SPACE 746). CLaSP Graduate Professional Development
+Advisory and Enforced Prerequisite: None. (1 credit)
+Introduction to professional skills which support graduate student success within the CLaSP Department. Topics include advisor relationships, student rights, personal finances, scientific communication, project definition and planning, attending conferences, reading journal articles, mentoring others, and code and data management.
+CourseProfile (ATLAS)
+CLIMATE 747 (SPACE 747). Proposal Development
+Advisory and Enforced Prerequisite: None. (1 credit)
+Students will learn to write and submit a successful proposal to a US funding agency, and to deliver a
+successful conference talk on their proposed research. The proposal topic will be chosen by the student. Proposals will be prepared for academically relevant programs.
+CourseProfile (ATLAS)
+CLIMATE 748 (SPACE 748). Student Presentation
+Advisory and Enforced Prerequisite: None. (1 credit)
+Students will develop the skills to deliver a successful talk and present their research. Each
+student will deliver two talks (one about the student research, the other is a critique of a scientific article)
+and one AGU-like poster presentation, with extended question/answer sessions.
+CourseProfile (ATLAS)
+CLIMATE 749 (SPACE 749). CLaSP Seminar
+Advisory and Enforced Prerequisite: None. (1 credit)
+Presentations from UM researchers and outside speakers about current research results, covering a broad range of topics in climate, atmosphere and space science. In this class students take turns serving as seminar chair. Questions from students will be handled before those from faculty. Conditions for credit are participation in this seminar and the completion of a short paper in which each student follows up on one talk given as part of this seminar series.
+CourseProfile (ATLAS)
+900 Level Courses
+CLIMATE 990. Dissertation/Pre-Candidate
+Advisory Prerequisite: Advanced doctoral student. Enforced
+Prerequisite: None
+.
+(1-8 credits)
+Dissertation work by doctoral student not yet admitted to status as candidate. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)
+SPACE 990. Dissertation/Pre-Candidate
+Advisory Prerequisite: None. Enforced
+Prerequisite: Graduate standing
+.
+(1-4 credits)
+Dissertation work by doctoral student not yet admitted to status as candidate. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)
+CLIMATE 995. Dissertation/Candidate
+Advisory Prerequisite: None. Enforced
+Prerequisite: Candidate
+.
+(4-8 credits)
+Election for dissertation work by a doctoral student who has been admitted to candidate status. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)
+SPACE 995. Dissertation/Candidate
+Advisory Prerequisite: None. Enforced
+Prerequisite: Candidate
+.
+(4-8 credits)
+Election for dissertation work by doctoral student who has been admitted to candidates status. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)

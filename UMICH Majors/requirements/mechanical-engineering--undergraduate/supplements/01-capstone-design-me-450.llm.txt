@@ -1,0 +1,28 @@
+Page header:
+page title: Capstone Design (ME 450) - Mechanical Engineering
+og:description: Undergraduate mechanical engineering students at the University of Michigan are required to work on a capstone design project near the end of their degree program. Many students choose to fulfill […]
+
+Visible page text:
+Academics
+Undergraduate
+Undergrad Handbook
+Undergrad Student Awards
+RISE (Research Projects)
+ME Undergrad Symposium
+Capstone Design (ME 450)
+SURE (Summer Research)
+Graduate
+Integrative Systems + Design
+ME Courses
+Accreditation
+Academic Advising
+ME Tutoring
+Contact Academic Services
+Undergraduate mechanical engineering students at the University of Michigan are required to work on a capstone design project near the end of their degree program. Many students choose to fulfill this requirement by taking ME 450, a course that offers the student exposure to the design process from concept generation through analysis to prototype validation.
+​
+Working in teams of typically four students, this semester-long project allows them the opportunity to apply (almost) everything they have learned from the first several years of school on an open-ended design problem.  Twice a week, students attend lectures on topics relevant to their projects (such as risk assessment, ethics, environmental impact, materials, and manufacturing process selection).  Following lectures, twice-weekly team meetings are used to provide a constant stream of feedback throughout the term as each team iterates their designs and associated deliverables.  In addition, multiple design reviews are held throughout the semester to assess the quality of their work at each key step in the design process.  At the end of the semester, the students showcase their solutions at the
+Michigan Engineering Design Expo
+.
+Projects are proposed from the different areas of study within mechanical engineering and reflect the expertise of instructing faculty. Each semester, several of our projects come from industry partners, as students really enjoy working on these ”real-world” projects and our sponsors like having access to bright, talented, enthusiastic students. Faculty-sponsored, Global Health, and Student-initiated projects are also offered each semester.
+Learn more:
+http://me450.engin.umich.edu/

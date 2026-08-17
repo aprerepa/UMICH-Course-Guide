@@ -1,0 +1,35 @@
+[
+  {
+    "id": "01-course-information",
+    "url": "http://lsa.umich.edu/biology/undergraduates.html",
+    "link_text": "Course Information",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (4002 chars)",
+    "final_url": "https://lsa.umich.edu/biology/undergraduates.html",
+    "fetch_mode": "http",
+    "chars": 4002
+  },
+  {
+    "id": "02-courses",
+    "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (4215 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "fetch_mode": "http",
+    "chars": 4215
+  },
+  {
+    "id": "03-browse-copies-of-past-lsa-bulletins",
+    "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "link_text": "Browse copies of past LSA bulletins",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (3806 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "fetch_mode": "http",
+    "chars": 3806
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "id": "biochemistry",
+  "displayName": "Biochemistry",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              {
+                "allOf": [
+                  "BIOLOGY 171",
+                  {
+                    "anyOf": [
+                      "BIOLOGY 172",
+                      "BIOLOGY 174"
+                    ]
+                  }
+                ]
+              },
+              "BIOLOGY 192",
+              "BIOLOGY 195"
+            ]
+          },
+          {
+            "allOf": [
+              {
+                "anyOf": [
+                  "CHEM 210",
+                  "CHEM 211"
+                ]
+              },
+              "CHEM 215"
+            ]
+          },
+          {
+            "allOf": [
+              {
+                "anyOf": [
+                  "MATH 115",
+                  "MATH 120"
+                ]
+              },
+              {
+                "anyOf": [
+                  "MATH 116",
+                  "MATH 121"
+                ]
+              }
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 215",
+              "CHEM 262"
+            ]
+          },
+          {
+            "allOf": [
+              {
+                "anyOf": [
+                  "PHYSICS 125",
+                  "PHYSICS 135",
+                  "PHYSICS 139",
+                  "PHYSICS 140",
+                  "PHYSICS 150",
+                  "PHYSICS 160"
+                ]
+              },
+              {
+                "anyOf": [
+                  "PHYSICS 126",
+                  "PHYSICS 235",
+                  "PHYSICS 239",
+                  "PHYSICS 240",
+                  "PHYSICS 250",
+                  "PHYSICS 260"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Core": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Advanced Laboratory": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -4,14 +4,24 @@
   "school_college": "School of Information",
   "program_url": "https://www.si.umich.edu/programs/bachelor-science-information/curriculum",
   "status": "fetched",
-  "message": "requirements page ready for LLM (program URL)",
+  "message": "requirements page ready for LLM (+1 course-list supplement: Courses)",
   "program_final_url": "https://www.si.umich.edu/programs/bachelor-science-information/bachelor-science-information-curriculum",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://www.si.umich.edu/programs/bachelor-science-information/bachelor-science-information-curriculum",
   "requirements_link_text": "(program page is requirements)",
   "requirements_link_score": 200,
   "requirements_link_strategy": "program_is_requirements",
   "requirements_final_url": "https://www.si.umich.edu/programs/bachelor-science-information/bachelor-science-information-curriculum",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:40:48.681107+00:00"
+  "fetched_at": "2026-08-10T16:14:49.081789+00:00",
+  "supplements_count": 1,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "https://www.si.umich.edu/programs/courses",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 567
+    }
+  ]
 }

@@ -1,0 +1,90 @@
+{
+  "id": "community-and-global-public-health--phs",
+  "displayName": "Community and Global Public Health",
+  "groupRules": {
+    "Integrated Core Courses": {
+      "require": {
+        "allOf": [
+          "PUBHLTH 381",
+          "PUBHLTH 382",
+          "PUBHLTH 383",
+          "PUBHLTH 384"
+        ]
+      },
+      "minCourses": 4,
+      "minCredits": 13,
+      "countsTowardMajorTotal": true
+    },
+    "Major Specific Requirements": {
+      "require": {
+        "allOf": [
+          "PUBHLTH 350",
+          "PUBHLTH 360"
+        ]
+      },
+      "minCourses": 2,
+      "minCredits": 7,
+      "countsTowardMajorTotal": true
+    },
+    "Public Health Electives": {
+      "minCredits": 18,
+      "countsTowardMajorTotal": true
+    },
+    "Health Equity Requirement": {
+      "require": {
+        "anyOf": [
+          "PUBHLTH 308",
+          "PUBHLTH 313",
+          "PUBHLTH 320",
+          "PUBHLTH 328",
+          "PUBHLTH 333",
+          "PUBHLTH 360",
+          "PUBHLTH 450"
+        ]
+      },
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Culminating Experience": {
+      "require": {
+        "allOf": [
+          "PUBHLTH 481",
+          "PUBHLTH 380"
+        ]
+      },
+      "minCourses": 2,
+      "minCredits": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Upper-Level Elective Exceptions": {
+      "require": {
+        "anyOf": [
+          "BIOLOGY 207",
+          "BIOLOGY 225",
+          "BIOLOGY 226",
+          "CHEM 210",
+          "CHEM 211",
+          "CHEM 215",
+          "CHEM 216",
+          "CHEM 230",
+          "CHEM 260",
+          "PHYSICS 235",
+          "PHYSICS 240",
+          "PHYSICS 250",
+          "PHYSICS 260",
+          "PHYSICS 126",
+          "PHYSICS 236",
+          "PHYSICS 241",
+          "PHYSICS 251",
+          "PHYSICS 261",
+          "PHYSICS 128",
+          "PHYSIOL 201",
+          "NURS 236",
+          "NURS 245"
+        ]
+      },
+      "minCredits": 15
+    }
+  }
+}

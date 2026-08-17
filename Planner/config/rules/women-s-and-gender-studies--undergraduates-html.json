@@ -1,0 +1,37 @@
+{
+  "id": "women-s-and-gender-studies--undergraduates-html",
+  "displayName": "Women\u2019s and Gender Studies",
+  "groupRules": {
+    "Prerequisite": {
+      "require": "WGS 240"
+    },
+    "Gender, Culture, & Rep.": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Gender in a Global Context": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Gender, Race, & Ethnicity": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "LGBTQ+ & Sexuality": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Feminist Theory": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Practicum": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Elective": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

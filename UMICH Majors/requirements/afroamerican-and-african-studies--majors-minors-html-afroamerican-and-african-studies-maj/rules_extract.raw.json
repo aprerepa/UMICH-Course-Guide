@@ -1,0 +1,50 @@
+{
+  "id": "afroamerican-and-african-studies",
+  "displayName": "Afroamerican and African Studies",
+  "groupRules": {
+    "Gateway Courses": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "minOf": 2,
+        "options": [
+          "AAS 200",
+          "AAS 201",
+          "AAS 202"
+        ]
+      }
+    },
+    "Comparative or Global Courses": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "minOf": 2,
+        "options": [
+          "AAS 304",
+          "AAS 309",
+          "AAS 322",
+          "AAS 323",
+          "AAS 324",
+          "AAS 346",
+          "AAS 357",
+          "AAS 359",
+          "AAS 362",
+          "AAS 365",
+          "AAS 381",
+          "AAS 384",
+          "AAS 441"
+        ]
+      }
+    },
+    "DAAS-In-Action": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": "AAS 498"
+    },
+    "Electives": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true,
+      "completion": "manual"
+    }
+  }
+}

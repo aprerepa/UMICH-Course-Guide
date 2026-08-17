@@ -4,15 +4,74 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#translation-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+8 course-list supplements: Capstone Projects, course list, course list)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#translation-maj",
   "program_fetch_mode": "browser",
-  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/translation-maj.html",
-  "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
-  "requirements_link_strategy": "lsa_listing:lsa_detail",
-  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/translation-maj.html",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:50:25.021259+00:00",
-  "lsa_resolved_row_id": "translation-maj"
+  "requirements_url": "https://docs.google.com/spreadsheets/d/1VzGZ_mPcg4T7wAAV6xTWUxrg7eOLKzHgNMi_l7bLpiI/edit#gid=0",
+  "requirements_link_text": "REQUIREMENTS \u2192 the list of pre-approved courses for the major",
+  "requirements_link_score": 115,
+  "requirements_link_strategy": "lsa_listing:lsa_detail\u2192google_doc",
+  "requirements_final_url": "https://docs.google.com/spreadsheets/d/1VzGZ_mPcg4T7wAAV6xTWUxrg7eOLKzHgNMi_l7bLpiI/edit#gid=0",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:40:42.663311+00:00",
+  "lsa_resolved_row_id": "translation-maj",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-capstone-projects",
+      "url": "https://lsa.umich.edu/complit/undergraduates/translation-major/capstone-project.html",
+      "link_text": "Capstone Projects",
+      "status": "fetched",
+      "chars": 4224
+    },
+    {
+      "id": "02-course-list",
+      "url": "https://docs.google.com/",
+      "link_text": "course list",
+      "status": "fetched",
+      "chars": 257
+    },
+    {
+      "id": "03-course-list",
+      "url": "https://docs.google.com/lsa/alumni-friends/get-connected/college-connections.html",
+      "link_text": "course list",
+      "status": "fetched",
+      "chars": 89
+    },
+    {
+      "id": "04-course-list",
+      "url": "https://docs.google.com/lsa/current-students/undergraduate-students/outcomes-and-possibilities.html",
+      "link_text": "course list",
+      "status": "fetched",
+      "chars": 89
+    },
+    {
+      "id": "05-course-list",
+      "url": "https://docs.google.com/lsa/faculty-staff/human-resources/staff-achievement/staff-recognition.html",
+      "link_text": "course list",
+      "status": "fetched",
+      "chars": 89
+    },
+    {
+      "id": "06-course-list",
+      "url": "https://docs.google.com/lsa/prospective-students/lsa101.html",
+      "link_text": "course list",
+      "status": "fetched",
+      "chars": 89
+    },
+    {
+      "id": "07-courses",
+      "url": "https://docs.google.com/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 89
+    },
+    {
+      "id": "08-browse-copies-of-past-lsa-bulletins",
+      "url": "https://docs.google.com/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 89
+    }
+  ]
 }

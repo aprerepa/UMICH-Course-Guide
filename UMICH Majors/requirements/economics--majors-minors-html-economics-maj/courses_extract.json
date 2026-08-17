@@ -1,0 +1,49 @@
+{
+  "id": "economics--majors-minors-html-economics-maj",
+  "displayName": "Economics",
+  "requirementGroups": {
+    "Prerequisites": [
+      "ECON 101",
+      "ECON 102",
+      "MATH 115",
+      "ECON 210",
+      "MATH 116",
+      "MATH 121",
+      "MATH 156",
+      "MATH 185",
+      "MATH 186",
+      "MATH 205",
+      "MATH 215",
+      "MATH 276",
+      "MATH 285",
+      "MATH 295",
+      "MATH 296"
+    ],
+    "Core Economic Theory": [
+      "ECON 401",
+      "ECON 402"
+    ],
+    "Core Statistics and Econometrics": [
+      "DATASCI 101",
+      "STATS 206",
+      "STATS 250",
+      "STATS 280",
+      "STATS 426",
+      "ECON 451",
+      "ECON 453",
+      "ECON 251",
+      "ECON 452",
+      "ECON 454"
+    ],
+    "Electives": []
+  },
+  "openGroups": {
+    "Electives": {
+      "subjects": [
+        "ECON"
+      ],
+      "minLevel": 300,
+      "exclude": []
+    }
+  }
+}

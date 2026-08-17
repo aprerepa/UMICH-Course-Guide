@@ -1,0 +1,9 @@
+{
+  "id": "middle-east-studies",
+  "displayName": "Middle East Studies",
+  "requirementGroups": {
+    "Prerequisites": [
+      "MIDEAST 200"
+    ]
+  }
+}

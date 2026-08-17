@@ -1,0 +1,70 @@
+{
+  "id": "sociology",
+  "displayName": "Sociology",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "SOC 100",
+          "SOC 102",
+          "SOC 300",
+          "SOC 302"
+        ]
+      }
+    },
+    "Statistics": {
+      "require": {
+        "anyOf": [
+          "SOC 210",
+          "STATS 250",
+          "STATS 280"
+        ]
+      }
+    },
+    "Research Methods": {
+      "require": "SOC 310"
+    },
+    "Sociological Theory": {
+      "require": "SOC 305"
+    },
+    "Law, Justice, and Social Change (Sub-Major)": {
+      "minCredits": 12,
+      "require": {
+        "allOf": [
+          {
+            "minOf": 8,
+            "options": [
+              "SOC 204",
+              "SOC 208",
+              "SOC 214",
+              "SOC 225",
+              "SOC 250",
+              "SOC 270",
+              "SOC 304",
+              "SOC 325",
+              "SOC 335",
+              "SOC 354",
+              "SOC 368",
+              "SOC 391",
+              "SOC 422",
+              "SOC 461",
+              "SOC 465",
+              "SOC 468",
+              "SOC 476",
+              "SOC 480"
+            ]
+          }
+        ]
+      }
+    },
+    "Sociology of Health & Medicine (Sub-Major)": {
+      "minCredits": 12,
+      "require": {
+        "anyOf": [
+          "SOC 225",
+          "SOC 230"
+        ]
+      }
+    }
+  }
+}

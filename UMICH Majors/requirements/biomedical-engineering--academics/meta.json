@@ -4,14 +4,38 @@
   "school_college": "College of Engineering",
   "program_url": "https://bme.umich.edu/academics/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+3 course-list supplements: BME Depth Requirements, BME Sample Schedule, ression)",
   "program_final_url": "https://bme.umich.edu/academics/",
   "program_fetch_mode": "http",
   "requirements_url": "https://docs.google.com/document/d/1Ck_206v7XLetIKrPgNyul6Jvc71ExTQysn3zGtyqF7I/edit?usp=sharing",
   "requirements_link_text": "Undergraduate Curriculum \u2192 Overview of the BME Undergraduate Curriculum",
   "requirements_link_score": 280,
   "requirements_link_strategy": "page\u2192google_doc",
-  "requirements_final_url": "https://docs.google.com/document/d/1Ck_206v7XLetIKrPgNyul6Jvc71ExTQysn3zGtyqF7I/edit?tab=t.0#heading=h.89kb4a6fq0c6",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:35:06.378579+00:00"
+  "requirements_final_url": "https://docs.google.com/document/d/1Ck_206v7XLetIKrPgNyul6Jvc71ExTQysn3zGtyqF7I/edit?usp=sharing",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T15:57:21.768546+00:00",
+  "supplements_count": 3,
+  "supplements": [
+    {
+      "id": "01-bme-depth-requirements",
+      "url": "https://docs.google.com/spreadsheets/d/1s6pkAon538csGOypWK0PcwY6HfHIPrtoYYKHkWzvNjQ/edit?usp=sharing",
+      "link_text": "BME Depth Requirements",
+      "status": "fetched",
+      "chars": 27880
+    },
+    {
+      "id": "02-bme-sample-schedule",
+      "url": "https://drive.google.com/file/d/1BuomjX8CcB4gbnlHpkTvuJNftCFwWlan/view?usp=drive_link",
+      "link_text": "BME Sample Schedule",
+      "status": "fetched",
+      "chars": 4749
+    },
+    {
+      "id": "03-ression",
+      "url": "https://drive.google.com/file/d/1DfNj_Rifd1W6jI6JJqI4i3U3ZR_rp_DM/view?usp=sharing",
+      "link_text": "ression",
+      "status": "fetched",
+      "chars": 856
+    }
+  ]
 }

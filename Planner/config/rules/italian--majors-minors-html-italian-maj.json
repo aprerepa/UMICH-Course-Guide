@@ -1,0 +1,16 @@
+{
+  "id": "italian--majors-minors-html-italian-maj",
+  "displayName": "Italian",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "ITALIAN 230",
+          "ITALIAN 232",
+          "ITALIAN 233",
+          "ITALIAN 410"
+        ]
+      }
+    }
+  }
+}

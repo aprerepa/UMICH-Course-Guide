@@ -1,0 +1,93 @@
+### Sheet: 4-year Editable Sample Schedule
+Computer Engineering Sample Schedule
+To edit this CE schedule, you can make a copy of this sheet to your own Google Drive (click FIle > Make a copy)																				
+Pre-UM Credit (if applicable)	Course	Credits	Course	Credits	Course	Credits	Pre-UM Credit (if applicable)
+Total	0	Total	0	Total	0
+	Cumulative Totals:	0		0		0	
+First Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	First Year
+Math 115	4.0	Math 116	4.0
+Phys 140/141	5.0	Chem 130/125/126 or 210/211	5.0
+Engr 100	4.0	Engr 101	4.0								
+Intellectual Breadth	4.0	Intellectual Breadth	4.0
+Term Totals:	17	17	0
+	Cumulative Totals:	17		34		34	
+Second Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Second Year
+Physics 240/241	5.0	Math 214, 215, 217, 417 or 419	4.0
+EECS 203	4.0	Intellectual Breadth	4.0
+EECS 270	4.0	EECS 215	4.0
+General Elective	3.0	EECS 280	4.0
+Term Totals:	16	16	0
+	Cumulative Totals:	50		66		66	
+Third Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Third Year
+Math 216	4.0	Intellectual Breadth	4.0
+EECS 216	4.0	EECS 301/Math 425/Stats 412	3.0
+EECS 370	4.0	Core Electives	8.0
+TCHNCLCM 300	1.0
+General Electives	3.0
+Term Totals:	16	15	0
+	Cumulative Totals:	82		97		97	
+Fourth Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Fourth Year
+Flexible Technical Electives	4.0	TCHNCLCM 496	2.0
+EECS Elective	4.0	EECS 400	2.0
+Upper Level CE Electives	4.0	Upper Level CE Electives (including at least one MDE course)	8.0
+General Electives	4.0	General Electives	3.0
+Term Totals:	16	15	0
+	Cumulative Totals:	113		128		128	
+
+### Sheet: GPA Calculator
+GPA CALCULATOR													
+*only edit white cells*													
+	Class	Credits	Letter Grade	Honor Points				Class	Credits	Letter Grade	Honor Points			Grade Table											
+Semester 1	PHYSICS 141	1.0	A-	3.7	Sem GPA		Semester 5				-	Sem GPA		Grade	Numerical										
+	PHYSICS 141	4.0	B+	13.2	3.077777778						-	-		A+	4.0										
+	MATH 115	4.0	B-	10.8	Cum GPA						-	Cum GPA		A	4.0										
+				-	3.077777778						-	-		A-	3.7										
+				-	Term HPD						-	Term HPD		B+	3.3										
+				-	No Deficit						-	-		B	3.0										
+				-	Cum HPD						-	Cum HPD		B-	2.7										
+	total =	9 credits		27.7	No Deficit			total =	0 credits		0	-		C+	2.3										
+														C	2.0										
+														C-	1.7										
+														D+	1.3										
+	Class	Credits	Letter Grade	Honor Points				Class	Credits	Letter Grade	Honor Points			D	1.0										
+Semester 2				-	Sem GPA		Semester 6				-	Sem GPA		D-	0.7										
+				-	-						-	-		E	0.0										
+				-	Cum GPA						-	Cum GPA		ED	0.0										
+				-	-						-	-													
+				-	Term HPD						-	Term HPD													
+				-	-						-	-													
+				-	Cum HPD						-	Cum HPD													
+	total =	0 credits		0	-			total =	0 credits		0	-		OVERALL											
+														Cumulative GPA											
+														#DIV/0!											
+														Honor Points											
+	Class	Credits	Letter Grade	Honor Points				Class	Credits	Letter Grade	Honor Points			6.155555556											
+Semester 3				-	Sem GPA		Semester 7				-	Sem GPA		Hon Pts Deficit											
+				-	-						-	-		0											
+				-	Cum GPA						-	Cum GPA													
+				-	-						-	-													
+				-	Term HPD						-	Term HPD													
+				-	-						-	-													
+				-	Cum HPD						-	Cum HPD													
+	total =	0 credits		0	-			total =	0 credits		0	-													
+	Class	Credits	Letter Grade	Honor Points				Class	Credits	Letter Grade	Honor Points														
+Semester 4				-	Sem GPA		Semester 8				-	Sem GPA													
+				-	-						-	-													
+				-	Cum GPA						-	Cum GPA													
+				-	-						-	-													
+				-	Term HPD						-	Term HPD													
+				-	-						-	-													
+				-	Cum HPD						-	Cum HPD													
+	total =	0 credits		0	-			total =	0 credits		0	-													
+
+### Sheet: Honor Point Deficit Calculator
+HONOR POINTS DEFICIT CALCULATOR																		
+Current GPA	1.872		With a Current GPA after Mich Sem Hrs, to bring my GPA to a GPA Sought, I'll need Honor Pts Deficit of Term GPA. ***Formula drives Honor Pts Def - all other variables can be changed***																			
+Mich Sem Hrs	69.0																				
+GPA Sought	2.0																				
+Term GPA	3.0																				
+Honor Pts Def	8.832																								
+			GPA	CREDITS																					
+	Previous		2.962	35.0																					
+	This term		1.5	8.0																					
+	Overall		2.69	43

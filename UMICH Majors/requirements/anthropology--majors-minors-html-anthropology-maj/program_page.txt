@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -41,6 +45,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -217,41 +225,6 @@ HUM
 NAT
 SOC
 INT
-Anthropology (Major)
-The undergraduate Anthropology Program emphasizes the commitment of this department to four-field anthropology, providing exposure to Anthropological Archaeology, Biological Anthropology, Sociocultural Anthropology and Linguistic Anthropology. This approach serves Anthropology's intellectual goal to achieve a comprehensive, comparative, and innovative understanding of humanity.
-An undergraduate major in Anthropology contributes to a liberal arts education, offering a disciplined awareness of human behavior that forms the basis for problem solving in an increasingly complex world, wherever the major takes you.
-As an Anthropology major, you will learn about
-the importance of human diversity (biological and cultural) in the past and present and why diversity matters for our future
-how human bodies and minds are shaped both by our present environments, and our species’ evolutionary past
-the ways in which race is socially constructed and how that translates to real-world biological consequences
-You will also learn important skills, such as
-The ability to incorporate different cultural perspectives in your critical thinking
-Cultural competency
-The diversity of methods anthropologists use to study our human past and present, including qualitative, quantitative, and mixed methods approaches
-The department also offers six optional sub-majors for students who want to pursue deeper knowledge in a specific aspect of Anthropology.
-Optional Sub-majors:
-Archaeology
-Culture and Media
-Environment and Conservation
-Medical Anthropology
-Politics, Law, and Economy
-Power, Identity, and Inequality
-Related Programs
-Anthropology Minor
-Biological Anthropology Minor
-Human Origins, Biology, and Behavior Major
-Medical Anthropology Minor
-Archaeology Sub-major
-Culture and Media Sub-major
-Environment and Conservation Sub-major
-Medical Anthropology Sub-major
-Politics, Law, and Economy Sub-major
-Power, Identity, and Inequality Sub-major
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Anthropology
 Anthropology (Minor)
 m
 SOC

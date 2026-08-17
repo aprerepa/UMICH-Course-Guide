@@ -1,0 +1,80 @@
+{
+  "id": "psychology",
+  "displayName": "Psychology",
+  "requirementGroups": {
+    "Prerequisites": [
+      "PSYCH 111",
+      "PSYCH 112",
+      "PSYCH 114",
+      "DATASCI 101",
+      "STATS 250",
+      "STATS 280"
+    ],
+    "Breadth Requirement": [
+      "PSYCH 220",
+      "PSYCH 235",
+      "PSYCH 240",
+      "PSYCH 250",
+      "PSYCH 270",
+      "PSYCH 280",
+      "PSYCH 290",
+      "PSYCH 291"
+    ],
+    "Lab Requirement": [
+      "PSYCH 300",
+      "PSYCH 301",
+      "PSYCH 302",
+      "NEURO 302",
+      "PSYCH 303",
+      "PSYCH 331",
+      "PSYCH 341",
+      "PSYCH 342",
+      "PSYCH 351",
+      "PSYCH 357",
+      "PSYCH 366",
+      "PSYCH 371",
+      "PSYCH 381",
+      "SOC 472",
+      "PSYCH 383",
+      "SOC 383",
+      "PSYCH 391",
+      "PSYCH 422",
+      "PSYCH 423",
+      "PSYCH 451",
+      "PSYCH 211",
+      "PSYCH 305",
+      "PSYCH 306",
+      "PSYCH 307",
+      "PSYCH 311",
+      "ALA 321",
+      "SOC 321",
+      "PSYCH 317",
+      "PSYCH 324",
+      "SOC 324",
+      "UC 324",
+      "PSYCH 325",
+      "AMCULT 321",
+      "PSYCH 404",
+      "PSYCH 405",
+      "PSYCH 226",
+      "PSYCH 322",
+      "PSYCH 326",
+      "PSYCH 424",
+      "PSYCH 426",
+      "PSYCH 428",
+      "PSYCH 429"
+    ],
+    "Electives": [
+      "PSYCH 225",
+      "COGSCI 200"
+    ]
+  },
+  "openGroups": {
+    "Additional elective": {
+      "subjects": [
+        "PSYCH"
+      ],
+      "minLevel": 300
+    }
+  }
+}

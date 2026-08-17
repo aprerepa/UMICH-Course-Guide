@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -41,6 +45,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -346,27 +354,6 @@ HUM
 NAT
 SOC
 INT
-Asian Studies (Major)
-With Asian countries making up approximately 60% of the world’s population and about 30% of the Earth’s total land area, Asian studies serves as a broad-ranging and crucial field of study that covers global trends and developments in politics, economics, society, and culture.
-As a major in Asian Studies, students will build a strong and rigorous intellectual foundation that offers a balanced approach between disciplinary and cross-disciplinary flexibility and breath. Students will work alongside an advisor to create a flexible curriculum from within the department and across the college and university. Ultimately, a major in Asian Studies will help students develop a broad understanding of the dynamics of the study of China, Japan, Korea, Southeast Asia, South Asia, and Asian religions.
-The Asian Studies major also provides students with strong language skills and conceptual tools for critically analyzing, exploring, and ultimately solving global issues and challenges. Students may engage in academic work in cultural studies, food studies, film and media, gender studies, history, literature, linguistics, performance arts, philosophy, politics, religion, social science, and visual culture. The Asian Studies major prepares students for a wide range of careers in government, law, language acquisition, education, non-profit organizations, international corporations, and global cooperation and exploration.
-The Asian Studies major alone is a well-rounded and complete curriculum, but students often find pursuing a double or triple major a complement to their academic goals and interest for a globally-oriented career.
-Students choose one sub-major on which to focus their studies:
-Asian Religions
-Chinese Studies
-Japanese Studies
-Korean Studies
-South Asian Studies
-Southeast Asian Studies
-Related Programs
-Asian Languages and Cultures Minor
-Asian Studies Minor
-Asian/Pacific Islander American Studies Minor
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Asian Languages & Cultures
 Asian Studies (Minor)
 m
 HUM

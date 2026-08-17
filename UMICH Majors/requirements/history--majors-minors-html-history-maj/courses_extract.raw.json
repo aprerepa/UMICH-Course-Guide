@@ -1,0 +1,23 @@
+{
+  "id": "history",
+  "displayName": "History",
+  "requirementGroups": {
+    "Required Course": [
+      "HISTORY 202"
+    ],
+    "Junior-Senior Colloquium Requirement": [
+      "HISTORY 491",
+      "HISTORY 496",
+      "HISTORY 497",
+      "HISTORY 499"
+    ]
+  },
+  "openGroups": {
+    "Upper-Level Courses": {
+      "subjects": [
+        "HISTORY"
+      ],
+      "minLevel": 300
+    }
+  }
+}

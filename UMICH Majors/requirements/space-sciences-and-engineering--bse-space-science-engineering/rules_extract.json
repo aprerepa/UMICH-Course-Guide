@@ -1,0 +1,65 @@
+{
+  "id": "space-sciences-and-engineering--bse-space-science-engineering",
+  "displayName": "Space Sciences and Engineering",
+  "groupRules": {
+    "Required Core Subjects": {
+      "require": {
+        "allOf": [
+          "SPACE 320",
+          "SPACE 321",
+          "SPACE 323",
+          "SPACE 370",
+          "SPACE 324",
+          "SPACE 478",
+          "SPACE 423",
+          {
+            "anyOf": [
+              "SPACE 495",
+              "SPACE 595"
+            ]
+          }
+        ]
+      },
+      "minCourses": 8,
+      "minCredits": 30,
+      "countsTowardMajorTotal": true
+    },
+    "Space Science Concentration": {
+      "require": {
+        "allOf": [
+          "PHYSICS 340",
+          "SPACE 380",
+          "PHYSICS 405",
+          "PHYSICS 390",
+          "PHYSICS 391",
+          "NERS 471",
+          {
+            "anyOf": [
+              "SPACE 499",
+              "SPACE 455"
+            ]
+          }
+        ]
+      },
+      "minCredits": 43,
+      "countsTowardMajorTotal": true
+    },
+    "Space Instrumentation Concentration": {
+      "require": {
+        "allOf": [
+          "SPACE 310",
+          "SPACE 371",
+          {
+            "anyOf": [
+              "SPACE 471",
+              "SPACE 431"
+            ]
+          },
+          "SPACE 477"
+        ]
+      },
+      "minCredits": 43,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

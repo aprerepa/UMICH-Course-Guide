@@ -1,0 +1,43 @@
+Total Term:
+Credit Hours 1 2 3 4 5 6 7 8
+Subjects Required by all Programs (53 Hours)
+Mathematics 115+, 116+, 215+, 216+ 16 4 4 4 4 - - - -
+Engineering 100, Introduction to Engineering + 4 4 - - - - - - -
+Engineering 101, Introduction to Computers + 4 - 4 - - - - - -
+Chemistry 1301 + 3 3 - - - - - - -
+Physics 140+ with Lab 141+; Physics 240+ with Lab 2412+ 10 - 5 5 - - - - -
+Intellectual Breadth (to include a course in micro or macro economics) 16 4 - - - 4 - 4 4
+Advanced Chemistry (11 Hours)
+Chemistry 210/211, Structure and Reactivity I and Lab + 5 - 5 - - - - - -
+Chemistry 215/216, Structure and Reactivity II and Lab + 5 - - 5 - - - - -
+Chemistry 261 Introduction to Quantum Chemistry3 1 - - - - 1 - - -
+Related Technical Subjects (11 Hours)
+Biology/Life Science Elective (Typically Bio 172 or 174)4 4 - - - - - 4 - -
+Materials Elective (MSE 250 or MSE 220) + 4 - - - - - - 4 -
+Engineering Electives5 3 - - - - - - - 3
+Program Subjects (41 Hours)
+CHE 230 Material and Energy Balances + 4 - - 4 - - - - -
+CHE 330 Chemical and Engineering Thermodynamics + 4 - - - 4 - - - -
+CHE 341 Fluid Mechanics + 4 - - - 4 - - - -
+CHE 342 Mass and Heat Transfer + 4 - - - - 4 - - -
+CHE 343 Separation Processes + 4 - - - - 4 - - -
+CHE 344 Reaction Engineering and Design + 4 - - - - - 4 - -
+CHE 360 Chemical Engineering Laboratory I + 4 - - - - - 4 - -
+CHE 460 Chemical Engineering Laboratory II 4 - - - - - - - 4
+CHE 466 Process Dynamics and Control 3 - - - - - - 3 -
+CHE 485 Chemical Engineering Process Economics + 1 - - - - - 1 - -
+CHE 487 Chemical Process Simulation and Design, or CHE 488/489, Chemical Product Design I and II (2cr. F / 3cr. W) 5 - - - - - - - 5
+General Electives (12 Hours) 12 - - - 3 3 3 3 -
+Total 128 15 18 18 15 16 16 14 16
+Revised 15-Sep-2023
+Notes:
+(+) Students must earn a "C-" or better in prerequisite courses indicated by the (+).
+Chemical Engineering Sample Schedule
+Candidates for the Bachelor of Science in Engineering in Chemical Engineering - B.S.E. in Chem E. - must complete the program listed above.  This sample schedule is an example of one leading to graduation in eight terms.
+1. If you have a satisfactory score or grade in Chemistry AP, A-Level, IB Exams or transfer credit from another institution for Chemistry 130/125/126, you will have met the Chemistry Core Requirement for the College of Engineering. 
+Chemical Engineering only requires Chemistry 130 because Chem 211 fulfills the lab portion of the requirement.
+2. If you have a satisfactory score or grade in Physics AP, A-Level, IB Exams or transfer credit from another institution for Physics 140/141 and 240/241, you will have met the Physics Core Requirement for the College of Engineering.
+4. See department list for other courses that satisfy the Biology/Life Science elective requirement for students with BIO100x AP credit.
+5. Engineering courses are to be at the 200 or higher level and cannot include seminar courses. Engineering research hours at the 400 level or higher may be used to satisfy this requirement. Up to 8 hours of ChE 490 or ChE 695 research 
+may be taken for a grade. Beyond that, ChE 490 or 695 hours must be taken pass/fail.
+3. Either Physics 390 or Materials Science 242 or Chemistry 370 can be taken to fulfill the Chemistry 261 requirement.

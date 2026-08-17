@@ -1,0 +1,13 @@
+[
+  {
+    "id": "01-courses",
+    "url": "https://ssw.umich.edu/academic-programs/undergraduate/casc-minor/courses",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (181 chars)",
+    "final_url": "https://ssw.umich.edu/academic-programs/undergraduate/casc-minor/courses",
+    "fetch_mode": "browser",
+    "chars": 181
+  }
+]

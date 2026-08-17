@@ -1,0 +1,21 @@
+{
+  "id": "american-culture",
+  "displayName": "American Culture",
+  "groupRules": {
+    "Core Course": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": "AMCULT 300"
+    },
+    "Capstone": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": "AMCULT 498"
+    },
+    "Electives": {
+      "minCredits": 28,
+      "countsTowardMajorTotal": true,
+      "completion": "manual"
+    }
+  }
+}

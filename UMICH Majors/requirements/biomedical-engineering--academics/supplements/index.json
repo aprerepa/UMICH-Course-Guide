@@ -1,0 +1,35 @@
+[
+  {
+    "id": "01-bme-depth-requirements",
+    "url": "https://docs.google.com/spreadsheets/d/1s6pkAon538csGOypWK0PcwY6HfHIPrtoYYKHkWzvNjQ/edit?usp=sharing",
+    "link_text": "BME Depth Requirements",
+    "score": 135,
+    "status": "fetched",
+    "message": "ok (27880 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1s6pkAon538csGOypWK0PcwY6HfHIPrtoYYKHkWzvNjQ/edit?usp=sharing",
+    "fetch_mode": "http",
+    "chars": 27880
+  },
+  {
+    "id": "02-bme-sample-schedule",
+    "url": "https://drive.google.com/file/d/1BuomjX8CcB4gbnlHpkTvuJNftCFwWlan/view?usp=drive_link",
+    "link_text": "BME Sample Schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (4749 chars)",
+    "final_url": "https://drive.usercontent.google.com/download?id=1BuomjX8CcB4gbnlHpkTvuJNftCFwWlan&export=download",
+    "fetch_mode": "http",
+    "chars": 4749
+  },
+  {
+    "id": "03-ression",
+    "url": "https://drive.google.com/file/d/1DfNj_Rifd1W6jI6JJqI4i3U3ZR_rp_DM/view?usp=sharing",
+    "link_text": "ression",
+    "score": 110,
+    "status": "fetched",
+    "message": "ok (856 chars)",
+    "final_url": "https://drive.google.com/file/d/1DfNj_Rifd1W6jI6JJqI4i3U3ZR_rp_DM/view",
+    "fetch_mode": "browser",
+    "chars": 856
+  }
+]

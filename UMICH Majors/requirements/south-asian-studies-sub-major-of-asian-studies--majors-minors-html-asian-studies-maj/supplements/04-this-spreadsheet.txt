@@ -1,0 +1,438 @@
+### Sheet: China
+COURSE NUMBER	COURSE NAME	CREDITS																							
+ASIAN 304	The Art of Yoga	3
+ASIAN 305	Religion and Violence in the Secular World	3.0
+ASIAN 306	What is Religion	3.0
+ASIAN 313	Modern East Asian Fiction	3.0
+ASIAN 314	Strange Ways: Literature of the Supernatural in Pre-modern Japan and China	3.0
+ASIAN 322	War Tales: Histories of Violence in Medieval and Early Modern Japan and China	3.0	
+ASIAN 325	Zen: History, Culture, and Critique	4.0	
+ASIAN 329	Buddhism, Politics, and Violence in Modern Asia	3.0	
+ASIAN 340	From Genghis Khan to the Taliban: Modern Central Asia	4.0	
+ASIAN 349	Confucianism: Reinventions of Tradition	3.0
+ASIAN 350	Gods, Ghosts, and Gangsters: Popular Religion in China	3.0
+ASIAN 351	Chinese Food in Crisis: Health, Ecology, and Identity in an Age of Globalization	3.0
+ASIAN 352	Gender, Sexuality, and Power in Premodern China	3.0
+ASIAN 353	China Around the World: Power, Politics, and Translation	3.0
+ASIAN 354	War, Rebellion, and Revolution in China Through Two Centuries	3.0
+ASIAN 355	How Communism Changed China	3.0
+ASIAN 356	Contemporary Chinese Performance Culture	3.0
+ASIAN 357	Sensuous Pleasures: China's Forbidden Novel, Jin Ping Mei	3.0
+ASIAN 358	The Art of War: Military Ethics in Ancient China	3.0
+ASIAN 359	Crime and Detection in Chinese Literature	3.0
+ASIAN 360	Taoism: Historical and Contemporary Incarnations	3.0
+ASIAN 361	HU Topics in Chinese Studies	3.0
+ASIAN 362	The Travels of the Monkey King in China and Abroad	3.0
+ASIAN 363	Chinese Drama and Theater	3.0
+ASIAN 364	The Development of Chinese Fiction	3.0
+ASIAN 365	Doctors in the Ancient World: China, Greece, and Rome	3.0
+ASIAN 366	Controversies in Contemporary China	3.0
+ASIAN 367	Languages of Asia	3.0
+ASIAN 368	How Different is Chinese	3.0
+ASIAN 369	Chinese Film	3.0
+ASIAN 370	Acupuncture: Historical and Contemporary Transformations	3.0
+ASIAN 371	Natural Disasters in East Asia	4.0
+ASIAN 380	Topics in Asian Studies	3.0
+	Revolution Plus Love: The Politics of Emotion in Modern China	
+	East Asian Horror Films	
+	Regarding China	
+	Principles of Self-Cultivation in Chinese Cultures	
+	Seeing in Asia, Showing Asia	
+	What is Religion?	
+	The Perils of Peony Pavilion: Modern Stagings of a Classical Chinese Play	
+	Violence, Nonviolence, and the Buddhist Traditions of Asia	
+	Alchemy, Immortality, and Enlightenment: Chinese Religiosities, Past and Present	
+	Cultural Politics in Modern China	
+	Contemporary Chinese Poetry	
+	The China Problem in Korea	
+	Death and Mourning in Early China	
+	Contemporary Art in China and Japan	
+ASIAN 382	Approaches to Asian Studies	3.0
+ASIAN 387	Hate in Asia: Cultures of Conflict and Reconciliation	3.0
+ASIAN 389	Culture in East Asian Business, Past and Present	4.0
+ASIAN 393	Human Rights in China from Classical Times through the 18th Century: a Historical and Cultural Survey	3.0
+ASIAN 402	East Asian Performance Theory	3.0
+ASIAN 407	Drug Lords, Prophets, and Adventures: East Asia and the Age of Global Empire	3.0
+ASIAN 409	Exploring Consciousness: Neuro-cultures and Asian Philosophies of Mind	3.0
+ASIAN 415	Law and Society in Late Imperial and Modern China	3.0
+ASIAN 428	China's Evolution Under Communism	3.0
+ASIAN 440	National Cinema of Asia	3.0
+ASIAN 467	Lu Xun and Modern China	3.0
+ASIAN 469	Modern Chinese Visual Culture	3.0
+ASIAN 470	Saga of the Three Kingdoms: From History to Videogames	3.0
+ASIAN 477	The Theory and Practice of Translation	3.0
+ASIAN 480	Topics in Asian Studies	3.0
+	Qing Studies, 1600-1927	
+	Chinese Popular Religion	
+	Development of Chinese Fiction	
+	Natives of Desire by Modern Chinese Women Writers	
+	What is Literature? A Critical History of Reading and Writing in East Asia	
+	Translating Modern Chinese Poetry	
+	Contemporary China	
+	History of Chinese Language	
+	Food in China	
+	Dance in Modern Asia: History, Identity, Politics	
+	Strange Ways	
+	Scandalous Fiction: Jin Ping Mei and Everyday Life in Early Modern China	
+	Reading the Zhuangzi	
+	Asian Solidarity Movements in Twentieth Century	
+	Three Kingdoms Lab	
+	New Media and Asian Societies	
+ASIAN 483	The Lives of the Buddha, From India to Manga	3.0
+ASIAN 484	Buddhist Tantra	3.0
+ASIAN 485	Religion in China	3.0
+ASIAN 486	Buddhist Meditation	3.0
+ASIAN 488	Tibetan Buddhism	3.0
+ASIAN 490	Contemporary China	3.0
+ASIANLAN 301	Third-Year Chinese I	5.0
+ASIANLAN 302	Third-Year Chinese II	5.0
+ASIANLAN 303	Intensive Third-Year Chinese	10.0
+ASIANLAN 304	Third-Year Chinese for Heritage Speakers	4.0
+ASIANLAN 307	Mandarin for Cantonese Speakers I	2.0
+ASIANLAN 308	Mandarin for Cantonese Speakers II	2.0
+ASIANLAN 401	Advanced Spoken Chinese I	2.0
+ASIANLAN 402	Advanced Spoken Chinese II	2.0
+ASIANLAN 403	Overview of the Chinese Language	3.0
+ASIANLAN 404	Reading and Writing Chinese IV	4.0
+ASIANLAN 405	Business Chinese I	3.0
+ASIANLAN 406	Business Chinese II	3.0
+ASIANLAN 407	Advanced Reading and Writing Chinese I	3.0
+ASIANLAN 408	Advanced Reading and Writing Chinese II	3.0
+ASIANLAN 409	Classical Chinese in Modern Context	3.0
+ASIANLAN 410	Media Chinese	3.0
+ASIANLAN 445	Chinese Language Pedagogy	3.0
+ASIANLAN 480	Topics in Asian Language	43834.0
+
+### Sheet: Japan
+COURSE NUMBER	COURSE NAME	CREDITS																							
+ASIAN 300	Love and Death in Japanese Culture	3.0
+ASIAN 301	Writing Japanese Women	3.0
+ASIAN 302	Rewriting Identities in Modern Japan	3.0
+ASIAN 304	The Art of Yoga	3.0
+ASIAN 305	Religion and Violence in the Secular World	3.0
+ASIAN 306	What is Religion	3.0
+ASIAN 310	Family in Japan	3.0
+ASIAN 311	The Image of the Samurai	3.0
+ASIAN 312	After Defeat: The Cultural History of Postwar Japan	3.0
+ASIAN 313	Modern East Asian Fiction	3.0
+ASIAN 314	Strange Ways: Literature of the Supernatural in Pre-modern Japan and China	3.0
+ASIAN 315	Adaptation in Japanese Fiction and Film	
+ASIAN 316	Controversies in Contemporary Japan	3.0
+ASIAN 317	List of Edo Japan	
+ASIAN 318	HU Topics in Japan Studies	3.0
+ASIAN 319	Spirits of Contemporary Japan in Popular Culture	3.0
+ASIAN 320	Japanese Performance Culture	3.0
+ASIAN 321	Make it New: Modernism and Modern Life in Japan	3.0
+ASIAN 322	War Tales: Histories of Violence in Medieval and Early Modern Japan and China	3.0
+ASIAN 325	Zen: History, Culture, and Critique	4.0
+ASIAN 326	Introduction to Japanese Buddhism	3.0
+ASIAN 329	Buddhism, Politics, and Violence in Modern Asia	3.0
+ASIAN 367	Languages of Asia	3.0
+ASIAN 371	Natural Disasters of East Asia	4.0
+ASIAN 380	Topics in Asian Studies	3.0
+	East Asian Horror Films	
+	History of Photography in Japan	
+	Topics in Buddhist Traditions: Japan 	
+	Seeing in Asia, Showing Asia	
+	What is Religion	
+	Popular Culture of Edo Japan	
+	Tokyo and the Crowd	
+	Violence, Nonviolence, and Buddhist Traditions of Asia	
+	The Lives of the Buddha From India to Manga	
+	Samurai in War & Peace and in Film & Texts	
+	Keywords and Concepts Japan History and Society	
+	Murakami Haruki and Miyazaki Hayao: the Politics of Japanese Culture from the Bubble to the Present	
+	Geisha: Art, History, & Politics	
+	Japanese Performance Culture	
+	And the Sun Goddess Still Reigns: Japanese Emperors from 660 BCE to May 2019	
+	Gender and War	
+	Contemporary Art in China and Japan	
+ASIAN 382	Approaches to Asian Studies	3.0
+ASIAN 387	Hate in Asia: Cultures of Conflict and Reconciliation	3.0
+ASIAN 389	Culture in East Asian Business, Past and Present	4.0
+ASIAN 402	East Asian Performance Theory	3.0
+ASIAN 407	Drug Lords, Prophets, and Adventures: East Asia and the Age of Global Empire	3.0
+ASIAN 409	Exploring Consciousness: Neuro-cultures and Asian Philosophies of Mind	3.0
+ASIAN 440	National Cinema of Asia	3.0
+ASIAN 450	Japan to 1700: Origin Myth to Shogun Dynasty	3.0
+ASIAN 451	Japan's Modern Transformations	3.0
+ASIAN 465	Sacred Image/Sacred Place in Japanese Art	3.0
+ASIAN 475	Japanese Cinema	
+ASIAN 477	The Theory and Practice of Translation	3.0
+ASIAN 480	Topics in Asian Studies	3.0
+	Building Tokyo	
+	Cultural History in Contemporary Japan	
+	Keywords and Concepts Japan History and Society	
+	Lost and Found in Japan Literature and Culture	
+	Japanese Cinema	
+	Japan Since 1700	
+	What is Literature? A Critical History of Reading and Writing in East Asia	
+	Strange Ways	
+	A Critical History of Literature in East Asia	
+	Transnational Anime	
+	Beyond the Samurai Student: Education in Contemporary Japan	
+	Gender in Japanese Literary and Visual Culture	
+	Asian Solidarity Movements in Twentieth Century	
+	Antiracism and Japanese Culture	
+	Dance in Modern Asia: History, Identity, Politics	
+	New Media and Asian Societies	
+ASIAN 483	The Lives of the Buddha, from India to Manga	3.0
+ASIAN 484	Buddhist Tantra	3.0
+ASIAN 486	Buddhist Meditation	3.0
+ASIANLAN 325	Third-Year Japanese I	4.0
+ASIANLAN 326	Third-Year Japanese II	4.0
+ASIANLAN 327	Intensive Third Year Japanese	8.0
+ASIANLAN 414	Modern Japanese Fiction	3.0
+ASIANLAN 425	Media Japanese	3.0
+ASIANLAN 426	Advanced Spoken Japanese	2.0
+ASIANLAN 427	Readings in Japanese I	3.0
+ASIANLAN 428	Readings in Japanese II	3.0
+ASIANLAN 429	Business Japanese I	3.0
+ASIANLAN 430	Business Japanese II	3.0
+ASIANLAN 431	Contemporary Japanese Social Science Texts	3.0
+ASIANLAN 433	Classical Japanese I	4.0
+ASIANLAN 434	Classical Japanese II	4.0
+ASIANLAN 439	Academic Japanese I	2.0
+ASIANLAN 440	Academic Japanese II	2.0
+ASIANLAN 441	Practicum in Japanese Translation	3.0
+ASIANLAN 442	Practicum in Japanese Interpreting	3.0
+ASIANLAN 450	Japanese Language Pedagogy	3.0
+ASIANLAN 480	Topics in Asian Language	43834.0
+ASIANLAN 492	Introduction to Japanese Linguistics	3.0
+ASIANLAN 494	Advanced Japanese Linguistics	3.0
+
+### Sheet: Korea
+COURSE NUMBER	COURSE NAME	CREDITS																							
+ASIAN 304	The Art of Yoga	3.0
+ASIAN 305	Religion and Violence in the Secular World	3.0
+ASIAN 306	What is Religion	3.0
+ASIAN 313	Modern East Asian Fiction	3.0
+ASIAN 325	Zen: History, Culture, and Critique	4.0
+ASIAN 329	Buddhism, Politics, and Violence in Modern Asia	3.0
+ASIAN 367	Languages of Asia	3.0
+ASIAN 371	Natural Disasters of East Asia	4.0
+ASIAN 372	The Korean War	3.0
+ASIAN 374	Korean War in Fiction and Film	3.0
+ASIAN 375	Modern Korean Literature	3.0
+ASIAN 376	Controversies in Contemporary Korea	3.0
+ASIAN 377	K-Pop and Beyond: Popular Culture and Korean Society	3.0
+ASIAN 378	Seoul: History and Places	3.0
+ASIAN 380	Topics in Asian Studies	3.0
+	East Asian Horror Films	
+	Korean History Through Film	
+	Seeing in Asia, Showing Asia	
+	What is Religion	
+	Korean War in Literature	
+	Korean Controversies	
+	North Korea (DPRK): History, Literature, Film	
+	Two Koreas: Political Economy of Regional Rivalry	
+	Development and Globalization from a Comparative Perspective: South Korea and Beyond	
+	Language and Culture in Everyday Life: Korean Discourse as a Window into Culture, Perception, Cognition, Identity, and Taste	
+	Language and Society of Two Koreas	
+	Korean Discourse	
+	The China Problem in Korea	
+	Korean Traditional Poetry: 'Sujo'	
+	Imagining Disaster: Korea and the Apocalyptic Modern	
+	Violence, Nonviolence, and the Buddhist Tradition	
+ASIAN 382	Approaches in Asian Studies	3.0
+ASIAN 383	Wealth and Poverty in Korea: What it Means to be Rich (or not) in Korea	3.0
+ASIAN 384	HU Topics in Korean Studies	3.0
+ASIAN 385	Love in Korean Literature and Cinema	3.0
+ASIAN 387	Hate in Asia: Cultures of Conflict and Reconciliation	3.0
+ASIAN 388	Utopia and Dystopia in Korea	3.0
+ASIAN 389	Culture in East Asian Business, Past and Present	4.0
+ASIAN 402	East Asian Performance Theory	3.0
+ASIAN 407	Drug Lords, Prophets, and Adventures: East Asia and the Age of Global Empire	3.0
+ASIAN 409	Exploring Consciousness: Neuro-cultures and Asian Philosophies of Mind	3.0
+ASIAN 440	National Cinema of Asia	3.0
+ASIAN 457	Translating Korean Poetry: Theory and Practice	3.0
+ASIAN 458	Film Culture in Korea	3.0
+ASIAN 459	Sociology of Contemporary Korea: Development, Globalization, and Identity	3.0
+ASIAN 460	Gender and Nationalism in Korea	3.0
+ASIAN 477	The Theory and Practice of Translation	3.0
+ASIAN 480	Topics in Asian Studies	3.0
+	Korean Cinema and Media	
+	Multi Ethnic Korea	
+	Language and Culture in Everyday Life: Korea	
+	Performance Traditions of Korea: P'ansori, Text and Performance	
+	Making Places in Seoul: Cultural History of Urbanism and Development	
+	Korean Traditional Poetry	
+	Dance in Modern Asia: History, Identity, Politics	
+	Interdisciplinary Topics Korean Politics and Society	
+	Cold War Cultures in Korea	
+	New Media and Asian Societies	
+ASIAN 483	The Lives of the Buddha, From India to Manga	3.0
+ASIAN 484	Buddhist Tantra	3.0
+ASIAN 486	Buddhist Meditation	3.0
+ASIANLAN 335	Third-Year Korean I	4.0
+ASIANLAN 336	Third-Year Korean II	4.0
+ASIANLAN 435	Advanced Reading and Writing Korean	3.0
+ASIANLAN 436	Advanced Spoken Korean	2.0
+ASIANLAN 437	Business Korean	3.0
+ASIANLAN 438	Media Korean	3.0
+ASIANLAN 479	Teaching Korean in the Community	2.0
+ASIANLAN 480	Topics in Asian Language	43834.0
+
+### Sheet: South Asia
+COURSE NUMBER	COURSE NAME	CREDITS																							
+ASIAN 303	War Machines: Religious Militant Orders of the World	3.0
+ASIAN 304	The Art of Yoga	3.0
+ASIAN 305	Religion and Violence in the Secular World	3.0
+ASIAN 306	What is Religion	3.0
+ASIAN 307	Eat, Pray, Love: Devotional Traditions in South Asia	3.0
+ASIAN 308	Arts and Ideas of Modern South and Southeast Asia	3.0
+ASIAN 309	Warrior Saints: Introduction to Sikhism	3.0
+ASIAN 324	The History of Islam in South Asia	3.0
+ASIAN 325	Zen: History, Culture, and Critique	4.0
+ASIAN 329	Buddhism, Politics, and Violence in Modern Asia	3.0
+ASIAN 330	Divided Loyalties, Divided Laughter: Understanding South Asia through Literary Humor	3.0
+ASIAN 331	Introduction to Indian Philosophy	3.0
+ASIAN 332	South Asian Identity: Writing Home from Away	3.0
+ASIAN 333	Sacred Collectives: Nation and Religion in South Asia	3.0
+ASIAN 334	Patterns of Prejudice: Race, Caste, and Religion in India and the United States	3.0
+ASIAN 335	Himalayas: An Aesthetic Exploration	3.0
+ASIAN 336	Controversies in Contemporary India	3.0
+ASIAN 337	Great Epics of India	3.0
+ASIAN 338	HU Topics in South Asian Studies	3.0
+ASIAN 339	Migrants and Militants: the Sikh and Punjabi Diaspora	3.0
+ASIAN 347	Bollywood and Beyond: An Introduction to Popular Indian Cinema	3.0
+ASIAN 367	Languages of Asia	3.0
+ASIAN 371	Natural Disasters of East Asia	4.0
+ASIAN 373	The Performing Arts in South and Southeast Asia	3.0
+ASIAN 380	Topics in Asian Studies	3.0
+	Arts and Ideas - Modern South and Southeast Asia	
+	South Asian Travels	
+	Seeing in Asia, Showing Asia	
+	What is Religion	
+	Nation and Religion in South Asia	
+	Eat, Pray, Love: Devotional Traditions in South Asia	
+	From Myth, through Mysticism, to Rationalism: Phases of Philosophical Thought in India	
+	Violence, Nonviolence, and Buddhist Traditions of Asia	
+	The Lives of the Buddha from India to Manga	
+	Introduction to Global Bollywood	
+ASIAN 382	Approaches in Asian Studies	3.0
+ASIAN 387	Hate in Asia: Cultures of Conflict and Reconciliation	3.0
+ASIAN 395	The Festivals of South Asia: Cultural and Archival Interrogrations	3.0
+ASIAN 400	Indian Religions and Western Thought	3.0
+ASIAN 409	Exploring Consciousness: Neuro-cultures and Asian Philosophies of Mind	3.0
+ASIAN 423	Topics in Premodern South Asian History	3.0
+ASIAN 424	Topics in Modern South Asian History	3.0
+ASIAN 430	Philosophy of the Sikh Gurus	3.0
+ASIAN 435	Truth Claims in Indian Literature: Notification Accounts of Gendered Discrimination	3.0
+ASIAN 440	National Cinema of Asia	3.0
+ASIAN 477	The Theory and Practice of Translation	3.0
+ASIAN 480	Topics in Asian Studies	3.0
+	Mughal India	
+	Indian Cinema: Bollywood and Beyond	
+	Hinduism and Colonialism	
+	South Asian Art in Rural Context	
+	Readings in Urdu	
+	Girls, Monks, and Diamond Masters: Buddhist Practice in Nepal	
+	Phases of Philosophical Thought in India	
+	Sikh Philosophy, Religion, and Ethics	
+	The Bhagavad Gita: Critical Approaches to the Study of Hindu Scripture	
+	Sikhism and Modernity	
+	The Idea of India	
+	Asian Solidarity Movements in Twentieth Century	
+	Dance in Modern Asia: History, Identity, Politics	
+	Curatorial Seminar: Gallery Installation at the Detroit Institute of Arts	
+	Curatorial Seminar: Gallery Installation at the Art Institute of Chicago	
+	New Media and Asian Societies	
+ASIAN 483	The Lives of the Buddha, From India to Manga	3.0
+ASIAN 484	Buddhist Tantra	3.0
+ASIAN 486	Buddhist Meditation	3.0
+ASIAN 487	Buddhism in India: Its Doctrines and History	3.0
+ASIAN 494	Ocean of Stories: Telling Tales in the Indian Subcontinent	3.0
+ASIANLAN 350	Modern Colloquial Tibetan	3.0
+ASIANLAN 351	Third-Year Sanskrit I	3.0
+ASIANLAN 352	Third-Year Sanskrit II	3.0
+ASIANLAN 415	Readings in Hindi I	3.0
+ASIANLAN 416	Readings in Hindi II	3.0
+ASIANLAN 417	Advanced Hindi I	3.0
+ASIANLAN 418	Advanced Hindi II	3.0
+ASIANLAN 451	Advanced Sanskrit I	3.0
+ASIANLAN 452	Advanced Sanskrit II	3.0
+ASIANLAN 454	Advanced Spoken Hindi	3.0
+ASIANLAN 455	Advanced Tamil I	3.0
+ASIANLAN 456	Advanced Tamil II	3.0
+ASIANLAN 463	Advanced Tibetan I	3.0
+ASIANLAN 464	Advanced Tibetan II	3.0
+ASIANLAN 465	First-Year Classical Tibetan I	3.0
+ASIANLAN 466	First-Year Classical Tibetan II	3.0
+ASIANLAN 467	Second-Year Classical Tibetan I	3.0
+ASIANLAN 468	Second-Year Classical Tibetan II	3.0
+ASIANLAN 469	Advanced Classical Tibetan I	3.0
+ASIANLAN 470	Advanced Classical Tibetan II	3.0
+ASIANLAN 471	Advanced Urdu I	3.0
+ASIANLAN 472	Advanced Urdu II	3.0
+ASIANLAN 480	Topics in Asian Language	43834.0
+ASIANLAN 481	Advanced Telugu I	3.0
+ASIANLAN 482	Advanced Telugu II	3.0
+ASIANLAN 485	Advanced Bengali I	3.0
+ASIANLAN 486	Advanced Bengali II	3.0
+
+### Sheet: Southeast Asia
+COURSE NUMBER	COURSE NAME	CREDITS																							
+ASIAN 304	The Art of Yoga	3.0
+ASIAN 305	Religion and Violence in the Secular World	3.0
+ASIAN 306	What is Religion	3.0
+ASIAN 308	Arts and Ideas of Modern South and Southeast Asia	3.0	
+ASIAN 325	Zen: History, Culture, and Critique	4.0	
+ASIAN 327	Thai Buddhism and Film	3.0	
+ASIAN 328	Introduction to Theravada Buddhism	3.0	
+ASIAN 329	Buddhism, Politics, and Violence in Modern Asia	3.0	
+ASIAN 340	From Genghis Khan to the Taliban: Modern Central Asia	3.0	
+ASIAN 342	Gender and Power in Southeast Asia	3.0	
+ASIAN 343	Southeast Asian Politics through the Arts	3.0	
+ASIAN 345	Genocide and Trauma in Southeast Asia, Africa, and Europe in the Twentieth Century	3.0	
+ASIAN 346	Controversies in Contemporary Southeast Asia	3.0	
+ASIAN 347	Thailand: Culture, Society, and Politics	3.0	
+ASIAN 348	HU Topics in Southeast Asian Studies	3.0	
+ASIAN 367	Languages of Asia	3.0	
+ASIAN 371	Natural Disasters in East Asia	4.0	
+ASIAN 373	The Performing Arts in South and Southeast Asia	3.0
+ASIAN 380	Topics in Asian Studies	3.0
+	Arts and Ideas of Modern South and Southeast Asia	
+	Islam in Southeast Asia	
+	Seeing in Asia, Showing Asia	
+	What is Religion	
+	Gender and Power in Southeast Asia	
+	Violence, Nonviolence, and the Buddhist Traditions of Asia	
+ASIAN 382	Approaches in Asian Studies	3.0
+ASIAN 387	Hate in Asia: Cultures of Conflict and Reconciliation	3.0
+ASIAN 409	Exploring Consciousness: Neuro-cultures and Asian Philosophies of Mind	3.0
+ASIAN 416	Possessing Culture: Mediumship and Ethnography in SE Asia	3.0
+ASIAN 440	National Cinema of Asia	3.0
+ASIAN 462	Writing, Culture, and History: Perspectives on Indonesia	3.0
+ASIAN 463	Music of Southeast Asia	3.0
+ASIAN 464	From Mystic Saints to Holy Warriors: Islam in Southeast Asia	3.0
+ASIAN 477	The Theory and Practice of Translation	3.0
+ASIAN 480	Topics in Asian Studies	3.0
+	Media of Religion in Southeast Asia																								
+	Readings in Thai																								
+	Criminality, Power, and Culture in Southeast Asia																								
+	From Mystic Saints to Holy Warriors: Islam in Southeast Asia																								
+	Possessing Culture: Mediumship and Ethnography in SE Asia																								
+	Music, Culture, and Indigeneity in the Philippines																								
+	Thailand: Culture, Society, and Politics																								
+	The Power of Place in Southeast Asia																								
+	Dance in Modern Asia: History, Identity, Politics																								
+	New Media and Asian Societies																								
+	Javanese Puppet Theatre Workshop																								
+	Javanese Zombie Puppets Invading North America																								
+ASIAN 483	The Lives of the Buddha, From India to Manga	3.0
+ASIAN 484	Buddhist Tantra	3.0
+ASIAN 486	Buddhist Meditation	3.0
+ASIANLAN 411	Advanced Filipino I	3.0
+ASIANLAN 412	Advanced Filipino II	3.0
+ASIANLAN 419	Advanced Indonesian I	3.0
+ASIANLAN 420	Advanced Indonesian II	3.0
+ASIANLAN 421	Readings in Indonesian I	3.0
+ASIANLAN 422	Readings in Indonesian II	3.0
+ASIANLAN 423	Javanese I	3.0
+ASIANLAN 424	Javanese II	3.0
+ASIANLAN 461	Advanced Thai I	3.0
+ASIANLAN 462	Advanced Thai II	3.0
+ASIANLAN 475	Advanced Vietnamese I	3.0
+ASIANLAN 476	Advanced Vietnamese II	3.0
+ASIANLAN 480	Topics in Asian Language	43834.0

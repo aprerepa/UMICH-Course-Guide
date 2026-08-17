@@ -1,0 +1,35 @@
+{
+  "id": "business",
+  "displayName": "Business",
+  "requirementGroups": {
+    "First Year Requirements": [
+      "ACC 300",
+      "BA 100",
+      "BA 102",
+      "BCOM 250",
+      "ECON 101"
+    ],
+    "Sophomore Year Requirements": [
+      "ACC 301",
+      "BA 200",
+      "ECON 102",
+      "STRATEGY 290",
+      "TO 301"
+    ],
+    "Floating Core": [
+      "BE 300",
+      "FIN 300",
+      "MKT 300",
+      "TO 300"
+    ],
+    "Junior Year Requirements": [
+      "BCOM 350",
+      "BL 300",
+      "MO 300",
+      "TO 313"
+    ],
+    "Senior Year Requirements": [
+      "STRATEGY 390"
+    ]
+  }
+}

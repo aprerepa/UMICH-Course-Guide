@@ -1,0 +1,58 @@
+{
+  "id": "physics--majors-minors-html-physics-maj",
+  "displayName": "Physics",
+  "requirementGroups": {
+    "Prerequisites": [
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 160",
+      "PHYSICS 161",
+      "PHYSICS 240",
+      "PHYSICS 241",
+      "PHYSICS 260",
+      "PHYSICS 261",
+      "MATH 115",
+      "MATH 116",
+      "MATH 185",
+      "MATH 186",
+      "MATH 215",
+      "MATH 216",
+      "MATH 285",
+      "MATH 286",
+      "MATH 316"
+    ],
+    "Intermediate Courses Requirement": [
+      "PHYSICS 316",
+      "PHYSICS 390",
+      "PHYSICS 391"
+    ],
+    "Advanced Courses Requirement": [
+      "PHYSICS 401",
+      "PHYSICS 405",
+      "PHYSICS 406",
+      "PHYSICS 441",
+      "PHYSICS 453"
+    ],
+    "Elective Requirement": [
+      "PHYSICS 340",
+      "PHYSICS 360",
+      "PHYSICS 380",
+      "PHYSICS 398",
+      "CMPLXSYS 335"
+    ]
+  },
+  "openGroups": {
+    "Elective Requirement": {
+      "subjects": [
+        "PHYSICS"
+      ],
+      "minLevel": 400,
+      "exclude": [
+        "PHYSICS 501",
+        "PHYSICS 517",
+        "PHYSICS 518",
+        "PHYSICS 590"
+      ]
+    }
+  }
+}

@@ -1,0 +1,187 @@
+### Supplement: Editable sample schedule
+Source: https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0
+
+Page header:
+page title: Google Sheet export
+
+Visible page text:
+Climate and Meteorology Sample Schedule							
+Meterology Concentration							
+**See the next tab for the Climate Sciences Concentration**							
+To edit this Sample Schedule, make a copy of this sheet to your own Google Drive.  Click File > Make a Copy.							
+Please note: This sample schedule is based off of the CoE Bulletin and can be found on the EAC Website.  Changes may occur, and students need to work with their Major Advisors to create a plan for completing requirement.  This document has multiple tabs.  Use Alt ^ to switch tabs.  See the third tab for CoE General Requirements.							
+							
+Sample Schedules for all majors can be found on the							
+EAC Website							
+Pre-UM Credit (if applicable)	Course	Credits	Course	Credits	Course	Credits	Pre-UM Credit (if applicable)
+							
+							
+							
+							
+	Total	0	Total	0	Total	0	
+							
+	Cumulative Totals:	0		0		0	
+							
+First Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	First Year
+	Math 115	4	Math 116	4			
+	Chem 130/125/126 or 210/211	5	Physics 140/141	5			
+	Engr 100	4	Engr 101	4			
+	Intellectual Breadth	4	Intellectual Breadth	4			
+							
+							
+	Term Totals:	17		17		0	
+							
+	Cumulative Totals:	17		34		34	
+							
+Second Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Second Year
+	Math 215	4	Math 216	4			
+	Physics 240/241	5	Intellectual Breadth	4			
+	Intellectual Breadth	4	Climate 321	3			
+	Climate 320	3	Climate 323	4			
+							
+							
+	Term Totals:	16		15		0	
+							
+	Cumulative Totals:	50		65		65	
+							
+Third Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Third Year
+	Climate 380	3	Climate 350	3			
+	Climate 401	3	Climate 414	3			
+	Climate 463	3	Climate 324	4			
+	Technical Electives	4	Climate 423	4			
+	General Electives	3	General Electives	3			
+							
+	Term Totals:	16		17		0	
+							
+	Cumulative Totals:	81		98		98	
+							
+Fourth Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Fourth Year
+	Climate 410	4	Climate 455	4			
+	Climate 440	4	Climate 411	3			
+	Technical Electives	4	Climate 485	3			
+	General Electives	3	Technical Electives	5			
+							
+							
+	Term Totals:	15		15		0	
+							
+	Cumulative Totals:	113		128		128
+
+### Supplement: https://bulletin.engin.umich.edu/courses/course-info/
+Source: https://bulletin.engin.umich.edu/courses/course-info/
+
+Page header:
+page title: How to Read a Course Description – Bulletin
+
+Visible page text:
+How to Read a Course Description
+Bulletin
+/
+All Department & Program Course Guides
+/
+How to Read a Course Description
+Course Titles, Subject Codes, Catalog Numbers, Course Descriptions, Prerequisites, Credit Hours and Credit Exclusions that are approved by the College of Engineering Curriculum Committee are included in this Bulletin. Courses are listed by the department/unit that owns the courses (Home Department/Unit).
+Schedules of classes are issued separately by the Office of the Registrar, giving hours and room assignments for the courses and sections offered each term. The schedule of classes can be found at:
+https://www.umich.edu/~regoff/schedule/
+What the Course Number Indicates
+The number of each course is designated to indicate the general level of maturity and prior training expected.
+100
+First-year-level courses
+200
+Sophomore-level courses
+300
+Junior-level courses
+400*
+Senior-level courses
+500
+Predominantly Graduate-level courses
+600
+Graduate-level courses and above
+Unless a phrase such as “junior standing,” “senior standing,” or “graduate standing” is part of the list of prerequisites for a course, a student may elect an advanced-level course relative to their current status if the other prerequisites are satisfied. If the difference in standing level is greater than one academic year, it is usually not wise to elect an advanced-level course without first consulting the department or the instructor offering the course.
+In general, the prerequisites listed for a course designate specific subject materials and/or skills the student is expected to have mastered before electing the course (or, in some cases, concurrently with it).
+*
+A 400-level course listed in the Bulletin of the Horace H. Rackham School of Graduate Studies may be elected for graduate credit when this is approved by the student’s graduate program advisor.
+Course Equivalency
+The phrase “or equivalent” may no longer be considered as part of any prerequisite for any course. The specific courses must be listed. When a student has satisfactorily completed a course that is not listed but is believed to be substantially equivalent to one specified as a prerequisite for a course that the student wants to elect, the individual may consult the program advisor and upon determining if equivalency has been satisfied, election may be approved.
+Permission of Instructor
+The phrase “or permission of instructor (or department)” may no longer be considered as part of the statement of prerequisites for any course. When a student does not have the stated prerequisite for a course but can give evidence of background, training, maturity or high academic record, the student should present to the program advisor a note of approval from the instructor or department concerned.
+Representative Sample Schedules
+The information in this Bulletin for a number of the degree programs includes a schedule that is an example of one leading to graduation in eight terms. This sample schedule is for informational purposes only and should not be construed to mean that students are required to follow the schedule exactly.
+A transfer student attending a community or liberal arts college and pursuing a pre-engineering degree program may not be able to follow a similar schedule because of a lack of certain offerings. Departmental program advisors should always be consulted when planning course selections.
+
+### Supplement: CourseProfile (ATLAS)
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: CourseProfile (ATLAS)
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: CourseProfile (ATLAS)
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: CourseProfile (ATLAS)
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: CourseProfile (ATLAS)
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help
+
+### Supplement: CourseProfile (ATLAS)
+Source: https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml
+
+Page header:
+page title: U-M Okta | Sign In
+
+Visible page text:
+Sign In
+uniqname or Email Address
+Next
+Unlock account?
+Help

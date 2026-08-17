@@ -1,18 +1,246 @@
-Course	Title 	Credit 	Notes
-EECS 440*	Extended Reality for Social Impact (new FA24) 	4	
-EECS 441*	Mobile App Development for Entrepreneurs	4	
-EECS 443  	CS Thesis Course	3	CS-LSA Honors Details  CS-Eng Thesis Details
-EECS 447 	Machine Learning Research Experience 	4	Begins WN27 
-EECS 448*	Applied Machine Learning for Modeling Human Behavior	4	
-EECS 449*	Conversational Artificial Intelligence	4	
-EECS 467*	Autonomous Robotics	4	
-EECS 472	Computer Architecture Project	4	Replaces EECS 470 as an MDE/Capstone starting in WN26
-EECS 473	Advanced Embedded Systems	4	
-EECS 480*	Social Computing Systems	4	
-EECS 494	Computer Game Design and Development	4	
-EECS 495*	Accessible Computing	4	
-EECS 497*	Human-Centered Software Design & Development	4	
-EECS 498 (when marked as MDE/Capstone here)*	Special Topics		
-CSE 596	Engineering Interactive Systems	4	
-AEROSP 388 (CS approved projects only) 	Systems Engineering Processes and Digital Tools (MBSE) 	7 credits over 2 terms	During FA25-WN26, pre-approved CS related projects are eligible to earn both MDE/Capstone and Flexible Technical Elective credits. Once two semesters are completed, 4 credits can be used toward MDE/Capstone and 3 credits can be used toward FTE. Contact the CSE advising office at the beginning of the Fall term for eligible projects.
-For CS-Eng: *Beginning Winter 2024, MDEs with a * no longer count as Flexible Technical Electives.
+### Sheet: Capstone
+Course	Title 	Credit 	Notes																							
+EECS 440*	Extended Reality for Social Impact (new FA24) 	4.0																								
+EECS 441*	Mobile App Development for Entrepreneurs	4.0																								
+EECS 443  	CS Thesis Course	3.0	CS-LSA Honors Details
+
+CS-Eng Thesis Details																							
+EECS 447 	Machine Learning Research Experience 	4.0	Begins WN27 																							
+EECS 448*	Applied Machine Learning for Modeling Human Behavior	4.0																								
+EECS 449*	Conversational Artificial Intelligence	4.0																								
+EECS 467*	Autonomous Robotics	4.0																								
+EECS 472	Computer Architecture Project	4.0	Replaces EECS 470 as an MDE/Capstone starting in WN26																							
+EECS 473	Advanced Embedded Systems	4.0																								
+EECS 480*	Social Computing Systems	4.0																								
+EECS 494	Computer Game Design and Development	4.0																								
+EECS 495*	Accessible Computing	4.0																								
+EECS 497*	Human-Centered Software Design & Development	4.0																								
+EECS 498 (when marked as MDE/Capstone here)*	Special Topics																									
+CSE 596	Engineering Interactive Systems	4.0																								
+AEROSP 388 (CS approved projects only) 	Systems Engineering Processes and Digital Tools (MBSE) 	7 credits over 2 terms	During FA25-WN26, pre-approved CS related projects are eligible to earn both MDE/Capstone and Flexible Technical Elective credits. Once two semesters are completed, 4 credits can be used toward MDE/Capstone and 3 credits can be used toward FTE. Contact the CSE advising office at the beginning of the Fall term for eligible projects.																							
+For CS-Eng: *Beginning Winter 2024, MDEs with a * no longer count as Flexible Technical Electives. 																										
+
+### Sheet: ULCS
+Course(s)	Title 	Credits																								
+EECS 367/ROB 380	Introduction to Autonomous Robotics	4.0																								
+EECS 373 	Introduction to Embedded System Design	4.0																								
+EECS 388	Introduction to Computer Security	4.0																								
+EECS 390	Programming Paradigms	4.0																								
+EECS 404	Game Engine Architecture and Data-Oriented Programming	4.0	Begins WN27 																							
+EECS 427	VLSI Design I	4.0																								
+EECS 442	Computer Vision	4.0																								
+EECS 445	Introduction to Machine Learning	4.0																								
+EECS 470 	Computer Architecture	4.0																								
+EECS 471	Applied Parallel Programming with GPUs	4.0																								
+EECS 474	Algorithms for Data Science	4.0																								
+EECS 475 	Introduction to Cryptography	4.0																								
+EECS 476	Data Mining	4.0																								
+EECS 477	Introduction to Algorithms	4.0																								
+EECS 478 	Logic Circuit Synthesis and Optimization	4.0																								
+EECS 479	Introduction to Quantum Computing	4.0																								
+EECS 481 	Software Engineering (taken FA17 or after)	4.0																								
+EECS 482	Operating Systems	4.0																								
+EECS 483 	Compiler Construction 	4.0																								
+EECS 484	Database Management Systems	4.0																								
+EECS 485	Web Database and Information Systems	4.0																								
+EECS 486 	Information Retrieval & Web Search	4.0																								
+EECS 487 	Introduction to Natural Language Processing	4.0																								
+EECS 489	Computer Networks	4.0																								
+EECS 490 	Programming Languages	4.0																								
+EECS 491	Introduction to Distributed Systems	4.0																								
+EECS 492	Introduction to Artificial Intelligence	4.0																								
+EECS 493* 	User Interface Development	4.0																								
+EECS 498 (when marked as ULCS here)	Special Topics																									
+* Since Fall’22, the 493 instructor team have made substantial changes to the course curriculum which has led to an increased workload as reported by students. The changes include 1) more content on human-centered research and cutting-edge human-computer interaction research; 2) the web programming content is condensed and expedited; 3) one new assignment on user research methods, and one new assignment on prototyping; 4) more check-up milestones for the final projects so that students get more frequent feedback on their final projects. We believe the changes align the course better with cutting-edge research and practice in human-computer interaction and user research. Based on the feedback from Fall’22, students reported that the 3% workload as reflected in Atlas is inaccurate and does not depict the current workload of the course. Please keep this in mind when you register for EECS493. 																							
+
+### Sheet: Expanded ULCS
+Students pursuing expanded ULCS must satisfy 3 credits of expanded ULCS for the major. 
+
+*If a CSE 401X transfer course is less than 3 credits, students will need to take an additional course from this expanded ULCS list to get to at least 3 credits. 
+Please note: Courses that transfer is as EECS 401X are not currently approved to satisfy Expanded ULCS and would require petition approval to use toward this requirement. 
+
+Most graduate (500-lvl and above) level courses require instructor permission to enroll as an undergraduate student. Students should reach out to the course instructor for permission into a graduate level course.
+Course(s)	Title 	Credits
+Any course listed on the ULCS tab		4.0
+CSE 401X*	CSE Departmental Credit (CS-LSA students: please note, CSE 401X is considered non-LSA credit and does not contribute to the 100 LSA credit requirement) 	44930.0
+Beginning WN26, any CSE course at the 500-level is approved to count as Expanded ULCS. Please note: Undergraduates are not guaranteed seats in graduate level courses. To request access to a Graduate CSE course, contact the instructor directly.
+
+CSE 572	Randomness and Computation	4.0
+CSE 574	Computational Complexity	4.0
+CSE 575	Advanced Cryptography	4.0
+CSE 577 	Formal Verification of Hardware and Software Systems	4.0
+CSE 598 (when marked as Expanded ULCS here)	Special Topics	44989.0
+ECE 544 	Analysis of Societal Networks	
+EECS 444	Analysis of Societal Networks	
+EECS 453	Principles of Machine Learning	4.0
+EECS 460	Control Systems Analysis and Design	4.0
+EECS 461	Embedded Control System	4.0
+EECS 465/ROB 422	Introduction to Algorithmic Robotics	3.0
+EECS 498 (when marked as ULCS or Expanded ULCS here)	Special Topics	44989.0
+Beginning WN26, any EECS course at the 500-level is approved to count as Expanded ULCS. Please note: Undergraduates are not guaranteed seats in graduate level courses. To request access to a Graduate EECS course, contact the instructor directly.
+
+EECS 553	Machine Learning (ECE) 	3.0
+
+### Sheet: CS-Eng Flexible Technical Elect
+Course Category 	Course Details 																								
+The Curriculum Committees may approve other courses on a term-by-term basis. To see which EECS 398 or 498 Special Topics courses are approved to satisfy this and other requirements, click here.
+
+Please note: Some courses require specific permissions or are limited to major declared students only. For questions related to course permissions, please reach out to the course department directly. In addition, if there are specific prerequisites for a flexible technical elective, please ensure that you have met the necessary requirements to register for a course.
+
+When subjects have been approved at the 300-level or higher, departmental credit in that category (301X, 401X, etc.) can be used as FTE credit.
+
+Directed/Independent Study Rule: At most, 4 credits count toward the Technical Electives requirement. This applies to all independent/directed study or research courses as listed below (including those from other departments). Any additional credits count toward free electives.																								
+Aerospace Engineering	AEROSP 215: Introduction to Solid Mechanics and Aerospace Structures (3 credits)																								
+AEROSP 225: Introduction to Gas Dynamics (4 credits)																								
+	Any AEROSP course at the 300-level or higher [AEROSP 390 & 490: see Directed Study Rule above.]																								
+Astronomy	ASTRO 201: Introduction to Astrophysics (4 credits) 																								
+ASTRO 205: Exploring the X-Ray Universe (3 credits) 																								
+ASTRO 206: Black Holes (3 credits) 																								
+ASTRO 361: Astronomical Techniques (4 credits) 																								
+ASTRO 404: Galaxies and the Universe (3 credits)																								
+	Any ASTRO course at the 400-level (except 429 and 461)																								
+Bioinformatics	BIOINF 463: Mathematical Modeling in Biology 																								
+	BIOINF 501: Mathematical Foundations for Bioinformatics (3 credits)																								
+Biology	BIOLOGY 305: Genetics (3 credits)																								
+Any BIOLOGY, EEB, or MCDB course at the 400-level or higher																								
+Biomedical Engineering	BIOMEDE 221: Biophysical Chemistry and Thermodynamics (4 credits)																								
+BIOMEDE 231: Introduction to Biomechanics (4 credits)																								
+Any BIOMEDE course at the 300-level or higher [BIOMEDE 490: see Directed Study Rule above.]																								
+Chemical Engineering	CHE 230: Material and Energy Balances  (4 credits)																								
+	Any CHE course at the 300-level or higher [except CHE 405. CHE 490: see Directed Study Rule above.]																								
+Chemistry	CHEM 210: Structure and Reactivity I (4 credits)																								
+CHEM 211: Investigations in Chemistry (1-2 credits)																								
+CHEM 215: Structure and Reactivity II (3 credits)																								
+CHEM 216: Synthesis and Characterization of Organic Compounds (2 credits)																								
+CHEM 230: Physical Chemical Principles and Applications (3 credits)																								
+CHEM 241: Introduction to Chemical Analysis (2 credits)																								
+CHEM 242: Introduction to Chemical Analysis Laboratory (2 credits)																								
+CHEM 260: Chemical Principles (3 credits)																								
+	Any CHEM course at the 300-level or higher [CHEM 398, 399, 498, & 499: see Directed Study Rule above.]																								
+Civil and Environmental Engineering	CEE 211: Statics and Dynamics (4 credits)																								
+CEE 212: Solid and Structural Mechanics (4 credits)																								
+CEE 230: Energy and Environment (3 credits)																								
+CEE 265: Sustainable Engineering Principles (3 credits)																								
+	Any CEE course at the 300-level or higher (except 303) [CEE 490: see Directed Study Rule above.]																								
+Climate and Space	Any CLIMATE or SPACE course at the 300-level or higher [CLIMATE/SPACE 499: see Directed Study Rule above.]																								
+Complex Systems	CMPLXSYS 250: Energy and Climate Change: Technology, Markets, and Policy (3 credits)																								
+CMPLXSYS/SOC 251: Computational Social Sciences																								
+CMPLXSYS 260: Tipping Points, Bandwagons and Cascades: From Individual Behavior to Social Dynamics (3 credits)																								
+CMPLXSYS 270: Agent Based Modeling (3 credits)																								
+Any CMPLXSYS course at the 300-lvl or higher																								
+Program for Computing in the Arts and Sciences 	COMPFOR 221: Python Programming for Digital Media (3 credits) 																								
+Data Science	DATASCI 306: Introduction to Statistical Computing 																								
+DATASCI 315: Statistics and Artificial Intelligence 																								
+DATASCI 415: Data Mining and Statistical Learning																								
+	DATSCI 470: Introduction to the Design of Experiments																								
+Economics	ECON 401: Intermed Micro Thry (4 credits) 																								
+ECON 402: Intermed Macro Thry (4 credits) 																								
+ECON 409: Game Theory (4 credits)																								
+	ECON 452: Intermediate Introduction to Statistics and Econometrics II  (4 credits)																								
+Electrical Engineering and Computer Science	EECS 201: Computer Science Pragmatics (2 credits)																								
+EECS 215: Introduction to Electronic Circuits (4 credits)																								
+EECS 216: Introduction to Signals and Systems (4 credits)																								
+EECS 230: Electromagnetics I  (4 credits)																								
+EECS 245: Mathematics for Machine Learning (4 credits) 
+Please note: EECS 245 can satisfy either the CS Linear Algebra requirement or a Flexible Technical Elective. Email ugadmin@eecs.umich.edu if you would like it to count toward Flexible Technical Elective.  																								
+EECS 250: Electronic Sensing Systems (only if taken WN17 or before)																								
+EECS 270: Introduction to Logic Design (4 credits)																								
+EECS 285: Practical Programming in Java (2 credits)																								
+EECS 408: Advanced Operating Systems Projects (2 credits) Please note: This course requires concurrent enrollment in EECS 482. 																								
+Any EECS or CSE or ECE course at the 300-level or higher (except 398*, 402, 406, 409, 410, 496, 498*, 
+and MDE courses**) [EECS 399 (FA’14 or later)/499: see Directed Study Rule above.] 																								
+Each special topics course is reviewed for possible FTE/ULCS credit for the term/topic offered; see the 
+Advising Office for details.																								
+*Special topics course approvals for possible use toward program requirements, evaluated 
+each term, can be found here.																								
+	**MDE courses do not count towards FTE if taken in WN'24 or later (except 470, 473, and 494, 
+which continue to count as FTE).																								
+Engineering	ENGR 350: International Lab. Experience for Engineers [See Directed Study Rule above.]																								
+ENGR 355: Intermediate Multidisciplinary Engineering Project [See Directed Study Rule above.] (1-4 credits)*																								
+ENGR 403: Scientific Visualization																								
+ENGR 450: Multidisciplinary Design [See Directed Study Rule above.] (4 credits)																								
+ENGR 455: Advanced Multidisciplinary Engineering Project [See Directed Study Rule above.] (1-4 credits)*																								
+ENGR 480: Global Synthesis Project (Tauber Institute) [See Directed Study Rule above.] (4 credits)																								
+	*For MDP industry-sponsored projects, ENGR 355 and 455 can only count towards Flex Tech if both semesters of MDP project are completed. See CS-Eng MDP page (point #3). MDP faculty research projects for ENGR 355/455 can also count as Flex Tech.																								
+Entrepreneurship	ENTR 475: TechLab: Entrepreneurial Exploration and Development [See Directed Study Rule above.] (Up to 4 credits)																								
+	ENTR 485: Only sections of TechLab MCity, PJTL Climate Change, PJTL Electrification, and PJTL: MCity [See Directed Study Rule above.] (Up to 4 credits)																								
+Finance	FIN 302: Making Financial Decisions (3 credits) 																								
+FIN 342: Big Data in Finance (3 credits) 																								
+FIN 427: Artificial Intelligence and Machine Learning in Investment Strategies (3 credits)																								
+	FIN 428: FinTech Innovations (3 credits) 																								
+Industrial and Operations Engineering	IOE 202: Operations Modeling (course is not open to students with 85 credits or more) (2 credits)																								
+	Any IOE course at the 300-level or higher (except 422) [IOE 490: see Directed Study Rule above.]																								
+Linguistics	LING 441: Introduction to Computational Linguistics (3 credits)																								
+LING 442: Computational Linguistics II (3 credits)																								
+	LING 445: Introduction to Machine Learning for Natural Language Processing (3 credits) 																								
+Manufacturing 	MFG 504: Tauber Institute Project (3 credits)																								
+Marketing 	MKT 425: New Products and Innovation Management (with AI) (3 credits)  																								
+Materials Science and Engineering	MATSCIE 220: Introduction to Materials and Manufacturing (4 credits)																								
+MATSCIE 242: Physics of Materials (4 credits)																								
+MATSCIE 250: Principles of Engineering Materials (4 credits)																								
+	Any MATSCIE course at the 300-level or higher [MATSCIE 490: see Directed Study Rule above.]																								
+Mathematics	MATH 214: Applied Linear Algebra (if not used for CoE Math Core) (4 credits) 																								
+MATH 215: Calculus III (if not used for CoE Math Core) (4 credits) 																								
+MATH 216: Introduction to Differential Equations																								
+MATH 217: Linear Algebra (if not used for CoE Math Core) (4 credits) 																								
+MATH 285: Honors Multivariable and Vector Calculus (if not used for CoE Math Core) (4 credits) 																								
+MATH 286: Honors Differential Equations (if not used for CoE Math Core) (3 credits) 																								
+MATH 297: Introduction to Analysis																								
+	Any MATH course at the 300-level or higher (except 310, 327, 333, 385, 389, 399, 417, 419, 422, 429, 431, 485, 486, 489, 497)																								
+Mechanical Engineering	MECHENG 211: Introduction to Solid Mechanics (4 credits)																								
+MECHENG 235: Thermodynamics (3 credits)																								
+MECHENG 240: Introduction to Dynamics and Vibrations (4 credits)																								
+MECHENG 250: Design and Manufacturing I  (4 credits)																								
+	Any MECHENG course at the 300-level or higher [MECHENG 490 & 491: see Directed Study Rule above.]																								
+Molecular, Cellular, and Developmental Biology (MCBD)	MCDB 306: Introductory Genetics Laboratory (3 credits)																								
+	MCDB 310: Introductory Biochemistry (3 credits)																								
+Naval Architecture and Marine Engineering 	NAVARCH 270: Marine Design (4 credits)																								
+	Any NAVARCH course at the 300-level or higher [NAVARCH 490: see Directed Study Rule above.]																								
+Nuclear Engineering and Radiological Sciences	NERS 211: Introduction to Nuclear Engineering and Radiological Sciences (4 credits)																								
+NERS 250: Fundamentals of Nuclear Engineering and Radiological Sciences (4 credits)																								
+	Any NERS course at the 300-level or higher [NERS 499: see Directed Study Rule above.]																								
+Performing Arts Technology	PAT 204: Creative Coding (3 credits) 																								
+PAT 452: Interactive Music Design II (3 credits)																								
+PAT 462: Digital Sound Synthesis (3 credits)																								
+PAT 463: Music and AI (3 credits) 																								
+	PAT 464: Generative AI for Music and Audio Creation																								
+Philosophy	PHIL 414: Mathematical Logic (3 credits)																								
+	PHIL 417: Logic, Computation, and Learning (3 credits) 																								
+Physics	Any PHYSICS course at the 300-level or higher (except 333, 334, 420, and 481). [PHYS 496, 497, 498, 499: see 
+Directed Study Rule above.]																								
+Political Science	POLSCI 490: Game Theory and Formal Models (4 credits)																								
+Psychology 	PSYCH 449: Decision Processes (3 credits) 																								
+Robotics	ROB 204: Introduction to Human-Robot Systems (4 credits)																								
+	Any ROB course at the 300-level or higher [ROB 490: see Directed Study Rule above.]																								
+School of Information	SI 201: Data Oriented Prog (4 credits)																								
+SI 303: Introducion to Qualitative Methods (3 credits)																								
+Winter 2026 only SI 311.062: Casual Inference 																								
+SI 313: Introduction to Quantitative Methods (3 credits) 																								
+SI 315: Models of Social Information Processing (4 credits)																								
+SI 338: Web Design, Development, and Accessibility (4 credits)																								
+SI 342: Games and UX (3 credits) 																								
+SI 357: Introduction to Development (3 credits)																								
+SI 465: Applied AI: Machine Learning 																								
+	SI 630: Natural Language Processing: Algorithms and People (3 credits)																								
+Statistics	STATS 401: Applied Statistical Methods II (4 credits) 																								
+STATS 403: Introduction to Quantitative Research Methods (4 credits)																								
+STATS 406: Computational Methods in Statistics and Data Science (4 credits)																								
+STATS 413: Applied Regression Analysis (4 credits) 																								
+STATS 425: Introduction to Probability (cross-listed with MATH 425) (3 credits) 																								
+STATS 426: Introduction to Theoretical Statistics (3 credits)																								
+STATS 430: Applied Probability (3 credits)																								
+STATS 449: Topics in Biostatistics (cross-listed with BIOSTAT 449) (3 credits) 																								
+	STATS 531: Analysis of Time Series (3 credits) 																								
+Technology & Operations (Ross School of Business)
+
+	TO 302: Managing Business Operations (3 credits) 																								
+TO 313: Operations Management (3 credits) 																								
+TO 414: Advanced Analytics For Management Consulting (3 credits)																								
+TO 428: FinTech: Blockchain, Cryptocurrencies, and Other Technology Innovations In and Out of Finance (3 credits) 																								
+TO 450: Business Intelligence and Data Visualization (3 credits) 																								
+	TO 605/MFG 605: Manufacturing and Supply Operations (1.5-3 credits)																								
+
+### Sheet: CSE Course Sorting
+CSE Course Sorting Tool 
+Tags are used to provide general categorization of topics covered in our courses. For example, two courses sharing the 'AI' tag will not address Artificial Intellience in the same volume or depth. For full course information, always check with individual instructors (listed in WA) or course sites, as available. Courses that can count for Capstone/MDE requirements may have an overrepresentation of tags given the wide range of topics that can be pursued in course projects.
+Course Tag Descriptions

@@ -1,0 +1,27 @@
+{
+  "id": "greek-ancient-language-and-literature--majors-minors-html-greek-ancient-language-and-literature-maj",
+  "displayName": "Greek (Ancient) Language and Literature",
+  "requirementGroups": {
+    "Prerequisites": [
+      "GREEK 101",
+      "GREEK 102",
+      "GREEK 103"
+    ],
+    "Requirements": [
+      "ARCHAM 221",
+      "CLARCH 221",
+      "HISTORY 200",
+      "GREEK 401",
+      "GREEK 402"
+    ]
+  },
+  "openGroups": {
+    "Requirements": {
+      "subjects": [
+        "GREEK"
+      ],
+      "minLevel": 300,
+      "exclude": []
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "russian",
+  "displayName": "Russian",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          {
+            "allOf": [
+              {
+                "anyOf": [
+                  {
+                    "allOf": [
+                      "RUSSIAN 101",
+                      "RUSSIAN 102",
+                      "RUSSIAN 201",
+                      "RUSSIAN 202"
+                    ]
+                  },
+                  {
+                    "allOf": [
+                      "RUSSIAN 103",
+                      "RUSSIAN 203"
+                    ]
+                  },
+                  {
+                    "allOf": [
+                      "RUSSIAN 123",
+                      "RUSSIAN 223"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "allOf": [
+              {
+                "anyOf": [
+                  "RUSSIAN 225",
+                  "RUSSIAN 202"
+                ]
+              },
+              "RUSSIAN 231"
+            ]
+          }
+        ]
+      }
+    },
+    "Russian Language and Literature Core Courses": {
+      "minCourses": 7,
+      "countsTowardMajorTotal": true
+    },
+    "Russian Language and Literature Literature/Culture outside of 19th Century": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Culture Track Core Courses": {
+      "minCourses": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Upper-Level Electives for Culture Subplan": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Heritage Speakers Track Core Courses": {
+      "minCourses": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Upper-Level Electives for Heritage Speakers Subplan": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

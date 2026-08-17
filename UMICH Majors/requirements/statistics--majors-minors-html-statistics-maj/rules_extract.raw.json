@@ -1,0 +1,95 @@
+{
+  "id": "statistics",
+  "displayName": "Statistics",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "MATH 205",
+              "MATH 215",
+              "MATH 285"
+            ]
+          },
+          {
+            "anyOf": [
+              "MATH 214",
+              "MATH 217"
+            ]
+          },
+          "EECS 183",
+          {
+            "anyOf": [
+              "DATASCI 101",
+              "STATS 206",
+              "STATS 250",
+              "STATS 280",
+              "STATS 412"
+            ]
+          }
+        ]
+      }
+    },
+    "Core applied statistics course": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "STATS 413"
+        ]
+      }
+    },
+    "Core theoretical statistics courses": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "STATS 425",
+          "STATS 426"
+        ]
+      }
+    },
+    "Core statistical computing course": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "STATS 306"
+        ]
+      }
+    },
+    "Additional advanced statistics courses": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "minOf": 3,
+        "options": [
+          "STATS 315",
+          "STATS 406",
+          "STATS 415",
+          "STATS 430",
+          "STATS 449",
+          "STATS 451",
+          "STATS 470",
+          "STATS 480",
+          "MATH 526",
+          "STATS 526"
+        ]
+      }
+    },
+    "Capstone course": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "STATS 485"
+        ]
+      }
+    },
+    "Elective courses in Statistics, Mathematics, or EECS": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

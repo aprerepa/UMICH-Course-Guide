@@ -1,0 +1,17 @@
+{
+  "id": "comparative-literature-arts-and-media",
+  "displayName": "Comparative Literature, Arts, and Media",
+  "requirementGroups": {
+    "Capstone Seminar": [
+      "COMPLIT 495"
+    ]
+  },
+  "openGroups": {
+    "Comparative Literature Core": {
+      "subjects": [
+        "COMPLIT"
+      ],
+      "minLevel": 200
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ethnic-studies-sub-major-of-american-culture--ethnic-studies-submajor-html",
+  "displayName": "Ethnic Studies (Sub-major of American Culture)",
+  "groupRules": {
+    "Introductory Ethnic Studies Courses": {
+      "require": {
+        "anyOf": [
+          "AAS 201",
+          "LATINOAM 213",
+          "ASIANPAM 214",
+          "ARABAM 215",
+          "ARABAM 216",
+          "NATIVEAM 217"
+        ]
+      },
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Ethnic Studies Electives": {
+      "completion": "manual",
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

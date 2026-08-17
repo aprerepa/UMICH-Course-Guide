@@ -1,0 +1,39 @@
+{
+  "id": "public-health-sciences",
+  "displayName": "Public Health Sciences",
+  "requirementGroups": {
+    "Integrated Core Courses": [
+      "PUBHLTH 381",
+      "PUBHLTH 382",
+      "PUBHLTH 383",
+      "PUBHLTH 384"
+    ],
+    "Major Specific Requirements": [
+      "PUBHLTH 370",
+      "PUBHLTH 305",
+      "PUBHLTH 310",
+      "PUBHLTH 311"
+    ],
+    "Health Equity Requirement": [
+      "PUBHLTH 308",
+      "PUBHLTH 313",
+      "PUBHLTH 320",
+      "PUBHLTH 328",
+      "PUBHLTH 333",
+      "PUBHLTH 360",
+      "PUBHLTH 450"
+    ],
+    "Culminating Experience": [
+      "PUBHLTH 481",
+      "PUBHLTH 380"
+    ]
+  },
+  "openGroups": {
+    "Major Specific Requirements": {
+      "subjects": [
+        "PUBHLTH"
+      ],
+      "minLevel": 300
+    }
+  }
+}

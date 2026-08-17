@@ -12,6 +12,8 @@
   "requirements_link_score": 75,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://smtd.umich.edu/beyond-the-curriculum/",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:45:49.706355+00:00"
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:27:05.079810+00:00",
+  "supplements_count": 0,
+  "supplements": []
 }

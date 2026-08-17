@@ -1,0 +1,47 @@
+{
+  "id": "middle-eastern-and-north-african-studies",
+  "displayName": "Middle Eastern and North African Studies",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          {
+            "allOf": [
+              "ARABIC 101",
+              "ARABIC 102"
+            ]
+          },
+          {
+            "allOf": [
+              "ARMENIAN 101",
+              "ARMENIAN 102"
+            ]
+          },
+          {
+            "allOf": [
+              "HEBREW 101",
+              "HEBREW 102"
+            ]
+          },
+          {
+            "allOf": [
+              "PERSIAN 101",
+              "PERSIAN 102"
+            ]
+          },
+          {
+            "allOf": [
+              "TURKISH 101",
+              "TURKISH 102"
+            ]
+          }
+        ]
+      }
+    },
+    "Core Courses": {
+      "minCredits": 30,
+      "countsTowardMajorTotal": true,
+      "completion": "manual"
+    }
+  }
+}

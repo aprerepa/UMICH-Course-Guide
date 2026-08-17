@@ -4,19 +4,36 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#law_justics_and_social_change-sub",
   "status": "fetched",
-  "message": "requirements page ready for LLM (Law, Justice, and Social Change (Sub-Major), Winter 2023+)",
+  "message": "requirements page ready for LLM (Law, Justice, and Social Change (Sub-Major), Winter 2023+) (+2 course-list supplements: Courses, Browse copies of past LSA bulletins)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#law_justics_and_social_change-sub",
   "program_fetch_mode": "browser",
-  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/sociology-major.html",
-  "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
-  "requirements_link_strategy": "lsa_listing:lsa_detail+lsa_historical_latest_term",
-  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/sociology-major.html",
+  "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/law--justice--and-social-change-submajor.html",
+  "requirements_link_text": "REQUIREMENTS \u2192 Law, Justice, and Social Change",
+  "requirements_link_score": 255,
+  "requirements_link_strategy": "lsa_listing:lsa_detail\u2192nested+lsa_historical_latest_term",
+  "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/law--justice--and-social-change-submajor.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:59:51.366852+00:00",
+  "fetched_at": "2026-08-10T16:21:26.194664+00:00",
   "lsa_resolved_row_id": "law_justics_and_social_change-sub",
   "lsa_requirements_title": "Law, Justice, and Social Change (Sub-Major)",
   "lsa_requirements_term": "Winter 2023",
   "math_requirements_title": "Law, Justice, and Social Change (Sub-Major)",
-  "math_requirements_term": "Winter 2023"
+  "math_requirements_term": "Winter 2023",
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    },
+    {
+      "id": "02-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3806
+    }
+  ]
 }

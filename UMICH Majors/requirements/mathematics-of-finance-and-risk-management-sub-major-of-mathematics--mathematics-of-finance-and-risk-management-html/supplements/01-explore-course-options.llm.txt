@@ -1,0 +1,414 @@
+Page header:
+page title: Explore Course Options | U-M LSA Mathematics
+
+Visible page text:
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+Mathematics
+About Us
+People
+Centers & Outreach
+Seminars, Colloquia & Lectures
+News & Events
+for
+Undergraduates
+Graduates
+Alumni & Friends
+Research
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Keyword Search of math
+Home
+About Us
+People
+Centers & Outreach
+Seminars, Colloquia & Lectures
+News & Events
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+for
+Undergraduates
+Graduates
+Alumni & Friends
+Research
+Your First Math Course at UofM:  A Guide for Incoming Students
+Advising
+Frequently Asked Questions
+Research and Career Opportunities
+Transfer Credit
+Undergraduate Math Courses
+Awards, Scholarships, and Prizes
+Graduation
+Resources
+Major and Minor Programs
+Extracurricular Activities
+Policies
+Student Spotlight
+Admissions
+Programs
+Students On the Job Market - AIM & Math
+Awards & Fellowships
+Recent Ph.D. Recipients
+Student Spotlight - AIM & Math
+Courses
+Student Handbook - AIM & Math
+Thesis Defense Schedule
+Newsletters
+Giving to Mathematics
+Algebra and Algebraic Geometry
+Combinatorics
+Financial and Actuarial Mathematics
+Mathematical Biology
+Number Theory
+Research Training Grant
+Analysis
+Computer Science
+Geometry & Topology
+Mathematical Physics
+Probability Theory
+Named Postdoctoral Fellows
+Applied Mathematics
+Differential Equations
+Logic and Foundations
+Mathematics Education
+Scientific Computing
+Skip to Page Content
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+Explore Course Options
+...
+Explore Course Options
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+[X] close
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+Understand your Foundation
+Explore Course Options
+Move Towards a Decision
+Follow-Up
+Undergraduate Math Courses
+Major and Minor Programs
+Advising
+Awards, Scholarships, and Prizes
+Extracurricular Activities
+Frequently Asked Questions
+Graduation
+Policies
+Research and Career Opportunities
+Resources
+Student Spotlight
+Transfer Credit
+Explore Course Options
+Undergraduates
+Your First Math Course at UofM:  A Guide for Incoming Students
+Understand your Foundation
+Explore Course Options
+Move Towards a Decision
+Follow-Up
+Undergraduate Math Courses
+Major and Minor Programs
+Advising
+Awards, Scholarships, and Prizes
+Extracurricular Activities
+Frequently Asked Questions
+Graduation
+Policies
+Research and Career Opportunities
+Resources
+Student Spotlight
+Transfer Credit
+Before choosing a math class, you need to know about what options are out there! There are really two dimensions to understand: What kind of math? How abstract?
+Most students take a math course in our “Main Sequence” (Precalculus - Calculus I - Calculus II) and need to figure out where in that sequence to start (what kind of math?). But some students may also want a more abstract course and may be deciding between a variety of other math classes (how abstract?).
+To help you understand this variety of offerings, we’ve included below:
+course descriptions
+video interviews or written FAQs
+(with current or recent instructors)
+case studies
+(describing fictional, but representative, students making course decisions)
+graphics
+(to understand how certain courses compare)
+And you don’t have to make sense of this all alone! Summer math advisors are here to help you understand all these options.
+We start with describing the “Main Sequence”, which is what most incoming students pursue.
+Map of Typical Starting (100/200-level) Mathematics Courses at U-M
+Main Sequence Coures
+Most students take courses in the main calculus sequence:
+Math 105: Data, Functions and Graphs, which prepares students for calculus;
+Math 115: Calculus I
+Math 116: Calculus II
+Math 205/215: Multivariable and Vector Calculus
+Students in these courses learn the underlying concepts of the material, and there is a strong focus on modeling content, that is, applications to other areas using this material.
+Math 105: Data, Functions, and Graphs
+Math 105: Data, Functions, and Graphs
+This course explores the behavior of foundational families of functions (e.g., linear, exponential, trigonometric) that come up in many areas of study. There is an emphasis on solving problems, multiple representations, and deeply understanding concepts that will, among other things, prepare you for taking Math 115.
+Class size:
+18-24
+Format:
+Groupwork
+Atlas Course Description Link: Math 105
+Math 115: Calculus 1
+Math 115: Calculus I
+What does it mean to study how a function is changing? If you know how the function is changing, what does this tell you about the original function itself? These questions give rise to the concepts of derivatives and integrals. In 115, you explore these concepts via real-world contexts, graphs, tables, and formulas.
+Class size:
+18-24
+Format:
+Groupwork
+Atlas Course Description Link: Math 115
+Math 116: Calculus 2
+Math 116: Calculus II
+Building on the material of Calculus I, see further techniques and applications of integration, and learn about the bizarre and beautiful things that happen when you try to add infinitely many numbers together (that is, infinite series).
+Class size:
+18-24
+Format:
+Groupwork
+Atlas Course Description Link: Math 116
+Math 205: Calculus of Several Variables
+Math 205: Calculus of Several Variables
+This is a multivariable calculus course that is an alternative to Math 215 for students intending to concentrate in Math, Stats, or Economics (but not Engineering or Physics). However, there is no computer component in Math 205.
+Class size:
+18-24
+Format:
+Groupwork
+Atlas Course Description Link: Math 205
+A written interview with Math 205 Instructor Michael Weiss
+Math 215: Multivariable and Vector Calculus
+Math 215: Multivariable and Vector Calculus
+This course brings the concepts of derivatives and integrals from Calculus I and II into three-dimensional space with multivariable and vector calculus. In weekly labs you will use computer software with peers to apply the concepts from class to create complex 3D visualizations and solve real-world problems.
+Class size:
+100 person lectures 3x / week with 25-person labs once / week
+Format:
+Lecture
+Atlas Course Description Link: Math 215
+Main Sequence Case Studies
+Amalgamating the experiences and situations of many different real students over the years, the case studies below illustrate the kinds of considerations that go into selecting a first math course at U-M. As these collectively demonstrate, there are many different factors that go into choosing your first math class! Even if the specifics of these case studies do not resonate with you, giving them a quick read will help you gain familiarity with the way different considerations and factors go into making this important decision.
+Jimena (105)
+Jay (115)
+Chris (115)
+Bea (116)
+Jimena went to a high school that did not offer AP Calculus. She received an A in her high school calculus class, but her University of Michigan math placement score comes back with a result of “Math 105, definite.” Jimena wants to major in Biophysics and go to medical school, and is worried that starting in Math 105 (Precalculus: Data, functions, and graphs) in college will set her timeline back. She’s also confused by the “Math 105, definite” placement recommendation, since she already took Calculus in high school. However, after talking to a math advisor and looking through some Math 105 exams together, she realizes she’ll learn a lot by taking Math 105, and understands that taking Math 105 in the fall to prepare for Math 115 (Calculus I) in the winter is a better choice for her than trying to start in Math 115 before she’s ready. Jimena takes Math 105 in the fall, which is challenging for her, but doable. She works with her classmates and attends office hours regularly. She goes on to take Math 115, Math 116 (Calculus II), and Math 215 (Calculus III).
+Jay took AB Calculus in high school and received a 3 on the AP Calculus AB exam. Jay’s placement score is “Math 105, tentative”. Jay is deciding between Math 105 (PreCalculus: Datas, Functions, and Graphs) and Math 115 (Calculus I), both of which could be good options for him. Jay knows both courses would be a lot of work, and ultimately decides to take Math 115. The course is challenging, but he puts in a lot of work: Jay goes to all available office hours, spends a lot of time at Math Learning Center (walk-in tutoring service, free to all undergraduates), and forms a regular study group with classmates. Jay ends the semester with a “B” and goes on to major in Cognitive Science.
+Chris isn’t sure what they want to major in just yet. Chris took a general calculus course in their final year of high school (not AP) and is thinking about registering for Math 116 (Calculus II) first semester. Prior to the advising session, Chris looked over some old Math 115 (Calculus I) exams from the University of Michigan and felt comfortable with many of the questions, but saw some material they didn’t feel totally confident about. Chris is planning to register for a variety of other courses to see what they might like to focus on in college and decides to register for Math 115 because they want a solid foundation in college-level calculus. (Chris goes on to graduate with a major in Political Science and a minor in Data Science.)
+Bea is eager to pursue a pre-medicine course load. Her University of Michigan math placement exam result suggests she’s prepared to enroll in “calculus or beyond, tentative” but Bea is a little wary of this recommendation because she took calculus in an IB program and not a “traditional high school calculus course” as she says. The math advisor notes that math could be quite beneficial to her for a career in medicine, and that the IB curriculum Bea took (Analysis and Approaches HL) actually prepares students well for the expectations of a college calculus course. Bea and the advisor go over some problems from Math 115 final exams, and Bea finds she is able to do them. She leaves the advising session prepared to register for Math 116 (Calculus II).
+Jimena (105)
+Jimena went to a high school that did not offer AP Calculus. She received an A in her high school calculus class, but her University of Michigan math placement score comes back with a result of “Math 105, definite.” Jimena wants to major in Biophysics and go to medical school, and is worried that starting in Math 105 (Precalculus: Data, functions, and graphs) in college will set her timeline back. She’s also confused by the “Math 105, definite” placement recommendation, since she already took Calculus in high school. However, after talking to a math advisor and looking through some Math 105 exams together, she realizes she’ll learn a lot by taking Math 105, and understands that taking Math 105 in the fall to prepare for Math 115 (Calculus I) in the winter is a better choice for her than trying to start in Math 115 before she’s ready. Jimena takes Math 105 in the fall, which is challenging for her, but doable. She works with her classmates and attends office hours regularly. She goes on to take Math 115, Math 116 (Calculus II), and Math 215 (Calculus III).
+Jay (115)
+Jay took AB Calculus in high school and received a 3 on the AP Calculus AB exam. Jay’s placement score is “Math 105, tentative”. Jay is deciding between Math 105 (PreCalculus: Datas, Functions, and Graphs) and Math 115 (Calculus I), both of which could be good options for him. Jay knows both courses would be a lot of work, and ultimately decides to take Math 115. The course is challenging, but he puts in a lot of work: Jay goes to all available office hours, spends a lot of time at Math Learning Center (walk-in tutoring service, free to all undergraduates), and forms a regular study group with classmates. Jay ends the semester with a “B” and goes on to major in Cognitive Science.
+Chris (115)
+Chris isn’t sure what they want to major in just yet. Chris took a general calculus course in their final year of high school (not AP) and is thinking about registering for Math 116 (Calculus II) first semester. Prior to the advising session, Chris looked over some old Math 115 (Calculus I) exams from the University of Michigan and felt comfortable with many of the questions, but saw some material they didn’t feel totally confident about. Chris is planning to register for a variety of other courses to see what they might like to focus on in college and decides to register for Math 115 because they want a solid foundation in college-level calculus. (Chris goes on to graduate with a major in Political Science and a minor in Data Science.)
+Bea (116)
+Bea is eager to pursue a pre-medicine course load. Her University of Michigan math placement exam result suggests she’s prepared to enroll in “calculus or beyond, tentative” but Bea is a little wary of this recommendation because she took calculus in an IB program and not a “traditional high school calculus course” as she says. The math advisor notes that math could be quite beneficial to her for a career in medicine, and that the IB curriculum Bea took (Analysis and Approaches HL) actually prepares students well for the expectations of a college calculus course. Bea and the advisor go over some problems from Math 115 final exams, and Bea finds she is able to do them. She leaves the advising session prepared to register for Math 116 (Calculus II).
+Alternative Courses (Math 185+)
+Overview
+While most students take the “Main Sequence” courses described above, there is a variety of alternative course offerings as well. The infographic below depicts how these courses vary from the main sequence courses in terms of abstraction, breadth, and applications. For example: Math 295 is shown below as highly abstract (underground) and also covering a lot of material; in contrast Math 156 is shown to be above ground, meaning it includes many applications.
+Important: Because of the abstraction in courses like Math 185 and 295, even though one might call them “Calculus I,” they are typically taken after something like AP Calculus. They are intended for students who want a very deep level of abstraction and it is not “going backward” in the curriculum to take these courses after Calculus I, Calculus II, or even Calculus III.
+Math 185: Honors Calculus 1
+Math 185: Honors Calculus I
+Have you ever wondered how mathematicians "know" a particular mathematical result is true? This course covers the same topics as a typical calculus course, but from a very different perspective. Learn how mathematicians define and discuss functions, limits, derivatives, and integrals. This course is followed by Math 186 in the Winter.
+Content:
+Calc I (kind of!)
+Class size:
+10-20
+Format:
+Mixed lecture and group work
+Atlas Course Description Link: Math 185
+Math 156: Applied Honors Calculus II
+Math 156: Applied Honors Calculus II
+This course covers the same general topics as Math 116, but emphasizes examples and applications relevant to engineering and the physical sciences.
+Content: Calc II (kind of!)
+Class size: 18-24
+Format: Lecture
+Atlas Course Description Link: Math 156
+Math 295: Honors Mathematics I
+Math 295: Honors Mathematics I
+Want an intense, immersive mathematical experience? If working with classmates on homework for one class for 20 hours a week sounds like fun to you, you might like Math 295. This course introduces very abstract and general tools for proving important results in Calculus. This course begins one possible path towards advanced theoretical math courses.
+Content:
+Calc I & II (kind of!)
+Class size:
+30-40
+Format:
+Lecture
+Atlas Course Description Link: Math 295
+Sample worksheets as mentioned in the video.
+Math 215 and 285: Multivariable and Vector Calculus
+Math 215 and 285: Multivariable and Vector Calculus
+These courses cover similar topics: you’ll learn to imagine and analyze mathematical concepts in space with three (and more!) dimensions. Math 285 (the honors course) does this from a somewhat more theoretical perspective, for example by discussing why things are defined the way they are, while 215 focuses more on applications, especially to engineering and physics.
+Content:
+Calc III
+Class size:
+100 person lectures (215) or 24 (285)
+Format:
+Lecture
+Atlas Course Description Link: Math 215
+Atlas Course Description Link: Math 285
+Math 205: Calculus of Several Variables
+Math 205: Calculus of Several Variables
+Like 215 and 285, this course explores the mathematics of functions with more than one variable. Unlike those courses, this one focuses more on applications to data, and so may be of interest to math, econ, and data science students. It spends much less time on vector calculus, which is important for physics but less so for data analysis.
+Content:
+Calc III
+Class size:
+24
+Format:
+Groupwork
+Atlas Course Description Link: Math 205
+A written interview with Math 205 Instructor Michael Weiss
+Math 216: Introduction to Differential Equations
+Math 216: Introduction to Differential Equations
+In differential equations, you’ll see what you can tell about a function by using information about how the function changes. This is an important topic for physics and many areas of engineering, and this course will include many applications to these areas.
+Content:
+Calc IV / Differential Equations
+Class size:
+100 person lecture, 25 person lab
+Format:
+Lecture
+Atlas Course Description Link: Math 216
+A written interview with Math 216 Instructors Gavin LaRose and Kristen Moore
+Math 275: Intro to Cryptology
+Math 275: Intro to Cryptology
+Every time someone submits their credit card information online, it is (hopefully!) encrypted to prevent other people from being able to steal the information. Have you ever wondered what this means, and how it works? 275 teaches you the mathematics you need to understand this while introducing you to proof-writing in mathematics.
+This course is taught in an Inquiry-Based Learning (IBL) format, which means students spend the majority of class time working in groups and presenting ideas and solutions to problems.
+Why would a student take 275?
+You’re interested in discrete math
+Computer science or math degree
+Taken Calc and understand it well but don’t want more calc
+Intro to proof-based mathematics
+Cryptography is interesting to you
+You want a collaborative classroom environment, where students discuss solutions to math problems in small groups and a whole-class format.
+Content:
+Unlike any other first-year courses!
+Class size:
+18-24
+Format:
+Groupwork
+Atlas Course Description Link: Math 275
+A written interview with Math 275 Instructor Pat Boland
+Math 276: Explorations in Calculus
+Math 276: Explorations in Calculus
+This is a great course for students who started in Math 115, 116, or 275 in the fall, and want to see a more theoretical version of calculus in the Winter semester. It will prepare students to then take Math 285 the following fall. This course is taught in an Inquiry-Based Learning (IBL) format, which means students spend the majority of class time working in groups and presenting ideas and solutions to problems. It is also an introduction to proof-writing, and assignments for the course will involve (and provide support for)  a lot of mathematical writing.
+Content:
+Calc I & II (kind of!)
+Class size:
+10-20
+Format:
+Groupwork
+Atlas Course Description Link: Math 276
+A written interview with Math 276 Instructor Nina White
+Math 201 (1 credit): An Introduction to Mathematical Writing
+Math 201 (1 credit): An Introduction to Mathematical Writing
+This 1-credit course focuses on mathematical proof-writing! It’s a highly self-paced course, with lots of peer and tutor support. We recommend taking this course before or concurrently with your first proof-based course, like Math 217, or 185, 275, 276, or 295.
+Content:
+Proof-writing
+Class size:
+40-50
+Format:
+Individual and Groupwork
+Atlas Course Description Link: Math 201
+Math 214: Applied Linear Algebra
+Math 214: Applied Linear Algebra
+A key idea of single-variable differential calculus is that you can use linear functions to approximate much more complicated functions. It turns out that the same is true for functions with multiple variables, and linear algebra is the study of the multivariable equivalent to lines.
+This topic is incredibly important for areas like computer science and data science, and Math 214 includes projects with applications to these areas.
+Content:
+Linear Algebra
+Class size:
+40-60
+Format:
+Lecture and Groupwork
+Atlas Course Description Link: Math 214
+Math 217: Linear Algebra
+Math 217: Linear Algebra
+This course serves as both an introduction to proof-writing and an introduction to theoretical linear algebra. Both of these are important to learn before diving into many advanced mathematics courses. The course is taught in an Inquiry-Based Learning format, with students spending most of class time working in small groups while the instructor circulates and provides targeted feedback.
+This is an intense course with a heavy workload; we recommend first-year students start in a different course (such as Math 185 or 275) while taking Math 201 to learn proof-writing, and take Math 217 in their second semester.
+Content:
+(Proof-based) Linear Algebra
+Class size:
+24
+Format:
+Groupwork
+Atlas Course Description Link: Math 217
+Alternative Course Case Studies
+Parker (215)
+Steve (275)
+Ceecee (185)
+Dov (285)
+Parker is an engineering student who is waiting to receive their AP Exam results, but feels confident they’ll receive a 5 on the AP Calculus BC exam. Parker’s heard different things about whether it would be better to start in Math 116 (Calculus II), to get used to the expectations of a college math course and reinforce Calculus II knowledge, or to start in Math 215 (Calculus III) which will consist entirely of new material. After looking over some Math 116 math problems with a math advisor, Parker decides to start in Math 215, but knows that if they end up with a lower score on the AP exam, or feel overwhelmed by the initial homework assignments in Math 215, then switching into Math 116 is possible.
+Parker considered Math 285, but knows that Math 215 is more applied than Math 285, which fits with their goals for Engineering.
+Steve really likes math and finds it fun, but has never thought about majoring in math in college. He shares with his advisor that he prefers abstract math over applied, real-world applications and that he took AB Calculus in high school and earned a 5 on the AP AB Calculus exam. Steve shares that he likely wants to major in something in the sciences, maybe physics or biology. At the end of the advising session he is thinking about enrolling in either Math 116 (Calculus II), Math 185 (Honors Calculus I), or Math 275 (Cryptology). Ultimately, Steve registers for Math 275 for the fall with a plan to take Math 276 (Explorations in Calculus) in the winter. He goes on to graduate with a double major in Biochemistry and Mathematical Biology.
+Ceecee has always been pretty advanced with math coursework and took Calculus III and Linear Algebra at a local community college during junior year of high school. In her senior year of high school Ceecee didn’t take any math in person, but explored discrete math through online courses. Ceecee is deciding between Math 275 (Cryptology), Math 185 (Honors Calculus I), and Math 295 (Honors Mathematics I). Ceecee ultimately decides that she’s interested in a calculus-based course, but wants to balance her time between multiple interests. Ultimately, she chooses to take Math 185, followed by Math 186 (Honors Calculus II). Ceecee graduates with an Honors Math major.
+Dov is in the College of Engineering. Dov took BC Calculus their junior year in high school and received a score of 5 on the AP Calculus BC exam. They know they want to progress quickly through math coursework so that they can focus on engineering coursework, and know they need a multivariable calculus course for their intended Mechanical Engineering major. They’re deciding between Math 215 (Calculus III) and Math 285 (Honors Calculus III). Ultimately, Dov chooses Math 285 because of the smaller class size and active learning format.
+Parker (215)
+Parker is an engineering student who is waiting to receive their AP Exam results, but feels confident they’ll receive a 5 on the AP Calculus BC exam. Parker’s heard different things about whether it would be better to start in Math 116 (Calculus II), to get used to the expectations of a college math course and reinforce Calculus II knowledge, or to start in Math 215 (Calculus III) which will consist entirely of new material. After looking over some Math 116 math problems with a math advisor, Parker decides to start in Math 215, but knows that if they end up with a lower score on the AP exam, or feel overwhelmed by the initial homework assignments in Math 215, then switching into Math 116 is possible.
+Parker considered Math 285, but knows that Math 215 is more applied than Math 285, which fits with their goals for Engineering.
+Steve (275)
+Steve really likes math and finds it fun, but has never thought about majoring in math in college. He shares with his advisor that he prefers abstract math over applied, real-world applications and that he took AB Calculus in high school and earned a 5 on the AP AB Calculus exam. Steve shares that he likely wants to major in something in the sciences, maybe physics or biology. At the end of the advising session he is thinking about enrolling in either Math 116 (Calculus II), Math 185 (Honors Calculus I), or Math 275 (Cryptology). Ultimately, Steve registers for Math 275 for the fall with a plan to take Math 276 (Explorations in Calculus) in the winter. He goes on to graduate with a double major in Biochemistry and Mathematical Biology.
+Ceecee (185)
+Ceecee has always been pretty advanced with math coursework and took Calculus III and Linear Algebra at a local community college during junior year of high school. In her senior year of high school Ceecee didn’t take any math in person, but explored discrete math through online courses. Ceecee is deciding between Math 275 (Cryptology), Math 185 (Honors Calculus I), and Math 295 (Honors Mathematics I). Ceecee ultimately decides that she’s interested in a calculus-based course, but wants to balance her time between multiple interests. Ultimately, she chooses to take Math 185, followed by Math 186 (Honors Calculus II). Ceecee graduates with an Honors Math major.
+Dov (285)
+Dov is in the College of Engineering. Dov took BC Calculus their junior year in high school and received a score of 5 on the AP Calculus BC exam. They know they want to progress quickly through math coursework so that they can focus on engineering coursework, and know they need a multivariable calculus course for their intended Mechanical Engineering major. They’re deciding between Math 215 (Calculus III) and Math 285 (Honors Calculus III). Ultimately, Dov chooses Math 285 because of the smaller class size and active learning format.
+Step 3: Move Towards a Decision
+Mathematics
+2074 East Hall
+530 Church Street
+Ann Arbor, MI 48109-1043
+Undergraduate Students:
+math-undergrad-office@umich.edu
+Graduate Students:
+math-grad-office@umich.edu
+Department Administration:
+math-admin-office@umich.edu
+Website Updates:
+math-comm-web@umich.edu
+Intranet
+Click to call 734.764.0335
+734.764.0335
+Sitemap
+Information For
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

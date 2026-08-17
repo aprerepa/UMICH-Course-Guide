@@ -1,0 +1,305 @@
+{
+  "id": "electrical-engineering-college-of-engineering",
+  "displayName": "Electrical Engineering",
+  "requirementGroups": {
+    "CoE Common Core": [
+      "CHEM 125",
+      "CHEM 126",
+      "CHEM 130",
+      "CHEM 210",
+      "CHEM 211",
+      "ENGR 100",
+      "ENGR 101",
+      "ENGR 151",
+      "EECS 180",
+      "MATH 115",
+      "MATH 120",
+      "MATH 116",
+      "MATH 121",
+      "MATH 215",
+      "MATH 216",
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 240",
+      "PHYSICS 241"
+    ],
+    "EE Program Core Courses": [
+      "EECS 200",
+      "EECS 215",
+      "EECS 216",
+      "EECS 230",
+      "EECS 280",
+      "EECS 300",
+      "EECS 301",
+      "EECS 400",
+      "TCHNCLCM 300",
+      "TCHNCLCM 496"
+    ],
+    "Upper Level EE Electives": [
+      "EECS 417",
+      "EECS 458",
+      "EECS 311",
+      "EECS 312",
+      "EECS 320",
+      "EECS 413",
+      "EECS 414",
+      "EECS 421",
+      "EECS 423",
+      "EECS 425",
+      "EECS 427",
+      "EECS 428",
+      "EECS 429",
+      "EECS 351",
+      "EECS 442",
+      "EECS 444",
+      "EECS 452",
+      "EECS 453",
+      "EECS 455",
+      "EECS 460",
+      "EECS 461",
+      "EECS 464",
+      "EECS 270",
+      "EECS 370",
+      "EECS 373",
+      "EECS 376",
+      "EECS 445",
+      "EECS 470",
+      "EECS 472",
+      "EECS 473",
+      "EECS 475",
+      "EECS 477",
+      "EECS 330",
+      "EECS 334",
+      "EECS 411",
+      "EECS 430",
+      "EECS 434",
+      "EECS 438",
+      "EECS 418",
+      "EECS 419",
+      "EECS 463"
+    ],
+    "Major Design Experience": [
+      "EECS 411",
+      "EECS 413",
+      "EECS 425",
+      "EECS 427",
+      "EECS 430",
+      "EECS 438",
+      "EECS 452",
+      "EECS 470",
+      "EECS 472",
+      "EECS 473"
+    ],
+    "Flexible Technical Electives": [
+      "AEROSP 215",
+      "AEROSP 225",
+      "ASTRO 404",
+      "BIOLOGY 305",
+      "BIOMEDE 221",
+      "BIOMEDE 231",
+      "CHE 230",
+      "CHEM 210",
+      "CHEM 211",
+      "CHEM 215",
+      "CHEM 216",
+      "CHEM 230",
+      "CHEM 241",
+      "CHEM 242",
+      "CHEM 260",
+      "CEE 211",
+      "CEE 212",
+      "CEE 230",
+      "CEE 265",
+      "ECON 401",
+      "ECON 402",
+      "ECON 409",
+      "ECON 451",
+      "ECON 452",
+      "EECS 201",
+      "EECS 203",
+      "EECS 245",
+      "EECS 250",
+      "EECS 281",
+      "EECS 285",
+      "ENGR 355",
+      "ENGR 455",
+      "IOE 201",
+      "IOE 202",
+      "LING 445",
+      "MATSCIE 220",
+      "MATSCIE 242",
+      "MATSCIE 250",
+      "MATH 217",
+      "MATH 297",
+      "MATH 354",
+      "MATH 395",
+      "MATH 396",
+      "MATH 404",
+      "MATH 412",
+      "MATH 416",
+      "MATH 417",
+      "MATH 419",
+      "MATH 423",
+      "MATH 424",
+      "MATH 433",
+      "MATH 450",
+      "MATH 451",
+      "MATH 452",
+      "MATH 454",
+      "MATH 462",
+      "MATH 463",
+      "MATH 471",
+      "MATH 475",
+      "MATH 476",
+      "MATH 481",
+      "MATH 490",
+      "MECHENG 211",
+      "MECHENG 235",
+      "MECHENG 240",
+      "MECHENG 250",
+      "MCDB 306",
+      "MCDB 310",
+      "NAVARCH 270",
+      "NERS 211",
+      "NERS 250",
+      "PAT 452",
+      "PAT 454",
+      "PAT 462",
+      "PHIL 417",
+      "ROB 204",
+      "ROB 310",
+      "ROB 311",
+      "ROB 330",
+      "ROB 422",
+      "SI 301",
+      "SI 357",
+      "SI 422",
+      "SI 630",
+      "STATS 406",
+      "STATS 415",
+      "STATS 426",
+      "STATS 430",
+      "STATS 470",
+      "TO 414"
+    ]
+  },
+  "openGroups": {
+    "Flexible Technical Electives": [
+      {
+        "subjects": [
+          "AEROSP"
+        ],
+        "minLevel": 300,
+        "exclude": [
+          "AEROSP 495",
+          "AEROSP 390",
+          "AEROSP 490"
+        ]
+      },
+      {
+        "subjects": [
+          "BIOLOGY"
+        ],
+        "minLevel": 400
+      },
+      {
+        "subjects": [
+          "BIOMEDE"
+        ],
+        "minLevel": 400
+      },
+      {
+        "subjects": [
+          "CHE"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "CHEM"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "CEE"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "CLIMATE",
+          "SPACE"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "EECS"
+        ],
+        "minLevel": 300,
+        "exclude": [
+          "EECS 314",
+          "EECS 402",
+          "EECS 403",
+          "EECS 406",
+          "EECS 409",
+          "EECS 410",
+          "EECS 495"
+        ]
+      },
+      {
+        "subjects": [
+          "IOE"
+        ],
+        "minLevel": 300,
+        "exclude": [
+          "IOE 373",
+          "IOE 422"
+        ]
+      },
+      {
+        "subjects": [
+          "MATSCIE"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "MECHENG"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "NAVARCH"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "NERS"
+        ],
+        "minLevel": 300
+      },
+      {
+        "subjects": [
+          "PHYSICS"
+        ],
+        "minLevel": 300,
+        "exclude": [
+          "PHYSICS 333",
+          "PHYSICS 334",
+          "PHYSICS 420"
+        ]
+      },
+      {
+        "subjects": [
+          "CLIMATE",
+          "SPACE"
+        ],
+        "minLevel": 300
+      }
+    ]
+  }
+}

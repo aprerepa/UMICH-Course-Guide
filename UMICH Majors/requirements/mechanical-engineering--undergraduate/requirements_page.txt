@@ -60,7 +60,7 @@ For more information, see the CoE Bulletin’s
 Declaring (or Changing) Major
 section.
 If you have met the above requirements, please email a request to declare to the Academic Services Office (
-me-aso@umich.edu
+[email protected]
 ). We will review your degree audit, confirm your eligibility to declare, invite you to a Declaration Orientation, and complete a long-term degree plan with you.
 Program Requirements
 Grade Policy
@@ -108,7 +108,9 @@ Physics 240 (4) with Physics 241 (1)
 *AP Computer Science credit (EECS 180) on its own does not fulfill the ME programming requirements.  All students need one programming class taken at the University of Michigan and documentation of some experience with MATLAB and C++ or closely related languages to fulfill the ME programming requirement.  ENGR 161 is a 2 credit MATLAB course is recommended. Other examples include ENGR 101, ENGR 151, and EECS 280, or their transfer credit equivalents.  These and other programming or computational classes can be considered by
 departmental petition
 .
-Students are recommended to discuss requirements further with the program advisor by first emailing me-aso@umich.edu.
+Students are recommended to discuss requirements further with the program advisor by first emailing
+[email protected]
+.
 If the programming class is usable towards other degree requirements (e.g. the Specialization Elective), it is permissible to direct the class taken at U-M to fulfill that requirement and retroactively apply EECS 180 to the ENGR 101 requirements.
 For more information regarding the CoE Core course requirements, please visit the
 CoE Bulletin
@@ -818,14 +820,16 @@ section of the Student Intranet. Click on the Manage Concentration tab, choose t
 If you have already declared a Concentration and wish to drop it, simply visit the UG Degree Planning Tools site, choose the concentration you wish to drop, and click Submit Remove Request.
 Energy Concentration
 Global economic, geopolitical, and environmental factors all suggest that improvements are needed in the way that energy is produced, converted, and utilized in the modern world. Mechanical systems are integral to all three of these activities. The undergraduate concentration in energy, consisting of 12 credit hours, is defined below. For more information, contact the advisors in the Academic Services Office or Professor Wooldridge
-(mswool@umich.edu)
+(
+[email protected]
+)
 .
 Students must be in good standing to declare the concentration and must pass all classes with satisfactory grades. Students may not take courses for the energy concentration
 pass/fail
 . Students may petition to have alternate courses considered by emailing
-mswool@umich.edu
+[email protected]
 and copying
-me-aso@umich.edu
+[email protected]
 .
 Concentration requirements:
 Required Course (3 cr):
@@ -879,10 +883,16 @@ MANUFACTURING CONCENTRATION
 The cross-disciplinary Manufacturing Concentration (MC) in Mechanical Engineering is designed to help create leaders in advanced manufacturing for future research and industry positions. It allows students to take both free electives and advanced technical electives that lead to the MC being added to the BSE degree. This concentration is open to undergraduates pursuing a degree in the Mechanical Engineering department. For more information and details, please
 visit the MC Site
 .
-The concentration consists of at least 12 credit hours of graded coursework in manufacturing related areas; specifically, two concentration core courses and two elective courses. Students may petition to have alternate courses considered by emailing the MC Committee (see below)  and copying me-aso@umich.edu.
+The concentration consists of at least 12 credit hours of graded coursework in manufacturing related areas; specifically, two concentration core courses and two elective courses. Students may petition to have alternate courses considered by emailing the MC Committee (see below)  and copying
+[email protected]
+.
 MC committee:
-Chair: Professor Dan Cooper (drcooper@umich.edu)
-Vice-chair: Professor Chinedum Okwudire (okwudire@umich.edu)
+Chair: Professor Dan Cooper (
+[email protected]
+)
+Vice-chair: Professor Chinedum Okwudire (
+[email protected]
+)
 Professor Cooper offers a weekly Manufacturing Concentration
 office hour
 every Thursday at 4:00 PM during semester via
@@ -940,8 +950,12 @@ Students must be in good academic standing to declare the concentration.
 Classes must be taken for a letter grade and passed with satisfactory grades relevant to its use in the degree. Please see
 ME Grade Policy
 .
-For more information, contact the advisors in the Academic Services Office or Professor Elliott Rouse (ejrouse@umich.edu).
-Students may petition to have alternate courses considered by emailing Prof. Elliott Rouse and cc’ing me-aso@umich.edu.
+For more information, contact the advisors in the Academic Services Office or Professor Elliott Rouse (
+[email protected]
+).
+Students may petition to have alternate courses considered by emailing Prof. Elliott Rouse and cc’ing
+[email protected]
+.
 Concentration Requirements (with number of credits and notable pre-reqs in parentheses. It is advised that students check course descriptions for full information regarding prerequisites):
 Requirement A:
 Choose one course among the following linear algebra courses:
@@ -1041,7 +1055,9 @@ Industrial and Operations Engineering
 Materials Science and Engineering
 Naval Architecture and Marine Architecture
 Nuclear Engineering and Radiological Sciences
-If you are interested in completing a dual degree with another undergraduate program within the College of Engineering that is not listed above, please send an email to me-aso@umich.edu. The ASO will work with you to determine whether a specialized program can be established.
+If you are interested in completing a dual degree with another undergraduate program within the College of Engineering that is not listed above, please send an email to
+[email protected]
+. The ASO will work with you to determine whether a specialized program can be established.
 Joint Degrees
 Joint Degrees
 allow students to pursue two separate bachelor degrees simultaneously in two different colleges.

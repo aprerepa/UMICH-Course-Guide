@@ -1,0 +1,51 @@
+{
+  "id": "business--bba",
+  "displayName": "Business",
+  "groupRules": {
+    "First Year Requirements": {
+      "require": {
+        "allOf": [
+          "BA 100",
+          "ACC 300",
+          "BCOM 250"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Sophomore Year Requirements": {
+      "require": {
+        "allOf": [
+          "BA 200",
+          "TO 301"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Floating Core": {
+      "require": {
+        "allOf": [
+          "BE 300",
+          "FIN 300",
+          "MKT 300",
+          "TO 300"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Junior Year Requirements": {
+      "require": {
+        "allOf": [
+          "BCOM 350",
+          "BL 300",
+          "MO 300",
+          "TO 313"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Senior Year Requirements": {
+      "require": "STRATEGY 390",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

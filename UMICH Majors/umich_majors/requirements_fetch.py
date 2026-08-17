@@ -39,6 +39,11 @@ from umich_majors.requirements_links import (
 )
 from umich_majors.requirements_supplements import fetch_supplements_for_major
 
+# Listing entries to skip (graduate / not undergrad guide targets)
+SKIP_REQUIREMENTS_IDS = {
+    "dental-hygiene",
+}
+
 
 def _is_lsa_school(major: dict) -> bool:
     school = (major.get("school_college") or "").lower()
@@ -60,6 +65,17 @@ def fetch_requirements_one(major: dict, *, force_browser: bool = False) -> dict[
     3) Write under requirements/<id>/
     """
     mid = major["id"]
+    if mid in SKIP_REQUIREMENTS_IDS:
+        return {
+            "id": mid,
+            "name": major.get("name"),
+            "school_college": major.get("school_college"),
+            "program_url": major.get("url"),
+            "status": "skipped",
+            "message": "excluded non-undergrad / graduate listing entry",
+            "fetched_at": _now(),
+        }
+
     out = major_dir(mid)
     out.mkdir(parents=True, exist_ok=True)
 

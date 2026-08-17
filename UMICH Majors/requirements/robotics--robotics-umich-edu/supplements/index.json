@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-editable-robotics-sample-schedule-spreadsheet-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1TJlbxRgqN-CUQzcEMHj9r_YzORPVk6ElG63vBJYi2Ms/edit#gid=0",
+    "link_text": "Editable Robotics Sample Schedule spreadsheet",
+    "score": 150,
+    "status": "fetched",
+    "message": "ok (2105 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1TJlbxRgqN-CUQzcEMHj9r_YzORPVk6ElG63vBJYi2Ms/edit#gid=0",
+    "fetch_mode": "http",
+    "chars": 2105
+  },
+  {
+    "id": "02-winter-202-gid1751113885",
+    "url": "https://docs.google.com/spreadsheets/d/1qXqC4uJqZYVOadw0eIn9LAWEu_8lLwX65nOFFohlj4Y/edit?gid=1751113885#gid=1751113885",
+    "link_text": "Winter 202",
+    "score": 100,
+    "status": "failed",
+    "message": "Client error '401 Unauthorized' for url 'https://docs.google.com/spreadsheets/d/1qXqC4uJqZYVOadw0eIn9LAWEu_8lLwX65nOFFohlj4Y/export?format=tsv&gid=1751113885'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401",
+    "final_url": null,
+    "fetch_mode": null,
+    "chars": 0
+  },
+  {
+    "id": "03-courses",
+    "url": "https://docs.google.com/academics/courses/",
+    "link_text": "Courses",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (89 chars)",
+    "final_url": "https://docs.google.com/academics/courses/",
+    "fetch_mode": "browser",
+    "chars": 89
+  },
+  {
+    "id": "04-aerosp-215",
+    "url": "https://bulletin.engin.umich.edu/courses/aero/",
+    "link_text": "AEROSP 215",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/aero/",
+    "fetch_mode": "http",
+    "chars": 40024
+  },
+  {
+    "id": "05-eecs-200",
+    "url": "https://bulletin.engin.umich.edu/courses/eecs/",
+    "link_text": "EECS 200",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/eecs/",
+    "fetch_mode": "http",
+    "chars": 40024
+  },
+  {
+    "id": "06-ioe-366",
+    "url": "https://bulletin.engin.umich.edu/courses/ioe/",
+    "link_text": "IOE 366",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/ioe/",
+    "fetch_mode": "http",
+    "chars": 40024
+  },
+  {
+    "id": "07-mecheng-360",
+    "url": "https://bulletin.engin.umich.edu/courses/me/",
+    "link_text": "MECHENG 360",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (40024 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/me/",
+    "fetch_mode": "http",
+    "chars": 40024
+  },
+  {
+    "id": "08-navarch-340",
+    "url": "https://bulletin.engin.umich.edu/courses/name/",
+    "link_text": "NAVARCH 340",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (34446 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/name/",
+    "fetch_mode": "http",
+    "chars": 34446
+  }
+]

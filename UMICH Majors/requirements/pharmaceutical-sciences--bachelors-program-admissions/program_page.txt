@@ -61,12 +61,15 @@ here
 What To Expect on the Application
 U-M Transcript, which will be added to your file by the Office of Undergraduate Admissions.
 Official transcripts from other institutions, if applicable (email or mail directly to Office of Undergraduate Admissions)
-One letter of recommendation sent in a sealed envelope with the recommender’s signature directly to Office of Undergraduate Admissions (address below) or emailed directly from the recommender to ecredentials@umich.edu
+One letter of recommendation sent in a sealed envelope with the recommender’s signature directly to Office of Undergraduate Admissions (address below) or emailed directly from the recommender to
+[email protected]
 Two Essays:
 Essay 1: At the University of Michigan, we are focused on developing leaders and citizens who will challenge the present and enrich the future. In your essay, share with us how you are prepared to contribute to these goals.  This could include the people, places, experiences or aspirations that have shaped your journey and future plans. (completed online – 250 words)
 Essay 2: Describe the unique qualities that attract you to the College of Pharmacy. How does the BSPS curriculum support your interests? (completed online – 500 word maximum)
 Resume or CV (completed online)
-The two essays and your resume will be uploaded to the Cross Campus Application form. If you have additional information you would like to share with the admissions committee, please email documents to ecredentials@umich.edu.
+The two essays and your resume will be uploaded to the Cross Campus Application form. If you have additional information you would like to share with the admissions committee, please email documents to
+[email protected]
+.
 You may also mail the application materials listed above to:
 University of Michigan Office of Undergraduate Admissions
 515 E. Jefferson
@@ -84,7 +87,8 @@ here
 What To Expect on the Application
 $75 application fee
 Official transcripts from all institutions attended, including high school (email or mail directly to Office of Undergraduate Admissions)
-One letter of recommendation sent in a sealed envelope with the recommender’s signature over the seal directly to Office of Undergraduate Admissions (address below) or emailed directly from the recommender to ecredentials@umich.edu
+One letter of recommendation sent in a sealed envelope with the recommender’s signature over the seal directly to Office of Undergraduate Admissions (address below) or emailed directly from the recommender to
+[email protected]
 Essays
 Common Application Essay information can be found
 here
@@ -95,7 +99,7 @@ SAT or ACT scores (if taken in high school). Send test scores directly to the Un
 TOEFL, IELTS, or MET
 scores (for non-native speakers of English)
 Please email the above application materials to:
-ecredentials@umich.edu
+[email protected]
 or mail the application materials listed above to:
 University of Michigan Office of Undergraduate Admissions
 515 E. Jefferson

@@ -52,8 +52,11 @@ Thumbs.db
 *.swo
 *~
 
-# Docs (local planning notes)
+# Docs (local planning notes / resume summary — do not commit)
 docs/
+docs/project-summary-resume.md
+docs/personalized-course-guide-plan.md
+
 
 # Logs & temp
 *.log

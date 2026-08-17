@@ -1,0 +1,10 @@
+{
+  "id": "chinese-studies-sub-major-of-asian-studies--majors-minors-html-asian-studies-maj",
+  "displayName": "Chinese Studies (Sub-major of Asian Studies)",
+  "groupRules": {
+    "Asian Studies (ASIAN) Requirement": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

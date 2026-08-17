@@ -25,11 +25,6 @@ your coursework to fit your interests & career goals
 18:1
 Student-to-faculty ratio
 SoK Spotlights
-Chris Roy
-Applied exercise science student & head strength and conditioning coach at D1 Training
-People don’t care how much you know until they know how much you care. And genuinely caring for people and their well-being and trying to help them and doing this job for the right reasons — that's what I’ve done since I was 18.
-Read More About       Chris Roy
-SoK Spotlights
 Letitia Sim
 AES '26 (just graduated!)
 There were definitely really challenging times, both academically and within the sport, but without the support here of the people, the professors, the coaches, I would not be where I am today.
@@ -49,11 +44,6 @@ Chris Roy
 Applied exercise science student & head strength and conditioning coach at D1 Training
 People don’t care how much you know until they know how much you care. And genuinely caring for people and their well-being and trying to help them and doing this job for the right reasons — that's what I’ve done since I was 18.
 Read More About       Chris Roy
-SoK Spotlights
-Letitia Sim
-AES '26 (just graduated!)
-There were definitely really challenging times, both academically and within the sport, but without the support here of the people, the professors, the coaches, I would not be where I am today.
-Read More About       Letitia Sim
 Student Organizations
 rgb(0,39,76)
 rgb(254,254,255)
@@ -72,7 +62,7 @@ Continuing Education
 EMPLOYED PART-TIME / INTERNSHIP / SERVICE
 rgb(0,39,76)
 research-court-lines
-Environment & Policy Laboratory
+Center for Inclusive Mobility Environments (CIME)
 Research
 APPLIED EXERCISE SCIENCE
 Our AES labs investigate how physical activity affects our body and mind, contributes to healthy development in children, and promotes healthier environments and communities.

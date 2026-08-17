@@ -1,0 +1,88 @@
+{
+  "id": "philosophy",
+  "displayName": "Philosophy",
+  "groupRules": {
+    "Formal Methods": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "anyOf": [
+          "PHIL 296",
+          "PHIL 303",
+          "PHIL 305",
+          "PHIL 413",
+          "PHIL 414"
+        ]
+      }
+    },
+    "History of Philosophy": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "PHIL 288",
+              "PHIL 289",
+              "PHIL 388",
+              "PHIL 389"
+            ]
+          },
+          {
+            "anyOf": [
+              "PHIL 288",
+              "PHIL 289",
+              "PHIL 323",
+              "PHIL 371",
+              "PHIL 385",
+              "PHIL 386",
+              "PHIL 388",
+              "PHIL 389",
+              "PHIL 391",
+              "PHIL 392",
+              "PHIL 393",
+              "CLCIV 369",
+              "PHIL 405",
+              "PHIL 406",
+              "PHIL 433",
+              "PHIL 458",
+              "PHIL 460",
+              "PHIL 461",
+              "PHIL 462",
+              "PHIL 463",
+              "PHIL 464",
+              "PHIL 466",
+              "PHIL 467",
+              "PHIL 474",
+              "PHIL 492"
+            ]
+          }
+        ]
+      }
+    },
+    "Value": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "anyOf": [
+          "PHIL 361",
+          "PHIL 362",
+          "PHIL 366",
+          "PHIL 367",
+          "PPE 300"
+        ]
+      }
+    },
+    "Mind and Reality": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "anyOf": [
+          "PHIL 345",
+          "PHIL 381",
+          "PHIL 383"
+        ]
+      }
+    }
+  }
+}

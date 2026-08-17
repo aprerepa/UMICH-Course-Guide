@@ -1,0 +1,26 @@
+{
+  "id": "latin-american-and-caribbean-studies",
+  "displayName": "Latin American and Caribbean Studies",
+  "requirementGroups": {
+    "LACS Language Requirement for the Major": [
+      "SPANISH 277",
+      "RCLANG 294",
+      "PORTUG 232"
+    ],
+    "Anthropology": [
+      "ANTHRCUL 319",
+      "ANTHRCUL 414"
+    ],
+    "History": [
+      "HISTORY 347",
+      "HISTORY 348"
+    ],
+    "Literature": [
+      "SPANISH 381",
+      "SPANISH 382"
+    ],
+    "Politics and Economy": [
+      "SPANISH 438"
+    ]
+  }
+}

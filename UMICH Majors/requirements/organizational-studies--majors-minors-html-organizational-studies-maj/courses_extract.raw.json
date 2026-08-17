@@ -1,0 +1,26 @@
+{
+  "id": "organizational-studies",
+  "displayName": "Organizational Studies",
+  "requirementGroups": {
+    "Prerequisites": [
+      "ECON 101",
+      "PSYCH 111",
+      "PSYCH 112",
+      "PSYCH 114",
+      "PSYCH 115",
+      "SOC 100",
+      "SOC 102",
+      "SOC 195",
+      "SOC 300"
+    ],
+    "Core Requirements": [
+      "ORGSTUDY 305",
+      "ORGSTUDY 310"
+    ],
+    "Senior Capstone Research Requirement": [
+      "ORGSTUDY 410",
+      "ORGSTUDY 497",
+      "ORGSTUDY 498"
+    ]
+  }
+}

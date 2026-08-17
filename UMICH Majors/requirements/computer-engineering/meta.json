@@ -4,14 +4,73 @@
   "school_college": "College of Engineering",
   "program_url": "https://ece.engin.umich.edu/academics/undergraduate/prospective-undergrad/computer-engineering/",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+6 course-list supplements: Editable CE Sample Schedule, After Arrival Checklist, Before Arrival Checklist)",
   "program_final_url": "https://ece.engin.umich.edu/academics/undergraduate/majors-minors/computer-engineering-major/",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://docs.google.com/document/d/1T24Ib8Jat32HQ8-his5Vc8ljLFoOW51PfBQ4Asc0dGs/edit?usp=sharing",
   "requirements_link_text": "CE Program Guide",
-  "requirements_link_score": 135,
+  "requirements_link_score": 200,
   "requirements_link_strategy": "page",
-  "requirements_final_url": "https://docs.google.com/document/d/1T24Ib8Jat32HQ8-his5Vc8ljLFoOW51PfBQ4Asc0dGs/edit?tab=t.0",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:35:28.462183+00:00"
+  "requirements_final_url": "https://docs.google.com/document/d/1T24Ib8Jat32HQ8-his5Vc8ljLFoOW51PfBQ4Asc0dGs/edit?usp=sharing",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T16:02:41.850156+00:00",
+  "supplements_count": 6,
+  "supplements": [
+    {
+      "id": "01-editable-ce-sample-schedule",
+      "url": "https://docs.google.com/spreadsheets/d/1iF3Su4IUN9w_HfgjUfxhuC4aEONVeHQzm4N-4NdUvmA/edit?usp=sharing",
+      "link_text": "Editable CE Sample Schedule",
+      "status": "fetched",
+      "chars": 4468
+    },
+    {
+      "id": "02-after-arrival-checklist",
+      "url": "https://ece.engin.umich.edu/academics/graduate-programs/new-student-info/after-arrival/",
+      "link_text": "After Arrival Checklist",
+      "status": "fetched",
+      "chars": 1018
+    },
+    {
+      "id": "03-before-arrival-checklist",
+      "url": "https://ece.engin.umich.edu/academics/graduate-programs/new-student-info/before-arrival/",
+      "link_text": "Before Arrival Checklist",
+      "status": "fetched",
+      "chars": 1619
+    },
+    {
+      "id": "04-fall-winter-teaching-assighments-gid1434186160",
+      "url": "https://docs.google.com/spreadsheets/d/19bQmYvBBOfN0yFeBObREjUdTiqKIv5vkL3cJ3Y3DIF8/edit#gid=1434186160",
+      "link_text": "Fall /Winter Teaching Assighments",
+      "status": "failed",
+      "chars": 0
+    },
+    {
+      "id": "05-spring-teaching-assignments-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1K_lab-c7YdotTOzQyKu1pMuVyrZA2AVHHLDfG0GQYGw/edit#gid=0",
+      "link_text": "Spring Teaching Assignments",
+      "status": "failed",
+      "chars": 0
+    },
+    {
+      "id": "06-edit-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1iF3Su4IUN9w_HfgjUfxhuC4aEONVeHQzm4N-4NdUvmA/edit#gid=0",
+      "link_text": "here",
+      "status": "fetched",
+      "chars": 1749
+    },
+    {
+      "id": "07-grad-course-list",
+      "url": "https://ece.engin.umich.edu/academics/course-information/graduate-course-list/",
+      "link_text": "Grad Course List",
+      "status": "fetched",
+      "chars": 7596
+    },
+    {
+      "id": "08-grad-cognate-courses",
+      "url": "https://ece.engin.umich.edu/academics/course-information/graduate-course-list/grad-cognate-courses/",
+      "link_text": "Grad Cognate Courses",
+      "status": "fetched",
+      "chars": 3739
+    }
+  ]
 }

@@ -14,6 +14,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -41,6 +45,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -1969,18 +1977,6 @@ HUM
 NAT
 SOC
 INT
-Philosophy (Major)
-Philosophy is the systematic study of questions any thoughtful human being faces concerning the nature of knowledge, reality, thought, and value. What is valuable and what is value? What gives thought and language meaning? What is truth, and how can we know it? The main value of philosophy lies in its contribution to a liberal arts education. It can, however, also provide excellent preparation for a wide variety of professions (notably, law), because of the training it provides in rigorous thinking and incisive and clear writing. Philosophy cuts across other academic disciplines by examining their concepts, methods, and presuppositions. So a concentration or academic minor in Philosophy can also be a superb complement to a concentration in another field. Further details are available on the department's web page
-www.lsa.umich.edu/philosophy
-.
-Related Programs
-Philosophy Minor
-Philosophy, Politics, and Economics Major
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Philosophy
 Philosophy (Minor)
 m
 HUM

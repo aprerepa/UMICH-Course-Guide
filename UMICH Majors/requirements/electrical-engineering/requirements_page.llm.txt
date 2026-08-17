@@ -1,433 +1,780 @@
-Page header:
-page title: 2026-2027 Electrical Engineering Program Guide - Google Docs
-og:description: 2026-2027 Electrical Engineering Major Electrical and Computer Engineering (ECE) Advising Office eceadvising@umich.edu, 734.763.2305  If you’re interested in working to build smart devices and systems using electronics intelligence and information technologies to solve problems, then Electrical ...
-
 Visible page text:
-This browser version is no longer supported. Please upgrade to a supported browser.
-Learn More
-Dismiss
-2026-2027 Electrical Engineering Program Guide
-Tab
-Request edit access
-Share
-File
-Edit
-View
-Tools
-Help
-Accessibility
-Debug
-Outline
-Outline
-Document tabs
-2026-2027 Electrical Engineering Program Guide
-0
-Headings you add to the document will appear here.
-Changes by
-Show tabs & outlines
-2026-2027 Electrical Engineering Program Guide
-2026-2027 Electrical Engineering Program Guide
-Afrikaans
-Azərbaycan
-Bahasa Indonesia
-Bahasa Melayu
-Català
-Čeština
-Cymraeg
-Dansk
-Deutsch
-Schweizer Hochdeutsch
-Eesti
-English (Canada)
-English (United Kingdom)
-English (United States)
-Español
-Español (Latinoamérica)
-Euskara
-Filipino
-Français
-Français (Canada)
-Galego
-Hrvatski
-Isizulu
-Íslenska
-Italiano
-Kiswahili
-Latviešu
-Lietuvių
-Magyar
-Malti
-Nederlands
-Norsk (Nynorsk)
-Norsk (Bokmål)
-Oʻzbek
-Polski
-Português (Brasil)
-Português (Portugal)
-Română
-Shqip
-Slovenčina
-Slovenščina
-Suomi
-Svenska
-Tiếng Việt
-Türkçe
-မြန်မာစာ
-беларуская
-Български
-Қазақ
-Македонски
-Монгол
-Русский
-Српски
-Українська
-Ελληνικά
-հայերեն
-עברית
-اردو
-العربية
-فارسی
-नेपाली
-मराठी
-हिन्दी
-বাংলা
-ਪੰਜਾਬੀ
-অসমীয়া
-ગુજરાતી
-தமிழ்
-తెలుగు
-ಕನ್ನಡ
-മലയാളം
-සිංහල
-ไทย
-ລາວ
-ქართულად
-አማርኛ
-ខ្មែរ
-ଓଡ଼ିଆ
-中文（中国）
-中文（台灣）
-中文（香港）
-日本語
-한국어
-N
-ew
-►
-O
-pen
-⌘O
-Make a
-c
-opy
-Save as Google Docs
-(
-U
-)
-S
-hare
-►
-E
-mail
-►
-D
-ownload
-►
-Approvals
-(
-F2
-)
-Unlock
-(
-J
-)
-R
-ename
-M
-ove
-Add shortcut to Drive
-(
+2026-2027 Electrical Engineering Major
+Electrical and Computer Engineering (ECE) Advising Office
+eceadvising@umich.edu, 734.763.2305
+If you’re interested in working to build smart devices and systems using electronics intelligence and information technologies to solve problems, then Electrical Engineering may be for you!  Electrical Engineers are the innovators that create sustainable energy systems, study the brain to better understand neurological diseases, efficiently process big data, build computing devices that are sometimes too small to even see, control robots, safely image tumors, communicate information and much more. Learn to invent, design, and improve devices that enhance life for all by majoring in Electrical Engineering.
+Electrical Engineering (EE) Declaration Requirements:
+To declare a major in EE, you’ll need:
+To have finished at least one full semester at U of M
+An overall GPA of 2.0 or better
+To have credit (either by transfer or a letter grade) for at least one course in each of these categories:
+Calculus (such as MATH 115, 116, 120, 121, 156)
+Calculus based physics lectures (such as PHYSICS 140 or 160) or chemistry lectures (CHEM 130)
+Engineering courses (such as ENGR 100 or [ENGR 101 or ENGR 151 or EECS 180 or EECS 183])
+How to Declare
+Whenever you’re ready to declare,
+please sign up for one of our upcoming EE group declaration sessions
+.
+Advising in Electrical Engineering
+The ECE Advising Office offers a variety of people to help you through your EE degree. We have staff members, faculty advisors and peer advisors available!
+EE advisors
+are available by appointment only. Students can meet with an EE advisor by
+scheduling a virtual advising appointment using the
+EE Appointment Scheduler
+.
+ECE peer advisors
+are available
+on a virtual and walk-in basis in 3415 EECS.
+A lot of unofficial advising happens at a peer-to-peer level and these interactions can be really valuable. To meet with a peer advisor, check their available walk in hours
+here
+.
+To reach
+ECE advising staff
+with
+general EE advising questions, there are several ways students can contact us:
+Email us
+at eceadvising@umich.edu
+Call us
+at 734-763-2305
+CoE Bulletin
+It’s worth noting that the
+College of Engineering Bulletin
+is an excellent resource for students; it outlines every rule, regulation, and policy at the undergraduate level. In addition, the Bulletin contains valuable information regarding every course offered in engineering, including for EECS courses as well as courses from other engineering departments. You’ll find class descriptions, prerequisites, sample schedules for all undergraduate majors and so on. Consider bookmarking this!
+Electrical Engineering Program Requirements
+The Electrical Engineering major requires a minimum of 128 credits; at least 50 credits must be taken on the U of M Ann Arbor campus and at least 30 credits of technical coursework at the 300-level or higher must be completed on the U of M Ann Arbor Campus (note that EECS 270 can count toward this total if taken).
+EECS Grading & Repeat Policies
+All technical classes used toward EE requirements must be completed with a grade of a C or better.
+A grade of C- or below in any of the College Core, Program Core, or Technical Electives is considered a failing grade and the course must be repeated or substituted with another option. [Note: Grades of C- through D- are acceptable for Intellectual Breadth or General Electives.]
+Pass/Fail Information
+Electrical Engineering students may elect to take some classes as pass/fail. A grade of “C-” through “A+” in a course elected on a pass/fail basis is considered passing and will be recorded as “P” (pass - for credit toward the degree and no effect on the grade point average). A grade of “D+” or lower in a course elected on a pass/fail basis is considered unsatisfactory and will be recorded as “F” (fail - no credit and no effect on grade point average). Additional pass/fail information can be found
+here
+. Important pass/fail deadlines are posted
+here
+.
+Requirement Area
+Pass/Fail Options
+CoE Common Core (39 cr)
+No pass/fail allowed
+Intellectual Breadth (16 cr)
+Pass/fail allowed
+General Electives (11 cr)
+Pass/fail allowed
+EE Program Core Courses (30 cr)
+No pass/fail allowed
+Major Design Experience (4 cr)
+Pass/fail allowed if student takes a different MDE and confirms via email
+Upper Level EE Electives (19 cr)
+Pass/fail allowed if student takes a different
+ULEEE
+and confirms via email
+Flexible Technical Electives (9 cr)
+Pass/fail allowed if student takes a different FTE and confirms via email
+CoE Common Core
+(39 credits)
+Electrical Engineering students must take all of the following courses with a letter grade of a C or better:
+CHEM 125
+/
+126
+/
+130
+: General Chemistry + Lab (5 cr) or
+CHEM 210
+/
+211
+: Structures and Reactivity + Lab (4 cr)
+ENGR 100
+: Introduction to Engineering (4 cr)
+ENGR 101
+(or
+ENGR 151
+or EECS 180 [AP credit]): Introduction to Computers and Programming (4 cr)
+MATH 115
+(or MATH 120): Calculus I (4 cr)
+MATH 116
+(or MATH 121): Calculus II (4 cr)
+MATH 215
+: Multivariable and Vector Calculus (4 cr)
+MATH 216
+: Differential Equations (4 cr)
+PHYSICS 140
+/
+141
+: General Physics I + Lab (5 cr)
+PHYSICS 240
+/
+241
+: General Physics II + Lab (5 cr)
+Intellectual Breadth (16 credits)
+EE students are required to complete a minimum of
+16 credits of Intellectual Breadth coursework. Of the 16 credits:
+At least 3 credits of Humanities classes marked HU in the LSA course guide are required
+At least 3 credits must be at the 300 level or higher are required
+In-depth information about Intellectual Breadth requirements can be found in the CoE Bulletin:
+https://bulletin.engin.umich.edu/ug-ed/reqs/#subnav-12
+. These rules can be confusing and sometimes hard to understand. If you have any questions about whether or not a course will count toward your Intellectual Breadth requirements, feel free to check with ECE Advising Office staff by emailing
+eceadvising@umich.edu
+.
+Need some inspiration when it comes to finding an Intellectual Breadth class? You can see a quick list of Intellectual Breadth classes recently taken and passed by ECE undergraduates
+here
+. Feel free to use this as a starting point. Note that any Intellectual Breadth credits above and beyond the 16 required can be used toward General Elective requirements.
+General Electives (11 credits)
+For EE students, 11 General Elective credits are “required” to graduate. The CoE requires 128 total credits overall and fewer General Elective credits may be needed to achieve this total depending on individual factors for each student. Nearly any course at the University of Michigan can be taken as a General Elective and this is how you get to a total of 128 credits. You might find that you have AP credits or transfer credits that can be used here. Sometimes students consider these "fun" classes to balance out their technical/engineering courses, such as marching band, dance, art classes, and so on. If you’re looking for some ideas about which classes students have taken as General Electives, take a look at
+this sheet
+.
+EE Program Core Courses (30 credits)
+Electrical Engineering students must take all of the following courses with a letter grade of a C or better:
+EECS 200
+: Electrical Engineering Systems Design I (2 cr)
+EECS 215
+: Introduction to Electronic Circuits (4 cr)
+EECS 216
+: Introduction to Signals and Systems (4 cr)
+EECS 230
+: Electromagnetics I (4 cr)
+EECS 280
+: Programming and Introductory Data Structures (4 cr)
+EECS 300
+: Electrical Engineering Systems Design II (3 cr)
+EECS 301
+: Probabilistic Methods in Engineering (4 cr)
+EECS 400
+: ECE Major Design Experience (2 cr)
+TCHNCLCM 300
+: Technical Communication for EECS (1 cr)
+TCHNCLCM 496
+: Advanced Technical Communication for ECE (2 cr)
+Upper Level EE Electives (19 credits)
+Students are required to take 19 credits of Upper Level EE Electives from the pre-approved course list below. At least 7 credits of
+ULEEE
+s must be at the 400-level or higher. Courses must be chosen from at least two categories. Categories include: Biomedical; Circuits & Solid State; Communication, Control & Signal Processing; Computers; Electromagnetics & Optics; Power. Courses with an asterisk (*) are MDE courses, where credit may be received as either an Upper Level EE Elective OR an MDE course. Courses with a dagger (†) may be used to satisfy the PES requirement described below.
+Note that EECS Special Topics Classes can sometimes count toward Upper Level EE Electives. These determinations change on a semester-by-semester basis and depend on the topic of the section. Students can access current and historical EECS Special Topics information
+here
+.
+Physical Electronics and Semiconductor (PES) Requirement
+(4 credits) Taking at least one course indicated with a dagger above satisfies the PES requirement. The course satisfying this requirement may be counted toward Upper Level EE Electives or Flexible Technical Electives.
+Biomedical
+EECS 417
+: Electrical Biophysics
+EECS 458
+: Biomedical Instrumentation and Design
+Circuits & Solid State
+EECS 311
+†: Analog Circuits
+EECS 312
+†: Digital Integrated Circuits
+EECS 320
+†: Introduction to Semiconductor Devices
+EECS 413
+*: Monolithic Amplifier Circuits (fall only)
+EECS 414
+†: Introduction to MEMS
+EECS 421
+: Properties of Transistors
+EECS 423
+: Solid State Device Laboratory
+EECS 425
+*: Integrated Microsystems Laboratory
+EECS 427
+*: VLSI Design I
+EECS 428
+: Intro to Quantum Nanotechnology (3 cr)
+EECS 429
+: Semiconductor Optoelectronic Devices
+Communication, Control & Signal Processing
+EECS 351
+: Intro. to Digital Signal Processing
+EECS 442
+: Computer Vision
+EECS 444
+: Analysis of Societal Networks
+EECS 452
+*: Digital Signal Processing Design Lab
+EECS 453
+: Principles of Machine Learning
+EECS 455
+: Wireless Communication Systems
+EECS 460
+: Control Systems Analysis & Design
+EECS 461
+: Embedded Control Systems
+EECS 464
+: Hands-on Robotics
+Computers
+EECS 270
+: Introduction to Logic Design
+EECS 370
+: Computer Architecture
+EECS 373
+: Introduction to Embedded System Design
+EECS 376
+: Foundations of Computer Science
+EECS 445
+: Introduction to Machine Learning
+(consider declaring
+CS minor
+to gain registration access)
+EECS 470
+: Computer Architecture
+EECS 472
+*
+: Computer Architecture Project
+EECS 473
+*: Advanced Embedded Systems (fall only)
+EECS 475
+: Introduction to Cryptography
+EECS 477
+: Introduction to Algorithms
+Electromagnetics & Optics
+EECS 330
+: Electromagnetics II
+EECS 334
+: Principles of Optics
+EECS 411
+*: Microwave Circuits I (fall only)
+EECS 430
+*: Wireless Link Design (winter only)
+EECS 434
+: Principles of Photonics
+EECS 438
+*: Advanced Lasers and Optics Laboratory
+Power
+EECS 418
+†: Power Electronics
+EECS 419
+: Electric Machinery and Drives
+EECS 463
+: Power Systems Design and Operation
+Major Design Experience (MDE) (4 credits)
+All Electrical Engineering students are required to complete at least one Major Design Experience class. Note that some courses are not offered every semester. Starting in Fall 2026, students will be required to enroll in EECS 400 (2 credits) and TCHNCLCM 496 (2 credits) at the same time as their MDE. See note below for additional information.
+In addition to this list of approved MDE courses, you may request special permission to use a senior design project course from another program, including ENGR 455, by
+submitting an EE petition
+. If your MDE petition is approved, you will need to complete an additional 4 credits of Upper Level EE Electives for a total of 23 credits of Upper Level EE Electives.
+Number
+Title
+Prerequisites
+Offered
+EECS 411
+Microwave Circuits I
+EECS 311 or 330
+Fall
+EECS 413
+Monolithic Amplifier Circuits
+EECS 311 and 320
+Fall
+EECS 425
+Integrated Microsystems Lab
+EECS 311 or 312 or 414
+Winter
+EECS 427
+VLSI Design I
+EECS 270 and 312
+Fall & Winter
+EECS 430
+Wireless Link Design
+EECS 330
+Winter
+EECS 438
+Advanced Lasers and Optics Lab
+EECS 334 or 434
+Fall & Winter
+EECS 452
+Digital Signal Processing Lab
+EECS 280 and [351 or 455]
+Fall & Winter
+EECS 470
+¹
+Computer Architecture
+EECS 270 and EECS 370
+Fall & Winter
+EECS 472
+²
+Computer Architecture Project
+EECS 470
+Fall & Winter
+EECS 473
+Advanced Embedded Systems
+EECS 373 and [215 or 281]
+Fall; tentatively planned for WN27 as well
+¹ EECS 470: Satisfies the MDE requirement if completed in Fall 2025 or earlier.
+² EECS 472: Satisfies the MDE requirement if completed in Winter 2026 or later.
+Important Program Updates
+EECS 470/472 Transition (Beginning in Fall 2025):
+FA25
+: EECS 470 remains an approved MDE (last term eligible), while EECS 498-011 serves as the Upper Level EE Elective prerequisite for the new sequence.
+WN26 and after
+: EECS 472 replaces EECS 470 as the approved MDE; EECS 470 will count only as Upper Level EE Elective from this term forward.
+By FA26
+, EECS 470 becomes a prerequisite, and EECS 472 becomes the required Major Design Experience Content Course.
+Capstone Course Structure Change (Beginning in Fall 2026)
+EECS 400 will replace EECS 496 for all EE undergraduate students. During their MDE semester, EE students must enroll in the following classes concurrently for a total of 8 credits. Please plan accordingly.
+EECS 400 (2 credits)
+TCHNCLCM 496 (2 credits)
+MDE Content Course (4 credits)
+Note: If you completed EECS 496 or ENGR 499 before Winter 2026, you are not required to take EECS 400.
+Electrical Engineering Flexible Technical Electives (9 credits)
+Flexible Technical Electives are courses that allow students to customize their studies beyond the core EE curriculum. These electives can be chosen from the following broad list of approved advanced courses in engineering, mathematics, the physical sciences, or other technically relevant fields, both within and outside the EECS Department. The purpose of FTEs is to give students the opportunity to explore interdisciplinary interests, deepen their expertise in specialized areas, or gain skills relevant to their career goals.
+All tutoring and seminar courses are excluded.
+*Directed Study Rule: Up to 4 credit hours of independent study (EECS 399, EECS 499, ENGR 355, ENGR 455 or other technical department’s independent study courses) may be used as Flexible Technical Electives. The ENGR 455 credits approved to fulfill the Major Design Experience requirement are exempt from this Directed Study Rule.
+Note that EECS Special Topics Classes can sometimes count toward Flexible Technical Electives. These determinations change on a semester-by-semester basis and depend on the topic of the section. Students can access current and historical EECS Special Topics information
+here
+. If you’re looking for some ideas about what Flexible Technical Elective classes other students have completed, take a look
+here
+.
+Aerospace Engineering
+AEROSP 215
+: Intro. to Solid Mech. & Aero Structures (3 cr)
+AEROSP 225
+: Introduction to Gas Dynamics (3 cr)
+Any 300-level+ except 495 (390/490 see Dir. Study Rule)
+Astronomy
+ASTRO 404
+: Galaxies and the Universe (3 cr)
+Biology
+BIOLOGY 305
+: Genetics (4 cr)
+Any 400-level and above (see Directed Study Rule)
+Biomedical Engineering
+BIOMEDE 221
+: Biophysical Chem and Thermodynamics (4 cr)
+BIOMEDE 231
+: Introduction to Biomechanics (4 cr)
+Any 400-level and above (see Directed Study Rule)
+Chemical Engineering
+CHE 230
+: Material and Energy Balances (4 cr)
+Any 300-level and above (see Directed Study Rule)
+Chemistry
+CHEM 210
+: Structure and Reactivity I (3 cr)
+CHEM 211
+: Investigations in Chemistry (1 cr)
+CHEM 215
+: Structure and Reactivity II (3 cr)
+CHEM 216
+: Synth and Charact of Organic Compounds (2 cr)
+CHEM 230
+: Physical Chem Principles and Applications (3 cr)
+CHEM 241
+: Introduction to Chemical Analysis (2 cr)
+CHEM 242
+: Introduction to Chemical Analysis Lab (2 cr)
+CHEM 260
+: Chemical Principles (3 cr)
+Any 300-level or above (see Directed Study Rule)
+Civil and Environmental Engineering
+CEE 211
+: Statics and Dynamics (4 cr)
+CEE 212
+: Solid and Structural Mechanics (3 cr)
+CEE 230
+: Energy and Environment (3 cr)
+CEE 265
+: Sustainable Engineering Practices (3 cr)
+Any 300-level and above (see Directed Study Rule)
+Climate (Climate and Space Sciences Engineering)
+Any 300-level or above (see Directed Study Rule)
+Economics
+ECON 401
+: Intermediate Microeconomic Theory (4 cr)
+ECON 402
+: Intermediate Macroeconomic Theory (4 cr)
+ECON 409
+: Game Theory (4 cr)
+ECON 451
+: Intro to Statistics and Econometrics I (4 cr)
+ECON 452
+: Intro to Statistics and Econometrics II (4 cr)
+Electrical Engineering and Computer Science
+EECS 201
+: Computer Science Pragmatics (2 cr)
+EECS 203
+: Discrete Math (4 cr)*
+EECS 245
+: Mathematics for Machine Learning (4 cr)
+EECS 250
+: Electronic Sensing Systems (3 cr)
+EECS 281
+: Data Structures and Algorithms (4 cr)*
+EECS 285
+: Practical Programming in Java (2 cr)
+Any 300-level or above (except 314, 402, 403, 406, 409, 410 and 495)* (see Directed Study Rule)
+To register for EECS 399 or EECS 499, please complete the
+EECS Directed Study / Independent Research Form
+in its entirety
+*Note: EE majors pursuing the CS minor may only double count
+one class
+, EECS 280, between their major and minor requirements. Additional classes used to satisfy CS minor requirements, such as EECS 203, EECS 281 and the additional CS elective, will only count toward General Electives in Electrical Engineering.
+Engineering
+ENGR 355
+: Multidisciplinary Engineering Design II (1-4 cr)
+ENGR 455
+: Multidisciplinary Engineering Design III (2-5 cr)
+Entrepreneurship
+ENTR 390: Section 013 TechLab MCity (see Dir. Study Rule)
+Industrial and Operations Engineering
+IOE 201
+: Economic Decision Making (2 cr)
+IOE 202
+: Operations Modeling (2 cr)
+Any 300-level and above except 373 and 422 (see Directed Study Rule)
+Linguistics
+LING 445
+: Intro to Machine Learning for NLP (3 cr)
+Materials Science and Engineering
+MATSCIE 220
+: Intro to Materials and Manufacturing (4 cr)
+MATSCIE 242
+: Physics of Materials (4 cr)
+MATSCIE 250
+: Principles of Engineering Materials (4 cr)
+Any 300-level and above (see Directed Study Rule)
+Mathematics
+MATH 217
+: Linear Algebra* (4 cr)
+MATH 297
+: An Introduction to Analysis (4 cr)
+MATH 354
+: Fourier Analysis and its Applications (3 cr)
+MATH 395
+: Honors Analysis I (4 cr)
+MATH 396
+: Honors Analysis II (4 cr)
+MATH 404
+: Intermed. Diff. Equations and Dynamics (3 cr)
+MATH 412
+: Introduction to Modern Algebra (3 cr)
+MATH 416
+: Theory of Algorithms (3 cr)
+MATH 417
+: Matrix Algebra I* (3 cr)
+MATH 419
+: Linear Spaces and Matrix Theory* (3 cr)
+MATH 423
+: Mathematics of Finance (3 cr)
+MATH 424
+: Mathematical Interest Theory (3 cr)
+MATH 433
+: Introduction to Differential Geometry (3 cr)
+MATH 450
+: Advanced Mathematics for Engineers I (4 cr)
+MATH 451
+: Advanced Calculus I (3 cr)
+MATH 452
+: Advanced Calculus II (3 cr)
+MATH 454
+: Boundary Value Problems (3 cr)
+MATH 462
+: Mathematical Models (3 cr)
+MATH 463
+: Mathematical Modeling in Biology (3 cr)
+MATH 471
+: Introduction to Numerical Methods (3 cr)
+MATH 475
+: Elementary Number Theory (3 cr)
+MATH 476
+: Computational Lab in Number Theory (1 cr)
+MATH 481
+: Introduction to Mathematical Logic (3 cr)
+MATH 490
+: Introduction to Topology (3 cr)
+*Credit will only be given for ONE of the following classes: MATH 214, 217, 417, 419 or 513.
+Mechanical Engineering
+MECHENG 211
+: Introduction to Solid Mechanics (4 cr)
+MECHENG 235
+: Thermodynamics (3 cr)
+MECHENG 240
+: Intro. to Dynamics and Vibrations (4 cr)
+MECHENG 250
+: Design and Manufacturing I (4 cr)
+Any 300-level and above (see Directed Study Rule)
+Molecular, Cellular, and Developmental Biology
+MCDB 306
+: Introductory Genetics Laboratory (3 cr)
+MCDB 310
+: Introductory Biochemistry (4 cr)
+Naval Architecture and Marine Engineering
+NAVARCH 270
+: Introduction to Vessel/Platform Design (4 cr) Any 300-level and above (see Directed Study Rule)
+Nuclear Engineering and Radiological Sciences
+NERS 211
+: Introduction to Nuclear Engineering (4 cr)
+NERS 250
+: Fundamentals of Nuclear Engineering (4 cr)
+Any 300-level and above (see Directed Study Rule)
+Performing Arts Technology (PAT Dual Majors Only)
+PAT 452
+: Interactive Media Design II (3 cr)
+PAT 454
+: Digital Fabrication for Acoustics (3 cr)
+PAT 462
+: Digital Sound Synthesis (3 cr)
+Philosophy
+PHIL 417
+: Logic, Computation, and Learning (3 cr)
+Physics
+Any 300-level and above (except 333, 334, and 420)
+Robotics
+ROB 204
+: Intro to Human-Robot Systems (4 cr)
+ROB 310
+: Robot Sensors and Signals (4 cr)
+ROB 311
+: How to Build Robots and Make Them Move (4 cr)
+ROB 330
+: Localization, Mapping, and Navigation (4 cr)
+ROB 422
+: Intro to Algorithmic Robotics (3 cr)
+Note: ROB 101 is
+not
+currently approved to satisfy EE FTEs
+School of Information
+SI 301
+: Models of Social Information Processing (4 cr)
+SI 357
+: Introduction to Development (3 cr)
+SI 422
+: Needs Assessment and Usability Evaluation (3 cr)
+SI 630
+: Natural Language Proc.: Algorithms & People (3 cr)
+Space (Climate and Space Sciences Engineering)
+Any 300-level or above (see Directed Study Rule)
+Statistics
+STATS 406
+: Comput. Methods in Stat. and Data Science (3 cr)
+STATS 415
+: Data Mining and Statistical Learning (4 cr)
+STATS 426
+: Introduction to Theoretical Statistics (3 cr)
+STATS 430
+: Applied Probability (3 cr)
+STATS 470
+: Introduction to the Design of Experiments (4 cr)
+Technology and Operations (Ross School of Business)
+TO 414
+: Advanced Analytics (3 cr)
+Electrical Engineering Course Planning Resources and Sample Schedule
+The resources below are intended to help EE students assemble a tentative course plan relevant to their undergraduate career. Please use these in conjunction with regular advising meetings to ensure successful progress toward graduation.
+Degree Audit
+Your
+degree audit
+is used to track your progress toward graduation. The degree audit includes all of the courses you’ve completed (including AP credit or transfer credit), any courses currently in progress, and your courses remaining to graduate. We encourage you to check this regularly, at least once per semester, and to notify us if you see any discrepancies.
+Workload Surveys
+EECS undergraduates are regularly asked to provide their opinions on how much work they’ve allocated to each EECS class they’ve taken. This data can be useful for current and future students who are making decisions on how and when to schedule their EECS classes. Workload survey data can be found
+here
+.
+Editable Sample Schedule
+An editable Google Sheet sample schedule can be found
+here
+for future course planning purposes.
+Sample Schedule
+Note that this plan is a sample only. Students are not required to follow the exact same sequence.
+Semester
+Credits
+1
+2
+3
+4
+5
+6
+7
+8
+CoE Common Core (55 credits)
+MATH 115
 ,
-)
-Move
-t
-o trash
-Version
-h
-istory
-►
-Ma
-k
-e available offline
-Details
-(
-B
-)
-Securit
-y
-limitations
-L
-anguage
-►
-Pa
-g
-e setup
-Print pre
-v
-iew
-Print preview
-(
-A
-)
-P
-rint
-⌘P
-Print
-(
-W
-)
-►
-U
-ndo
-⌘Z
-R
-edo
-⌘Y
-Cu
-t
-⌘X
-C
-opy
-⌘C
-Copy as Markdown
-(
-V
-)
-P
-aste
-⌘V
-Paste with
-o
-ut formatting
-⌘+Shift+V
-Paste from Markdown
-(
-Q
-)
-Select
-a
-ll
-⌘A
-M
-ode
-►
-Comments
-(
-D
-)
-►
-Expand tabs &
-o
-utlines sidebar
-Ctrl+⌘A Ctrl+⌘H
-Co
-l
-lapse tabs & outlines sidebar
-Ctrl+⌘A Ctrl+⌘H
-Text
-w
-idth
-►
-Show
-p
-rint layout
-S
-how non-printing characters
-⌘+Shift+P
-Show
-i
-ncreased menu spacing
-Show mar
-k
-ups
-Z
-oom
-►
-F
-u
-ll screen
-S
-pelling and grammar
-►
-W
-ord count
-⌘+Shift+C
-Review s
-u
-ggested edits
-Ctrl+⌘O Ctrl+⌘U
-Co
-m
-pare documents
-Citations
-(
-K
-)
-Line numbers
-(
-F1
-)
-Explo
-r
-e
-⌘+Option+Shift+I
-L
-inked objects
-D
-ictionary
-⌘+Shift+Y
-T
-ranslate document
-V
-oice typing
-⌘+Shift+S
-N
-o
-tification settings
-P
-references
-A
-c
-cessibility
-Activity dashboard
-(
-Z
-)
-Activit
-y
-dashboard
-Search the
-m
-enus
-Option+/
-Docs
-H
-elp
-T
-raining
-U
-pdates
-Help Docs imp
-r
-ove
-Report
-a
-buse
-P
-rivacy Policy
-Term
-s
-of Service
-K
-eyboard shortcuts
-⌘/
-Verbalize to
-s
-creen reader
-►
-E
-d
-its
-►
-C
-omments
-►
-Foot
-n
-ote
-►
-H
-eadings
-►
-G
-raphics
-►
-L
-ist
-►
-Lin
-k
-►
-T
-able
-►
-Sect
-i
-on
-►
-T
-a
-bs
-►
-M
-isspelling
-►
-F
-o
-rmatting
-►
-B
-ookmarks
-►
-Show liv
-e
-edits
-⌘+Option+Shift+R
-Turn on screen reader support
-To enable screen reader support, press ⌘+Option+Z To learn about keyboard shortcuts, press ⌘slash
-Choose emoji
-Clear emoji
-Add subtab
-Delete
-Duplicate
-Rename
-Choose emoji
-Copy link
-Show outline
-Hide outline
-Move up
-Move down
-Move into
-►
-Document details
-Unable to get the details at this time.
-Banner hidden
-Building blocks
-Save time and optimize your workflow with building blocks
-Building blocks are reusable, customizable, and integrated with Workspace
-Featured
-Communication
-Meetings
-Project management
-Contact lists
-Anyone with the link
-Anyone who has the link can access. No sign-in required.
-Copy link
-Copy link to this time
-Quick sharing actions
-Original email
-R
-eply with this file
-O
-pen original message
-Compose new message
-Em
-a
-il this file
-E
-mail collaborators
-Email
-d
-raft
-Since you last viewed
-Since you last approved
-Since approval started
+116
+,
+215
+,
+216
+12
+4
+4
+4
+4
+ENGR 100
+4
+4
+ENGR 101
+or
+151
+4
+4
+CHEM 125
+/
+126
+/
+130
+or
+CHEM 210
+/
+211
+5
+5
+PHYSICS 140
+/
+141
+,
+PHYSICS 240
+/
+241
+10
+5
+5
+Intellectual Breadth
+16
+4
+4
+4
+4
+EE Program Subjects (30 credits)
+EECS 200
+: EE Systems Design I
+2
+2
+EECS 215
+: Introduction to Circuits
+4
+4
+EECS 216
+: Signals and Systems
+4
+4
+EECS 230
+: Electromagnetics I
+4
+4
+EECS 280
+: Prog. and Intro. Data Structures
+4
+4
+EECS 300
+: EE Systems Design II
+3
+3
+EECS 301
+: Probabilistic Methods in Engr.
+4
+4
+EECS 496
+or
+EECS 400
+(starting in FA26)
+2
+2
+TCHNCLCM 300
+: Tech. Comm. for EECS
+1
+1
+TCHNCLCM 496
+: Adv. Tech. Comm. for ECE
+2
+2
+Technical Electives (incl. PES) (32 credits)
+Upper Level EE Electives
+19
+4
+8
+7
+Major Design Experience
+4
+4
+Flexible Technical Electives
+9
+3
+3
+3
+General Electives (11 credits)
+11
+3
+4
+4
+TOTAL
+128
+17
+17
+17
+17
+16
+15
+14
+15
+Electrical Engineering Sample Paths
+One of the strengths of the Electrical Engineering major is that it offers a wide variety of electives for students to select from when planning their degree. EE does not require students to select a specific path or concentration. However, for those students who would like to see some suggested paths, each option below represents a coherent course of study on a particular topic that a student may later be interested in as a career. EE tracks have some overlap so that students do not have to commit to a specific path and students can change their track at any time.
+Underlined
+courses meet the EE Major Design Experience requirement.
+Path Option
+What Would I Learn?
+EE Classes to Take First
+EE Elective Options
+Applied Electromagnetics and RF Circuits
+This path prepares students to work with almost everything that transmits or receives a radio wave, which includes mobile phones, radios, Wi-Fi, and two-way radios. Students interested in the application of transmission line, waveguide, antenna and electromagnetic field principles to design and create devices should select this track.
+215, 230
+311, 330, 334,
+411
+,
+413
+,
+430
+, 434
+Controls/Systems
+This path prepares students to design and build computer systems that monitor and control mechanical processes in real time. Students interested in developing and implementing the algorithms that unify sensors, computers, and actuators into machines that are heavily integrated into the physical world should select this path.
+215, 216
+351,
+452
+, 460, 461
+Embedded Systems
+This path prepares students for the analysis and design of application-specific computers that run smartphones, medical devices, wireless sensor networks, and vehicles. Topics such as low-power design, real-time systems, and hardware security are covered. Students interested in designing portable and application-specific computer systems should select this path.
+215, 270
+370, 373, 458, 461,
+473
+MEMS and Microsystems
+This path prepares students for a variety of projects involving micromachined sensors, actuators, and on integrated microsystems that combine these two components. Students interested in designing new materials, concepts and fabrication methods for things like implantable devices (such as neural probes), environmental sensors, tactile sensor arrays for fingerprint analysis, and infrared imagers for manufacturing should select this path.
+215
+411
+,
+413
+, 414,
+425
+Network Communication and Information Systems (NCIS)
+This path prepares students to analyze and design communication systems (including data compression, encoding, modulation and detection of information), as well as complex networks (communication, social, economic, energy/power, etc). The NCIS area investigates the fundamental limits of performance possible in communication systems and communication networks, fundamental limits of information processing and propagation (in network settings), and practical methods to approach the fundamental limits.
+Applications of interest include cellular communication systems, sensor networks, social networks, the Internet, e-commerce, sharing economy, etc.
+215, 216, 301
+351, 444, 455,
+452
+, 453, 489, 501, 544, 550, 554, 557
+Optics and Photonics
+This path prepares students to focus on high speed communications, local area networks (LANs), laser welding, laser cutting, robotic guidance & gauging, 3-D scanners for automated 3-D CAD prototyping, optical clocks (primary time references), secure communications, quantum encryption, quantum computing, opto-electronics, and plasma research. Students who want to learn about the science of light and vision should select this path.
+215, PHYSICS 240
+334, 434,
+438
+Power/Energy
+This path prepares students to investigate energy conversion systems to enhance performance of electrical machines and power electronics. Students interested in power applications including automotive propulsion systems, wind generators, improving power grid efficiency, and enabling greater levels of renewable energy should select this path.
+215, 216
+418, 419, 463, occasional 498 and 598 sections
+Robotics
+This path prepares students to design computer systems that move through their physical environments, recognize objects and activities, and draw conclusions about their surroundings. Students can also learn about creating algorithms that allow robots to interact with the world. These general-purpose learning, motion planning, and manipulation algorithms can be applied to robots that work in homes, factories, and operating rooms.
+215, 216, a linear algebra class
+281, 442, 461, 464, 465, EECS 598 Motion Planning
+Signal and Image Processing
+This path prepares students to design digital hardware-software systems that encode, decode, transform, and analyze digital signals. Students interested in developing a theoretical understanding and thorough practical skills for manipulating and communicating video, audio, and other digital signals should select this path.
+215, 216
+301, 351, 442,
+452
+, 455, 501, 556
+Solid-State Devices and Nanotechnology
+This path prepares students for work with electronic equipment using semiconductor devices such as transistors, diodes and integrated circuits. Students who have an interest in microprocessor chips, LED lamps, solar cells, and semiconductor lasers, as well as students interested in studying and applying extremely small devices that
+can be used across all the other science fields, such as chemistry, biology, physics, materials science, and engineering,
+should consider this path.
+215
+320, 421, 423,
+425
+, 428, 429
+VLSI Systems (Chip Design)
+This path prepares students for the analysis and design of high-performance, low-power, and reliable integrated circuits. Students who want to design the complex, energy-efficient digital circuits that are fundamental to modern and future computers, should select this path.
+215, 270
+311, 312, 320,
+427
+,
+470
+2026-2027 (Updated 7.22.26)                                                                                                                        Page

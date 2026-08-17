@@ -1,0 +1,90 @@
+{
+  "id": "community-and-global-public-health",
+  "displayName": "Community and Global Public Health",
+  "groupRules": {
+    "Integrated Core Courses": {
+      "minCourses": 4,
+      "minCredits": 13,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "PUBHLTH 381",
+          "PUBHLTH 382",
+          "PUBHLTH 383",
+          "PUBHLTH 384"
+        ]
+      }
+    },
+    "Major Specific Requirements": {
+      "minCourses": 2,
+      "minCredits": 7,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "PUBHLTH 350",
+          "PUBHLTH 360"
+        ]
+      }
+    },
+    "Public Health Electives": {
+      "minCredits": 18,
+      "countsTowardMajorTotal": true
+    },
+    "Health Equity Requirement": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "anyOf": [
+          "PUBHLTH 308",
+          "PUBHLTH 313",
+          "PUBHLTH 320",
+          "PUBHLTH 328",
+          "PUBHLTH 333",
+          "PUBHLTH 360",
+          "PUBHLTH 450"
+        ]
+      }
+    },
+    "Culminating Experience": {
+      "minCourses": 2,
+      "minCredits": 4,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "PUBHLTH 481",
+          "PUBHLTH 380"
+        ]
+      }
+    },
+    "Upper-Level Elective Exceptions": {
+      "minCredits": 15,
+      "require": {
+        "anyOf": [
+          "BIOLOGY 207",
+          "BIOLOGY 225",
+          "BIOLOGY 226",
+          "CHEM 210",
+          "CHEM 211",
+          "CHEM 215",
+          "CHEM 216",
+          "CHEM 230",
+          "CHEM 260",
+          "PHYSICS 235",
+          "PHYSICS 240",
+          "PHYSICS 250",
+          "PHYSICS 260",
+          "PHYSICS 126",
+          "PHYSICS 236",
+          "PHYSICS 241",
+          "PHYSICS 251",
+          "PHYSICS 261",
+          "PHYSICS 128",
+          "PHYSIOL 201",
+          "NURS 236",
+          "NURS 245"
+        ]
+      }
+    }
+  }
+}

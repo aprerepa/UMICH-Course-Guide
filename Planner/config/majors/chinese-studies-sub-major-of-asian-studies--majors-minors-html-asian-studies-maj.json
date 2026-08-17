@@ -1,0 +1,10 @@
+{
+  "id": "chinese-studies-sub-major-of-asian-studies--majors-minors-html-asian-studies-maj",
+  "displayName": "Chinese Studies (Sub-major of Asian Studies)",
+  "requirementGroups": {
+    "Asian Studies (ASIAN) Requirement": [
+      "ASIAN 235",
+      "ASIAN 381"
+    ]
+  }
+}

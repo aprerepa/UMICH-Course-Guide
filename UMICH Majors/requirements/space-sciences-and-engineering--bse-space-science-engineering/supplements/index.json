@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-editable-sample-schedule-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+    "link_text": "Editable sample schedule",
+    "score": 150,
+    "status": "fetched",
+    "message": "ok (2199 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1M-hleHqzWiHwV4t7DHh_SPpnjjthPatkC3Ho-buUI3w/edit?gid=0#gid=0",
+    "fetch_mode": "http",
+    "chars": 2199
+  },
+  {
+    "id": "02-sample-schedule-here",
+    "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-CM-BSE-2.24.2023-Google-Sheets.pdf",
+    "link_text": "sample schedule here",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (2670 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-CM-BSE-2.24.2023-Google-Sheets.pdf",
+    "fetch_mode": "http",
+    "chars": 2670
+  },
+  {
+    "id": "03-sample-schedule",
+    "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-SSE-BSE-2023-Sheet1.pdf",
+    "link_text": "sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (3197 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-SSE-BSE-2023-Sheet1.pdf",
+    "fetch_mode": "http",
+    "chars": 3197
+  },
+  {
+    "id": "04-sample-schedule",
+    "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/AEROSP-BSE-Sample-Schedule_4.21.25.pdf",
+    "link_text": "sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (3055 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/AEROSP-BSE-Sample-Schedule_4.21.25.pdf",
+    "fetch_mode": "http",
+    "chars": 3055
+  },
+  {
+    "id": "05-sample-schedule",
+    "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/04/NERS-Sample-Schedule-4-2026.pdf",
+    "link_text": "sample schedule",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (3155 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/04/NERS-Sample-Schedule-4-2026.pdf",
+    "fetch_mode": "http",
+    "chars": 3155
+  },
+  {
+    "id": "06-https-bulletin-engin-umich-edu-courses-course-info",
+    "url": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "link_text": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (3397 chars)",
+    "final_url": "https://bulletin.engin.umich.edu/courses/course-info/",
+    "fetch_mode": "http",
+    "chars": 3397
+  },
+  {
+    "id": "07-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CLIMATE%20102/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  },
+  {
+    "id": "08-courseprofile-atlas",
+    "url": "https://atlas.ai.umich.edu/course/CLIMATE%20105/",
+    "link_text": "CourseProfile (ATLAS)",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (59 chars)",
+    "final_url": "https://okta.umich.edu/app/umich_aiatlas_1/exk24uu7f2lG8Yeq41d8/sso/saml",
+    "fetch_mode": "browser",
+    "chars": 59
+  }
+]

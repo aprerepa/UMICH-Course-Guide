@@ -1,0 +1,19 @@
+### Sheet: Sheet1
+Title	Primary Author	Subject	Recommender	Links/DOI if Avaliable	Notes
+Radiation Detection and Measurement	Knoll	General Topics	E. Schneider		Recommend Ch. 2 and Ch. 8
+Nondestructive Assay of Nuclear Materials for Safeguards and Security	Geist	Non-Proliferation	E. Schneider	https://link.springer.com/book/10.1007/978-3-031-58277-6	 
+MCNP6.3 Mannual	Kulesza	Simulation	E. Schneider	https://mcnp.lanl.gov/manual.html	The manual is available online, but the software itself is export-controlled. Its sections on theory are helpful reading
+Plastic Scintillators: Chemistry and Application (Chapter 8: Organic Glass)	Feng	Radiation Detection	E. Neely		
+Development of Multi-mode Organic Glass Scintillators for Nuclear Physics Applications	Shirwadkar	Radiation Detection	E. Neely	https://doi.org/10.1109/NSS/MIC44867.2021.9875655	 
+Detecting Illicit Nuclear Materials	Kouzes	Non-Proliferation	E. Neely	https://www.jstor.org/stable/27858641	Presents its subject in a very relevant way. Engaging reading.
+Development of an Advanced Radioxenon Detector for Nuclear Explosion Monitoring	Sivels	Non-Proliferation	E. Neely	https://deepblue.lib.umich.edu/handle/2027.42/147543	PhD thesis is a lot more accessible than many journal articles!
+The History of Nuclear Energy	US - Department of Energy	History	S. Pozzi	https://www.energy.gov/ne/articles/history-nuclear-energy	Brief history of nuclear energy; Freely accessible
+Multiple resources on history of nuclear energy	US - Department of Energy	History	S. Pozzi	https://www.energy.gov/lm/historical-resources	Multiple resources; history of the Manhattan project
+Brief history of nuclear energy	World Nuclear Association	History	S. Pozzi	https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy	 
+Introductory Nuclear Physics	Krane	General Topics	A. Tuckey		 
+Modern Particle Physics	Thomson	General Topics	A. Tuckey		 
+Principles of Plasma Diagnostics, 2nd ed.	Ian H. Hutchinson	Fusion 	N. Kaneshige 	DOI: 10.1017/CBO9780511613630	 
+“MIT Lecture 19: Fusion Nuclear Diagnostics”	Maria Gatu Johnson	Fusion 	N. Kaneshige	https://share.google/IbN5baob6BI0sFfje	
+Fused-Silica Activation Cherenkov Detector for Pulsed D–T Fusion Yields	Nathaniel Kaneshige	Fusion 	N. Kaneshige	https://www.sciencedirect.com/science/article/pii/S0168900226004079	 
+Diagnosing Inertial Confinement Fusion Implosions at OMEGA and the National Ignition Facility Using Novel Neutron Spectrometry	Daniel T. Casey	Fusion 	N. Kaneshige 	⁠MIT thesis record and full text	 
+			X

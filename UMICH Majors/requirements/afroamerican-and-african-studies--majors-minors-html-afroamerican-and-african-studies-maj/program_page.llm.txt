@@ -19,6 +19,10 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 About
 Academics
 Research
@@ -46,6 +50,10 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
 for
 Prospective Students
 Current Students
@@ -178,15 +186,6 @@ HUM
 NAT
 SOC
 INT
-Afroamerican and African Studies (Major)
-Majoring in Afroamerican and African Studies will allow you to develop a comprehensive understanding of Africa and its diaspora: the varied cultures of African-descended people around the world. While exploring different geographical regions, cultures, historical periods, and political contexts, you will develop expertise about one of the geographical regions central to our curriculum: Africa, African America, or the African Diaspora broadly conceived, and you will develop specialized knowledge in your chosen field (e.g., Popular Culture and New Media; Health; Gender and Sexuality Studies).
-Related Programs
-Afroamerican and African Studies Minor
-REQUIREMENTS
-WEBSITE
-ADVISING
-DEPARTMENT/PROGRAM
-LSA Afroamerican and African Studies
 Afroamerican and African Studies (Minor)
 m
 HUM

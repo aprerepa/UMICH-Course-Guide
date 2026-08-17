@@ -1,284 +1,52 @@
-Degree Requirements
-Home
-/
-Academic Programs
-/
-Nuclear Engineering & Radiological Sciences Major
-/
-Degree Requirements
-Related Resources
-Advising Appointments
-Student Ambassadors
-NERS Course Descriptions
-NERS Course Schedule
-Employment Prospects
-Course requirements for a NERS BSE degree are displayed in the sample schedule below. For help planning and scheduling your courses, please
-schedule an appointment
-with an advisor for the NERS undergraduate program.
-For external
-transfer students, this is a 5-semester sequence starting with NERS 250 in the Winter Semester.
-NERS Undergraduate Grade Policy
-In order to earn a BSE degree, students must have no grades of “C-” or below in any NERS program courses or technical electives. Students may have only one grade of “C-” or below in all required mathematics and technical courses. Students will be required to retake any course that falls outside this criterion.
+Engineering Physics
+Overview
+Basic physics is an integral part of every engineering curriculum. However, the sophistication of many areas of engineering, coupled with the staggering rate of technological advance, has created a need for engineers with much stronger backgrounds in math and physics—people who can work in an engineering environment and who are capable of applying advanced physics concepts to bring innovations to the marketplace. For example, the development of the computer closely followed the invention of the transistor. Consider the number of other physical phenomena (lasers, nuclear reactors, semiconductors, nuclear magnetic resonance, particle accelerators, etc.) that have been developed by engineers into modern technologies.
+Engineering Physics is particularly attractive to those students who may attend graduate school, even if they have not yet decided on a particular field. An advanced physics and mathematics background, coupled with an engineering curriculum, is excellent preparation for most graduate engineering programs and for traditional physics or applied physics programs. Additionally, for those students that are seeking industry careers after their undergraduate degrees, the Engineering Physics curriculum offers the opportunity to focus in an advanced engineering area while developing a strong fundamental physics foundation.
+Engineering Physics meets the stated needs by providing a thorough curriculum in basic and advanced engineering courses combined with sufficient physics and mathematics to be equivalent to a traditional degree in physics. A unique feature of the curriculum is the elective sequence of engineering courses that the student elects in a specialized field of engineering. This sequence of courses is chosen by the student (with the advisor’s input and approval) in any field of interest, such as quantum computing, data science, microprocessor design, plasma science and technology, electro-optics, computational methods or bioengineering, to name just a few. With 42 credit hours of electives in math, engineering, and physics, the student has a high degree of flexibility and opportunity for exploring or specializing in fields of their interest. Many Engineering Physics students also take advantage of the extensive research opportunities on campus,  in both the engineering and science departments.
+The Engineering Physics degree program is administered by the Nuclear Engineering and Radiological Sciences Department.
+Program Administration
+Undergraduate Program Chairs
+Carolyn Kuranz
+2911 Cooley Laboratory
+YZ
+2927 Cooley Laboratory
+Student Administration Manager
+Michelle Sonderman
+1919 Cooley Laboratory
+For more specific information on contacting people – go to our
+Contacts page
+.
+Mission Statement
+Mission
+To provide students with a high-quality education that prepares them for careers in engineering and science.
+Goals
+To educate students in the scientific fundamentals as well as in an engineering discipline of their choice, to provide the depth and breadth required to adapt to changes in technology.
+Enrollment and Graduation Data
+The University Registrar publishes
+the number of students enrolled annually in this program
+.
+Contact
+Undergraduate Program Chairs
+Carolyn Kuranz
+2911 Cooley
+ckuranz@umich.edu
+(734) 615-6282
+YZ
+2927 Cooley Laboratory
+yzyz@umich.edu
+734-647-4338
+Student Administration Manager
+Michelle Sonderman
+1919 Cooley
+For more specific information on contacting people – go to our
+Contacts page
+.
+Engineering Physics Undergraduate Program website
+Undergraduate Degree Program
 Sample Schedule
-Subjects required by all programs (55 hrs.)
-Total credit hours
-Terms
-1
-2
-3
-4
-5
-6
-7
-8
-Mathematics 115, 116, 215, and NERS 320
-16
-4
-4
-4
-4
-–
-–
-–
-–
-Engr 100, Intro to Engr
-4
-4
-–
-–
-–
-–
-–
-–
-–
-Engr 101, Intro to Computers
-1
-4
-–
-4
-–
-–
-–
-–
-–
-–
-Chemistry 125/126 and 130 or Chemistry 210 and 211
-2
-5
-5
-–
-–
-–
-–
-–
-–
-–
-Physics 140 with Lab 141; Physics 240 with Lab 241
-3
-10
-–
-5
-5
-–
-–
-–
-–
-–
-Intellectual Breadth
-16
-4
-4
-4
-–
-–
-4
-–
-–
-Related Technical Subjects (11 hrs.)
-MATSCIE 250, Princ of Eng Materials or MSE 220, Intro to Materials and Manf
-4
-–
-–
-–
-4
-–
-–
-–
-–
-EECS 215, Intro to Circuits or EECS 314,Electrical Circuits, Systems, and Applications
-4
-–
-–
-–
-–
-4
-–
-–
-–
-MECHENG 235, Thermodynamics I
-3
-–
-–
-–
-–
-3
-–
-–
-–
-Program Subjects (45 hrs.)
-NERS 250, Fundamentals of Nuclear Eng and Rad Sci
-4
-–
-–
-–
-4
-–
-–
-–
-–
-NERS 311, Ele of Nuc Eng & Rad Sci I
-3
-–
-–
-–
-–
-3
-–
-–
-–
-NERS 312, Ele of Nuc Eng & Rad Sci II
-3
-–
-–
-–
-–
-–
-3
-–
-–
-NERS 315, Nuclear Instr Lab
-4
-–
-–
-–
-–
-–
-4
-–
-–
-NERS 344, Fluid Mech Nucl Eng
-3
-–
-–
-–
-–
-–
-3
-–
-–
-NERS 420, Applied Mathematics for Engineering Physics II
-4
-–
-4
-NERS 441, Nuclear Reactor Theory I
-4
-–
-–
-–
-–
-–
-–
-4
-–
-NERS 444, Fundamentals of Heat and Mass Transfer
-3
-3
-Laboratory Course (above NERS 315)
-4
-4
-–
-–
-–
-–
-–
-–
-–
-4
-NERS 491, Nuclear Engineering and Radiological Sciences Design I
-1
-–
-–
-–
-–
-–
-–
-1
-–
-NERS 492, Nuclear Engineering and Radiological Sciences Design II
-3
-–
-–
-–
-–
-–
-–
-–
-3
-NERS Electives5
-9
-–
-–
-–
-–
-–
-–
-3
-6
-Electives (17 hours)
-5
-Technical Electives (5 hours)
-6
-5
-–
-–
-–
-–
-2
-–
-–
-3
-General Electives (12 hours)
-12
-–
-–
-3
-3
-–
-3
-3
-–
-Total
-128
-17
-17
-16
-15
-16
-17
-14
-16
-revised 2/2025
-Candidates for the Bachelor of Science Degree in Engineering in Nuclear Engineering and Radiological Sciences – BSE in NERS – must complete the program listed above.
-This sample schedule is an example of one leading to graduation in eight terms.
-Notes:
-EECS 180 credit ( Exam/Transfer Introductory Computer Programming) will not meet the programming requirement on its own. Students must also select from: Engr 101, Engr 151, Engr 161, or EECS 280.
-If you have a satisfactory score or grade in Chemistry AP, A-Level, IB Exams or transfer credit from another institution for Chemistry 125/126/130 you will have met the Chemistry Core Requirement for the College of Engineering.
-If you have a satisfactory score or grade in Physics AP, A-Level, IB Exams or transfer credit from another institution for Physics 140/141 and Physics 240/241 you will have met the Physics Core Requirement for the College of Engineering.
-Laboratory course, (above NERS 315) select one of the following: NERS 425, 535, 575, 586.
-One course must be selected from the following: NERS 421, 471, and NERS 484. A maximum of 3 credit hours of independent study (NERS 499) can count as a NERS elective. All additional NERS 499 credits beyond those 3 credits can only be counted as a general elective.
-Technical electives are defined as: 300-level and above Mathematics, Physics, or non-NERS engineering courses. Content must be technical. All substitutions must be approved by the faculty advisor.
-Request More Info
-For more information on the NERS Undergraduate Program, please contact Khan Nguyen, our Recruiting and Outreach Coordinator, or complete the form. Current U-M students can schedule an appointment to meet with Michelle Sonderman, our Undergraduate Program Manager.
-Contact Khan Nguyen
-Request Info Form
-Meet with Michelle Sonderman
+B.S.E. in Engineering Physics
+Not an ABET-accredited program. Please see the PDF version of the
+sample schedule
+. Additional information can be found on the
+NERS Department website
+.

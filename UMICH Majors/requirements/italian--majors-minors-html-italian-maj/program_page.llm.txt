@@ -19,10 +19,6 @@ LSA Course Guide
 LSA Gateway
 Submit Site Search
 Search
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 About
 Academics
 Research
@@ -50,10 +46,6 @@ News and Events
 Support LSA
 Course Catalog
 Give Online
-Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-previous
-|
-next
 for
 Prospective Students
 Current Students
@@ -1547,6 +1539,21 @@ HUM
 NAT
 SOC
 INT
+Italian (Major)
+Major in Italian allows students considerable flexibility in developing a program of study leading to competence in the Italian language and basic familiarity with Italian literature and culture.
+Related Programs
+Italian Minor
+French and Francophone Studies Major
+French and Francophone Studies Minor
+Portuguese Minor
+Romance Languages and Literatures Major
+Spanish Major
+Spanish Language, Literature, and Culture Minor
+REQUIREMENTS
+WEBSITE
+ADVISING
+DEPARTMENT/PROGRAM
+LSA Romance Languages & Literatures
 Italian (Minor)
 m
 HUM

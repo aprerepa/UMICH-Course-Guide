@@ -1,0 +1,61 @@
+{
+  "id": "honors-mathematics-sub-major-of-mathematics",
+  "displayName": "Honors Mathematics (Sub-major of Mathematics)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          {
+            "allOf": [
+              "MATH 156",
+              "MATH 285",
+              "MATH 286"
+            ]
+          },
+          {
+            "allOf": [
+              "MATH 185",
+              "MATH 186",
+              "MATH 285",
+              "MATH 286"
+            ]
+          },
+          {
+            "allOf": [
+              "MATH 217",
+              "MATH 297"
+            ]
+          },
+          {
+            "allOf": [
+              "MATH 275",
+              "MATH 276",
+              "MATH 285",
+              "MATH 286"
+            ]
+          },
+          {
+            "allOf": [
+              "MATH 295",
+              "MATH 296",
+              "MATH 395",
+              "MATH 396"
+            ]
+          }
+        ]
+      }
+    },
+    "Basic Courses": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Elective Courses": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Cognate Courses": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "01-course-information",
+    "url": "http://www.lsa.umich.edu/german/graduate-students/course-information.html",
+    "link_text": "Course Information",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (7111 chars)",
+    "final_url": "https://lsa.umich.edu/german/graduate-students/course-information.html",
+    "fetch_mode": "browser",
+    "chars": 7111
+  },
+  {
+    "id": "02-course-information",
+    "url": "https://lsa.umich.edu/german/graduate-students/course-information.html",
+    "link_text": "Course Information",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (7252 chars)",
+    "final_url": "https://lsa.umich.edu/german/graduate-students/course-information.html",
+    "fetch_mode": "http",
+    "chars": 7252
+  },
+  {
+    "id": "03-courses",
+    "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "link_text": "Courses",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (4215 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses.html",
+    "fetch_mode": "http",
+    "chars": 4215
+  },
+  {
+    "id": "04-browse-copies-of-past-lsa-bulletins",
+    "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "link_text": "Browse copies of past LSA bulletins",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (3662 chars)",
+    "final_url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+    "fetch_mode": "browser",
+    "chars": 3662
+  }
+]

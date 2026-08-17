@@ -1,0 +1,50 @@
+{
+  "id": "elementary-teacher-education--bachelors",
+  "displayName": "Elementary Teacher Education",
+  "requirementGroups": {
+    "Required Education Core Courses": [
+      "EDUC 118",
+      "EDUC 141",
+      "EDUC 151",
+      "EDUC 160",
+      "EDUC 241",
+      "EDUC 271",
+      "EDUC 291",
+      "EDUC 392"
+    ],
+    "First-Year Writing": [
+      "CLCIV 101",
+      "CLCIV 121",
+      "COMPLIT 122",
+      "ENGLISH 124",
+      "ENGLISH 125",
+      "ENGLISH 126",
+      "GTBOOKS 191",
+      "HISTORY 195",
+      "WRITING 160"
+    ],
+    "Core Credits (Professional Sequence)": [
+      "EDUC 303",
+      "EDUC 391",
+      "EDUC 392",
+      "EDUC 401",
+      "EDUC 403",
+      "EDUC 405",
+      "EDUC 407",
+      "EDUC 411",
+      "EDUC 414",
+      "EDUC 415",
+      "EDUC 416",
+      "EDUC 417",
+      "EDUC 421",
+      "EDUC 430",
+      "EDUC 431",
+      "EDUC 443",
+      "EDUC 444"
+    ],
+    "Teaching Experience Credits": [
+      "EDUC 301",
+      "EDUC 307"
+    ]
+  }
+}

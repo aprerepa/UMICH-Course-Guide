@@ -1,0 +1,61 @@
+{
+  "id": "cognitive-science--majors-minors-html-cognitive-science-maj",
+  "displayName": "Cognitive Science",
+  "requirementGroups": {
+    "Prerequisites": [
+      "COGSCI 200"
+    ],
+    "Computation and Cognition Track": [
+      "PSYCH 240",
+      "PSYCH 345",
+      "EECS 281",
+      "EECS 492",
+      "EECS 445",
+      "COGSCI 445"
+    ],
+    "Decision and Cognition Track": [
+      "PHIL 215",
+      "PHIL 361",
+      "PHIL 342",
+      "PHIL 343",
+      "PHIL 443",
+      "PHIL 444",
+      "PSYCH 449"
+    ],
+    "Language and Cognition Track": [
+      "LING 313",
+      "LING 315",
+      "LING 316",
+      "PHIL 345",
+      "PHIL 409",
+      "PHIL 426",
+      "LING 426",
+      "LING 209",
+      "PSYCH 242",
+      "COGSCI 209",
+      "LING 347",
+      "PSYCH 349",
+      "LING 352",
+      "NEURO 432",
+      "COGSCI 432",
+      "PSYCH 444"
+    ],
+    "Philosophy and Cognition Track": [
+      "PSYCH 240",
+      "PSYCH 345",
+      "PHIL 340",
+      "PHIL 482",
+      "PHIL 303",
+      "PHIL 305",
+      "PHIL 322",
+      "PHIL 413"
+    ],
+    "Research Course Options": [
+      "LING 343",
+      "PSYCH 302",
+      "PSYCH 303",
+      "PSYCH 331",
+      "PSYCH 341"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "german--majors-minors-html-german-maj",
+  "displayName": "German",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "GERMAN 230",
+          "GERMAN 232",
+          "RCLANG 291"
+        ]
+      }
+    },
+    "Requirements": {
+      "completion": "manual",
+      "minCredits": 30,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

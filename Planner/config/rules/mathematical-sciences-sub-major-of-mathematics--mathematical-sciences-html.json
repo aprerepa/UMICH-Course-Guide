@@ -1,0 +1,72 @@
+{
+  "id": "mathematical-sciences-sub-major-of-mathematics--mathematical-sciences-html",
+  "displayName": "Mathematical Sciences (Sub-major of Mathematics)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          {
+            "allOf": [
+              "MATH 205",
+              "MATH 217"
+            ]
+          },
+          {
+            "allOf": [
+              "MATH 215",
+              "MATH 217"
+            ]
+          },
+          {
+            "allOf": [
+              "MATH 285",
+              "MATH 217"
+            ]
+          },
+          {
+            "allOf": [
+              "MATH 295",
+              "MATH 296"
+            ]
+          }
+        ]
+      }
+    },
+    "Basic Courses": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Discrete and Algorithmic Methods": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Numerical and Applied Analysis": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Operations Research and Modeling": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Probabilistic Methods": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Mathematical Economics": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Control Systems": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Mathematical Physics": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Mathematical Biology": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "01-multi-program-application-checklist",
+    "url": "https://michiganross.umich.edu/graduate/oym/multi-program-application-checklist",
+    "link_text": "Multi-Program Application Checklist",
+    "score": 115,
+    "status": "fetched",
+    "message": "ok (18049 chars)",
+    "final_url": "https://michiganross.umich.edu/graduate/oym/multi-program-application-checklist",
+    "fetch_mode": "http",
+    "chars": 18049
+  },
+  {
+    "id": "02-schedule",
+    "url": "https://michiganross.umich.edu/graduate/executive-mba/curriculum/schedule",
+    "link_text": "Schedule",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (5614 chars)",
+    "final_url": "https://michiganross.umich.edu/graduate/executive-mba/curriculum/schedule",
+    "fetch_mode": "browser",
+    "chars": 5614
+  },
+  {
+    "id": "03-ann-arbor",
+    "url": "https://michiganross.umich.edu/graduate/executive-mba/curriculum/schedule/ann-arbor",
+    "link_text": "Ann Arbor",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (2829 chars)",
+    "final_url": "https://michiganross.umich.edu/graduate/executive-mba/curriculum/schedule/ann-arbor",
+    "fetch_mode": "browser",
+    "chars": 2829
+  },
+  {
+    "id": "04-los-angeles",
+    "url": "https://michiganross.umich.edu/graduate/executive-mba/curriculum/schedule/los-angeles",
+    "link_text": "Los Angeles",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (2876 chars)",
+    "final_url": "https://michiganross.umich.edu/graduate/executive-mba/curriculum/schedule/los-angeles",
+    "fetch_mode": "browser",
+    "chars": 2876
+  },
+  {
+    "id": "05-sample-course-schedule",
+    "url": "https://michiganross.umich.edu/graduate/online-mba/curriculum/sample-schedule",
+    "link_text": "Sample Course Schedule",
+    "score": 70,
+    "status": "fetched",
+    "message": "ok (23850 chars)",
+    "final_url": "https://michiganross.umich.edu/graduate/online-mba/curriculum/sample-schedule",
+    "fetch_mode": "http",
+    "chars": 23850
+  }
+]

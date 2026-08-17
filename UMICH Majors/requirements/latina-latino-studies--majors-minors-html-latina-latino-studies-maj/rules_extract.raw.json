@@ -1,0 +1,14 @@
+{
+  "id": "latina-latino-studies",
+  "displayName": "Latina/Latino Studies",
+  "groupRules": {
+    "Core course": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Capstone": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

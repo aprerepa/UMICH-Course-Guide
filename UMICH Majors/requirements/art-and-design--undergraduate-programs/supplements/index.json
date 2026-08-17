@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-stamps-minor-backward-planning-tool-gid1717461640",
+    "url": "https://docs.google.com/spreadsheets/d/1ewzE7o8SACozxUZNjzknvTg8bq9-I79MkduWz6C7P0M/edit?gid=1717461640#gid=1717461640",
+    "link_text": "Stamps Minor Backward Planning tool",
+    "score": 100,
+    "status": "failed",
+    "message": "Client error '401 Unauthorized' for url 'https://docs.google.com/spreadsheets/d/1ewzE7o8SACozxUZNjzknvTg8bq9-I79MkduWz6C7P0M/export?format=tsv&gid=1717461640'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401",
+    "final_url": null,
+    "fetch_mode": null,
+    "chars": 0
+  },
+  {
+    "id": "02-drawing-observation",
+    "url": "https://stamps.umich.edu/courses/9245",
+    "link_text": "Drawing: Observation",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (896 chars)",
+    "final_url": "https://stamps.umich.edu/courses/9245",
+    "fetch_mode": "browser",
+    "chars": 896
+  },
+  {
+    "id": "03-drawing-observation",
+    "url": "https://stamps.umich.edu/courses/9246",
+    "link_text": "Drawing: Observation",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (896 chars)",
+    "final_url": "https://stamps.umich.edu/courses/9246",
+    "fetch_mode": "http",
+    "chars": 896
+  },
+  {
+    "id": "04-drawing-observation",
+    "url": "https://stamps.umich.edu/courses/9247",
+    "link_text": "Drawing: Observation",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (896 chars)",
+    "final_url": "https://stamps.umich.edu/courses/9247",
+    "fetch_mode": "http",
+    "chars": 896
+  },
+  {
+    "id": "05-drawing-observation",
+    "url": "https://stamps.umich.edu/courses/9248",
+    "link_text": "Drawing: Observation",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (896 chars)",
+    "final_url": "https://stamps.umich.edu/courses/9248",
+    "fetch_mode": "http",
+    "chars": 896
+  },
+  {
+    "id": "06-drawing-observation",
+    "url": "https://stamps.umich.edu/courses/9249",
+    "link_text": "Drawing: Observation",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (896 chars)",
+    "final_url": "https://stamps.umich.edu/courses/9249",
+    "fetch_mode": "http",
+    "chars": 896
+  },
+  {
+    "id": "07-drawing-observation",
+    "url": "https://stamps.umich.edu/courses/9250",
+    "link_text": "Drawing: Observation",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (896 chars)",
+    "final_url": "https://stamps.umich.edu/courses/9250",
+    "fetch_mode": "http",
+    "chars": 896
+  },
+  {
+    "id": "08-drawing-observation",
+    "url": "https://stamps.umich.edu/courses/9251",
+    "link_text": "Drawing: Observation",
+    "score": 55,
+    "status": "fetched",
+    "message": "ok (896 chars)",
+    "final_url": "https://stamps.umich.edu/courses/9251",
+    "fetch_mode": "browser",
+    "chars": 896
+  }
+]

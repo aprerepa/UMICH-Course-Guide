@@ -1,0 +1,22 @@
+{
+  "id": "power-identity-and-inequality-sub-major-of-anthropology--majors-minors-html-power-identity-and-inequality-sub",
+  "displayName": "Power, Identity, and Inequality (Sub-major of Anthropology)",
+  "groupRules": {
+    "Anthropological Archaeology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Biological Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Linguistic Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Sociocultural Anthropology": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

@@ -1,0 +1,390 @@
+Page header:
+page title: Materials Science and Engineering Courses (MATSCIE) – Bulletin
+
+Visible page text:
+Materials Science and Engineering Courses (MATSCIE)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Materials Science and Engineering Courses (MATSCIE)
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+100 Level Courses
+MATSCIE 193. Special Topics in Materials Science and Engineering
+Advisory Prerequisite: Permission of instructor. Enforced
+Prerequisite: None.
+(1-4 credits)
+Special topics of current interest to students.
+CourseProfile (ATLAS)
+200 Level Courses
+MATSCIE 220. Introduction to Materials and Manufacturing
+Advisory Prerequisite: None. Enforced Prerequisite: CHEM 130 or CHEM 210. Minimum grade requirement of “C-” for enforced prerequisite. Credit Exclusion: Student may only receive credit for one course
+,
+MATSCIE 150 or MATSCIE 220 or MATSCIE 250. (4 credits)
+Introduction to materials engineering and materials processing in manufacturing. The engineering properties of metals, polymers, semiconductors, ceramics and composites are correlated with the internal structure of the materials and the service conditions.
+CourseProfile (ATLAS)
+MATSCIE 242. Physics of Materials
+Advisory Prerequisite: None. Enforced Prerequisite: PHYSICS 240; Co-requisite: MATH 216.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(4 credits)
+Basic principles of modern physics and quantum mechanics as pertain to solid state physics and the physical behavior of materials on the nanometer scale. Applications to solid state and nano-structured materials will be emphasized including band structure, bonding and magnetic, optical and electronic response.
+CourseProfile (ATLAS)
+MATSCIE 250. Principles of Engineering Materials
+Advisory Prerequisite: None. Enforced Prerequisite: CHEM 130 or CHEM 210. Minimum grade requirement of “C-” for enforced prerequisite.
+Credit Exclusion: Student may only receive credit for one course
+,
+MATSCIE 150 or MATSCIE 220 or MATSCIE 250.
+(4 credits)
+Introductory course to engineering materials.  Properties (mechanical, thermal and electrical) of metals, polymers, ceramics and electronic materials.  Correlation of these properties with (1) their internal structures (atomic, molecular, crystalline, micro- and macro-), (2) service conditions (mechanical, thermal, chemical, electrical, magnetic and radiation), and (3) processing.
+CourseProfile (ATLAS)
+MATSCIE 254. Mathematical Methods of Materials Science
+Advisory Prerequisite: None. Enforced Prerequisite: (MATH 115
+or MATH 120
+or MATH 185 or MATH 295) and (MATH 116
+or MATH 121
+or MATH 156 or MATH 186 or MATH 296). Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Equips students with mathematical tools needed to succeed in upper-level curriculum in Materials
+Science & Engineering. Topics taught include linear algebra, complex variables, series of functions, and statistics. There is a strong emphasis on the practical usage and scientific utility of mathematical concepts. Applications include quantum mechanics in materials, diffraction techniques, and scientific data analysis.
+CourseProfile (ATLAS)
+MATSCIE 280. Materials Science and Engineering Undergraduate Research Opportunity
+Advisory Prerequisite: Open only to 1st- or 2nd-year undergraduate students with permission of instructor. Enforced
+Prerequisite: None.
+(1-4 credits)
+The UROP program enables students to work one-on-one or with a small group of students with faculty members conducting research. Students receive 1 credit per 3 hours of work per week. Students participating in the program are required to attend biweekly research peer group meetings, meet monthly with a peer advisor and keep a research journal.
+CourseProfile (ATLAS)
+MATSCIE 281 (ANTHRARC 281). Making Things: Three Million Years of Materials and Culture
+Advisory and Enforced Prerequisite: None. (3 credits)
+Connections between the discovery of new materials – such as ceramics, concrete, precious stones and metals, glass, steel, plastics, and semiconductors – and social transformations worldwide. To see these connections, the course will fuse basic concepts in materials science and engineering with perspectives and methods from anthropological archaeology.
+CourseProfile (ATLAS)
+MATSCIE 293. Special Topics in Materials Science and Engineering
+Advisory and Enforced Prerequisite: None. (1-4 credits)
+Special Topics in Materials Science and Engineering.
+CourseProfile (ATLAS)
+300 Level Courses
+MATSCIE 330. Thermodynamics of Materials
+Advisory
+Prerequisite: None.
+Enforced
+Prerequisite: (PHYSICS 140 and PHYSICS 141) and MATH 215 and (MATSCIE 220 or MATSCIE 250) and MATSCIE 254. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+The laws of thermodynamics and their consequences. Applications to solid and liquid materials. Mass and energy balances. Gas reactions. Phase diagrams. Ellingham, Pourbaix and stability diagrams.
+CourseProfile (ATLAS)
+MATSCIE 335. Kinetics and Transport in Materials Engineering
+Advisory Prerequisite: None. Enforced Prerequisite: MATH 215 and MATH 216 and (MATSCIE 220 or MATSCIE 250) and MATSCIE 330 and MATSCIE 254. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Application of basic principles of molecular transport and mass, energy and momentum balance to the solution of heat, diffusion and fluid flow problems relevant to materials processing. Introduction to radiative heat transfer. Empirical approaches to and dimensional analysis of complex transport problems including convection, turbulence and non-Newtonian flow.
+CourseProfile (ATLAS)
+MATSCIE 350. Structures of Materials
+Advisory
+Prerequisite: None.
+Enforced
+Prerequisite: (MATSCIE 220 or MATSCIE 250) and MATSCIE 254. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Application of fundamental principles of crystal structures, symmetry, and defects to understand structure-property relationships in materials. Topics include atomic bonding, amorphous structures, crystallography, diffraction, atomistic descriptions of point, line, and planar defects in crystalline solids, and microstructures. Emphasis is placed on linking atomic-scale structure and microstructure to the mechanical, chemical, and functional properties of materials relevant to engineering applications.
+CourseProfile (ATLAS)
+MATSCIE 360. Materials Laboratory I
+Advisory Prerequisite: MATSCIE 350. Enforced Prerequisite: MATSCIE 220 or 250.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Laboratory experiences based on principles emphasized in Fundamentals of Materials Science including processing, properties, and structure with a focus on micro structural analysis and structure-property relationships. Continued as MATSCIE 365.
+CourseProfile (ATLAS)
+MATSCIE 365. Materials Laboratory II
+Advisory Prerequisite: None. Enforced Prerequisite: MATSCIE 360; Co-requisite: MATSCIE 242.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Laboratory experiences based on principles emphasized in Physics of Materials and Fundamentals of Material Science. Processing, properties, and microstructure with a focus on electronic and magnetic phenomena.
+CourseProfile (ATLAS)
+400 Level Courses
+MATSCIE 400. Electronic, Magnetic and Optical Materials for Modern Device Technology
+Advisory Prerequisite: None. Enforced Prerequisite: MATSCIE 242 and (MATSCIE 220 or MATSCIE 250); or graduate standing.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Application of solid-state phenomena in engineering structures such as microelectronic, magnetic and optical devices. Review of quantum mechanical descriptions of crystalline solids. Microelectronic, magnetic and optical properties of devices, fabrication and process methods.
+CourseProfile (ATLAS)
+MATSCIE 410 (BIOMEDE 410) (MACROMOL 410). Design and Applications of Biomaterials
+Advisory Prerequisite: None. Enforced Prerequisite: (MATSCIE 220 or MATSCIE 250); or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Biomaterials and their physiological interactions.  Materials used in medicine/dentistry:  metals, ceramics, polymers, composites, resorbable, smart, natural materials.  Material response/degradation:  mechanical breakdown, corrosion, dissolution, leaching, chemical degradation, wear.  Host responses:  foreign body reactions, inflammation, wound healing, carcinogenicity, immunogenicity, cytotoxicity, infection, local/systemic effects.
+CourseProfile (ATLAS)
+MATSCIE 412 (CHE 412) (MACROMOL 412). Polymeric Materials
+Advisory Prerequisite: None. Enforced Prerequisite: (MATSCIE 220 or MATSCIE 250); or graduate standing. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+The synthesis, characterization, microstructure, rheology and processing of polymeric materials. Polymers in solution and in the liquid, liquid-crystalline, crystalline and glassy states. Engineering and design properties, including viscoelasticity, yielding and fracture. Forming and processing methods. Recycling and environmental issues.
+CourseProfile (ATLAS)
+MATSCIE 420. Mechanical Behavior of Materials
+Advisory Prerequisite: (MECHENG 210 or MECHENG 211), MATSCIE 350 and ENG 350. Enforced Prerequisite: (MATSCIE 220 or MATSCIE 250) and MECHENG 211.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Macroscopic and microscopic aspects of deformation and fracture. Plasticity, general continuum approach. Microscopic hardening mechanisms. Rate and temperature dependent deformation. Deformation and fracture mechanism maps. Fracture mechanics. Fatigue behavior.
+CourseProfile (ATLAS)
+MATSCIE 440. Ceramic Materials
+Advisory Prerequisite: MATSCIE 350
+.
+Enforced Prerequisite: None. (3 credits)
+Chemistry, structure, processing, microstructure and property relationships and their applications in design and production of ceramic materials.
+CourseProfile (ATLAS)
+MATSCIE 454. Computational Approaches in MSE
+Advisory Prerequisite: None. Enforced Prerequisite: MATSCIE 335 and MATSCIE 365.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Computational methods and tools used in materials science and engineering, including the advantages, disadvantages, and pitfalls associated with various methods, the concepts behind the methods and the basics of numerical modeling and simulation. The hands-on laboratory sessions, home problems, and class project provide first-hand learning experience in modeling.
+CourseProfile (ATLAS)
+MATSCIE 465. Structural and Chemical Characterization of Materials
+Advisory Prerequisite: None. Enforced Prerequisite: MATSCIE 350.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Study of the basic structural and chemical characterization techniques that are commonly used in materials science and engineering. X-ray, electron and neutron diffraction, a wide range of spectroscopies, microscopies and scanning probe methods will be covered. Lectures will be integrated with a laboratory where the techniques will be demonstrated and/or used by the student to study a material. Techniques will be presented in terms of the underlying physics and chemistry.
+CourseProfile (ATLAS)
+MATSCIE 470. Physical Metallurgy
+Advisory Prerequisite: MATSCIE 350. Enforced Prerequisite: MATSCIE 335.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(3 credits)
+Phase transformation mechanisms in metallic systems. Nucleation, diffusion-controlled growth, spinodal decomposition and martensitic reactions. Binary and ternary phase diagrams. Solidification and precipitate evolution. Structural alloy systems including Al, Mg, Fe, Ni and Titanium.
+CourseProfile (ATLAS)
+MATSCIE 481. Designing Sustainable Products and Processes
+Advisory Prerequisite: None. Enforced Prerequisite: Senior standing. (3 credits)
+Projects based on environmental sustainability. Project based teamwork. Life Cycle Analysis (LCA). Techno-Economic Analysis (TEA). Engineering economics. Environmental impact with emphasis on CO2 utilization. Identification of key technology drivers to reduce cost and environmental impact. Written and oral presentations of solutions. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+MATSCIE 482. Product Design and Manufacturing
+Advisory Prerequisite: None. Enforced Prerequisite: Senior standing. (3 credits)
+Design, manufacturing and validation of complex products. Sponsor-based projects. Project based teamwork. Prototyping. User centric design principles. System engineering. Project management. Written and oral presentations at design reviews. Projects are overseen/graded by faculty and may also involve mentoring by representatives from external organizations.
+CourseProfile (ATLAS)
+MATSCIE 485 (MFG 458). Design Problems
+Advisory Prerequisite: None. Enforced Prerequisite: MATSCIE 480 or MFG 480; or graduate standing.
+Minimum grade requirement of “C-” for enforced prerequisite.
+(1-4 credits)
+The design of production and refining systems for engineering materials. Design of problems for the extraction and refining of metals, production and processing of ceramics, polymeric materials, and electronic materials.  Written and oral presentation of solutions to processing design problems.
+CourseProfile (ATLAS)
+MATSCIE 490. Research Problems in Materials Science and Engineering
+Advisory Perquisite: None. Enforced Prerequisite: Undergraduate. (1-3 credits)
+Individual or group work in a particular field or on a problem of special interest to the student. The program of work is arranged at the beginning of each term by mutual agreement between the student and a faculty member. Written and oral reports are required. Laboratory and conferences.
+CourseProfile (ATLAS)
+MATSCIE 493. Special Topics
+Advisory Prerequisite: MATSCIE 350. Enforced Prerequisite: None. (1-16 credits)
+Selected topics of current interest for students entering industry.
+CourseProfile (ATLAS)
+500 Level Courses
+MATSCIE 500. Materials Physics and Chemistry
+Advisory and Enforced Prerequisite: None. (3 credits)
+Physical properties of a wide range of materials, including crystalline and organic materials from the electronic and atomic point of view. The bonding and structure of materials will be placed in context of quantum mechanics and band theory; and the electrical, optical, thermal, mechanical and magnetic properties will be emphasized.
+CourseProfile (ATLAS)
+MATSCIE 502. Materials Issues in Electronics
+Advisory Prerequisite: MATSCIE 242 and MATSCIE 440 or equivalent. Enforced Prerequisite: None. (3 credits)
+This course covers the key materials issues, including defects, diffusion and oxidation relevant to the conversion of a material into an electronic device.
+CourseProfile (ATLAS)
+MATSCIE 505. Materials Science of Thin Films
+Advisory Prerequisite: MATSCIE 242 and MATSCIE 400 or equivalent. Enforced Prerequisite: None. (3 credits)
+Thermodynamics and kinetics of film nucleation, growth, structure and stability for a single crystal, polycrystalline and amorphous thin films.
+CourseProfile (ATLAS)
+MATSCIE 506 (CHE 506) (MACROMOL 506). Soft Robotic Matter
+Advisory Prerequisite: None. Enforced Prerequisite: Senior or graduate standing. (3 credits)
+The course consists of active materials that can sense, move within, and alter their working environment. Fundamentals and emerging approaches will be explored in soft active matter design, actuation, power, and fabrication across length scales, with focus on engineering their properties and structures for programmable robotic functions.
+CourseProfile (ATLAS)
+MATSCIE 509 (BIOMEDE 509) (CHE 509) (MACROMOL 509). Advanced Biomaterials
+Advisory Prerequisite: MATSCIE 220 or MATSCIE 250. Enforced Prerequisite: None. (3 credits)
+Applications of biomaterials in implants, regenerative medicine, tissue engineering, and drug delivery systems will be covered. Principles of biomaterials incorporating contemporary research related to rational design strategies for biomaterials, their processing and fabrication, biomimetics, immunomodulation, degradation, and in vivo responses will be included.
+CourseProfile (ATLAS)
+MATSCIE 510 (CHEM 511). Materials Chemistry
+Advisory Prerequisite: CHEM 302 and CHEM 461. Enforced
+Prerequisite: None.
+(3 credits)
+This course presents concepts in materials chemistry. The main topics covered include structure and characterization, macroscopic properties and synthesis and processing.
+CourseProfile (ATLAS)
+MATSCIE 511 (CHE 511) (MACROMOL 511). Rheology of Polymeric Materials
+Advisory Prerequisite: A course in fluid mechanics or permission from instructor. Enforced Prerequisite: None. (3 credits)
+An introduction to the relationships between the chemical structure of polymer chains and their rheological behavior. The course will make frequent reference to synthesis, processing, characterization and use of polymers for high technology applications.
+CourseProfile (ATLAS)
+MATSCIE 512 (CHE 512) (MACROMOL 512). Polymer Physics
+Advisory Prerequisite: Senior or graduate standing in engineering or physical science. Enforced Prerequisite: None. (3 credits)
+Structure and properties of polymers as related to their composition, annealing and mechanical treatments. Topics include creep, stress relaxation, dynamic mechanical properties, viscoelasticity, transitions, fracture, impact response, dielectric properties, permeation and morphology.
+CourseProfile (ATLAS)
+MATSCIE 514 (MACROMOL 514) (MFG 514). Composite Materials
+Advisory Prerequisite: None. Enforced Prerequisite: MATSCIE 220 or MATSCIE 250. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Behavior, processing, and design of composite materials, especially fiber composites. Emphasis is on the chemical and physical processes currently employed and expected to guide the future development of the technology.
+CourseProfile (ATLAS)
+MATSCIE 515 (MACROMOL 515). Mechanical Behavior of Solid Polymeric Materials
+Advisory Prerequisite: (MECHENG 211 and CHE 412) or MATSCIE 412 or MACROMOL 412; or permissions of instructor. Enforced Prerequisite: None. (3 credits)
+The mechanical behavior of polymers from linear viscoelastic to yield and fracture are covered. Specific topics include dynamic-mechanical relaxations, creep, yielding, crazing, fatigue and fracture mechanics. The materials include toughened plastics, polymer alloys and blends and composite materials. Structured design with plastics is also considered.
+CourseProfile (ATLAS)
+MATSCIE 516 (MECHENG 516). Fracture and Adhesion of Interfaces, and the Mechanics of Layered Materials
+Advisory Prerequisite: MECHENG 311 or graduate standing. Enforced Prerequisite: None. (3 credits)
+Stresses and deformations in layered materials and laminated composites; cohesive-zone models of fracture; energy-release rates and delamination; fracture mechanics of layered materials; physics of adhesion, spalling; interfacial fracture mechanics; mixed-mode fracture; buckling-driven delamination; cracking of thin films and coatings; adhesion and fracture tests; measurement of cohesive fracture parameters.
+CourseProfile (ATLAS)
+MATSCIE 517 (MACROMOL 530). Advanced Function Polymers: Molecular Design and Applications
+Advisory Prerequisite: None. Enforced Prerequisite: MATSCIE 412. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Development of global perspective of interdisciplinary issues involved in functional polymers.  Learn how to design, synthesize, evaluate, and analyze functional polymers.
+CourseProfile (ATLAS)
+MATSCIE 518. Surface and Interfacial Engineering
+Advisory Prerequisite: None. Enforced Prerequisite: Senior or graduate standing. (3 credits)
+Provides an insight into the fundamental physics and chemistry of interfaces that enable the understanding and design of different functional surfaces. It will cover the fundamental principles that govern surface properties, techniques for surface modification and characterization, as well as novel applications of designer surfaces.
+CourseProfile (ATLAS)
+MATSCIE 520. Advanced Mechanical Behavior
+Advisory Prerequisite: Graduate Standing. Enforced Prerequisite: None. (3 credits)
+Advanced studies of deformation and failure in materials. Macroscopic and microscopic aspects of deformation. Elasticity and plasticity theories and problems in deformation processing. Fracture mechanics and composite toughening mechanisms. Mechanisms of creep deformation.
+CourseProfile (ATLAS)
+MATSCIE 521 (MECHENG 577). Use of Materials and their Selection in Design
+Advisory Prerequisite: None. Enforced Prerequisite: MECHENG 382; and senior or graduate standing. (3 credits)
+Material properties, including physical, mechanical, thermal, electrical, economic, corrosion and environmental properties. Interaction of function, shape, choice of materials, processing, economics and environmental impact in design. Methodology for materials selection and optimization, including performance indices, multiple constraints and multiple objectives. Introduction to analysis of environmental impact of materials selection.
+CourseProfile (ATLAS)
+MATSCIE 532. Advanced Thermodynamics of Materials
+Advisory Prerequisite: MATSCIE 330 or equivalent. Enforced Prerequisite: None. (3 credits)
+Classical and statistical thermochemistry with emphasis on topics important in materials science and engineering, including thermodynamics of solids, solution thermochemistry, heterogeneous equilibria of stable and metastable phases, multicomponent systems, coherent equilibria and strain effects, interfaces and adsorption, polymer alloys and solutions.
+CourseProfile (ATLAS)
+MATSCIE 535. Kinetics, Phase Transformations, and Transport
+Advisory Prerequisite: MATSCIE 330 or equivalent. Enforced Prerequisite: None. (3 credits)
+Fundamentals of phase change, diffusion, heat transport, nucleation, and growth applied to solidification, ordering, spinodal decomposition, coarsening, reactions, massive transformations, diffusion-limited transformations and glass transitions.
+CourseProfile (ATLAS)
+MATSCIE 545. Fundamentals of Battery Design
+Advisory Prerequisite: MATSCIE 220/MATSCIE 250 or graduate standing
+.
+Enforced
+Prerequisite: None.
+(3 credits)
+Fundamentals of battery operation, electrochemistry, and materials in batteries. Practical battery design, assembly and testing concepts including new battery designs such as in all solid-state batteries.
+CourseProfile (ATLAS)
+MATSCIE 550. Fundamentals of Materials Science and Engineering
+Advisory Prerequisite: Graduate standing or permission of instructor. Enforced
+Prerequisite: None.
+(3 credits)
+An advanced level survey of the fundamental principles underlying the structures, properties, processing and uses of engineering materials.
+CourseProfile (ATLAS)
+MATSCIE 554 (CHE 554). Computational Methods in MATSCIE and CHE
+Advisory and Enforced
+Prerequisite: None.
+(3 credits)
+Broad introduction to the methods of numerical problem solving in Materials Science and Chemical Engineering. Topics include numerical techniques, computer algorithms and the formulation and use of computational approaches for the modeling and analysis of phenomena peculiar to these disciplines.
+CourseProfile (ATLAS)
+MATSCIE 555. Materials Energy Conversion
+Advisory
+Prerequisite: None.
+Enforced Prerequisite: Senior or graduate standing. (3 credits)
+The course includes an introduction to energy conversion and storage issues. Next, the operating principles of energy conversion and storage devices are discussed. The remainder of the course focuses on the physics and chemistry of nanostructures and nanomaterial design and processing approaches to enhanced performance photovoltaics, thermoelectrics and fuel cells.
+CourseProfile (ATLAS)
+MATSCIE 556. Molecular Simulation of Materials
+Advisory and Enforced
+Prerequisite: None.
+(3 credits)
+Practical and theoretical consideration in the simulation of materials on the molecular level. Molecular dynamics and Monte Carlo techniques. Empirical interaction potentials for metals, ceramics and polymers. Statistical mechanics and thermodynamics of simulated systems.
+CourseProfile (ATLAS)
+MATSCIE 557 (CHE 557). Computational Nanoscience of Soft Matter
+Advisory Prerequisite: Differential equations course, and a statistical thermodynamics or statistical mechanics course. Enforced
+Prerequisite: None.
+(3 credits)
+Provides an understanding of strategies, methods, capabilities and limitations of computer simulation as it pertains to the modeling and simulation of soft materials at the nanoscale. The course consists of lectures and hands-on, interactive simulation labs using research codes and commercial codes. Ab initio, molecular dynamics, Monte Carlo and mesoscale methods.
+CourseProfile (ATLAS)
+MATSCIE 558 (CHE 558) (MACROMOL 558). Foundations of Nanotechnology
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+The focus of this course is on the scientific foundations of nanotechnology. The effects of nanoscale dimensions on optical, electrical and mechanical properties are explained based on atomistic properties and related to applications in electronics, optics, structural materials and medicine. Projects and discussions include startup technological assessment and societal implications of the nanotechnology revolution.
+CourseProfile (ATLAS)
+MATSCIE 559 (CHE 559) (MACROMOL 559). Foundations of Nanotechnology II
+Advisory Prerequisite: Senior or graduate standing. Enforced Prerequisite: None. (3 credits)
+This course will cover the synthesis and processing of nano-sized metal, metal oxide and semiconductor powders. It will also include organic/inorganic and nanobiomaterials. Emphasis will be on particle properties and their use in making nonstructured materials with novel properties.
+CourseProfile (ATLAS)
+MATSCIE 560. Structure of Materials
+Advisory Prerequisite: MATSCIE 550. Enforced
+Prerequisite: None.
+(3 credits)
+Atomic arrangements in crystalline and noncrystalline materials. Crystallography, kinematic and dynamical theories of diffraction, applications to x-rays, electrons and neutrons. Interpretation of diffraction patterns and intensity distributions, applications to scattering in perfect and imperfect crystals and amorphous materials. Continuum description of structure emphasizing the tensor analysis of distortions in solids.
+CourseProfile (ATLAS)
+MATSCIE 562. Electron Microscopy I
+Advisory Prerequisite: MATSCIE 460. Enforced
+Prerequisite: None.
+(4 credits)
+An introduction to electron optics, vacuum techniques and the operation of electron optical instruments. The theory and applications of transmission and scanning electron microscopy and electron microprobe analysis in the study of nonbiological materials.
+CourseProfile (ATLAS)
+MATSCIE 563. (BIOMEDE 563) (CHE 563) Biomolecular Engineering of Interfaces
+Advisory Prerequisite: Senior or graduate standing. Enforced
+Prerequisite: None.
+(3 credits)
+This class focuses on biomolecular engineering of surfaces and interfaces in contact with biological systems. Recent advances in the interfacial design of materials as well as methods that enable studying such systems will be highlighted.
+CourseProfile (ATLAS)
+MATSCIE 574. High-Temperature Materials
+Advisory Prerequisite: MATSCIE 371 or MATSCIE 486. Enforced
+Prerequisite: None.
+(3 credits)
+Principles of behavior of materials at high temperatures. Microstructure-property relationships including phase stability and corrosion resistance to high temperature materials. Fracture and fatigue at elevated temperatures. Damage accumulation behavior and engineering applications of service life techniques.
+CourseProfile (ATLAS)
+MATSCIE 577 (MFG 577). Failure Analysis of Materials
+Advisory Prerequisite: MATSCIE 350. Enforced
+Prerequisite: None.
+(3 credits)
+Analysis of failed structures due to tensile overload, creep, fatigue, stress corrosion, wear and abrasion, with extensive use of scanning electron microscope. Identification and role of processing defects in failure.
+CourseProfile (ATLAS)
+MATSCIE 585. Materials or Metallurgical Design Problem
+Advisory Prerequisite: MATSCIE 480 or CHE 486 or elected concurrently with MATSCIE 580. Enforced
+Prerequisite: None.
+(2 credits)
+Engineering design and economic evaluation of a specific process and/or materials application. Original and individual work and excellence of reporting emphasized. Written and oral presentation of design required.
+CourseProfile (ATLAS)
+MATSCIE 590. Material Met Res Survey
+Advisory and Enforced Prerequisite:
+None.
+(1 credit)
+CourseProfile (ATLAS)
+MATSCIE 593. Special Topics in Materials Science & Engineering
+Advisory Prerequisite: Permission of instructor. Enforced
+Prerequisite:
+None.
+(1-4 credits)
+Special topics of interest to graduate students; and, possibly, undergraduate students.
+CourseProfile (ATLAS)
+600 Level Courses
+MATSCIE 621 (EARTH 620) (NERS 621). Nuclear Waste Forms
+Advisory Prerequisite: NERS 531. Enforced
+Prerequisite:
+None.
+(3 credits)
+This interdisciplinary course will review the materials science of radioactive waste remediation and disposal strategies. The main focus will be on corrosion mechanisms, radiation effects and the long-term durability of glasses and crystalline ceramics proposed for the immobilization and disposal of nuclear waste.
+CourseProfile (ATLAS)
+MATSCIE 622 (MFG 622) (NERS 622). Ion Beam Modification and Analysis of Materials
+Advisory Prerequisite: NERS 421 or NERS 521 or MATSCIE 350 or permission of instructor. Enforced
+Prerequisite: None.
+(3 credits)
+Ion-solid interactions, ion beam mixing, compositional changes, phase changes, micro-structural changes; alteration of physical and mechanical properties such as corrosion, wear, fatigue, hardness; ion beam analysis techniques such as RBS, NRA, PIXE, ion channeling, ion microprobe; accelerator system design and operation as it relates to implantation and analysis.
+CourseProfile (ATLAS)
+MATSCIE 662. Electron Microscopy II
+Advisory Prerequisite: MATSCIE 562. Enforced
+Prerequisite:
+None.
+(3 credits)
+Advanced methods in electron microscopy such as high resolution bright field and dark field imaging, micro and convergent beam diffraction, analysis of thin film specimens and electron energy loss spectroscopy. Two lectures and one three-hour laboratory-discussion session per week.
+CourseProfile (ATLAS)
+MATSCIE 690. Research Problems in Materials Science and Engineering
+Advisory and Enforced
+Prerequisite:
+None.
+(1-16 credits)
+Laboratory and conferences. Individual or group work in a particular field or on a problem of special interest to the students. The program of work is arranged at the beginning of each term by mutual agreement between the student and a member of the faculty. Any problem in the field of materials and metallurgy may be selected. The student writes a final report on this project.
+CourseProfile (ATLAS)
+MATSCIE 693. Special Topics
+Advisory and Enforced
+Prerequisite:
+None.
+(1-16 credits)
+CourseProfile (ATLAS)
+700 Level Courses
+MATSCIE 751 (CHE 751) (CHEM 751) (MACROMOL 751) (PHYSICS 751).
+Special Topics in Macromolecular Science and Engineering
+Advisory Prerequisite: Graduate standing and permission of instructor. Enforced Prerequisite: None. (2 credits)
+Advanced topics of current interest will be stressed. The specific topics will vary with the instructor.
+CourseProfile (ATLAS)
+800 Level Courses
+MATSCIE 890. Colloquium in Materials Science and Engineering
+Advisory and Enforced
+Prerequisite:
+None.
+(1 credit)
+Colloquium presentations covering a variety of topics at the forefront of research and development in materials science and engineering, including design, synthesis, fabrication, characterization and applications of metallic materials, inorganic, electronic, organic, and polymeric materials. Colloquia are delivered by renowned experts in their respective fields from academia, industry and national laboratories.
+CourseProfile (ATLAS)
+900 Level Courses
+MATSCIE 990. Dissertation/Pre-Candidate
+Advisory Prerequisite: Election for dissertation work by doctoral student not yet admitted as a Candidate
+.
+Enforced Prerequisite:
+None.
+(1-8 credits)
+Dissertation work by doctoral student not yet admitted to status as candidate. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)
+MATSCIE 995. Dissertation/Candidate
+Advisory Prerequisite: None. Enforced Prerequisite: Candidate. (4-8 credits)
+Election for dissertation work by a doctoral student who has been admitted to candidate status. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)

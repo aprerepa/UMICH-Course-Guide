@@ -1,0 +1,37 @@
+{
+  "id": "secondary-teacher-education--bachelors",
+  "displayName": "Secondary Teacher Education",
+  "requirementGroups": {
+    "Required Education Core Course": [
+      "EDUC 118",
+      "EDUC 141",
+      "EDUC 151",
+      "EDUC 160",
+      "EDUC 241",
+      "EDUC 271"
+    ],
+    "First-Year Writing": [
+      "CLCIV 101",
+      "CLCIV 121",
+      "COMPLIT 122",
+      "ENGLISH 124",
+      "ENGLISH 125",
+      "ENGLISH 126",
+      "GTBOOKS 191",
+      "HISTORY 195",
+      "WRITING 160"
+    ],
+    "Core credits": [
+      "EDUC 391",
+      "EDUC 392",
+      "EDUC 402",
+      "EDUC 445",
+      "EDUC 446"
+    ],
+    "Teaching credits": [
+      "EDUC 302",
+      "EDUC 304",
+      "EDUC 307"
+    ]
+  }
+}

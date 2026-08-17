@@ -4,15 +4,53 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#english-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+4 course-list supplements: Capstone Programs, Capstone Programs, Courses)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#english-maj",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/english-major.html",
   "requirements_link_text": "REQUIREMENTS",
-  "requirements_link_score": 110,
+  "requirements_link_score": 65,
   "requirements_link_strategy": "lsa_listing:lsa_detail",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/english-major.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:37:36.850583+00:00",
-  "lsa_resolved_row_id": "english-maj"
+  "fetched_at": "2026-08-10T16:06:59.688371+00:00",
+  "lsa_resolved_row_id": "english-maj",
+  "supplements_count": 4,
+  "supplements": [
+    {
+      "id": "01-english-major-checklist",
+      "url": "https://docs.google.com/document/d/1ic5MmA2B1FdC64v-w9WRMY_bkyeyEaWgfQ_WfXxzeQs/edit?usp=sharing",
+      "link_text": "English Major Checklist",
+      "status": "failed",
+      "chars": 0
+    },
+    {
+      "id": "02-capstone-programs",
+      "url": "http://www.lsa.umich.edu/english/undergraduate/capstone-programs.html",
+      "link_text": "Capstone Programs",
+      "status": "fetched",
+      "chars": 4093
+    },
+    {
+      "id": "03-capstone-programs",
+      "url": "https://lsa.umich.edu/english/undergraduate/capstone-programs.html",
+      "link_text": "Capstone Programs",
+      "status": "fetched",
+      "chars": 4237
+    },
+    {
+      "id": "04-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4071
+    },
+    {
+      "id": "05-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3806
+    }
+  ]
 }

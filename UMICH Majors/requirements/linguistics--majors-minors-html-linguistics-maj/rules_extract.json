@@ -1,0 +1,19 @@
+{
+  "id": "linguistics--majors-minors-html-linguistics-maj",
+  "displayName": "Linguistics",
+  "groupRules": {
+    "Required Core Courses": {
+      "require": {
+        "allOf": [
+          "LING 313",
+          "LING 315",
+          "LING 316",
+          "LING 497"
+        ]
+      },
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

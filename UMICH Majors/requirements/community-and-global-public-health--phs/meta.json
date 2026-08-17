@@ -4,14 +4,31 @@
   "school_college": "School of Public Health",
   "program_url": "https://sph.umich.edu/undergrad/apply/#phs",
   "status": "fetched",
-  "message": "requirements page ready for LLM",
+  "message": "requirements page ready for LLM (+2 course-list supplements: upper-level elective exceptions page, Requirement details and a list of approved courses can be found here)",
   "program_final_url": "https://sph.umich.edu/undergrad/apply/#phs",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://sph.umich.edu/undergrad/degrees/degree-requirements.html",
   "requirements_link_text": "Degree Requirements",
   "requirements_link_score": 215,
   "requirements_link_strategy": "page",
   "requirements_final_url": "https://sph.umich.edu/undergrad/degrees/degree-requirements.html",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:34:18.821856+00:00"
+  "fetched_at": "2026-08-10T16:51:13.779853+00:00",
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-upper-level-elective-exceptions-page",
+      "url": "https://sph.umich.edu/undergrad/degrees/upper-level-exceptions.html",
+      "link_text": "upper-level elective exceptions page",
+      "status": "fetched",
+      "chars": 2133
+    },
+    {
+      "id": "02-requirement-details-and-a-list-of-approved-courses-can-be-found-here",
+      "url": "https://sph.umich.edu/undergrad/degrees/healthequity.html",
+      "link_text": "Requirement details and a list of approved courses can be found here",
+      "status": "fetched",
+      "chars": 1605
+    }
+  ]
 }

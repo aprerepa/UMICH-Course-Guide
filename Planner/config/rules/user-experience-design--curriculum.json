@@ -1,0 +1,41 @@
+{
+  "id": "user-experience-design--curriculum",
+  "displayName": "User Experience Design",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "SI 101",
+              "EECS 183",
+              "ENGR 101"
+            ]
+          },
+          {
+            "anyOf": [
+              "ENGLISH 124",
+              "ENGLISH 125"
+            ]
+          }
+        ]
+      }
+    },
+    "Core courses": {
+      "minCourses": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Capstone prerequisite courses": {
+      "minCourses": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Capstone sequence": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Advanced selectives": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

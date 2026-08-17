@@ -1,0 +1,783 @@
+### Supplement: Physics Major Checklist Document - Pre-FA26
+Source: https://docs.google.com/document/d/1M98W1jIklPxD4s_8IYFr4qNs13BH9C9ORXQAs78RWhc/edit?usp=sharing
+
+Visible page text:
+Physics Major - Pre-Fall 2026
+University of Michigan - Department of Physics
+Effective September, 2025
+Advisory Prerequisites:
+It is recommended that students should have completed MATH 115 (or equivalent) prior to beginning an introductory sequence.
+Prerequisites:
+Earn 10 credits by fulfilling one of the following introductory course sequences.
+Course #
+Course Title
+Term Completed
+Credits
+One of the following 100-Level lectures with laboratory.
+PHYSICS 140/141
+OR
+PHYSICS 150/151
+OR
+PHYSICS 160/161
+General Physics I/Laboratory I
+4/1
+Fundamental Physics for the Life Sciences I/Laboratory I
+4/1
+Honors Physics I/Laboratory I
+4/1
+One of the following 200-Level lectures with laboratory.
+PHYSICS 240/241
+OR
+PHYSICS 250/251
+OR
+PHYSICS 260/261
+General Physics II/Laboratory II
+4/1
+Fundamental Physics for the Life Sciences II/Laboratory II
+4/1
+Honors Physics II/Laboratory II
+4/1
+Core Courses:
+Earn a minimum of 29 credits by fulfilling Intermediate, Advanced, Advanced Laboratory, and Advanced Elective courses. It is recommended that you complete math courses through MATH 216 (Differential Equations).
+Intermediate Courses: Students must complete the following courses.
+Course #
+Course Title
+Term Completed
+Credits
+PHYSICS 340
+OR
+PHYSICS 360
+Waves, Heat, and Light
+3
+Honors Physics III
+3
+PHYSICS 316
+Mathematical Methods for Physics and Engineering
+3
+PHYSICS 390
+and
+PHYSICS 391
+Introduction to Modern Physics
+3
+Introduction to Modern Physics Laboratory
+2
+Advanced Courses: Students must complete the following courses.
+*Students are encouraged to complete PHYSICS 401 AND 405 prior to electing PHYSICS 453*
+Course #
+Course Title
+Term Completed
+Credits
+PHYSICS 401
+Intermediate Mechanics
+3
+PHYSICS 405
+Intermediate Electricity and Magnetism
+3
+PHYSICS 406
+Statistical and Thermal Physics
+3
+PHYSICS 453
+Quantum Mechanics
+3
+PHYSICS 441
+Advanced Laboratory I
+3
+Elective Courses: Students must take TWO of the following courses.
+PHYSICS 380
+Topics in Physics, specifically just Quantum Computing
+3
+PHYSICS 402
+Optics
+3
+PHYSICS 411
+Introduction to Computational Physics
+3
+PHYSICS 413/
+CMPLXSYS 541
+Introduction to Nonlinear Dynamics and the Physics of Complexity
+3
+PHYSICS/BIOPHYS/
+CHEM 417
+Dynamical Processes in Biophysics
+3
+PHYSICS/BIOPHYS 433
+Biocomplexity
+3
+PHYSICS 435
+Gravitational Physics
+3
+PHYSICS 438
+Electromagnetic Radiation
+3
+PHYSICS/BIOPHYS 450
+Laboratory Techniques in Biophysics
+3
+PHYSICS 452
+Methods of Theoretical Physics II
+3
+PHYSICS 457
+Particle Physics and Cosmology
+3
+PHYSICS 460
+Quantum Mechanics II
+*Requires previous completion of PHYSICS 453*
+3
+PHYSICS 463
+Introduction to Solid State Physics
+*Requires previous completion of PHYSICS 453*
+3
+PHYSICS/CMPLXSYS 470
+Experiments in Nonlinear Dynamics
+3
+PHYSICS 457
+Particle Physics and Cosmology
+3
+Advanced Elective: Students must  take one of the following courses
+PHYSICS 411*
+Introduction to Computational Physics
+*If used to meet the Elective Requirement, this course can’t be used to meet the Advanced Elective Requirement
+3
+PHYSICS 440*
+Instrumentation
+*If used to meet the Elective Requirement, this course can’t be used to meet the Advanced Elective Requirement
+PHYSICS 442*
+Advanced Laboratory II
+*If used to meet the Elective Requirement, this course can’t be used to meet the Advanced Elective Requirement
+3
+PHYSICS 495*
+Physics Research Capstone
+*Physics Honors students are ineligible to take PHYSICS 495 as their Advanced Elective Requirement. Honors students should elect PHYSICS 496/497
+3
+Honors Requirements
+Minimum cumulative GPA of 3.4
+Additional 6 credits in PHYSICS courses numbered at the 400 level or above.
+Produce a senior thesis (PHYSICS 496/497, optional) under the supervision of a faculty member.
+Residency requirements:
+A minimum of 15 credits at the 300 level or above must be done in residence.
+
+### Supplement: Physics Major Checklist Document - FA26 and Beyond
+Source: https://docs.google.com/document/d/1Ok7AxNbnEm5JTMaGarsp9zy3DsM-Fc5FUgQkEFwF7Xo/edit?usp=sharing
+
+Visible page text:
+Physics Major - Fall 2026 and beyond
+University of Michigan - Department of Physics
+Effective September, 2026
+Advisory Prerequisites:
+It is recommended that students should have completed MATH 115 (or equivalent) prior to beginning an introductory sequence.
+Prerequisites:
+Course #
+Course Title
+Term Completed
+Credits
+One of the following 100-Level lectures with laboratory.
+PHYSICS 140/141
+OR
+PHYSICS 160/161
+General Physics I/Laboratory I
+4/1
+Honors Physics I/Laboratory I
+4/1
+One of the following 200-Level lectures with laboratory.
+PHYSICS 240/241
+OR
+PHYSICS 260/261
+General Physics I/Laboratory I
+4/1
+Honors Physics II/Laboratory II
+4/1
+Core Courses:
+Minimum of 35 credits.  It is recommended that you complete math courses through MATH 216 (Differential Equations).
+Course #
+Course Title
+Term Completed
+Credits
+Intermediate Courses Requirement
+PHYSICS 316
+Mathematical Methods for Physics and Engineering
+3
+PHYSICS 390
+Introduction to Modern Physics
+3
+PHYSICS 391
+Introduction to Modern Physics Laboratory
+2
+Advanced Courses Requirement
+PHYSICS 401
+Intermediate Mechanics
+3
+PHYSICS 405
+Intermediate Electricity and Magnetism
+3
+PHYSICS 406
+Statistical and Thermal Physics
+3
+PHYSICS 453
+Quantum Mechanics
+3
+PHYSICS 441
+Advanced Lab I
+3
+Elective Courses Requirement:
+Four courses (12 credits minimum) of electives chosen from the list below. Note that any course used in the Intermediate and/or Advanced Course requirements cannot also fulfill an elective. Only one course (up to 3 credits) of Independent Study can be used towards the electives.
+PHYSICS 340: Waves, Heat, and Light
+PHYSICS 360: Honors Physics III
+PHYSICS 380/398: Intermediate Topics in Physics, section titled "Introduction to Quantum Computing" (Note: other topics taught as PHYSICS 380 are not automatically included in the major; see an advisor)
+CMPLXSYS 335: Networks
+Any PHYSICS course numbered at the 400- or 500-level, excluding PHYSICS 501, 517, 518 and 590
+Course #
+Course Title
+Term Completed
+Credits
+Possible elective areas of study and courses include:
+Condensed Matter Experiment
+PHYSICS 402, 440, 460, 463
+Quantum Computing & Information
+PHYSICS 380/398, 402, 460, 463
+Astrophysics & Cosmology
+PHYSICS 411, 435, 457, 460
+High Energy Theory
+PHYSICS 411, 452,  457, 460
+Particle Physics
+PHYSICS 411, 440, 457, 460
+Complex Systems
+PHYSICS 411, 413, 445, 508
+CMPLXSYS 335 (requires approval from Physics advisor)
+Or choose your own adventure!
+Honors Requirements:
+Honors requires a cumulative GPA of at least 3.4.
+Additional 6 credits of PHYSICS courses numbered 401 and above (not otherwise required, some exclusions apply)
+Completion of an Honors senior thesis based on research (PHYSICS 496/497, optional)
+Residency requirements:
+A minimum of 12 credits toward the major program must be done in residence.
+
+### Supplement: Physics Minor Checklist Document
+Source: https://docs.google.com/document/d/1iXg9o8HA0QEeAYR5fAJZmHGEAFOHF6UyY9oAkjM_X_0/edit?usp=sharing
+
+Visible page text:
+Physics Minor
+University of Michigan - Department of Physics
+Effective September, 2021
+Core Courses:
+Students must complete a minimum of 18 credits by fulfilling the following requirements. (9 credits must be done in-residence.)
+Students must complete one of the following 100-Level lectures with laboratory.
+Course #
+Course Title
+Term Completed
+Credits
+PHYSICS 140/141
+OR
+PHYSICS 150/151
+OR
+PHYSICS 160/161
+General Physics I/Laboratory I
+4/1
+Fundamental Physics for the Life Sciences I/Laboratory I
+4/1
+Honors Physics I/Laboratory I
+4/1
+Students must complete one of the following 200-Level lectures with laboratory.
+PHYSICS 240/241
+OR
+PHYSICS 250/251
+OR
+PHYSICS 260/261
+General Physics I/Laboratory I
+4/1
+Fundamental Physics for the Life Sciences II/Laboratory II
+4/1
+Honors Physics II/Laboratory II
+4/1
+Students must complete the following courses.
+PHYSICS 340
+OR
+PHYSICS 360
+Waves, Heat, and Light
+3
+Honors Physics III
+3
+PHYSICS 390
+and
+PHYSICS 391
+Introduction to Modern Physics
+3
+Introduction to Modern Physics Laboratory
+2
+
+### Supplement: Interdisciplinary Physics Checklist Document
+Source: https://docs.google.com/document/d/1p4XiaWTOG6IbLJpLG3brhRf53BQ_a-tfS3KJvbZs0xI/edit?usp=sharing
+
+Visible page text:
+Interdisciplinary Physics Major
+University of Michigan - Department of Physics
+Effective September, 2025
+Advisory Prerequisites:
+It is recommended that students should have completed MATH 115 (or equivalent) prior to beginning an introductory sequence.
+Prerequisites:
+Course #
+Course Title
+Term Completed
+Credits
+One of the following 100-Level lectures with laboratory.
+PHYSICS 140/141
+OR
+PHYSICS 150/151
+OR
+PHYSICS 160/161
+General Physics I/Laboratory I
+4/1
+Fundamental Physics for the Life Sciences I/Laboratory I
+4/1
+Honors Physics I/Laboratory I
+4/1
+One of the following 200-Level lectures with laboratory.
+PHYSICS 240/241
+OR
+PHYSICS 250/251
+OR
+PHYSICS 260/261
+General Physics I/Laboratory I
+4/1
+Fundamental Physics for the Life Sciences II/Laboratory II
+4/1
+Honors Physics II/Laboratory II
+4/1
+In addition to an introductory sequence, the following courses are required.
+PHYSICS 340
+OR
+PHYSICS 360
+Waves, Heat, and Light
+3
+Honors Physics III
+3
+PHYSICS 316
+Mathematical Methods for Physics Engineeering
+3
+Core Courses:
+Minimum of 26 credits, including at least 11 in PHYSICS courses numbered 390/391 and above. It is recommended that you complete math courses through MATH 216 (Differential Equations).
+Course #
+Course Title
+Term Completed
+Credits
+The following courses are required for the Interdisciplinary Physics major
+PHYSICS 390
+Introduction to Modern Physics
+3
+PHYSICS 391
+Introduction to Modern Physics Laboratory
+2
+Two additional PHYSICS courses at the 400 level*
+Course #
+Course Title
+Term Completed
+Credits
+15 credits of cognate courses**
+*PHYSICS 390/391 and the 400 level courses must be completed with a minimum grade of a C- in each course and a cumulative average of a C or higher.
+**The courses should form a coherent program of study. Possible programs of study include:
+Statistics
+Astrophysics
+Philosophy
+Cosmology
+Economics and Finance
+Quantum Computing
+Biology
+Chemical Physics
+Nanotechnology
+Medical Physics
+Environmental Physics
+Global Change
+Geophysics
+Mathematical Physics
+Science Writing
+Science Policy
+Physics of Technology
+Applied Physics
+Computational Physics
+Physics Education
+Industrial Physics
+Other considerations:
+_____________________
+_____________________
+_____________________
+Honors Requirements:
+Honors requires a cumulative GPA of at least 3.4.
+Additional 3 credits of PHYSICS courses numbered 401 and above (not otherwise required)
+Additional 3 credit course in a cognate
+Completion of an Honors senior thesis based on research (PHYSICS 496/497, optional)
+Residency requirements:
+A minimum of 12 credits toward the major program must be done in residence.
+
+### Supplement: Courses
+Source: https://lsa.umich.edu/lsa/academics/courses.html
+
+Page header:
+page title: Courses | U-M LSA U-M College of LSA
+og:description: University of Michigan's Literature, Science, and the Arts Course Guide will help you find available classes searchable by subject, instructor, keyword, and more.
+
+Visible page text:
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+About
+Academics
+Research
+News and Events
+Support LSA
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Course Catalog
+Give Online
+Keyword Search of en
+About
+Academics
+Research
+News and Events
+Support LSA
+Course Catalog
+Give Online
+Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+previous
+|
+next
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+LSA 101: Info for Admitted Students
+Learn what it means to be a Wolverine and dig in to what the liberal arts are all about. View our presentations and information from wherever you are.
+Undergraduate
+Graduate
+Transfer
+International
+Student Life
+Admissions
+Student Stories
+Outcomes and Possibilities
+LSA delivers a purposeful, pragmatic liberal arts education that employers respect and seek out.
+Undergraduate
+Graduate
+Transfer
+Education
+Academic Advising
+Outcomes and Possibilities
+College Connections
+College Connections provides a space for alumni and families to share their student experiences with recent LSA graduates and provide feedback on the current and future state of the College.
+Get Connected
+Get Involved
+Get Informed
+College Connections
+Staff Achievement Awards Program
+This is an annual opportunity to acknowledge and celebrate exceptional staff contributions to the success of the College . Information regarding eligibility, nomination, selection, notification, and winners can be found here.
+Budget and Finance
+Chairs and Directors
+Facilities and Operations
+Faculty Academic Affairs
+Graduate Education
+Human Resources
+LSA Advancement
+LSA Research Office
+Office of the Dean
+Security and Safety
+Standard Practice Guide
+Student Academic Affairs
+Technology Services
+Undergraduate Education
+Skip to Page Content
+Academics
+Courses
+Courses
+Academics
+[X] close
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Bulletin Archive
+Key to Course Listing Notations
+SUBJECT Guide
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Courses
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Bulletin Archive
+Key to Course Listing Notations
+SUBJECT Guide
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+Frauds and Fantastic Claims in Archaeology.
+Physics of the Body and Mind.
+Financial Mathematics.
+Gender and the Law.
+These courses and more are part of a comprehensive LSA curriculum that is thoughtful, practical, and, best of all, overwhelmingly fascinating. The
+LSA Course Guide
+will help you find available classes searchable by subject, instructor, keyword, and more.
+An even broader view of our curriculum is available through the
+LSA Course Catalog
+– a comprehensive list of all courses currently active and recently offered by the College – searchable by subject, department, or requirement.
+Feeling uncertain about what to study? The experts at LSA’s
+Newnan Advising Center
+can help you develop your academic goals, make informed decisions, and gain independence through access to full-time, peer, and departmental advisors.
+LSA Course Catalog: A comprehensive list of all current and recently offered LSA courses
+Course Bulletin Archive
+Information for
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan
+
+### Supplement: Browse copies of past LSA bulletins
+Source: https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html
+
+Page header:
+page title: LSA Bulletin Archive | U-M LSA U-M College of LSA
+
+Visible page text:
+Skip to Content
+U-M
+//
+LSA
+//
+Departments and Units
+//
+Majors and Minors
+//
+Look To Michigan
+//
+LSA Course Guide
+//
+LSA Gateway
+Submit Site Search
+Search
+About
+Academics
+Research
+News and Events
+Support LSA
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+U-M
+LSA
+Departments and Units
+Majors and Minors
+Look To Michigan
+LSA Course Guide
+LSA Gateway
+Course Catalog
+Give Online
+Keyword Search of en
+About
+Academics
+Research
+News and Events
+Support LSA
+Course Catalog
+Give Online
+for
+Prospective Students
+Current Students
+Alumni and Friends
+Faculty and Staff
+LSA 101: Info for Admitted Students
+Learn what it means to be a Wolverine and dig in to what the liberal arts are all about. View our presentations and information from wherever you are.
+Undergraduate
+Graduate
+Transfer
+International
+Student Life
+Admissions
+Student Stories
+Outcomes and Possibilities
+LSA delivers a purposeful, pragmatic liberal arts education that employers respect and seek out.
+Undergraduate
+Graduate
+Transfer
+Education
+Academic Advising
+Outcomes and Possibilities
+College Connections
+College Connections provides a space for alumni and families to share their student experiences with recent LSA graduates and provide feedback on the current and future state of the College.
+Get Connected
+Get Involved
+Get Informed
+College Connections
+Staff Achievement Awards Program
+This is an annual opportunity to acknowledge and celebrate exceptional staff contributions to the success of the College . Information regarding eligibility, nomination, selection, notification, and winners can be found here.
+Budget and Finance
+Chairs and Directors
+Facilities and Operations
+Faculty Academic Affairs
+Graduate Education
+Human Resources
+LSA Advancement
+LSA Research Office
+Office of the Dean
+Security and Safety
+Standard Practice Guide
+Student Academic Affairs
+Technology Services
+Undergraduate Education
+Skip to Page Content
+Academics
+Courses
+LSA Bulletin Archive
+...
+LSA Bulletin Archive
+Academics
+Courses
+[X] close
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Bulletin Archive
+Key to Course Listing Notations
+SUBJECT Guide
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+LSA Bulletin Archive
+Academics
+Majors and Minors
+Departments and Units
+Courses
+LSA Bulletin Archive
+Key to Course Listing Notations
+SUBJECT Guide
+LSA Degrees
+LSA Requirements
+LSA Academic Policies and Procedures
+LSA Commitment to Academic Freedom
+LSA First-Semester Grade Covering Pilot
+Dates and Deadlines
+Academic Integrity
+Engaged Learning
+STEM
+Business
+What Will You Do with an LSA Degree?
+LSA Bulletin 2025-2026
+LSA Bulletin 2024-2025
+LSA Bulletin 2023-2024
+LSA Bulletin 2022-2023
+LSA Bulletin 2021-2022
+LSA Bulletin 2020-2021
+LSA Bulletin 2019-2020
+LSA Bulletin 2018-2019
+LSA Bulletin 2017-2018
+LSA Bulletin 2016-2017
+LSA Bulletin 2015-2016
+LSA Bulletin 2014-2015
+LSA Bulletin 2013-2014
+LSA Bulletin 2012-2013
+LSA Bulletin 2011-2012
+LSA Bulletin 2010-2011
+If you require access to older LSA Bulletin content, please email
+lsa.saa.office@umich.edu
+with your request.
+Information for
+Prospective Students
+Current Students
+Faculty and Staff
+Alumni and Friends
+More about LSA
+About LSA
+How Do I Apply?
+News
+LSA Magazine
+Give
+Maps
+Student Resources
+Courses
+Academic Advising
+Majors and Minors
+Departments and Units
+Global Studies
+LSA Opportunity Hub
+Connect
+Social Media
+Update Contact Info
+Contact Us
+Privacy Statement
+Report Feedback
+©
+2026 Regents of the University of Michigan

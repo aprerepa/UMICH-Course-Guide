@@ -1,0 +1,10 @@
+{
+  "id": "urban-technology",
+  "displayName": "Urban Technology",
+  "groupRules": {
+    "Urban Technology Curriculum": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

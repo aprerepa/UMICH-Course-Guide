@@ -1,0 +1,37 @@
+{
+  "id": "computer-engineering",
+  "displayName": "Computer Engineering",
+  "groupRules": {
+    "CoE Common Core": {
+      "minCredits": 39
+    },
+    "Intellectual Breadth": {
+      "minCredits": 16
+    },
+    "General Electives": {
+      "minCredits": 13
+    },
+    "CE Program Core Courses": {
+      "minCredits": 32
+    },
+    "Core Electives": {
+      "minCourses": 2,
+      "minCredits": 8
+    },
+    "Upper Level CE Electives": {
+      "minCourses": 3,
+      "minCredits": 10
+    },
+    "Major Design Experience (MDE)": {
+      "minCourses": 1,
+      "minCredits": 4
+    },
+    "EECS Elective": {
+      "minCourses": 1,
+      "minCredits": 3
+    },
+    "Flexible Technical Electives": {
+      "minCredits": 7
+    }
+  }
+}

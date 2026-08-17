@@ -4,17 +4,32 @@
   "school_college": "College of Literature, Science, and the Arts (LSA)",
   "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#asian_studies-maj",
   "status": "fetched",
-  "message": "requirements page ready for LLM (manual URL override)",
+  "message": "requirements page ready for LLM (+2 course-list supplements: Courses, Browse copies of past LSA bulletins)",
   "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#asian_studies-maj",
   "program_fetch_mode": "browser",
   "requirements_url": "https://lsa.umich.edu/lsa/academics/majors-minors/asian-studies-major.html",
-  "requirements_link_text": "manual override",
-  "requirements_link_score": 110,
-  "requirements_link_strategy": "manual_url",
+  "requirements_link_text": "REQUIREMENTS",
+  "requirements_link_score": 65,
+  "requirements_link_strategy": "lsa_listing:lsa_detail",
   "requirements_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/asian-studies-major.html",
-  "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T22:58:04.554136+00:00",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-10T15:55:53.339453+00:00",
   "lsa_resolved_row_id": "asian_studies-maj",
-  "supplements_count": 0,
-  "supplements": []
+  "supplements_count": 2,
+  "supplements": [
+    {
+      "id": "01-courses",
+      "url": "https://lsa.umich.edu/lsa/academics/courses.html",
+      "link_text": "Courses",
+      "status": "fetched",
+      "chars": 4215
+    },
+    {
+      "id": "02-browse-copies-of-past-lsa-bulletins",
+      "url": "https://lsa.umich.edu/lsa/academics/courses/course-bulletin-archive.html",
+      "link_text": "Browse copies of past LSA bulletins",
+      "status": "fetched",
+      "chars": 3662
+    }
+  ]
 }

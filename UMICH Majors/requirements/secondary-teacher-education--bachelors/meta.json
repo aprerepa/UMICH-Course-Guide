@@ -4,14 +4,16 @@
   "school_college": "Marsal Family School of Education",
   "program_url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors",
   "status": "fetched",
-  "message": "requirements page ready for LLM (via degree program hub)",
+  "message": "requirements page ready for LLM",
   "program_final_url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors",
-  "program_fetch_mode": "browser",
+  "program_fetch_mode": "http",
   "requirements_url": "https://marsal.umich.edu/academics-admissions/degrees/certification-bachelors/undergraduate-secondary-teacher-education",
   "requirements_link_text": "Undergraduate Secondary Teacher Education",
   "requirements_link_score": 80,
   "requirements_link_strategy": "hub_program_is_requirements",
   "requirements_final_url": "https://marsal.umich.edu/academics-admissions/degrees/certification-bachelors/undergraduate-secondary-teacher-education",
   "requirements_fetch_mode": "browser",
-  "fetched_at": "2026-08-09T15:48:51.242911+00:00"
+  "fetched_at": "2026-08-10T16:36:43.556221+00:00",
+  "supplements_count": 0,
+  "supplements": []
 }

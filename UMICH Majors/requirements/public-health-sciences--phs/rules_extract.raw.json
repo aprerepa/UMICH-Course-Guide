@@ -1,0 +1,55 @@
+{
+  "id": "public-health-sciences",
+  "displayName": "Public Health Sciences",
+  "groupRules": {
+    "Integrated Core Courses": {
+      "minCourses": 4,
+      "minCredits": 13,
+      "countsTowardMajorTotal": true
+    },
+    "Major Specific Requirements": {
+      "minCourses": 7,
+      "minCredits": 25,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "PUBHLTH 370",
+          {
+            "anyOf": [
+              "PUBHLTH 305",
+              "PUBHLTH 310",
+              "PUBHLTH 311"
+            ]
+          }
+        ]
+      }
+    },
+    "Health Equity Requirement": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "anyOf": [
+          "PUBHLTH 308",
+          "PUBHLTH 313",
+          "PUBHLTH 320",
+          "PUBHLTH 328",
+          "PUBHLTH 333",
+          "PUBHLTH 360",
+          "PUBHLTH 450"
+        ]
+      }
+    },
+    "Culminating Experience": {
+      "minCourses": 2,
+      "minCredits": 4,
+      "countsTowardMajorTotal": true,
+      "require": {
+        "allOf": [
+          "PUBHLTH 481",
+          "PUBHLTH 380"
+        ]
+      }
+    }
+  }
+}

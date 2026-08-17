@@ -1,0 +1,34 @@
+{
+  "id": "environmental-engineering",
+  "displayName": "Environmental Engineering",
+  "groupRules": {
+    "Subjects Required by all Programs": {
+      "minCredits": 55,
+      "countsTowardMajorTotal": true
+    },
+    "Mathematical Methods": {
+      "minCourses": 2,
+      "minCredits": 7,
+      "countsTowardMajorTotal": true
+    },
+    "Technical Core Subjects": {
+      "minCredits": 32,
+      "countsTowardMajorTotal": true
+    },
+    "Environmental Sciences": {
+      "minCourses": 3,
+      "minCredits": 9,
+      "countsTowardMajorTotal": true
+    },
+    "Environmental Engineering Design": {
+      "minCourses": 1,
+      "minCredits": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Technical Electives": {
+      "minCourses": 3,
+      "minCredits": 9,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

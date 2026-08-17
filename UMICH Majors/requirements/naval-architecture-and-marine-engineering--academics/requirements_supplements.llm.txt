@@ -1,0 +1,669 @@
+### Supplement: Sample Schedule
+Source: https://docs.google.com/spreadsheets/d/1ZtmoeCK41KXsP_dYMW5ACTNcmBbqL0k2M2AeiZFh4QE/edit?gid=0#gid=0
+
+Page header:
+page title: Google Sheet export
+
+Visible page text:
+Naval Architecture and Marine Engineering Sample Schedule							
+To edit this Sample Schedule, make a copy of this sheet to your own Google Drive.  Click File > Make a Copy.							
+Please note: This sample schedule is based off of the CoE Bulletin and can be found on the EAC Website.  Changes may occur, and students need to work with their Major Advisors to create a plan for completing requirement.  This document has multiple tabs.  Use Alt ^ to switch tabs.  See the next tab for CoE General Requirements.							
+							
+Sample Schedules for all majors can be found on the							
+EAC Website							
+Pre-UM Credit (if applicable)	Course	Credits	Course	Credits	Course	Credits	Pre-UM Credit (if applicable)
+							
+							
+							
+							
+	Total	0	Total	0	Total	0	
+							
+	Cumulative Totals:	0		0		0	
+							
+First Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	First Year
+	Math 115	4	Math 116	4			
+	Chem 130/125/126 or 210/211	5	Physics 140/141	5			
+	Engr 100	4	Engr 101	4			
+	Intellectual Breadth	4	Intellectual Breadth	4			
+							
+							
+	Term Totals:	17		17		0	
+							
+	Cumulative Totals:	17		34		34	
+							
+Second Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Second Year
+	Math 215	4	Math 216	4			
+	Physics 240/241	5	NAVARCH 210 or MECHENG 211	4			
+	NAVARCH 235 or MECHENG 235 	3	MECHENG 240	4			
+	NAVARCH 270	4	NAVARCH 280 (NA 280 is preferred) or IOE 265	3			
+			General Elective	2			
+							
+	Term Totals:	16		17		0	
+							
+	Cumulative Totals:	50		67		67	
+							
+Third Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Third Year
+	NAVARCH 331	3	NAVARCH 310	4			
+	NAVARCH 320/MECHENG 320	3	NAVARCH 321	4			
+	NAVARCH 340	4	NAVARCH 332	4			
+	General Electives	5	NAVARCH 370	3			
+			General Electives	2			
+							
+	Term Totals:	15		17		0	
+							
+	Cumulative Totals:	82		99		99	
+							
+Fourth Year	Fall	Credits	Winter	Credits	Spring/Summer (Optional)	Credits	Fourth Year
+	Intellectual Breadth	4	NAVARCH 461	3			
+	NAVARCH 470	4	NAVARCH 475	4			
+	NAVARCH 492	3	Technical Electives	4			
+	Technical Electives	3	Intellectual Breadth	4			
+							
+							
+	Term Totals:	14		15		0	
+							
+	Cumulative Totals:	113		128		128
+
+### Supplement: Download Sample Plan
+Source: https://drive.usercontent.google.com/download?id=1_Jf9FMvahBI3h9itPHI8TwZJ40HfWtlm&export=download
+
+Page header:
+page title: PDF extract
+
+Visible page text:
+A typical study plan for a Naval Architecture and Marine Engineering student at the University of Michigan.
+NA&ME Curriculum Effective Fall 2025
+Year 1
+Year 2
+Year 3
+Year 4
+ME/NA 320 
+Intro Fluid 
+Mechanics
+NA 332
+Marine Power and 
+Energy II
+Math 215
+Calculus III
+Math 216
+Differential 
+Equations
+ME 235
+Thermodynamics
+ME 211
+Solid Mechanics 
+ 
+Physics 
+240/241
+Math 115
+Calculus I
+Math 116
+Calculus II
+Physics 
+140/141
+Intellectual
+Breadth or free 
+electives
+Intellectual
+Breadth or free 
+electives
+Eng 100 
+Intro. to 
+Engineering
+Eng 101 
+Intro. To Computers 
+& Programming
+Chem 125/126
+ and 130 or Chem 
+210/211
+NA 492 
+Marine Eng. Lab 
+NA 370
+Conceptual Vessel/
+Platform Design
+Intellectual
+Breadth or free 
+electives
+NA 470
+Foundations of Ship 
+Design
+NA 475 
+Capstone Design 
+Project
+Select 2 courses from 
+NA&ME Technical 
+Elective course list.  
+Select 2 courses from 
+NA&ME Technical 
+Elective course list. 
+33
+4 4
+3
+3
+4
+5
+4
+4
+4
+4
+4
+4
+4
+4
+45
+5
+Tech
+Elective 
+Tech
+Elective 
+4 (3)
+1
+2
+3
+4
+5
+6
+7
+8
+ME 240 
+Dynamics and 
+Vibrations 
+3
+NA 270        
+Vessel/Platform 
+Design
+17
+16
+17
+17
+15
+17
+14
+15
+3 Intellectual
+Breadth or free 
+electives
+2
+Intellectual
+Breadth or free 
+electives
+4NA 461
+Marine Structures
+Construction
+4
+Intellectual
+Breadth or free 
+electives
+5
+4
+NA 280
+Probability for 
+Marine Engineers
+3 2
+Total Credits = 128
+Intellectual Breadth required = 16
+Free Electives required = 8-9
+NA 340 
+Marine
+Dynamics I  
+NA 321 
+Marine 
+Hydrodynamics
+NA 310 
+Marine
+Structures I
+NA 331 
+Marine Power and 
+Energy I
+4
+Intellectual
+Breadth or free 
+electives
+4
+4
+3
+4
+3
+Summer – Internship/Research Experience
+Summer – Internship/Research Experience
+Notes:
+4 (3)
+
+### Supplement: Course Guide
+Source: https://bulletin.engin.umich.edu/courses/name/
+
+Page header:
+page title: Naval Architecture and Marine Engineering Courses (NAME) – Bulletin
+
+Visible page text:
+Naval Architecture and Marine Engineering Courses (NAME)
+Bulletin
+/
+All Department & Program Course Guides
+/
+Naval Architecture and Marine Engineering Courses (NAME)
+*For more information regarding course equivalencies please refer to the Course Equivalency section, under “
+How to Read a Course Description
+“, in the CoE Bulletin Website:
+https://bulletin.engin.umich.edu/courses/course-info/
+100 Level Courses
+NAVARCH 102 (NAVSCI 201). Introduction to Ship Systems
+Advisory and Enforced Prerequisite: None. (3 credits) (Not open for credit to students in NAME.)
+Types, structures and purposes of ships. Ship compartmentation, propulsion systems, auxiliary power systems, interior communications and ship control. Elements of ship design to achieve safe operations and ship stability characteristics.
+CourseProfile (ATLAS)
+200 Level Courses
+NAVARCH 203. The Physics of Sailing
+Advisory Prerequisite: MATH 115, PHYSICS 140. Enforced Prerequisite: None. (2 credits)
+Balance of forces and moments, generation of hydrostatic, hydrodynamic, and aerodynamic forces, adjusting the sails and rudder to efficiently travel through water. Course includes laboratory exercises in the Marine Hydrodynamics Laboratory (MHL). Course culminates with the student sailing a radio-controlled model sailboat around a course.
+CourseProfile (ATLAS)
+NAVARCH 210. Introduction to Solid Mechanics and Marine Structures
+Advisory Prerequisite: PHYSICS 140/141; preceded or accompanied by MATH 216.
+Enforced Prerequisite: None.
+(3 credits)
+Fundamentals of mechanics of solids: stress, strain and equilibrium concepts used in the analysis of deformable materials and structures. Idealizations of marine structures including bars, beams, and frames; deflections due to bending and torsion. Methods of structural analysis including equilibrium and strength requirements in consideration of stresses, forces and moments.
+CourseProfile (ATLAS)
+NAVARCH 235. Marine Thermodynamics
+Advisory Prerequisite: CHEM 130 and CHEM 125; or CHEM 210 and CHEM 211; and MATH 116.
+Enforced Prerequisite: None
+. (3 credits)
+Introduction to marine thermodynamics.  First law, second law of thermodynamics.  System and control volume analyses.  Energy and entropy.  Heat transfer.  Thermodynamic analysis of representative power producing cycles and refrigerators. Applications to marine systems.
+CourseProfile (ATLAS)
+NAVARCH 270. Introduction to Vessel/Platform Design
+Advisory Prerequisite: MATH 116.
+Enforced Prerequisite: None.
+(4 credits)
+Introduction to the marine industries, ships and platforms. Engineering economics as applied in marine design decision making. Overview of preliminary ship design with brief team design project. Hydrostatics, stability and trim of ships, boats, and marine platforms.
+CourseProfile (ATLAS)
+NAVARCH 280. Introduction to Probability for Marine Engineers
+Advisory Prerequisite: MATH 116.
+Enforced Prerequisite: None.
+(3 credits)
+Introduction to the fundamentals of probability theory, statistics and random processes with marine applications. Events, Probabilities, Combinatorics, Independence, Bayes Theorem; Discrete and Continuous Random Variables, Central Limit Theorem, Elements of Engineering Statistics, goodness of fit, regression, correlation, random processes, spectral concepts and Fourier Transformations.
+CourseProfile (ATLAS)
+NAVARCH 299. Special Topics in Naval Architecture and Marine Engineering
+Advisory and
+Enforced Prerequisite: None.
+(1-6 credits)
+Special topics in Naval Architecture and Marine Engineering for undergraduates.
+CourseProfile (ATLAS)
+300 Level Courses
+NAVARCH 310. Marine Structure I
+Advisory Prerequisite: MECHENG 211 or NAVARCH 210, NAVARCH 270.
+Enforced Prerequisite: None.
+(4 credits)
+Structural analysis of ship hulls and offshore structures. Loading, material and fabrication considerations. Hull primary bending and midship section analysis. Framing systems. Secondary and tertiary stresses in stiffened plate components. Energy methods. Introduction to Finite Element Analysis. Failure theories for buckling; combined stress states; brittle fracture and fatigue.
+CourseProfile (ATLAS)
+NAVARCH 320 (MECHENG 320). Introduction to Fluid Mechanics
+Advisory Prerequisite:
+Mechanical Engineering Majors must take MECHENG 235 as a part of their major requirements. Enforced Prerequisite: (MATH 215 or MATH 255 or 285) and (MECHENG 235 or NAVARCH 235) and MECHENG 240; and f
+ewer than two previous elections of MECHENG 320, including grades of W & I
+; No OP/F.
+Minimum grade requirement of “C” for enforced prerequisite. Credit Exclusions: Student may only receive credit for one course
+,
+MECHENG 320 (NAVARCH 320) or MECHENG 330.
+(3 credits)
+Fluid statics; conservation of mass, momentum and energy in fixed and moving control volumes; steady and unsteady Bernoulli’s equation; differential analysis of fluid flow; dimensional analysis and similitude; laminar and turbulent flow; boundary layers; lift and drag; applications to mechanical, marine, biological, environmental, and micro-fluidic systems.
+CourseProfile (ATLAS)
+NAVARCH 321. Marine Hydrodynamics
+Advisory Prerequisite: NAVARCH 320 or MECHENG 320 or equivalent. Enforced Prerequisite: None. (4 credits)
+Ideal and viscous fluid theory applied to marine systems. Ship resistance components. Resistance prediction from model testing and standard series. Two-dimensional and three-dimensional airfoil theory. Propeller geometry, design and matching. Hull-propeller interaction, propeller charts, powering prediction. Unsteady marine hydrodynamics: free surface flow, wave loads, seakeeping and transport of pollutants.
+CourseProfile (ATLAS)
+NAVARCH 331. Marine Power and Energy I
+Advisory Prerequisite: PHYSICS 240; C or better.
+Enforced Prerequisite: None.
+(3 credits)
+Marine electrical power and energy systems. AC and DC power networks, analysis techniques and transformations. Principles, characteristics, and properties of power converters, transformers, and DC AC motors. Shipboard energy storage systems. Basic control theory. Power and energy system modeling and control. Design of boat and ship electric power systems.
+CourseProfile (ATLAS)
+NAVARCH 332. Marine Power and Energy II
+Advisory Prerequisite: NAVARCH 331, NAVARCH 235 or MECHENG 235; Co-requisite: NAVARCH 321.
+Enforced Prerequisite: None.
+(4 credits)
+Marine diesel engines, steam turbines, gas turbines, combined plants. Fuels, emissions. Mechanical power transmission, reduction gears. Electrical power generation, transmission and distribution. Propeller selection and engine-propeller matching. System reliability, design of mechanical, integrated electric and hybrid propulsion systems. Boat and ship auxiliary systems. Marine engineering systems design project.
+CourseProfile (ATLAS)
+NAVARCH 340. Marine Dynamics I
+Advisory Prerequisite: MECHENG 240.
+Enforced Prerequisite: None.
+(4 credits)
+Structural vibration; one and multi-degree of freedom models. Forced steady state response. Fourier series; definition and application to frequency response. Introduction to random processes and applications in linear systems. Rigid body motion of floating structures. Sea wave excitation. Hydrodynamic added mass and damping; anti-roll tanks. Ship maneuvering; directional stability and steady turning.
+CourseProfile (ATLAS)
+NAVARCH 370. Conceptual Vessel/Platform Design
+Advisory Prerequisite: NAVARCH 270; Co-requisite: NAVARCH 321.
+Enforced Prerequisite: None.
+(3 credits)
+Small teams will design a small planning vessel and an offshore platform to understand design interdependencies. Preliminary design methods for sizing, powering, performance and form for planning hulls and floating offshore structures.
+CourseProfile (ATLAS)
+400 Level Courses
+NAVARCH 401. Small Craft Design
+Advisory Prerequisite: Preceded or accompanied by NAVARCH 321 and NAVARCH 340.
+Enforced Prerequisite: None.
+(4 credits)
+Hydrodynamics of small high-speed craft including planing hulls, air cushion vehicles, surface effect ships and catamarans. Theoretical and empirical methods for resistance propulsion and attitude prediction. Nonlinear dynamics and stability of high-speed marine vehicles. Effect of hull form on resistance and dynamic performance. Structural design considerations including bottom plating strength and frame loading. Discussion of various types of framing. Material choices.
+CourseProfile (ATLAS)
+NAVARCH 403. Sailing Craft Design Principles
+Advisory Prerequisite: Preceded or accompanied by NAVARCH 321.
+Enforced Prerequisite: None.
+(3 credits)
+Forces and moments acting on a sailing yacht. Speed polar diagrams. Two- and three-dimensional airfoil theory. Application to keel and rudder design. Yacht model testing. Delft Standard Series for prediction of hydrodynamic performance. Aerodynamics of yacht sails. Sail force coefficients. Velocity Prediction Program. Rigging design and analysis. Yacht racing rules.
+CourseProfile (ATLAS)
+NAVARCH 410 (MFG 410). Marine Structures II
+Advisory Prerequisite: NAVARCH 310.
+Enforced Prerequisite: N
+one. (4 credits)
+Structural modeling and analysis techniques applied to ship and marine structure components. Equilibrium and energy methods applied to elastic beam theory; static bi-axial bending, torsion and buckling. Shear flow in multicell cross sections. Stiffened and composite plates. Plastic analysis of beams and plates. Structural limit states and introduction to structural reliability.
+CourseProfile (ATLAS)
+NAVARCH 416 (AEROSP 416). Theory of Plates and Shells
+Advisory Prerequisite: AEROSP 315.
+Enforced Prerequisite: None.
+(3 credits)
+Linear elastic plates. Membrane and bending theory of axisymmetric and non-axisymmetric shells. Variational formulation of governing equations boundary conditions. Finite element techniques for plate and shell problems.
+CourseProfile (ATLAS)
+NAVARCH 423. Introduction to Numerical Hydrodynamics
+Advisory Prerequisite: NAVARCH 320, NAVARCH 321.
+Enforced Prerequisite: None.
+(4 credits)
+Numerical integration, uncertainty analysis and solution of PDE’s using finite differences and finite volume methods. Turbulence modeling and algorithms for solving the Navier-Stokes equations and introduction to solution of air-water flows. Computer lab sessions introduce the student to the computing environment for source-code development, mesh generation, simulation and post-processing.
+CourseProfile (ATLAS)
+NAVARCH 424. Hydrofoils, Propellers and Turbines
+Advisory Prerequisite: NAVARCH 320 or equivalent.
+Enforced Prerequisite: None.
+(4 credits)
+Introduction to the fundamentals of lifting surfaces related to the selection, design, experimental and numerical modeling, as well as optimization of hydrofoils, propellers, and turbines.
+CourseProfile (ATLAS)
+NAVARCH 431. Marine Engineering II
+Advisory Prerequisite: NAVARCH 310, NAVARCH 331, NAVARCH 332, NAVARCH 340.
+Enforced Prerequisite: None.
+(3 credits)
+Integrated treatment of the statics and dynamics of marine power transmission systems. Shafting design and alignment. Bearing selection and lubrication. Propeller excitation, added mass, and damping. Vibration modeling, analysis and evaluations of shafting systems: torsional, longitudinal and lateral vibrations.
+CourseProfile (ATLAS)
+NAVARCH 440. Marine Dynamics II
+Advisory Prerequisite: NAVARCH 321, NAVARCH 340.
+Enforced Prerequisite: None.
+(4 credits)
+Dynamic analysis in a fluid environment. Rayleigh’s principle for continuous systems. Equations of motion for ship rigid body dynamics. Wave excitation. Response Amplitude Operator (RAO). Random processes and probability. Motion in irregular seas. Introduction to time series analysis.
+CourseProfile (ATLAS)
+NAVARCH 451.
+Introduction to Offshore Engineering
+Advisory Prerequisite: Senior standing or higher.
+Enforced Prerequisite: None.
+(3 credits)
+Design concepts in offshore engineering for drilling/production of oil/gas. Wave force calculation
+methods. Correction of linear wave theory. Forces on cylinders. Vortex induced vibrations (VIV), galloping. Suppression of VIV. Enhancement of VIV and galloping for hydrokinetic energy harnessing. Mooring dynamics. Riser mechanics. Lab experiments for VIV, galloping and mooring.
+CourseProfile (ATLAS)
+NAVARCH 455 (ENSCEN 455). Environmental Nearshore Dynamics
+Advisory Prerequisite: None. Enforced Prerequisite: NAVARCH/ENSCEN/AOSS 420. Minimum grade requirement of “C-” for enforced prerequisite. (3 credits)
+Fundamentals of shallow water waves and currents are investigated as they relate to nearshore processes including tides and long-term sea-level changes, longshore current and prediction of sediment and pollutant transport.  Beach response to these processes is examined; effects of coastal structures on nearshore coastal design is emphasized.  Interpretation of aerial photography is investigated.
+CourseProfile (ATLAS)
+NAVARCH 461 (MFG 462). Marine Structures Construction
+Advisory Prerequisite: NAVARCH 310. Enforced
+Prerequisite: None.
+(3 credits)
+Principles and applications of modular construction and assembly, major manufacturing processes, thermo- mechanical Interactions and contributions to quality and dimensional accuracy, accuracy control methods and practices.
+CourseProfile (ATLAS)
+NAVARCH 470 (MFG 470). Foundations of Ship Design
+Advisory Prerequisite: NAVARCH 321, NAVARCH 332, NAVARCH 340; Co-requisite: NAVARCH 310. Enforced Prerequisite: None. (4 credits)
+Organization of ship design. Preliminary design methods for sizing and form; powering, maneuvering, seakeeping estimation; arranging; propulsion; structural synthesis; and safety and environmental risk of ships. Extensive use of design computer environment. Given owner’s requirements, students individually create and report the conceptual/preliminary design for a displacement ship.
+CourseProfile (ATLAS)
+NAVARCH 471. Advanced Ship Design
+Advisory Prerequisite: NAVARCH 470; Must be accepted into CoE Honors Program. Enforced
+Prerequisite: None.
+(3 credits)
+Individual or team-based design capstone course for NAME majors participating in the COE Honors Program. Students create, develop, modify and document original marine designs. Projects typically involve economic feasibility study of ship, yacht, submersible, or offshore system. Involves project planning and weekly progress reporting.
+CourseProfile (ATLAS)
+NAVARCH 475. Capstone Design Project
+Advisory Prerequisite: None. Enforced Prerequisite: NAVARCH 470. Minimum grade requirement of “C-” for enforced prerequisite. (4 credits)
+Small teams of up to 4 students create, develop, and document original marine designs to contract design level. Projects typically involve a ship, yacht, submersible, or offshore system. Involves extensive project planning and weekly progress reporting. Extensive written and oral presentation of the project. Significant design CAD effect.
+CourseProfile (ATLAS)
+NAVARCH 483. Marine Control Systems
+Advisory Prerequisite: NAVARCH 331, NAVARCH 332 or permission of instructor. Enforced
+Prerequisite: None.
+(3 credits)
+This course covers the theoretical foundation and practical design aspects of marine control systems. Students will be exposed to important system concepts and available analysis and design tools. Fundamental concepts of dynamic behavior and feedback design will be emphasized in the context marine control system applications.
+CourseProfile (ATLAS)
+NAVARCH 490. Directed Study, Research and Special Problems
+Advisory Prerequisite: Permission of instructor. Enforced
+Prerequisite: None.
+(1-16 credits)
+Individual or team project, experimental work or study of selected topics in naval architecture or marine engineering. Intended primarily for students with senior standing.
+CourseProfile (ATLAS)
+NAVARCH 491. Marine Engineering Laboratory I
+Advisory Prerequisite: NAVARCH 310, NAVARCH 320, NAVARCH 321, NAVARCH 331, NAVARCH 332, NAVARCH 340. Enforced
+Prerequisite: None.
+(3 credits)
+Instruction in laboratory techniques and instrumentation. Use of computers in data analysis that includes Fast Fourier transforms. Technical report writing. Investigation of fluid concepts, hydro-elasticity, marine dynamics, propeller forces, wave mechanics, ship hydrodynamics and extrapolation of model tests to full scale.
+CourseProfile (ATLAS)
+NAVARCH 492. Marine Engineering Laboratory II
+Advisory Prerequisite: NAVARCH 310, NAVARCH 320, NAVARCH 321, NAVARCH 331, NAVARCH 332, NAVARCH 340. Enforced
+Prerequisite: None.
+(3 credits)
+Instruction in experimental techniques, data analysis, and technical communication. Students will conduct experiments with instructional aid, as well as, process and analyze data collected. Results will then be summarized and presented in a technical report. Experimental concepts investigated, include: fundamental fluids, fundamental structures, marine dynamics, propeller testing, wave machines, and model testing.
+CourseProfile (ATLAS)
+NAVARCH 499. Special Topics in Naval Architecture and Marine Engineering
+Advisory and Enforced Prerequisite: None. (1-6 credits)
+Special topics in Naval Architecture and Marine Engineering for Undergraduates.
+CourseProfile (ATLAS)
+500 Level Courses
+NAVARCH 500. Mathematics for Naval Architects
+Advisory Prerequisite: Senior or graduate standing.
+E
+nforced Prerequisite: None.
+(3 credits)
+First and Second Order ODE’s Systems of ODE’s. Linear Algebra, solving linear systems by Gaussian elimination, inverting matrices by Gauss-Jordan elimination. Eigenvalues, Eigenvectyors. Vector Differential and Integral Calculus, including the three major theorems (Gauss Divergence, Green’s and Stokes’). Fourier Series, Integral and Transforms. Complex number, Cauchy-Riemann equations, analytic functions.
+CourseProfile (ATLAS)
+NAVARCH 510. Marine Structural Mechanics
+Advisory Prerequisite: NAVARCH 410.
+E
+nforced Prerequisite: None.
+(4 credits)
+Failure modes encountered in ship and offshore structures. Von Karman plate equations. Geometric and material nonlinear analyses of beams and stiffened plates. Calculus of variations. Effective width and breadth of stiffened plates. Introduction to structural reliability theory with applications to marine structural design.
+CourseProfile (ATLAS)
+NAVARCH 511. Special Topics in Ship Structure
+Advisory Prerequisite: Prior arrangement with instructor.
+E
+nforced Prerequisite: None.
+(1-16 credits)
+Individual or team project, experimental work, research or directed study of selected advanced topics in ship structure. Primarily for graduate students.
+CourseProfile (ATLAS)
+NAVARCH 512 (CEE 510). Finite Element Methods in Solid and Structural Mechanics
+Advisory Prerequisite: Graduate standing.
+E
+nforced Prerequisite: None.
+(3 credits)
+Basic equations of three dimensional elasticity. Derivation of relevant variational principles. Finite element approximation. Convergence requirements. Isoparametric elements in two and three dimensions. Implementational considerations. Locking phenomena. Problems involving non-linear material behavior.
+CourseProfile (ATLAS)
+NAVARCH 513. Defect Assessment for Marine Structures
+Advisory and
+E
+nforced Prerequisite: None.
+(3 credits)
+Engineering-Critical-Assessment (ECA) is about providing a quantitative evaluation of a structure’s fitness for service (FFS) when a flaw or damage is detected either in service or during construction. This course discusses basic mechanics principles and the state of the art methodologies for establishing the integrity of a structure containing crack-like defects.
+CourseProfile (ATLAS)
+NAVARCH 514 (MFG 515). Fatigue of Structure
+Advisory and
+E
+nforced Prerequisite: None.
+(3 credits)
+Fundamental concepts associated with fatigue damage and failure in engineering structures and contemporary design and analysis procedures with an emphasis on fatigue of welded structures, including most recent developments in finite element based fatigue design and analysis procedures, e.g., mesh-insensitive structural stress method and master S-N curve approach.
+CourseProfile (ATLAS)
+NAVARCH 515. Residual Stresses & Distortions in Modern Manufacturing
+Advisory Prerequisite: Mechanics of materials or strengths of materials courses recommended.
+E
+nforced Prerequisite: None.
+(3 credits)
+Modern approaches to residual stress and distortion control are presented with a focus on design and manufacture of lightweight structures, involving plate processing, laser cutting/forming, welding/joining, and 3D printing. Basic thermo-plasticity phenomena are treated through a series of 1D analytical models and followed by modern finite element stimulation procedures.
+CourseProfile (ATLAS)
+NAVARCH 520. Intermediate Marine Hydrodynamics
+Advisory and Enforced Prerequisite: None. (4 credits)
+Computation of wave loads on marine vehicles and offshore structures including resistance, diffraction, viscous and radiation forces. Linear theory using panel methods and Green functions. Forces on cylindrical bodies. Morison’s Equation. Nonlinear computation using desingularized method for inviscid flow and Reynold’s averaged Navier-Stokes equation (RANS) for viscous flow.
+CourseProfile (ATLAS)
+NAVARCH 523. Numerical Marine Hydrodynamics
+Advisory Prerequisite: NAVARCH 423.
+E
+nforced Prerequisite: None.
+(3 credits)
+Develop the necessary skills to numerically predict the hydrodynamic performance of bodies that move in the marine environment. Topics include numerical uncertainty analysis, panel methods for the free-surface Green function and Michell’s integral, discretization fundamentals for unstructured finite-volume methods, interface capturing methods and turbulence modeling for ship flows.
+CourseProfile (ATLAS)
+NAVARCH 525. Drag Reduction Techniques
+Advisory Prerequisite: NAVARCH 320.
+Enforced Prerequisite: None
+. (3 credits)
+This course addresses active and passive techniques of friction drag reduction. Active methods discussed include air layers and cavities, polymer and gas/bubble injection, and super-hydrophobic and other coating technologies. Passive techniques covered include hull form optimization and appendages such as stern flaps, lifting bodies and bulbous bows.
+CourseProfile (ATLAS)
+NAVARCH 527 (AEROSP 528) (NERS 547). Computational Fluid Dynamics for Industrial Applications
+Advisory Prerequisite: NERS 344, MECHENG 320, CEE 325 or equivalent. Enforced
+Prerequisite: None
+.
+(3 credits)
+Theoretical background on turbulence and modeling for single-phase and two-phase flow, and practical experience on using CFD codes. Evaluate simulations of 3-D flows, applicability/limitations of turbulence models, mesh generation and mesh convergence, numerical methods for solution of Navier-Stokes equation, theoretical exercises, computational project and presentation.
+NAVARCH 540. Marine Dynamics II
+Advisory Prerequisite: NAVARCH 340. Enforced Prerequisite: None. (4 credits)
+Fundamental analysis of marine dynamical systems. Normal mode analysis. Matrix representation of frequency domain seakeeping equations. Properties of linear gravity waves. Wave forces on marine structures. Linear and non-linear time domain seakeeping and maneuvering simulations. Nonlinear stability and bifurcation theory applied to mooring and capsizing. Shock mitigation.
+CourseProfile (ATLAS)
+NAVARCH 551. Offshore Engineering I
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing. (3 credits)
+Offshore engineering structures. Introduction to hydrodynamic loads on offshore platforms. Detailed study of forces on slender bodies – risers, pipelines, cables. Morison’s equation. Flow induced motions, vortex induced vibrations, galloping. Two-cylinder flows. Mathematical modeling, experiments, data processing. Marine hydrokinetic energy harnessing.
+CourseProfile (ATLAS)
+NAVARCH 552. Offshore Engineering II
+Advisory Prerequisite: NAVARCH 551. Enforced
+Prerequisite: None.
+(3 credits)
+Design and analysis requirements of offshore engineering structures. Hydrodynamic loads on offshore platforms. Wave theories applied in offshore engineering. Marine riser mechanics: dynamics and structural stability. Mooring dynamics: nonlinear stability and design.
+CourseProfile (ATLAS)
+NAVARCH 562 (MFG 563). Marine Systems Production: Business Strategy and Operations Management
+Advisory Prerequisite: Permission of instructor or graduate standing. Enforced
+Prerequisite: None.
+(3 credits)
+Examination of business strategy development, operations management principles and methods, and design-production Integration methods applied to the production of complex marine systems such as ships, offshore structures, and yachts. Addresses shipyard and boat yard business and product strategy definition, operations planning and scheduling, performance measurement, process control and Improvement.
+CourseProfile (ATLAS)
+NAVARCH 565 (ROB 535). Self Driving Cars: Perception and Control
+Advisory Prerequisite: Students are recommended to have a background in linear algebra & differential equations. Programming skills in Python & MATLAB, Some C++. Enforced
+Prerequisite: None.
+(3 credits)
+Self-driving cars are a transformative technology for society.  This course covers the underlying technologies in perception and control.  Topics include deep learning, computer vision, sensor fusion, localization, trajectory optimization, obstacle avoidance, vehicle dynamics.  Course includes theoretical underpinnings of self-driving car algorithms and practical application of the material in hands-on labs.
+CourseProfile (ATLAS)
+NAVARCH 568 (EECS 568) (ROB 530). Mobile Robotics: Methods and Algorithms
+Advisory Prerequisite: Graduate Standing or permission of instructor. Enforced
+Prerequisite: None.
+(4 credits)
+Theory and application of probabilistic techniques for autonomous mobile robotics. This course will present and critically examine contemporary algorithms for robot perception (using a variety of modalities), state estimation, mapping, and path planning. Topics include Bayesian filtering; stochastic representations of the environment; motion and sensor models for mobile robots; algorithms for mapping, localization, planning and control in the presence of uncertainty; application to autonomous marine, ground, and air vehicles.
+CourseProfile (ATLAS)
+NAVARCH 569 (
+ROB 572
+). Advanced Marine Robotics
+Advisory Prerequisite: Computational Linear Algebra (ROB 101) or Linear Algebra (MATH 214, MATH 217, MATH 417, or MATH 419) or graduate standing; proficiency in MATLAB. Enforced Prerequisite: None.
+Credit Exclusions: Student may only receive credit for one course,
+ROB 472 and ROB 572 (NAVARCH 569).
+(3 credits)
+Overview of marine robotic systems, including autonomous surface vehicles, remotely operated vehicles, and autonomous underwater vehicles. Topics include vehicle design, kinematic and dynamic modeling, control, sensing, and navigation. Examples draw from real robotic missions across a range of applications from inspection of critical subsea infrastructure to exploration of ocean worlds. Graduate credit includes additional homework problems and research components.
+CourseProfile (ATLAS)
+NAVARCH 570 (MFG 572). Advanced Marine Design
+Advisory Prerequisite: Graduate standing.
+Enforced
+Prerequisite: None.
+(4 credits)
+Organization of marine product development; concurrent marine design. Shipbuilding policy and build strategy development. Group behaviors; leadership and facilitation of design teams. General theories and approaches to design. Conceptual design of ships and offshore projects. Nonlinear programming, multicriteria optimization, and genetic algorithms applied to marine design.
+CourseProfile (ATLAS)
+NAVARCH 571 (MFG 571). Ship Design Project
+Advisory Prerequisite: Prior arrangement with instructor. Enforced Prerequisite: None. (1-16 credits)
+Individual (or team) project, experimental work, research or directed study of selected advanced topics in ship design. Primarily for graduate students.
+CourseProfile (ATLAS)
+NAVARCH 575 (
+MFG 575
+). Computer-Aided Marine Design Project
+Advisory and Enforced Prerequisite: None. (2-6 credits)
+Development of computer-aided design tools. Projects consisting of formulation, design, programming, testing, and documentation of programs for marine design and constructional use.
+CourseProfile (ATLAS)
+NAVARCH 579. Concurrent Marine Design Team Project
+Advisory Prerequisite: NAVARCH 460, NAVARCH 570, and NAVARCH 580. Enforced Prerequisite: None. (2-4 credits)
+Industrial related team project for Master’s of Engineering in Concurrent Marine Design degree program. Student teams will conduct concurrent design project for and in conjunction with industrial or government customer.
+CourseProfile (ATLAS)
+NAVARCH 580 (MFG 578). Optimization and Management of Marine Systems
+Advisory and Enforced
+Prerequisite: None.
+(3 credits)
+Optimization methods (linear, integer, nonlinear, deterministic and stochastic sequential optimization concepts and applications in the operations of marine systems. Elements of maritime management. Risk analysis and utility theory. Fleet deployment optimization for major ocean shipping segments. Forecasting concepts and applications to shipping and shipbuilding decisions.
+CourseProfile (ATLAS)
+NAVARCH 582 (MFG 579). Reliability, Risk and Safety Analysis
+Advisory Prerequisite: EECS 401 or MATH 425 or STATS 412.
+Enforced
+Prerequisite: None.
+(3 credits)
+Brief review of probability and statistics. Mathematical methods of reliability analysis for systems with or without repairs. Reliability, availability, maintenance, replacement, and repair decisions. Safety and risk analysis. Risk assessment methods and case Studies. FMEA, fault tree and event tree analysis. Marine, Automotive, Manufacturing, Health Care and other applications.
+CourseProfile (ATLAS)
+NAVARCH 583. Adaptive Control
+Advisory Prerequisite: Graduate standing or permission of instructor. Enforced Prerequisite: None. (3 credits)
+Models of systems with unknown or time-varying parameters. Theory and algorithm for online parameter identification. Adaptive observers. Direct and indirect adaptive control. Model reference adaptive  control. Robustness and convergence of adaptive systems. Design and analysis of nonlinear adaptive control. Application and implementation of adaptive systems.
+CourseProfile (ATLAS)
+NAVARCH 590. Directed Study, Research and Special Problems
+Advisory Prerequisite: Permission of instructor.
+Enforced
+Prerequisite: None.
+(1-6 credits)
+Individual or group study, design, or laboratory research in a field of interest to the student. Topics may be chosen from any of the areas of Naval Architecture and Marine Engineering.
+CourseProfile (ATLAS)
+NAVARCH 592. Master’s Thesis
+Advisory Prerequisite: Graduate Standing.
+Enforced
+Prerequisite: None.
+(1-6 credits)
+To be elected by Naval Architecture and Marine Engineering students pursuing the master’s thesis option. May be taken more than once up to a total of 6 credit hours.
+CourseProfile (ATLAS)
+NAVARCH 599. Special Topics in Naval Architecture and Marine Engineering
+Advisory Prerequisite: None. Enforced Prerequisite: Graduate standing. (1-6 credits)
+Special topics in Naval Architecture and Marine Engineering.
+CourseProfile (ATLAS)
+600 Level Courses
+NAVARCH 615. Special Topics in Ship Structure Analysis II
+Advisory Prerequisite: NAVARCH 510 and prior arrangement with instructor.
+Enforced
+Prerequisite: None.
+(1-16 credits)
+Advances in specific areas of ship structure analysis as revealed by recent research. Lectures, discussions and assigned readings.
+CourseProfile (ATLAS)
+NAVARCH 625. Special Topics in Marine Hydrodynamics
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1-16 credits)
+Advances in specific areas of marine hydrodynamics as revealed by recent research.
+CourseProfile (ATLAS)
+NAVARCH 627 (MECHENG 627). Wave Motion in Fluids
+Advisory Prerequisite: MECHENG 520 or NAVARCH 520 or equivalent. Enforced Prerequisite: None. (3 credits)
+Surface waves in liquids; group velocity and dispersion; water waves created by and wave resistance to a moving body; Korteweg de Vries equation; conoidal and solitary waves in water; wave reflection and diffraction; shallow-water waves by the method of characteristics; statistical approach and spectral analysis; wave generation.
+CourseProfile (ATLAS)
+NAVARCH 635. Special Topics in Marine Engineering
+Advisory Prerequisite: Permission of instructor. Enforced Prerequisite: None. (1-16 credits)
+Advances in specific areas of marine engineering as revealed by recent research.
+CourseProfile (ATLAS)
+NAVARCH 650. Dynamics of Offshore Facilities
+Advisory Prerequisite: NAVARCH 410 and NAVARCH 440. Enforced Prerequisite: None. (3 credits)
+Dynamics and stability of single point mooring systems. Marine cable statics and dynamics. Dynamics and stability of multilegged mooring systems. Dynamics and stability of towing systems. Dynamics of offshore towers. Structural redesign. Correlation of finite element model and physical structure. Dynamics and stability of marine risers; bundles of risers. Statics and dynamics of pipelines.
+CourseProfile (ATLAS)
+NAVARCH 655. Special Topics in Offshore Engineering
+Advisory Prerequisite: NAVARCH 410, NAVARCH 440, NAVARCH 550 or NAVARCH 650.
+Enforced Prerequisite: None. (1-16 credits)
+Advances in specific areas of offshore engineering as revealed by recent research. Lectures by doctoral students. Projects and presentations by M.S. students.
+CourseProfile (ATLAS)
+NAVARCH 685. Special Topics in Marine Systems
+Advisory Prerequisite: Permission of instructor.
+Enforced Prerequisite: None. (1-16 credits)
+Advances in specific areas of marine systems engineering as revealed by recent research.
+CourseProfile (ATLAS)
+700 Level Courses
+NAVARCH 792. Professional Degree Thesis
+Advisory and Enforced
+Prerequisite: None.
+(1-8 credits)
+CourseProfile (ATLAS)
+900 Level Courses
+NAVARCH 990. Dissertation/Pre-Candidate
+Advisory Prerequisite: Election for dissertation work by doctoral student not yet admitted as Candidate.
+Enforced
+Prerequisite: None.
+(1-8 credits)
+Dissertation work by doctoral student not yet admitted to status as candidate. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)
+NAVARCH 995. Dissertation/Candidate
+Advisory
+Prerequisite: None.
+Enforced
+Prerequisite: Candidate.
+(4-8 credits)
+Election for dissertation work by a doctoral student who has been admitted to candidate status. The defense of the dissertation, that is, the final oral examination, must be held under a full-term candidacy enrollment.
+CourseProfile (ATLAS)
