@@ -7,6 +7,26 @@ import {
 
 const GUEST_KEY = "courseGuideGuest";
 
+/** True when returning from the Supabase email-confirmation link. */
+function detectEmailConfirmRedirect() {
+  try {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("auth") === "confirmed") return true;
+    const hash = window.location.hash.replace(/^#/, "");
+    if (!hash) return false;
+    const hashParams = new URLSearchParams(hash);
+    const type = hashParams.get("type");
+    return type === "signup" || type === "email" || type === "email_change";
+  } catch {
+    return false;
+  }
+}
+
+function authRedirectUrl() {
+  const path = window.location.pathname || "/";
+  return `${window.location.origin}${path}?auth=confirmed`;
+}
+
 const AuthContext = createContext(null);
 
 export function AuthProvider({ children }) {
@@ -15,6 +35,7 @@ export function AuthProvider({ children }) {
   const [authError, setAuthError] = useState(null);
   const [programs, setPrograms] = useState([]);
   const [programsLoading, setProgramsLoading] = useState(false);
+  const [postConfirm, setPostConfirm] = useState(detectEmailConfirmRedirect);
   const [guest, setGuest] = useState(() => {
     try {
       return sessionStorage.getItem(GUEST_KEY) === "1";
@@ -33,6 +54,18 @@ export function AuthProvider({ children }) {
     if (!error) setPrograms(data);
     setProgramsLoading(false);
   }
+
+  useEffect(() => {
+    if (!postConfirm) return;
+    try {
+      const url = new URL(window.location.href);
+      url.searchParams.delete("auth");
+      url.hash = "";
+      window.history.replaceState({}, "", url.pathname + url.search);
+    } catch {
+      /* ignore */
+    }
+  }, [postConfirm]);
 
   useEffect(() => {
     if (!supabase) {
@@ -79,12 +112,17 @@ export function AuthProvider({ children }) {
 
   const value = useMemo(() => {
     const user = session?.user ?? null;
-    const inApp = Boolean(user) || guest;
+    // After email confirm, stay on login until the user signs in explicitly.
+    const inApp = (Boolean(user) && !postConfirm) || guest;
 
     async function signUp(email, password) {
       setAuthError(null);
       if (!supabase) throw new Error("Supabase is not configured");
-      const { data, error } = await supabase.auth.signUp({ email, password });
+      const { data, error } = await supabase.auth.signUp({
+        email,
+        password,
+        options: { emailRedirectTo: authRedirectUrl() },
+      });
       if (error) {
         setAuthError(error.message);
         throw error;
@@ -103,7 +141,12 @@ export function AuthProvider({ children }) {
         setAuthError(error.message);
         throw error;
       }
+      setPostConfirm(false);
       return data;
+    }
+
+    function clearPostConfirm() {
+      setPostConfirm(false);
     }
 
     async function signOut() {
@@ -149,6 +192,7 @@ export function AuthProvider({ children }) {
       user,
       guest,
       inApp,
+      postConfirm,
       authError,
       programs,
       programsLoading,
@@ -158,8 +202,9 @@ export function AuthProvider({ children }) {
       signOut,
       continueAsGuest,
       returnToLogin,
+      clearPostConfirm,
     };
-  }, [session, loading, authError, guest, programs, programsLoading]);
+  }, [session, loading, authError, guest, postConfirm, programs, programsLoading]);
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
 }

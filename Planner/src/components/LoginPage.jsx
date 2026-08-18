@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useAuth } from "../context/AuthContext";
 import {
   saveStudentPrograms,
@@ -195,8 +195,16 @@ const styles = {
 };
 
 export function LoginPage() {
-  const { configured, authError, signIn, signUp, continueAsGuest, reloadPrograms } =
-    useAuth();
+  const {
+    configured,
+    authError,
+    signIn,
+    signUp,
+    continueAsGuest,
+    reloadPrograms,
+    postConfirm,
+    user,
+  } = useAuth();
   const [mode, setMode] = useState("signin");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -204,6 +212,13 @@ export function LoginPage() {
   const [busy, setBusy] = useState(false);
   const [localError, setLocalError] = useState(null);
   const [info, setInfo] = useState(null);
+
+  useEffect(() => {
+    if (!postConfirm) return;
+    setMode("signin");
+    setInfo("Email confirmed! Sign in with your password to continue.");
+    if (user?.email) setEmail(user.email);
+  }, [postConfirm, user?.email]);
 
   const selectedMajors = useMemo(
     () => programsFromIds(selectedIds),
@@ -229,6 +244,7 @@ export function LoginPage() {
     try {
       if (mode === "signin") {
         await signIn(email.trim(), password);
+        if (reloadPrograms) await reloadPrograms();
       } else {
         if (selectedIds.length === 0) {
           setLocalError("Select at least one major (or sub-major).");

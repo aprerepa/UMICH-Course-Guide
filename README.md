@@ -26,7 +26,7 @@ Unofficial University of Michigan undergraduate Course Guide: browse majors by p
 - Account menu: Settings, sign out, or return to the login screen
 - Settings: update majors, or **delete your account** (type `delete my account` to confirm)
 
-Transcript PDF parsing runs through a small local API (`npm run transcript-api`). It is not part of the Vercel static deploy.
+Transcript PDF parsing uses a small Python API (`Planner/transcript_api/`). Locally it runs on port 8787; in production it is hosted separately from Vercel (see **Deploy transcript API** below).
 
 ## Tech stack
 
@@ -71,6 +71,8 @@ npm run preview
 
 Production: [https://umich-course-guide.vercel.app](https://umich-course-guide.vercel.app)
 
+### Frontend (Vercel)
+
 The frontend is a static Vite app. On [Vercel](https://vercel.com):
 
 1. Import this repository
@@ -78,11 +80,39 @@ The frontend is a static Vite app. On [Vercel](https://vercel.com):
 3. Add environment variables (Production + Preview):
    - `VITE_SUPABASE_URL`
    - `VITE_SUPABASE_ANON_KEY`
+   - `VITE_TRANSCRIPT_API_URL` — your Render API URL (see below), e.g. `https://umich-transcript-api.onrender.com`
 4. Deploy (`npm run build`, output `dist`)
 
-Vite inlines `VITE_*` at **build** time, so change those vars and redeploy for sign-in to appear on the live site.
+Vite inlines `VITE_*` at **build** time, so change those vars and redeploy when they change.
 
 Run the SQL in the repo root once in the Supabase SQL editor: `course_guide_schema_mvp.sql`, `course_guide_grants.sql`, `course_guide_delete_account.sql`.
+
+### Transcript API (Render)
+
+PDF parsing cannot run on Vercel’s static hosting. Deploy `Planner/transcript_api/` to [Render](https://render.com):
+
+**Option A — Blueprint (easiest)**
+
+1. Push this repo to GitHub (includes `render.yaml` at the repo root)
+2. Render dashboard → **New** → **Blueprint**
+3. Connect `aprerepa/UMICH-Course-Guide` (or your fork)
+4. Render creates a web service from `render.yaml`
+5. Copy the service URL, e.g. `https://umich-transcript-api.onrender.com`
+
+**Option B — Manual web service**
+
+1. Render → **New** → **Web Service** → connect the repo
+2. **Root Directory:** `Planner/transcript_api`
+3. **Runtime:** Python 3
+4. **Build command:** `pip install -r requirements.txt`
+5. **Start command:** `uvicorn app:app --host 0.0.0.0 --port $PORT`
+6. **Environment variable:** `ALLOWED_ORIGINS` = `https://umich-course-guide.vercel.app,http://localhost:5173`
+
+After deploy, set `VITE_TRANSCRIPT_API_URL` on Vercel to that URL (no trailing slash) and redeploy the frontend.
+
+**Verify:** open `https://YOUR-API.onrender.com/` — you should see `{"ok":true,"service":"transcript-parser"}`.
+
+**Note:** Render free tier services sleep when idle; the first PDF upload after idle may take ~30s while the service wakes up.
 
 ## Project structure
 
