@@ -7,70 +7,6 @@ import {
 
 const GUEST_KEY = "courseGuideGuest";
 
-function readHashParams() {
-  try {
-    const hash = window.location.hash.replace(/^#/, "");
-    return hash ? new URLSearchParams(hash) : new URLSearchParams();
-  } catch {
-    return new URLSearchParams();
-  }
-}
-
-function readSearchParams() {
-  try {
-    return new URLSearchParams(window.location.search);
-  } catch {
-    return new URLSearchParams();
-  }
-}
-
-/** True when returning from the Supabase email-confirmation link. */
-function detectEmailConfirmRedirect() {
-  const search = readSearchParams();
-  const hash = readHashParams();
-  const type = hash.get("type") || search.get("type");
-  return (
-    Boolean(search.get("code")) ||
-    Boolean(hash.get("access_token")) ||
-    type === "signup" ||
-    type === "email" ||
-    type === "email_change" ||
-    Boolean(search.get("error") || hash.get("error"))
-  );
-}
-
-function confirmErrorFromUrl() {
-  const search = readSearchParams();
-  const hash = readHashParams();
-  return (
-    search.get("error_description") ||
-    hash.get("error_description") ||
-    search.get("error") ||
-    hash.get("error") ||
-    null
-  );
-}
-
-/** No query string — a `?` inside redirect_to breaks the verify URL in Mail/Safari. */
-function authRedirectUrl() {
-  return `${window.location.origin}/`;
-}
-
-function stripAuthParamsFromUrl() {
-  try {
-    const url = new URL(window.location.href);
-    url.hash = "";
-    url.searchParams.delete("code");
-    url.searchParams.delete("error");
-    url.searchParams.delete("error_description");
-    url.searchParams.delete("error_code");
-    url.searchParams.delete("type");
-    window.history.replaceState({}, "", url.pathname + (url.search || ""));
-  } catch {
-    /* ignore */
-  }
-}
-
 const AuthContext = createContext(null);
 
 export function AuthProvider({ children }) {
@@ -79,8 +15,6 @@ export function AuthProvider({ children }) {
   const [authError, setAuthError] = useState(null);
   const [programs, setPrograms] = useState([]);
   const [programsLoading, setProgramsLoading] = useState(false);
-  const [postConfirm, setPostConfirm] = useState(false);
-  const [confirmedEmail, setConfirmedEmail] = useState("");
   const [guest, setGuest] = useState(() => {
     try {
       return sessionStorage.getItem(GUEST_KEY) === "1";
@@ -108,8 +42,6 @@ export function AuthProvider({ children }) {
     }
 
     let mounted = true;
-    const fromConfirm = detectEmailConfirmRedirect();
-    const urlError = confirmErrorFromUrl();
 
     async function onSession(next) {
       setSession(next);
@@ -130,33 +62,11 @@ export function AuthProvider({ children }) {
     supabase.auth.getSession().then(async ({ data, error }) => {
       if (!mounted) return;
       if (error) setAuthError(error.message);
-
-      if (fromConfirm) {
-        const next = data.session ?? null;
-        if (urlError && !next) {
-          setAuthError(decodeURIComponent(urlError.replace(/\+/g, " ")));
-        }
-        if (next?.user) {
-          setConfirmedEmail(next.user.email || "");
-          await onSession(next);
-          await supabase.auth.signOut();
-          if (!mounted) return;
-          setSession(null);
-          setPrograms([]);
-          setGuest(false);
-        }
-        setPostConfirm(true);
-        stripAuthParamsFromUrl();
-        if (mounted) setLoading(false);
-        return;
-      }
-
       await onSession(data.session ?? null);
       if (mounted) setLoading(false);
     });
 
     const { data: sub } = supabase.auth.onAuthStateChange((_event, next) => {
-      if (fromConfirm) return;
       setAuthError(null);
       onSession(next);
     });
@@ -174,11 +84,7 @@ export function AuthProvider({ children }) {
     async function signUp(email, password) {
       setAuthError(null);
       if (!supabase) throw new Error("Supabase is not configured");
-      const { data, error } = await supabase.auth.signUp({
-        email,
-        password,
-        options: { emailRedirectTo: authRedirectUrl() },
-      });
+      const { data, error } = await supabase.auth.signUp({ email, password });
       if (error) {
         setAuthError(error.message);
         throw error;
@@ -197,7 +103,6 @@ export function AuthProvider({ children }) {
         setAuthError(error.message);
         throw error;
       }
-      setPostConfirm(false);
       return data;
     }
 
@@ -244,8 +149,6 @@ export function AuthProvider({ children }) {
       user,
       guest,
       inApp,
-      postConfirm,
-      confirmedEmail,
       authError,
       programs,
       programsLoading,
@@ -256,16 +159,7 @@ export function AuthProvider({ children }) {
       continueAsGuest,
       returnToLogin,
     };
-  }, [
-    session,
-    loading,
-    authError,
-    guest,
-    postConfirm,
-    confirmedEmail,
-    programs,
-    programsLoading,
-  ]);
+  }, [session, loading, authError, guest, programs, programsLoading]);
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
 }
