@@ -203,7 +203,7 @@ export function LoginPage() {
     continueAsGuest,
     reloadPrograms,
     postConfirm,
-    user,
+    confirmedEmail,
   } = useAuth();
   const [mode, setMode] = useState("signin");
   const [email, setEmail] = useState("");
@@ -217,8 +217,8 @@ export function LoginPage() {
     if (!postConfirm) return;
     setMode("signin");
     setInfo("Email confirmed! Sign in with your password to continue.");
-    if (user?.email) setEmail(user.email);
-  }, [postConfirm, user?.email]);
+    if (confirmedEmail) setEmail(confirmedEmail);
+  }, [postConfirm, confirmedEmail]);
 
   const selectedMajors = useMemo(
     () => programsFromIds(selectedIds),
