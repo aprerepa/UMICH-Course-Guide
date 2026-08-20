@@ -16,7 +16,31 @@
       "countsTowardMajorTotal": true
     },
     "Environmental Sciences": {
-      "minCourses": 3,
+      "require": {
+        "allOf": [
+          {
+            "anyOf": ["CEE 481", "CEE 581"]
+          },
+          {
+            "anyOf": ["CEE 482", "CEE 582"]
+          },
+          {
+            "anyOf": [
+              "CLIMATE 320",
+              "CLIMATE 410",
+              "CLIMATE 463",
+              "CLIMATE 475",
+              "EARTH 305",
+              "EARTH 315",
+              "EARTH 321",
+              "EARTH 323",
+              "EARTH 442",
+              "EARTH 451",
+              "EARTH 477"
+            ]
+          }
+        ]
+      },
       "minCredits": 9,
       "countsTowardMajorTotal": true
     },

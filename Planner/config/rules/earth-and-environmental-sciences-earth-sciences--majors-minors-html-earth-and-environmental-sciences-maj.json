@@ -1,6 +1,6 @@
 {
-  "id": "earth-and-environmental-sciences--majors-minors-html-earth-and-environmental-sciences-maj",
-  "displayName": "Earth and Environmental Sciences",
+  "id": "earth-and-environmental-sciences-earth-sciences--majors-minors-html-earth-and-environmental-sciences-maj",
+  "displayName": "Earth and Environmental Sciences — Earth Sciences",
   "groupRules": {
     "Prerequisites": {
       "require": {
@@ -128,31 +128,19 @@
         ]
       }
     },
-    "Core Course Options": {
-      "minCourses": 4,
-      "countsTowardMajorTotal": true
-    },
-    "Field Experience Requirement": {
-      "minCourses": 1,
-      "countsTowardMajorTotal": true
-    },
-    "General Electives": {
-      "minCredits": 9,
-      "countsTowardMajorTotal": true
-    },
-    "Upper Level Writing Requirement": {
-      "minCourses": 1,
-      "countsTowardMajorTotal": true
-    },
     "Earth Sciences Core Courses": {
       "minCourses": 5,
       "countsTowardMajorTotal": true
     },
     "Environmental Sciences Core Courses": {
-      "minCourses": 4,
+      "minCourses": 1,
       "countsTowardMajorTotal": true
     },
     "Upper-Level Analytical Methods Courses": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Field Experience Requirement": {
       "minCourses": 1,
       "countsTowardMajorTotal": true
     },
@@ -160,12 +148,8 @@
       "minCourses": 1,
       "countsTowardMajorTotal": true
     },
-    "Sustainability Course": {
+    "Upper Level Writing Requirement": {
       "minCourses": 1,
-      "countsTowardMajorTotal": true
-    },
-    "Environmental Sciences Electives": {
-      "minCourses": 2,
       "countsTowardMajorTotal": true
     }
   }

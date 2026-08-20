@@ -17,7 +17,9 @@
       "PHYSICS 140",
       "PHYSICS 141",
       "PHYSICS 240",
-      "PHYSICS 241"
+      "PHYSICS 241",
+      "ECON 101",
+      "ECON 102"
     ],
     "Mathematical Methods": [
       "CEE 303",
@@ -39,7 +41,18 @@
       "CEE 481",
       "CEE 581",
       "CEE 482",
-      "CEE 582"
+      "CEE 582",
+      "CLIMATE 320",
+      "CLIMATE 410",
+      "CLIMATE 463",
+      "CLIMATE 475",
+      "EARTH 305",
+      "EARTH 315",
+      "EARTH 321",
+      "EARTH 323",
+      "EARTH 442",
+      "EARTH 451",
+      "EARTH 477"
     ],
     "Environmental Engineering Design": [
       "CEE 402"
@@ -62,20 +75,11 @@
       "CEE 567",
       "URP 423",
       "EARTH 344",
+      "ENVIRON 344",
       "ENGR 520",
       "EAS 475",
       "CLIMATE 480",
-      "ME 589"
+      "MECHENG 589"
     ]
-  },
-  "openGroups": {
-    "Environmental Sciences": {
-      "subjects": [
-        "CLIMATE",
-        "EARTH"
-      ],
-      "minLevel": 300,
-      "exclude": []
-    }
   }
 }

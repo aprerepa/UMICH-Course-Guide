@@ -1,0 +1,96 @@
+{
+  "id": "earth-and-environmental-sciences-earth-sciences--majors-minors-html-earth-and-environmental-sciences-maj",
+  "displayName": "Earth and Environmental Sciences — Earth Sciences",
+  "requirementGroups": {
+    "Prerequisites": [
+      "EARTH 116",
+      "EARTH 119",
+      "EARTH 118",
+      "EARTH 120",
+      "EARTH 202",
+      "EARTH 219",
+      "EARTH 218",
+      "EARTH 222",
+      "EARTH 223",
+      "EARTH 132",
+      "MATH 115",
+      "EARTH 295",
+      "EARTH 131",
+      "CHEM 130",
+      "CHEM 125",
+      "CHEM 126",
+      "PHYSICS 135",
+      "PHYSICS 136",
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "BIOPHYSICS 150",
+      "PHYSICS 150",
+      "BIOPHYSICS 151",
+      "PHYSICS 151",
+      "PHYSICS 160",
+      "PHYSICS 161",
+      "BIOLOGY 171",
+      "BIOLOGY 172",
+      "BIOLOGY 174",
+      "BIOLOGY 195",
+      "EARTH 133",
+      "MATH 116",
+      "MATH 214",
+      "MATH 216",
+      "CHEM 230",
+      "CHEM 210",
+      "CHEM 211",
+      "PHYSICS 240",
+      "PHYSICS 241",
+      "BIOPHYSICS 250",
+      "PHYSICS 250",
+      "BIOPHYSICS 251",
+      "PHYSICS 251"
+    ],
+    "Earth Sciences Core Courses": [
+      "EARTH 305",
+      "EARTH 314",
+      "EARTH 315",
+      "EARTH 351",
+      "EARTH 352"
+    ],
+    "Environmental Sciences Core Courses": [
+      "EARTH 313",
+      "EARTH 325",
+      "EARTH 331",
+      "EARTH 442"
+    ],
+    "Upper-Level Analytical Methods Courses": [
+      "EARTH 408",
+      "EARTH 444",
+      "EARTH 455",
+      "EARTH 468",
+      "EARTH 484"
+    ],
+    "Field Experience Requirement": [
+      "EARTH 440"
+    ],
+    "Earth Sciences Electives": [
+      "EARTH 344",
+      "EARTH 415",
+      "EARTH 418",
+      "EARTH 419",
+      "EARTH 420",
+      "EARTH 422",
+      "EARTH 428",
+      "EARTH 429",
+      "EARTH 432",
+      "EARTH 437",
+      "EARTH 444",
+      "EARTH 449",
+      "EARTH 467",
+      "EARTH 477",
+      "EARTH 483",
+      "EARTH 485"
+    ],
+    "Upper Level Writing Requirement": [
+      "EARTH 333",
+      "EARTH 380"
+    ]
+  }
+}

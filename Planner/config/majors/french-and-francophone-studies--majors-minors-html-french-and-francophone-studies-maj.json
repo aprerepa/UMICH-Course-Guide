@@ -7,15 +7,31 @@
       "FRENCH 232",
       "RCLANG 290",
       "RCLANG 310"
-    ]
+    ],
+    "Advanced Language": [
+      "FRENCH 235",
+      "RCLANG 320"
+    ],
+    "FRENCH 270-299 Courses": [],
+    "Upper-Level FRENCH": [],
+    "Literature and Culture": []
   },
   "openGroups": {
-    "Prerequisites": {
-      "subjects": [
-        "FRENCH",
-        "RCLANG"
-      ],
-      "minLevel": 230,
+    "FRENCH 270-299 Courses": {
+      "subjects": ["FRENCH"],
+      "minLevel": 270,
+      "maxLevel": 299,
+      "exclude": []
+    },
+    "Upper-Level FRENCH": {
+      "subjects": ["FRENCH"],
+      "minLevel": 300,
+      "exclude": []
+    },
+    "Literature and Culture": {
+      "subjects": ["FRENCH"],
+      "minLevel": 350,
+      "maxLevel": 379,
       "exclude": []
     }
   }

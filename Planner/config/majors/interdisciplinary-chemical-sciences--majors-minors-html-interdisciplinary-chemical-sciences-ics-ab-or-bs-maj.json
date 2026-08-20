@@ -32,21 +32,37 @@
       "CHEM 303"
     ],
     "Electives": [],
+    "CHEM 300-level or above": [],
+    "CHEM 400-level or above": [],
     "Theme Focus/Cognates": []
   },
   "openGroups": {
     "Electives": {
-      "subjects": [
-        "CHEM"
-      ],
-      "minLevel": 300,
-      "exclude": []
+      "subjects": ["CHEM"],
+      "exclude": [
+        "CHEM 210",
+        "CHEM 211",
+        "CHEM 241",
+        "CHEM 242",
+        "CHEM 245",
+        "CHEM 246",
+        "CHEM 247",
+        "CHEM 260",
+        "CHEM 302",
+        "CHEM 303"
+      ]
     },
-    "Theme Focus/Cognates": {
-      "subjects": [
-        "CHEM"
-      ],
-      "minLevel": 200,
+    "CHEM 300-level or above": {
+      "subjects": ["CHEM"],
+      "minLevel": 300,
+      "exclude": [
+        "CHEM 302",
+        "CHEM 303"
+      ]
+    },
+    "CHEM 400-level or above": {
+      "subjects": ["CHEM"],
+      "minLevel": 400,
       "exclude": []
     }
   }

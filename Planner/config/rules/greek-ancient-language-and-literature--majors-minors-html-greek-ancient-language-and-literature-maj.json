@@ -15,10 +15,27 @@
         ]
       }
     },
-    "Requirements": {
-      "completion": "manual",
-      "minCourses": 8,
-      "minCredits": 24,
+    "Introductory Course": {
+      "require": {
+        "anyOf": [
+          "ARCHAM 221",
+          "CLARCH 221",
+          "HISTORY 200"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "GREEK 300-level or above": {
+      "minCourses": 6,
+      "countsTowardMajorTotal": true
+    },
+    "GREEK 400-level or above": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Civilization, Archaeology, or History": {
+      "minCourses": 1,
+      "minCredits": 3,
       "countsTowardMajorTotal": true
     }
   }

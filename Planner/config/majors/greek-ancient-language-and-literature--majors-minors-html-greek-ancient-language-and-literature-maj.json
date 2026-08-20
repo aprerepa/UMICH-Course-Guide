@@ -7,21 +7,53 @@
       "GREEK 102",
       "GREEK 103"
     ],
-    "Requirements": [
+    "Introductory Course": [
       "ARCHAM 221",
       "CLARCH 221",
-      "HISTORY 200",
+      "HISTORY 200"
+    ],
+    "GREEK 300-level or above": [
       "GREEK 401",
       "GREEK 402"
-    ]
+    ],
+    "GREEK 400-level or above": [
+      "GREEK 401",
+      "GREEK 402"
+    ],
+    "Civilization, Archaeology, or History": []
   },
   "openGroups": {
-    "Requirements": {
-      "subjects": [
-        "GREEK"
-      ],
+    "GREEK 300-level or above": {
+      "subjects": ["GREEK"],
       "minLevel": 300,
-      "exclude": []
-    }
+      "exclude": ["GREEK 495"]
+    },
+    "GREEK 400-level or above": {
+      "subjects": ["GREEK"],
+      "minLevel": 400,
+      "exclude": ["GREEK 495"]
+    },
+    "Civilization, Archaeology, or History": [
+      {
+        "subjects": ["CLCIV"],
+        "minLevel": 300,
+        "exclude": []
+      },
+      {
+        "subjects": ["CLARCH"],
+        "minLevel": 300,
+        "exclude": []
+      },
+      {
+        "subjects": ["ARCHAM"],
+        "minLevel": 300,
+        "exclude": []
+      },
+      {
+        "subjects": ["HISTORY"],
+        "minLevel": 300,
+        "exclude": []
+      }
+    ]
   }
 }

@@ -82,7 +82,16 @@
       "minCredits": 12,
       "countsTowardMajorTotal": true
     },
+    "CHEM 300-level or above": {
+      "minCourses": 3,
+      "countsTowardMajorTotal": true
+    },
+    "CHEM 400-level or above": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
     "Theme Focus/Cognates": {
+      "completion": "manual",
       "minCredits": 15,
       "countsTowardMajorTotal": true
     }

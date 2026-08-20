@@ -1,6 +1,6 @@
 {
-  "id": "earth-and-environmental-sciences--majors-minors-html-earth-and-environmental-sciences-maj",
-  "displayName": "Earth and Environmental Sciences",
+  "id": "earth-and-environmental-sciences-environmental-sciences--majors-minors-html-earth-and-environmental-sciences-maj",
+  "displayName": "Earth and Environmental Sciences — Environmental Sciences",
   "requirementGroups": {
     "Prerequisites": [
       "EARTH 116",
@@ -47,32 +47,11 @@
       "BIOPHYSICS 251",
       "PHYSICS 251"
     ],
-    "Core Course Options": [
-      "EARTH 305",
+    "Environmental Sciences Core Courses": [
       "EARTH 313",
-      "EARTH 314",
-      "EARTH 315",
       "EARTH 325",
       "EARTH 331",
-      "EARTH 351",
-      "EARTH 352",
       "EARTH 442"
-    ],
-    "Field Experience Requirement": [
-      "EARTH 440",
-      "EARTH 450"
-    ],
-    "General Electives": [
-      "EARTH 299",
-      "EARTH 489",
-      "EARTH 490",
-      "EARTH 494",
-      "EARTH 498",
-      "EARTH 499"
-    ],
-    "Upper Level Writing Requirement": [
-      "EARTH 333",
-      "EARTH 380"
     ],
     "Earth Sciences Core Courses": [
       "EARTH 305",
@@ -81,40 +60,18 @@
       "EARTH 351",
       "EARTH 352"
     ],
-    "Environmental Sciences Core Courses": [
-      "EARTH 313",
-      "EARTH 325",
-      "EARTH 331",
-      "EARTH 442"
+    "Sustainability Course": [
+      "EARTH 333",
+      "EARTH 380"
     ],
     "Upper-Level Analytical Methods Courses": [
       "EARTH 408",
-      "EARTH 444",
       "EARTH 455",
       "EARTH 468",
       "EARTH 484"
     ],
-    "Earth Sciences Electives": [
-      "EARTH 344",
-      "EARTH 415",
-      "EARTH 418",
-      "EARTH 419",
-      "EARTH 420",
-      "EARTH 422",
-      "EARTH 428",
-      "EARTH 429",
-      "EARTH 432",
-      "EARTH 437",
-      "EARTH 444",
-      "EARTH 449",
-      "EARTH 467",
-      "EARTH 477",
-      "EARTH 483",
-      "EARTH 485"
-    ],
-    "Sustainability Course": [
-      "EARTH 333",
-      "EARTH 380"
+    "Field Experience Requirement": [
+      "EARTH 450"
     ],
     "Environmental Sciences Electives": [
       "EARTH 344",
@@ -130,6 +87,10 @@
       "EARTH 465",
       "EARTH 477",
       "EARTH 478"
+    ],
+    "Upper Level Writing Requirement": [
+      "EARTH 333",
+      "EARTH 380"
     ]
   }
 }

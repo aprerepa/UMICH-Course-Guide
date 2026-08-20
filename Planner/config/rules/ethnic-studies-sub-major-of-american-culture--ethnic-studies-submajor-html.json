@@ -2,6 +2,21 @@
   "id": "ethnic-studies-sub-major-of-american-culture--ethnic-studies-submajor-html",
   "displayName": "Ethnic Studies (Sub-major of American Culture)",
   "groupRules": {
+    "Core Course": {
+      "require": "AMCULT 300",
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Capstone": {
+      "require": "AMCULT 498",
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "completion": "manual",
+      "minCredits": 28,
+      "countsTowardMajorTotal": true
+    },
     "Introductory Ethnic Studies Courses": {
       "require": {
         "anyOf": [

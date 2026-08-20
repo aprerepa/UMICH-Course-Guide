@@ -11,6 +11,27 @@
           "RCLANG 310"
         ]
       }
+    },
+    "Advanced Language": {
+      "require": {
+        "anyOf": [
+          "FRENCH 235",
+          "RCLANG 320"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "FRENCH 270-299 Courses": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Upper-Level FRENCH": {
+      "minCredits": 18,
+      "countsTowardMajorTotal": true
+    },
+    "Literature and Culture": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
     }
   }
 }

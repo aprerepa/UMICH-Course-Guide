@@ -8,18 +8,24 @@
       "FTVM 236",
       "RCHUMS 236"
     ],
-    "Core Required Courses": [
+    "History Courses": [
       "FTVM 352",
       "FTVM 353",
       "FTVM 354",
       "FTVM 355",
-      "FTVM 356",
+      "FTVM 356"
+    ],
+    "Theory Courses": [
       "FTVM 272",
       "FTVM 372",
       "FTVM 375",
       "FTVM 376",
-      "FTVM 461",
-      "FTVM 290",
+      "FTVM 461"
+    ],
+    "Introduction to Media Production": [
+      "FTVM 290"
+    ],
+    "Production or Writing Courses": [
       "FTVM 300",
       "FTVM 301",
       "FTVM 302",
@@ -33,7 +39,9 @@
       "FTVM 391",
       "FTVM 392",
       "FTVM 393",
-      "FTVM 394",
+      "FTVM 394"
+    ],
+    "Studies Course": [
       "FTVM 250",
       "JUDAIC 250",
       "MIDEAST 280",

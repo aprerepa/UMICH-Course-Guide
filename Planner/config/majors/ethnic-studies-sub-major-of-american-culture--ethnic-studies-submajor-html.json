@@ -2,6 +2,13 @@
   "id": "ethnic-studies-sub-major-of-american-culture--ethnic-studies-submajor-html",
   "displayName": "Ethnic Studies (Sub-major of American Culture)",
   "requirementGroups": {
+    "Core Course": [
+      "AMCULT 300"
+    ],
+    "Capstone": [
+      "AMCULT 498"
+    ],
+    "Electives": [],
     "Introductory Ethnic Studies Courses": [
       "AAS 201",
       "LATINOAM 213",
@@ -13,6 +20,17 @@
     "Ethnic Studies Electives": []
   },
   "openGroups": {
+    "Electives": {
+      "subjects": [
+        "AMCULT",
+        "LATINOAM",
+        "ASIANPAM",
+        "NATIVEAM",
+        "ARABAM"
+      ],
+      "minLevel": 200,
+      "exclude": []
+    },
     "Ethnic Studies Electives": {
       "subjects": [
         "ARABAM",
@@ -22,7 +40,7 @@
         "AMCULT",
         "AAS"
       ],
-      "minLevel": 100,
+      "minLevel": 200,
       "exclude": []
     }
   }

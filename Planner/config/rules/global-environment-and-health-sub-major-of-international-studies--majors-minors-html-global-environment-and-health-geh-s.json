@@ -2,6 +2,14 @@
   "id": "global-environment-and-health-sub-major-of-international-studies--majors-minors-html-global-environment-and-health-geh-s",
   "displayName": "Global Environment and Health (Sub-major of International Studies)",
   "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "INTLSTD 101",
+          "GEOG 145"
+        ]
+      }
+    },
     "Program Core": {
       "require": {
         "allOf": [
@@ -15,7 +23,6 @@
           "INTLSTD 401"
         ]
       },
-      "minCourses": 2,
       "minCredits": 7,
       "countsTowardMajorTotal": true
     },
@@ -23,6 +30,23 @@
       "require": "INTLSTD 390",
       "minCourses": 1,
       "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Regional Course": {
+      "completion": "manual",
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "GEH Courses": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Three Electives": {
+      "completion": "manual",
+      "minCourses": 3,
+      "minCredits": 9,
       "countsTowardMajorTotal": true
     }
   }
