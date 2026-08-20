@@ -1,0 +1,99 @@
+Page header:
+page title: Data Science Major (Eng) | Computer Science and Engineering at Michigan
+og:description: The DS major provides a foundation in aspects of CS, statistics, and mathematics that are relevant for analyzing and manipulating large complex datasets.
+
+Visible page text:
+Academics
+Home
+>
+Academics
+>
+Undergraduate
+>
+Majors
+>
+Data Science Major (Eng students)
+Data Science Major (Engineering students)
+Welcome to the age of data – big data, unstructured data, mixed media data, you name it – where a need exists for a new class of experts who can extract actionable knowledge from rich and varied datasets.
+Huge amounts of data with complex structures in the form of text, video, and streaming data are routinely collected in social networks (e.g., YouTube, Instagram, Facebook), biological and health sciences (e.g., drug discovery, patient care), sciences and engineering (e.g., astronomy, networks, smart buildings), business and industry (e.g., automotive, robotics, banking, insurance, ad networks) as well as by government and society at large. Data scientists will help quantify and address the pressing concerns of modern society, including those in healthcare, sustainability, security, equity, and economics.
+Atlas profile for Data Science (Eng)
+(current students only)
+Open to students enrolled in the College of Engineering, this program is administered by the CSE Division of the EECS Department. Students interested in Data Science in the College of LSA should
+contact the Statistics Department advising office
+for support.
+Why data science at Michigan?
+The data science major at Michigan offers a rigorous curriculum and access to numerous resources and extracurricular opportunities. DS students at Michigan enrich their experience through involvement in a wide variety of student clubs and teams, research within DS and across disciplines, and teaching and mentorship from world-class faculty.
+#7 ranking
+Our major is ranked #7 in Data Science / Analytics in the 2025 U.S. News & World Report rankings.
+5 Turing Awardees
+Five U-M alumni have received the AM Turing Award, considered the “Nobel Prize” of computing.
+100 faculty
+100 award-winning faculty members in CSE, backed up by a professional course support staff team, make an active and robust program feel personal and supportive.
+Curriculum
+The data science major available through the College of Engineering is a joint program between the  CSE Division of the EECS Department in the College of Engineering and the Department of Statistics in the College of LSA. The data science program aims to train well-rounded data scientists who have the skills – such as machine learning, artificial intelligence, pattern recognition, statistical learning, probability models, and visualization – to work with a variety of problems involving large-scale data common in the modern world. The focus of the curriculum is computational tools and statistical analysis, as well as hands-on experience.
+The data science major is a rigorous program that will provide students with a foundation in those aspects of computer science, statistics, and mathematics that are relevant for analyzing and manipulating large complex datasets. Students will be exposed to both the practical use of data science methods as well as the theoretical properties underpinning the performance of the methods and algorithms. Graduates of the program will be well prepared for exciting careers in data science and will have opportunities for advanced study.
+Required courses
+DS-Eng Program Guide:
+Fall 2026-Winter 2027
+DS-Eng Program Guide
+: Fall 2025-Winter 2026
+DS-Eng Program Guide for students who began in the College of Engineering Fall 2024 or later
+: Fall 2024-Winter 2025
+DS-Eng Program Guide for students who began in the College of Engineering before Fall 2024
+: Fall 2023-Winter 2024
+Historical DS-Eng Program Guide
+CSE course descriptions >
+Contact an advisor
+The
+CSE Undergraduate Advising Office
+can help via advising appointments, drop-in advising, email support, and more.
+For additional support, students can also access the
+CSE Advising Chatbot
+for information on courses, programs, and policies.
+Declaring in DS-Eng
+Declaration requirements are listed in the DS-Eng program guide. If you meet ALL of these requirements and are ready to declare, please fill out our
+declaration request form
+. A staff member will check your eligibility and let you know the outcome. For more detailed questions about the major, students can schedule an
+advising
+appointment or come to virtual drop-in advising. In addition, please
+watch this video
+prior to declaring.
+DS-Eng Senior Thesis
+The Senior Thesis option is open to students completing the Data Science Engineering program and can satisfy the Capstone requirement. There is a minimum GPA requirement and students are responsible for finding a faculty mentor whose research area aligns with their interest(s) and who is willing to oversee the thesis project. See the
+DS Thesis handout
+for more detailed information.
+Accelerated master’s: Sequential Undergraduate/Graduate Study (SUGS)
+Students who enroll in this program and plan to obtain a master’s degree could be eligible for the Sequential Undergraduate/Graduate Study (SUGS) program, which enables completion of both a bachelor’s degree and a master’s degree in five (to five and a half) years.
+More information is here.
+Students interested in the program should contact the
+CSE Graduate Programs Office
+.
+What our graduates do
+Job titles
+Actuarial Analyst
+Artificial Intelligence Engineer
+Business Analyst
+Consultant
+Corporate Development
+Financial Analyst
+Data Analyst
+Data Scientist
+Deployment Strategist
+Product Manager
+Quantitative Developer
+Software Engineer
+Trader
+Engineering Career Resource Center data
+Post-graduation and co-op data
+Meet our alumni
+Danny Vargovick
+BSE DS 2017
+Assistant Director, Research & Development, Detroit Tigers
+Read more: Building prediction systems for the Detroit Tigers
+Alex Pawlik
+BSE DS 2022
+Senior Data Scientist, Sight Machine
+Joshua Luther
+BSE DS/CS 2023
+Software Developer, Ford Motor Company
+Find more alumni stories

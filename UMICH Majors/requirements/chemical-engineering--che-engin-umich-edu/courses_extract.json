@@ -2,24 +2,35 @@
   "id": "chemical-engineering--che-engin-umich-edu",
   "displayName": "Chemical Engineering",
   "requirementGroups": {
-    "Mathematics": [
+    "Engineering Requirements": [
       "MATH 115",
+      "MATH 185",
+      "MATH 195",
       "MATH 116",
+      "MATH 119",
+      "MATH 156",
+      "MATH 186",
+      "MATH 196",
       "MATH 215",
-      "MATH 216"
-    ],
-    "Engineering Core": [
+      "MATH 255",
+      "MATH 285",
+      "MATH 295",
+      "MATH 216",
+      "MATH 256",
+      "MATH 286",
+      "MATH 296",
       "ENGR 100",
-      "ENGR 101"
-    ],
-    "Chemistry Core": [
-      "CHEM 130"
-    ],
-    "Physics": [
+      "ENGR 101",
+      "EECS 183",
+      "CHEM 130",
       "PHYSICS 140",
+      "PHYSICS 160",
       "PHYSICS 141",
+      "PHYSICS 161",
       "PHYSICS 240",
-      "PHYSICS 241"
+      "PHYSICS 260",
+      "PHYSICS 241",
+      "PHYSICS 261"
     ],
     "Advanced Chemistry": [
       "CHEM 210",
@@ -30,24 +41,7 @@
     ],
     "Related Technical Subjects": [
       "MSE 250",
-      "MSE 220"
-    ],
-    "Program Subjects": [
-      "CHE 230",
-      "CHE 330",
-      "CHE 341",
-      "CHE 342",
-      "CHE 343",
-      "CHE 344",
-      "CHE 360",
-      "CHE 460",
-      "CHE 466",
-      "CHE 485",
-      "CHE 487",
-      "CHE 488",
-      "CHE 489"
-    ],
-    "Engineering Electives": [
+      "MSE 220",
       "CHE 296",
       "CHE 407",
       "CHE 431",
@@ -89,10 +83,25 @@
       "MSE 412",
       "CHE 412",
       "NERS 211"
+    ],
+    "Program Subjects": [
+      "CHE 230",
+      "CHE 330",
+      "CHE 341",
+      "CHE 342",
+      "CHE 343",
+      "CHE 344",
+      "CHE 360",
+      "CHE 460",
+      "CHE 466",
+      "CHE 485",
+      "CHE 487",
+      "CHE 488",
+      "CHE 489"
     ]
   },
   "openGroups": {
-    "Engineering Electives": {
+    "Related Technical Subjects": {
       "subjects": [
         "ENGR",
         "CHE",

@@ -1,90 +1,24 @@
 [
   {
-    "id": "01-course-list",
-    "url": "https://docs.google.com/",
-    "link_text": "course list",
-    "score": 115,
+    "id": "01-a-capstone-data-science-course-of-at-least-3-credits-must-be-taken-typ",
+    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=590577141",
+    "link_text": "A capstone data science course of at least 3 credits must be taken, typically during the senior year. A list of regular courses meeting the capstone requirement is available here .",
+    "score": 160,
     "status": "fetched",
-    "message": "ok (257 chars)",
-    "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1558414343:1786377913063721",
-    "fetch_mode": "browser",
-    "chars": 257
-  },
-  {
-    "id": "02-course-list",
-    "url": "https://docs.google.com/lsa/alumni-friends/get-connected/college-connections.html",
-    "link_text": "course list",
-    "score": 115,
-    "status": "fetched",
-    "message": "ok (89 chars)",
-    "final_url": "https://docs.google.com/lsa/alumni-friends/get-connected/college-connections.html",
-    "fetch_mode": "browser",
-    "chars": 89
-  },
-  {
-    "id": "03-course-list",
-    "url": "https://docs.google.com/lsa/current-students/undergraduate-students/outcomes-and-possibilities.html",
-    "link_text": "course list",
-    "score": 115,
-    "status": "fetched",
-    "message": "ok (89 chars)",
-    "final_url": "https://docs.google.com/lsa/current-students/undergraduate-students/outcomes-and-possibilities.html",
-    "fetch_mode": "browser",
-    "chars": 89
-  },
-  {
-    "id": "04-course-list",
-    "url": "https://docs.google.com/lsa/faculty-staff/human-resources/staff-achievement/staff-recognition.html",
-    "link_text": "course list",
-    "score": 115,
-    "status": "fetched",
-    "message": "ok (89 chars)",
-    "final_url": "https://docs.google.com/lsa/faculty-staff/human-resources/staff-achievement/staff-recognition.html",
-    "fetch_mode": "browser",
-    "chars": 89
-  },
-  {
-    "id": "05-course-list",
-    "url": "https://docs.google.com/lsa/prospective-students/lsa101.html",
-    "link_text": "course list",
-    "score": 115,
-    "status": "fetched",
-    "message": "ok (89 chars)",
-    "final_url": "https://docs.google.com/lsa/prospective-students/lsa101.html",
-    "fetch_mode": "browser",
-    "chars": 89
-  },
-  {
-    "id": "06-courses",
-    "url": "https://docs.google.com/lsa/academics/courses.html",
-    "link_text": "Courses",
-    "score": 70,
-    "status": "fetched",
-    "message": "ok (89 chars)",
-    "final_url": "https://docs.google.com/lsa/academics/courses.html",
-    "fetch_mode": "browser",
-    "chars": 89
-  },
-  {
-    "id": "07-browse-copies-of-past-lsa-bulletins",
-    "url": "https://docs.google.com/lsa/academics/courses/course-bulletin-archive.html",
-    "link_text": "Browse copies of past LSA bulletins",
-    "score": 70,
-    "status": "fetched",
-    "message": "ok (89 chars)",
-    "final_url": "https://docs.google.com/lsa/academics/courses/course-bulletin-archive.html",
-    "fetch_mode": "browser",
-    "chars": 89
-  },
-  {
-    "id": "08-skip-to-content",
-    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#content",
-    "link_text": "Skip to Content",
-    "score": 55,
-    "status": "fetched",
-    "message": "ok (26713 chars)",
-    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#content",
+    "message": "ok (1387 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=590577141",
     "fetch_mode": "http",
-    "chars": 26713
+    "chars": 1387
+  },
+  {
+    "id": "02-preview-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=0",
+    "link_text": "here.",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (2780 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=0",
+    "fetch_mode": "http",
+    "chars": 2780
   }
 ]

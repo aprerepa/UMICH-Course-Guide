@@ -304,17 +304,17 @@
       "is_submajor": false
     },
     {
-      "id": "data-science--preview",
-      "name": "Data Science",
+      "id": "data-science-bse--data-science-eng-major",
+      "name": "Data Science (BSE)",
       "school_college": "College of Engineering",
-      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview",
+      "url": "https://cse.engin.umich.edu/academics/undergraduate/majors/data-science-eng-major/",
       "is_submajor": false
     },
     {
       "id": "data-science-bs--majors-minors-html-data-science-maj",
       "name": "Data Science (BS)",
       "school_college": "College of Literature, Science, and the Arts (LSA)",
-      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#data_science-maj",
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/data-science-major.html",
       "is_submajor": false
     },
     {

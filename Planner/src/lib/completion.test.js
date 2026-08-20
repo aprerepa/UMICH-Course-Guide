@@ -89,3 +89,21 @@ test("manual Additional stays incomplete without override", () => {
   assert.equal(r.complete, false);
   assert.equal(r.reason, "manual");
 });
+
+test("minCredits from clause counts taken electives", () => {
+  const clause = {
+    minCredits: 5,
+    from: ["CHEM 351", "CHEM 352", "CHEM 402"],
+  };
+  const taken = toTakenSet(["CHEM 351", "CHEM 352"]);
+  assert.equal(
+    isClauseSatisfied(clause, taken, { "CHEM 351": 3, "CHEM 352": 3 }),
+    true
+  );
+  assert.equal(
+    isClauseSatisfied(clause, toTakenSet(["CHEM 351"]), {
+      "CHEM 351": 3,
+    }),
+    false
+  );
+});

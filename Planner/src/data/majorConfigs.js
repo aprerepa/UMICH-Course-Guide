@@ -8,6 +8,8 @@ const modules = import.meta.glob("../../config/majors/*.json", { eager: true });
 const DISPLAY_ALIASES = {
   "computer science (lsa)": "computer-science-lsa",
   "computer science (bs)": "computer-science-lsa",
+  "data science (lsa)": "data-science-lsa",
+  "data science (bs)": "data-science-lsa",
 };
 
 /** @type {Map<string, object>} */
@@ -53,6 +55,8 @@ function matchesOpenSpec(openSpec, parsed) {
     if (subjects.length && !subjects.includes(parsed.subject)) continue;
     const minLevel = Number(rule.minLevel) || 0;
     if (minLevel && parsed.level < minLevel) continue;
+    const maxLevel = Number(rule.maxLevel) || 0;
+    if (maxLevel && parsed.level > maxLevel) continue;
     const exclude = new Set(
       (rule.exclude || []).map((c) => normalizeCourseCode(c)).filter(Boolean)
     );

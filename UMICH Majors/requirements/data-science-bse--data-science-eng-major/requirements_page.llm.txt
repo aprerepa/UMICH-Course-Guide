@@ -1,0 +1,338 @@
+Visible page text:
+New Template
+Data Science Program – Engineering
+__________________________________________________________________________________________________________________________________________________________________________________________________
+Fall 2026-Winter 2027 Program Guide
+__________________________________________________________________________________________________________________________________________________________________________________________________
+Welcome!
+Thank you for your interest in the EECS Department’s Data Science program in the College of Engineering. The fast rate of growth of data and interest in its analysis has created many new and exciting opportunities for students with Data Science undergraduate degrees.
+The Data Science-Engineering program in the CSE division in the College of Engineering prepares students for careers in data analysis. You will graduate with expertise in machine learning and AI, statistical methods, algorithms, databases, and communication. These skills will allow you to design experiments that collect the right kinds of data, understand the methods used to analyze that data to draw valid conclusions, and design and implement algorithms (including machine learning algorithms) to produce actionable results. Data scientists apply their skills in many different places -- healthcare, manufacturing, finance, journalism, geography, bioinformatics, and web analytics to name only a few.
+Advising
+If you are a DS-Eng Major or considering becoming one,
+you should meet with a CSE Advisor
+from the CSE Undergraduate Advising Office (“CSE UAO”) every semester, even if you know which courses you want to take. Frequent meetings with an advisor will help ensure that you get the most out of your education here and that there are no surprises when you apply for graduation. You can
+schedule an advising appointment
+online.
+Note: after declaring your DS-Eng major, you will no longer meet with the EAC for advising.
+Check the
+CSE Advising site
+for information about registration procedures, course offerings, drop-in advising hours, and career information. You may contact the CSE Undergraduate Advising Office at 1270 Leinweber,
+ugadmin@eecs.umich.edu,
+or (734) 763-6563.
+U-M offers two paths to an undergraduate degree in Data Science: one for students in the College of LSA and another for students in the College of Engineering. Students pursuing
+DS in the College of LSA
+should visit the advising office in the
+LSA Statistics department
+to learn more.
+Declaration Requirements
+To declare a major in DS-Eng, you must be a College of Engineering student and:
+Have completed at least one full term or 12 total credits at UM Ann Arbor
+Have an overall UM GPA of 2.0 or better in courses taken at the UM Ann Arbor campus and be in good standing
+Have completed or earned credit by exam or transfer for at least one course in each of these categories all with a grade of C or better (no Optional P/F):
+Calculus (e.g. Math 115, 116, 120, 156)
+Calculus-based physics lectures (e.g. Physics 140, 160) or chemistry lectures (e.g. Chem 130)
+Required engineering courses (Engr 100, 101, 151)
+NOT be declared as a Computer Science
+major
+Program Requirements
+College of Engineering Requirements
+Engineering 100 and [Engineering 101 or Engineering 151 or EECS 180 AP credit or EECS 183 or Robotics 102]
+[Chemistry 125, Chemistry 126, and Chemistry 130] or [Chemistry 210 and Chemistry 211]
+Physics 140, Physics 141, Physics 240, and Physics 241
+Math:
+Math 115 (can also be satisfied with Math 120 (AP), 185, or 295)
+Math 116 (can also be satisfied with Math 121 (AP), 156, 186, 276, or 296)
+Math 214 (can also be satisfied with EECS 245,  Math 217, Math 417, or Math 419)
+Students who pursue a 3-credit option must complete additional application electives, advanced technical electives, or advanced statistical analysis electives, as needed to satisfy the required 46 credits for the major.
+Math 215 (can also be satisfied with Math 285)
+Intellectual Breadth
+: rules for this College requirement can be found in the
+CoE Bulletin
+under the “Intellectual Breadth” heading.
+General Electives: 11-12 credits are “required”; CoE degrees require 128 total credits, and more or fewer General Elective credits may be needed to achieve this total depending on individual factors in a student’s record.
+DS-Eng Major Requirements
+Program Core
+Introductory Data Science: DATASCI 101 (strongly recommended), STATS 250, STATS 280, IOE 265, or ECON 451 (3-4 credits)
+EECS 203 (4 credits): Discrete Mathematics (
+Acceptable alternative: Math 465)
+*Note that MATH 465/565 requires significantly more mathematical background than does EECS 203. Speak to an advisor before selecting these courses.
+EECS 280 (4 credits): Programming and Elementary Data Structures
+EECS 281 (4 credits): Data Structures and Algorithms
+STATS 412 (3 credits): Introduction to Probability and Statistics, or equivalent (MATH/STATS 425 or MATH/STATS 426)
+STATS/DATASCI 413 (4 credits): Applied Regression Analysis
+Ethics and Professionalism
+:
+Technical Communications (TCHNCLCM 300) and one of EECS 295 or EECS 496 or ENGR 499-002 or COMPFOR 111 or CSE 543 or COMM 349 or
+approved Special Topics sections
+(for students taking ROB 204 as a Flexible Technical Elective, the TCHNCLCM 300 requirement will be waived)
+Writing and oral presentation (one of the following):
+STATS 404
+STATS 485—if using this course toward this requirement and the Capstone requirement, 3 additional credits of Advanced Technical Electives must be completed.
+TCHNCLCM 497
+These courses must be taken in the same or later term as the Capstone
+Machine
+learning and data mining elective
+:
+EECS 445 or STATS/DATASCI 415
+*
+Data management and applications elective
+:
+EECS 484 or EECS 485
+Data science applications elective
+:
+Approved Application Elective List
+DS-Eng students need 128 total credits towards their program and at least 46 credits in the major, excluding prerequisites.
+*
+Please note: Students cannot earn credit for both EECS 445 and EECS 545. If EECS 545 is taken as an Advanced Technical Elective, EECS 445 cannot be taken to satisfy the Machine Learning requirement. We do not accept EECS 545 for the machine learning and data mining elective requirement.
+Technical Electives
+Students must take at least 19 credits of Technical Electives.
+At least 4 credits must come from the
+Advanced Technical Electives
+list.
+At least 4 credits must come from the
+Advanced Statistical Analysis Elective
+list.
+The remaining credits come from the
+Flexible Technical Electives
+list, which includes all Adv Tech and Adv Stat Analysis Elective courses.
+Capstone
+4 credits of an approved
+DS Capstone course
+. The DS Capstone is typically pursued during one of your final two semesters.
+Elective and Capstone Breakdown
+Electives
+Machine Learning and Data Mining Elective
+Both EECS 445 and STATS/DATASCI 415 draw on techniques from statistics, computing, and linear algebra to provide a comprehensive introduction to machine learning and applications to a variety of domains. Students may pursue both courses for different perspectives, though there is some content overlap—one will count as Adv. Tech. Elective. EECS 545 may
+not
+count towards this requirement.
+Data Management and Applications Elective
+EECS 484 or EECS 485 introduce the concept of databases, which are applicable to storing and querying large datasets.
+Data Science Application Elective
+A student must take at least one upper-level course related to data science applications (e.g. computer vision, robotics, healthcare, biology, finance, chemistry, sensor-based systems, and security).
+Advanced Technical
+Electives
+These courses provide advanced technical depth in areas related to data science, computing, mathematics, statistics, optimization, machine learning, artificial intelligence, robotics, bioinformatics, and other quantitative or computational fields.
+Advanced Statistical Analysis Electives
+These courses provide advanced work in statistical analysis, data modeling, probability, inference, optimization, machine learning, computational methods, data mining, and related quantitative methods used in data science.
+Flexible Technical Elective (“Flex Tech”)
+This requirement diversifies students' technical skill set in subject areas both inside and outside of DS. This list includes courses at the graduate level (numbered 500 and above).
+Capstone
+Capstone Courses
+Students must take an approved
+Capstone Course
+. This course frequently includes a
+significant design effort
+and should be taken during the final year in order to take advantage of the technical knowledge gained in all previous courses. Some
+special topics
+courses may be designated as Capstone courses in certain terms. Please see details on how to complete the Capstone requirement via an approved MDP project
+here
+.
+A course taken for capstone credit cannot also count for an advanced technical elective or advanced statistical analysis elective.
+Senior Thesis Option
+The Senior Thesis Option is a unique way to complete the Capstone Course requirement for students with an interest in research and/or graduate school. Students are responsible for finding a faculty mentor whose research area aligns with their interest(s) and who is willing to oversee the thesis project. A summary of requirements is below; see the
+DS Thesis handout
+for more detailed information:
+Have an overall GPA of 3.4 or higher.
+Have a GPA of 3.5 or higher in the Data Science major.
+Course Planning
+The CSE UAO recommends tracking progress in the program by using your degree audit report and your own copy of the
+DS-Eng Course Planning Sheet
+. Students can also independently keep track of and forecast cumulative and major GPA by maintaining their own copy of the CSE Major GPA Calculator.
+For more information on EECS courses in CSE, bookmark and regularly consult
+eecs.io
+, the CSE course info page.
+eecs.io
+contains:
+Course lists (up-to-date lists of all options towards major requirements)
+Course sorting tool
+(sort CSE courses by content area tags in a Notion tool)
+Course websites
+Termly course policy sheet
+(info on course attendance and waitlist policies)
+Workload data for courses
+Sample Schedule
+Below is an eight-semester (four-year) plan to help students envision how requirements may fit together over the course of their time at Michigan. This plan is only a sample; it is not necessary to follow the below plan exactly outside of following prerequisite chains. This sample schedule is effective WN27. Students who declare FA26 may also follow this schedule.
+Data Science in Engineering
+Total
+1
+2
+3
+4
+5
+6
+7
+8
+Subjects Required by all Programs (55 credits)
+Mathematics 115, 116, and (214 or 217)
+12
+4
+4
+4
+Linear Algebra (EECS 245 or other approved course1 )
+4
+4
+Mathematics 215
+4
+4
+Engineering 100, Introduction to Engineering
+4
+4
+Engineering 101, Introduction to Computers
+4
+4
+Chemistry 125/126 and 130, or Chemistry 210 and 211
+5
+5
+Physics 140 and Lab 141
+5
+5
+Physics 240 and Lab 241
+5
+5
+Intellectual Breadth
+16
+4
+4
+4
+2
+2
+Program Core (34 credits)
+Introductory Data Science: DATASCI 101 (strongly recommended), STATS 250, STATS 280, IOE 265, or ECON 451
+3-4
+3-4
+Discrete Mathematics: EECS 203 or MATH 465
+4
+4
+EECS 280, Programming and Elementary Data Structures
+4
+4
+Data Structures: EECS 281 or EECS 291
+4
+4
+STATS 412, MATH/STATS 425, or MATH/STATS 426, Introduction to Probability & Statistics
+3
+3
+STATS/DATASCI 413, Applied Regression Analysis
+4
+4
+Databases and Applications: EECS 484 or EECS 485
+4
+4
+Machine Learning/Data Mining: EECS 445 or DATASCI 415
+4
+4
+Data Science Applications elective (see online list)
+3
+3
+Advanced Electives and Capstone (12 credits)
+Advanced Technical Elective (see online list)
+4
+4
+Advanced Statistical Analysis Elective (see online list)
+4
+Capstone Experience Course
+4
+4
+Other Requirements
+Flexible Technical Electives. 200-level or higher from a pre-approved list of courses, or with advisor approval prior to taking the courses.
+11
+4
+4
+3
+Ethics and Professionalism: TCHNCLCM 300 and one of (EECS 295 or EECS 496 or ENGR 499-002 or COMPFOR 111 or CSE 543 or COMM 349)
+3
+3
+TCHNCLCM 497, STATS 404, or STATS 485
+2
+2
+General Electives (11-12 credits) – See note above
+11-12
+3
+6
+3-4
+Total
+128
+16
+16
+16
+16
+16
+15
+16
+17
+Policies
+College Policies
+Dual majors:
+To earn dual majors within Engineering, you must satisfy the requirements for both programs and take at least 142 credits total. You should schedule advising appointments
+at both departments
+to determine allowable overlap among requirements.
+Please note:
+In CSE,
+dual majors
+must complete 142 total credits. Students pursuing two EECS majors must take 14 additional credits of technical coursework beyond what's shared between the two majors.
+Dual-majoring in CS-ENG and DS-ENG is not allowed.
+Pass/Fail
+is only allowed for Intellectual Breadth requirements and general electives. You may take at most 2 courses pass/fail per term (1 during Spring or Summer half-terms) and at most 14 credits total. This can be a good way to maintain a good GPA while exploring different types of courses within the University.
+Transfer credit:
+UM maintains:
+A list of approved transfer courses
+A list of transfer courses from international institutions
+A list of non-CoE transfer courses
+All Engineering majors are required to have a 2.0 major GPA at time of graduation. If you are planning to graduate and concerned about this requirement, please consult with a CSE advisor ASAP.
+Major Grading & Repeat Policies
+Grades of “C” or better must be achieved in all courses used to satisfy the pre-declaration and other major requirements. A grade of “C-” or below is considered a failing grade and the course must be repeated or substituted with another class.
+If you currently have an Incomplete grade due to an Honor Code violation, you may proceed with the EECS coursework via override. Please
+submit an override request
+to enroll in courses for which your Incomplete grade serves as a prerequisite. If this Honor Code Incomplete is in a pre-declaration requirement, you can proceed with declaring CS-Eng as your major once all other pre-declaration requirements are met.
+If you receive a final grade below a C after an Honor Code
+case resolves
+, you are required to retake the course for a C or higher letter grade. This retake must be completed as soon as possible, and can be taken alongside other EECS courses, even if your failed class typically serves as a prerequisite. If an override is needed
+due to prerequisite issues
+, please
+submit one here
+and attach any communication about your Honor Code decision in the form.
+For questions about your Honor Council case, please contact
+honorcouncil-admin@umich.edu
+.
+General Advice and Departmental Opportunities
+General Advice
+Mental Health
+:
+If you’re feeling stressed, depressed, or just need someone to talk to, there are many places to find support on campus.
+Information from Friends:
+Your friends can be a good source of information on certain topics, like the workload in courses they have taken. However, they can be an unreliable source of information as requirements may change over time. For specific questions about program requirements, always check with the advising office rather than relying on word-of-mouth.
+Directed / Independent Study and Research:
+Up to 4 credits of directed/independent study or research courses in subjects approved via the Flex Tech list can count toward Flexible Technical Electives. Within the EECS department, EECS 399 (for sophomores/juniors) and EECS 499 (only seniors)count as research credit.
+2 EECS Course Recommendation:
+EECS courses can be more demanding relative to many courses at the University, so we advise students to avoid overloading themselves. For most DS students, a load of 2 EECS courses in the same semester is normal, but that can vary based on the combination of EECS courses chosen (e.g., an EECS course with an extremely heavy load should only be paired with one with a moderate load or less), as well as what non-EECS courses are being taken at the same time. We encourage students to talk with CSE advisors if they have questions about the course load they are considering.
+EECS 203 & EECS 280:
+Taking EECS 203 (Discrete Mathematics) and EECS 280 (Programming) simultaneously often works well, and these are the prereqs for the "gateway" course, EECS 281 (Data Structures & Algorithms).
+EECS 281:
+Take EECS 281 as soon as you can. This is the "gateway" course to many upper-level EECS courses.
+TCHNCLCM 300 is a prerequisite for TCHNCLCM 497
+. The Technical Communications department manages all TCHNCLCM courses. Please visit
+https://techcom.engin.umich.edu/
+for questions or issues with registration of these courses.
+Departmental Opportunities
+Research
+:
+A great deal of leading-edge academic research is carried out at UM. You can get involved in this research as an undergraduate, which will provide you with extraordinarily valuable training for future work in the field.
+Teaching—Become an
+Instructional Assistant
+:
+The discussion sections for EECS 183, EECS 280, EECS 281, and ENGR 100 (CSE-based topics) are led primarily by undergraduates. As a section leader, you will have the chance to teach the next generation of CSE majors and get them excited about computing.
+Mentoring—Become a
+Peer Advisor:
+Share your experiences with other undergraduates. If you are interested, check in with the CSE Undergraduate Advising Office for information. Opportunities are available at both the department and CoE levels.
+Getting Involved—Join an EECS Student Group
+:
+Enhance your undergraduate experience and resume by joining a student group.
+Getting Experience—Internships, Co-ops, and Job Opportunities:
+Many companies hire students for internships upon completion of EECS 281
+(for some, even after EECS 280!). You can view current CSE intern & job opportunities through the
+Engineering Career Resource Center (ECRC)
+, the fall and winter
+Career Fairs
+, or
+CSE Intern Connect
+.

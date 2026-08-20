@@ -14,7 +14,36 @@
                   "CHEM 130"
                 ]
               },
-              "CHEM 130"
+              {
+                "minCredits": 5,
+                "from": [
+                  "CHEM 351",
+                  "CHEM 352",
+                  "CHEM 353",
+                  "CHEM 399",
+                  "CHEM 402",
+                  "CHEM 419",
+                  "CHEM 420",
+                  "CHEM 421",
+                  "CHEM 425",
+                  "CHEM 436",
+                  "CHEM 447",
+                  "CHEM 451",
+                  "CHEM 453",
+                  "CHEM 455",
+                  "CHEM 461",
+                  "CHEM 462",
+                  "CHEM 463",
+                  "CHEM 465",
+                  "CHEM 474",
+                  "CHEM 482",
+                  "CHEM 483",
+                  "CHEM 499",
+                  "CHEM 511",
+                  "CHEM 515",
+                  "CHEM 538"
+                ]
+              }
             ]
           },
           {
@@ -95,11 +124,49 @@
       }
     },
     "Introductory Courses": {
-      "completion": "manual",
+      "require": {
+        "allOf": [
+          "CHEM 210",
+          "CHEM 211",
+          "CHEM 241",
+          "CHEM 242",
+          {
+            "anyOf": [
+              {
+                "allOf": [
+                  "CHEM 230",
+                  "CHEM 261"
+                ]
+              },
+              "CHEM 260"
+            ]
+          },
+          {
+            "anyOf": [
+              "CHEM 302",
+              "CHEM 303"
+            ]
+          }
+        ]
+      },
       "countsTowardMajorTotal": true
     },
     "Advanced Lecture Courses": {
-      "minCourses": 3,
+      "require": {
+        "minOf": 3,
+        "options": [
+          "CHEM 215",
+          "CHEM 351",
+          "CHEM 402",
+          "CHEM 447",
+          {
+            "anyOf": [
+              "CHEM 461",
+              "CHEM 463"
+            ]
+          }
+        ]
+      },
       "countsTowardMajorTotal": true
     },
     "Advanced Laboratory Courses": {

@@ -18,6 +18,7 @@
         "COMM"
       ],
       "minLevel": 350,
+      "maxLevel": 399,
       "exclude": []
     },
     "Additional Advanced Communication and Media Credits": {
@@ -25,6 +26,7 @@
         "COMM"
       ],
       "minLevel": 200,
+      "maxLevel": 499,
       "exclude": []
     }
   }

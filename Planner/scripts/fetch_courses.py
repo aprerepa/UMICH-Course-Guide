@@ -262,7 +262,9 @@ def get_instructor(section):
         return ci.get("InstrName", "")
     return ""
 
-def fetch_all_courses_for_subject(token, subject, min_level=0, exclusions=None, term_code=None):
+def fetch_all_courses_for_subject(
+    token, subject, min_level=0, max_level=None, exclusions=None, term_code=None
+):
     term_code = term_code or TERM_CODE
     school = SUBJECT_SCHOOL.get(subject, "LS")
     cache_key = f"{term_code}:{school}:{subject}"
@@ -303,6 +305,8 @@ def fetch_all_courses_for_subject(token, subject, min_level=0, exclusions=None, 
             continue
         if level < min_level:
             continue
+        if max_level is not None and level > max_level:
+            continue
         codes.append(f"{subject} {nbr}")
     return codes
 
@@ -334,13 +338,20 @@ def expand_open_groups(token, major_courses, open_specs):
                     continue
                 subjects = rule.get("subjects") or []
                 min_level = int(rule.get("minLevel") or 0)
+                max_level = rule.get("maxLevel")
+                max_level = int(max_level) if max_level not in (None, "") else None
                 by_subj = exclusions_by_subject(rule.get("exclude") or [])
                 for subject in subjects:
                     excl = by_subj.get(subject.upper(), set())
-                    print(f"  Expanding {major} / {group_name}: {subject} {min_level}+ "
+                    band = f"{min_level}+" if max_level is None else f"{min_level}–{max_level}"
+                    print(f"  Expanding {major} / {group_name}: {subject} {band} "
                           f"(exclude {sorted(excl)[:8]}{'…' if len(excl)>8 else ''})")
                     for code in fetch_all_courses_for_subject(
-                        token, subject, min_level=min_level, exclusions=excl
+                        token,
+                        subject,
+                        min_level=min_level,
+                        max_level=max_level,
+                        exclusions=excl,
                     ):
                         if code not in existing:
                             existing.add(code)

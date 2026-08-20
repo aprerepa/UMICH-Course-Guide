@@ -1,401 +1,74 @@
-### Supplement: course list
-Source: https://accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1558414343:1786377913063721
+### Supplement: A capstone data science course of at least 3 credits must be taken, typically during the senior year. A list of regular courses meeting the capstone requirement is available here .
+Source: https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=590577141
 
 Page header:
-page title: Sign in - Google Accounts
+page title: Google Sheet export
 
 Visible page text:
-Sign in
-Use your Google Account
-Email or phone
-Forgot email?
-Type the text you hear or see
-Not your computer? Use Guest mode to sign in privately.
-Learn more about using Guest mode
-Next
-Create account
-For my personal use
-For my child
-For work or my business
+If you would like to request a course at the University of Michigan to be reviewed to be considered as one of the lists of electives for the Data Science major for all students, please fill out this form.			
+Course	Title 	Credit 	
+STATS 485* (formerly DATASCI 485)	Capstone Seminar	3	*Please note: STATS 485 can be used toward the Capstone and TCHNCLCM requirements. If you choose to split the course this way, 3 additional Adv. Technical Elective credits will be required to reach the 42 credits in the major. *STATS 485 fulfills the LSA requirement of Upper Level Writing (ULWR).
+EECS 442***	Computer Vision	4	***Please note: EECS 442 will be removed from the DS Capstone list beginning FA27 
+EECS 447 	Machine Learning Research Experience 	4	Begins WN27
+EECS 448 	Applied Machine Learning for Modeling Human Behavior	4	
+EECS 449 	Conversational Artificial Intelligence	4	
+EECS 467	Autonomous Robotics	4	
+EECS 486 	Information Retrieval & Web Search	4	
+EECS 443**	Data Science Thesis Course	3-4	**Project work in courses not in this list or courses done as part of independent study – such as EECS 443 and STATS 489 - may qualify for DS Capstone requirement with pre-approval. Contact the appropriate advising office (DS-Eng Program Guide & DS-LSA Program Guide) for more information on this process and project requirements.
+STATS 489** 	Independent Study, Statistics Subject Area	3-4
 
-### Supplement: course list
-Source: https://docs.google.com/lsa/alumni-friends/get-connected/college-connections.html
+### Supplement: here.
+Source: https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=0
 
 Page header:
-page title: Error 404 (Not Found)!!1
+page title: Google Sheet export
 
 Visible page text:
-404.
-That’s an error.
-The requested URL was not found on this server.
-That’s all we know.
-
-### Supplement: course list
-Source: https://docs.google.com/lsa/current-students/undergraduate-students/outcomes-and-possibilities.html
-
-Page header:
-page title: Error 404 (Not Found)!!1
-
-Visible page text:
-404.
-That’s an error.
-The requested URL was not found on this server.
-That’s all we know.
-
-### Supplement: course list
-Source: https://docs.google.com/lsa/faculty-staff/human-resources/staff-achievement/staff-recognition.html
-
-Page header:
-page title: Error 404 (Not Found)!!1
-
-Visible page text:
-404.
-That’s an error.
-The requested URL was not found on this server.
-That’s all we know.
-
-### Supplement: course list
-Source: https://docs.google.com/lsa/prospective-students/lsa101.html
-
-Page header:
-page title: Error 404 (Not Found)!!1
-
-Visible page text:
-404.
-That’s an error.
-The requested URL was not found on this server.
-That’s all we know.
-
-### Supplement: Courses
-Source: https://docs.google.com/lsa/academics/courses.html
-
-Page header:
-page title: Error 404 (Not Found)!!1
-
-Visible page text:
-404.
-That’s an error.
-The requested URL was not found on this server.
-That’s all we know.
-
-### Supplement: Browse copies of past LSA bulletins
-Source: https://docs.google.com/lsa/academics/courses/course-bulletin-archive.html
-
-Page header:
-page title: Error 404 (Not Found)!!1
-
-Visible page text:
-404.
-That’s an error.
-The requested URL was not found on this server.
-That’s all we know.
-
-### Supplement: Skip to Content
-Source: https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#content
-
-Page header:
-page title: Google Sheet export (all tabs)
-
-Visible page text:
-### Sheet: Advanced Technical Electives
-If you would like to request a course at the University of Michigan to be reviewed to be considered as one of the lists of electives for the Data Science major for all students, please fill out this form.																								
-Course(s)	Title 	Credits																								
-ASTRO 406	Computational Astrophysics 	3.0																								
-BIOINF 545/BIOSTAT 646/STATS 545	Data Analysis and Molecular Biology	3.0																								
-BIOINF 547/MATH 547/STATS 547	Mathematics of Data	3.0																								
-BIOSTATS 449/STATS 449	Topics in Biostatistics	3.0																								
-CMPLXSYS 445	Intro to Info Theory 	3.0																								
-DATASCI 406 (formerly STATS 406)	Introduction to Statistical Computing	3.0																								
-DATASCI 415 (formerly STATS 415)	Data Mining	4.0																								
-DATASCI 451 (formerly STATS 451)	Introduction to Bayesian Data Analysis	4.0																								
-DATASCI 470 (formerly STATS 470)	Introduction to Design of Experiments	4.0																								
-DATASCI 531/STATS 531	Analysis of Time Series	3.0																								
-DATASCI/STATS 606	Computation and Optimization Methods in Statistics																									
-EECS 367/ROB 380	Introduction to Autonomous Robotics	4.0																								
-EECS 442	Computer Vision	4.0																								
-EECS 445	Introduction to Machine Learning	4.0																								
-EECS 448	Applied Machine Learning for Modeling Human Behavior	4.0																								
-EECS 449 	Conversational Artificial Intelligence	4.0																								
-EECS 453	Principles of Machine Learning	4.0																								
-EECS 465/ROB 422	Intro to Algorithmic Robotics	3.0																								
-EECS 467	Autonomous Robotics Design Experience	4.0																								
-EECS 471	Applied Parallel Programming with GPUs	4.0																								
-EECS 474	Algorithms for Data Science	4.0																								
-EECS 476	Data Mining	4.0																								
-EECS 484	Database Management Systems	4.0																								
-EECS 485	Web Database and Information Systems	4.0																								
-EECS 486	Info Retrieval and Web Search 	4.0																								
-EECS 487 	Introduction to Natural Language Processing	4.0																								
-EECS 491	Introduction to Distributed Systems	4.0																								
-EECS 492	Introduction to Artificial Intelligence	4.0																								
-EECS 504	Fnd Computer Vision	3.0																								
-EECS 505	Computational Data Science and Machine Learning	4.0	All 500 level EECS courses need pre-approval prior to being used to fulfill elective requirement																							
-EECS 545 (Please note: Students cannot earn credit for both EECS 445 and EECS 545. If EECS 545 is taken, EECS 445 cannot be taken to satisfy the Machine Learning requirement. We do not accept EECS 545 for the Machine learning and data mining elective requirement)	Machine Learning (CSE) 	3.0																								
-EECS 553	Machine Learning (ECE)	3.0																								
-IOE 310	Introduction to Optimization Methods	3.0																								
-IOE 465	Design of Experiments	3.0																								
-MATH 351	Principles of Analysis	3.0																								
-MATH 371	Numerical Methods for Engineers and Scientists	3.0																								
-MATH 420	Advanced Linear Algebra	3.0																								
-MATH 425/STATS 425	Introduction to Probability	3.0																								
-MATH 451	Advanced Calculus 1	3.0																								
-MATH 471	Introduction to Numerical Methods	3.0																								
-MATH 472	Numerical Methods with Financial Applications	3.0																								
-MATH 526/STATS 526	Discrete State Stochastic Processes	3.0																								
-MATH 571	Numerical Linear Algebra	3.0																								
-STATS 430	Applied Probability	3.0																								
-STATS 480	Survey Sampling Techniques	4.0																								
-STATS 571 	Causal Inference	3.0																								
-
-### Sheet: Advanced Statistical Analysis
-This requirement is only relevant to: 
-DS-LSA students who declare Winter 2024 or later & 
-DS-Eng students who matriculate to the University Fall 2024 or later 
-
-If you would like to request a course at the University of Michigan to be reviewed to be considered as one of the lists of electives for the Data Science major for all students, please fill out this form.		
-Course(s)	Title 	Credits
-DATASCI 306 (formerly STATS 306)	Introduction to Statistical Computing 	4.0
-DATASCI 315 (formerly STATS 315)	Statistics and Artificial Intelligence 	4.0
-DATASCI 415 (formerly STATS 415)	Data Mining and Statistical Learning	4.0
-MATH/STATS 525 	Probability Theory	3.0
-MATH/STATS 526	Discrete State Stochastic Processes	3.0
-STATS 426	Introduction to Theoretical Statistics	3.0
-STATS 449	Topics in Biostatistics	3.0
-DATASCI 451 (formerly STATS 451)	Bayesian Data Analysis 	4.0
-DATASCI 470 (formerly STATS 470)	Introduction to the Design of Experiments	4.0
-STATS 480 	Survey Sampling Techniques	4.0
-STATS (formerly DATASCI 485)	Capstone Seminar	3.0
-BIOINF 545/BIOSTAT 646/STATS 545	High Throughput Molecular Genomic and Epigenomic Data Analysis	3.0
-BIOINF 547/MATH 547/STATS 547	Mathematics of Data	3.0
-STATS/DATASCI 531	Modeling and Analysis of Time Series Data	3.0
-STATS 571 	Causal Inference	3.0
-
-### Sheet: Application Electives
-If you would like to request a course at the University of Michigan to be reviewed to be considered as one of the lists of electives for the Data Science major for all students, please fill out this form.
-
-*Please note: Undergraduates are not guaranteed seats in graduate level courses. To request access to a Graduate EECS course, contact the instructor directly. Details about graduate level Statistics courses can be found here. 
-
-**DS-LSA students: please note, CSE 401X is considered non-LSA credit and does not contribute to the LSA credit requirement        																										
-Course	Title 	Credits 																								
-ANTHRBIO 463	Statistical Modeling and Data Visualization in R	4.0																								
-ASTRO 361	Astronomical Techniques	4.0																								
-ASTRO 406	Computational Astrophysics 	3.0																								
-ASTRO 416	Data Science for Astrophysicists	3.0																								
-BIOINF 463/BIOPHYS 463/MATH 463	Mathematical Modeling in Biology 	3.0																								
-BIOINF 527 	Introduction to Bioinformatics & Computational Biology	4.0																								
-BIOINF 528	Structural Bioinformatics	3.0																								
-BIOINF 529	Bioinformatics Concepts and Algorithms	3.0																								
-BIOINF 547/MATH 547/STATS 547 	Mathematics of Data	3.0																								
-BIOINF 580	Introduction to Signal Processing and Machine Learning in Biomedical Sciences	3.0																								
-BIOPHYS 445/CMPLXSYS 445/MATH 445/PHYSICS 445	Intro to Info Theory 	3.0																								
-BIOSTAT 449/STATS 449	Topics in Biostatistics	3.0																								
-CLIMATE 323/EARTH 323/SPACE 323 	Earth Systems Analysis 	4.0																								
-CMPLXSYS 466/EEB 466/MATH 466	Mathematical Ecology	3.0																								
-CMPLXSYS 510/MATH 550	Introduction to Adaptive Systems	3.0																								
-COGSCI 445/LING 445 	Machine Learning for NLP	3.0																								
-Select CSE 401X courses**
-
-Please contact your advising office for assistance updating your degree audit to reflect one of these courses as Application Elective. 	IFSA Prague- Introduction to Machine Learning 	3.0																								
-IFSA Prague- Introduction to Artificial Intelligence 	3.0																								
-IFSA Prague- Database Management Systems 	3.0																								
-CSE 585*	Advanced Scalable Systems 	4.0																								
-CSE 587*	Parallel Computing	4.0																								
-CSE 595*	Natural Language Processing	3.0																								
-DATASCI 306 (formerly STATS 306)	Intro to Statistical Computing 	4.0																								
-DATASCI 315 (formerly STATS 315)	Statistics and Artifical Intelligence	4.0																								
-DATASCI 406	Computational Methods in Statistics and Data Science
-	3.0																								
-EARTH 408/ENVIRON 403 	Introduction to GIS in the Earth Sciences	3.0																								
-ECON 408 	Experiments in Economics 	4.0																								
-ECON 409	Game Theory	4.0																								
-ECON 452 	Intermediate Intro to Statistics and Econometrics II 	4.0																								
-EEB 391	Introduction to Evolution: Quantitative Approach	4.0																								
-EECS 367/ROB 380	Introduction to Autonomous Robotics	4.0																								
-EECS 442	Computer Vision	4.0																								
-EECS 448	Applied Machine Learning for Modeling Human Behavior	4.0																								
-EECS 449	Conversational Artificial Intelligence	4.0																								
-EECS 465/ROB 422	Intro to Algorithmic Robotics	3.0																								
-EECS 467	Autonomous Robotics	4.0																								
-EECS 471	Applied Parallel Programming with GPUs	4.0																								
-EECS 476	Data Mining	4.0																								
-EECS 486	Information Retrieval and Web Search	4.0																								
-EECS 493	User Interface Development 	4.0																								
-EECS 504	Fnd Computer Vision	3.0																								
-EECS 548/SI 649	Information Visualization 	3.0																								
-IOE 373	Data Analytics Tools and Techniques	4.0																								
-IOE 413	Optimization Modeling in Health Care	3.0																								
-IOE 452/MFG 445	Corporate Finance	3.0																								
-LING 441	Introduction to Computational Linguistics	3.0																								
-MATH 423	Mathematics of Finance	3.0																								
-MATH 523	Loss Models I	3.0																								
-POLSCI 490	Game Theory and Formal Models	4.0																								
-POLSCI 499 Survey Design & Analys	Survey Design and Analysis 	4.0																								
-STATS 485 (formerly DATASCI 485)	Capstone Seminar	3.0																								
-SI 345	Data Manipulation	4.0																								
-SI 650	Information Retrieval 	3.0																								
-
-### Sheet: Capstone
-If you would like to request a course at the University of Michigan to be reviewed to be considered as one of the lists of electives for the Data Science major for all students, please fill out this form.																										
-Course	Title 	Credit 																								
-STATS 485* (formerly DATASCI 485)	Capstone Seminar	3.0	*Please note: STATS 485 can be used toward the Capstone and TCHNCLCM requirements. If you choose to split the course this way, 3 additional Adv. Technical Elective credits will be required to reach the 42 credits in the major. *STATS 485 fulfills the LSA requirement of Upper Level Writing (ULWR).																							
-EECS 442***	Computer Vision	4.0	***Please note: EECS 442 will be removed from the DS Capstone list beginning FA27 																							
-EECS 447 	Machine Learning Research Experience 	4.0	Begins WN27																							
-EECS 448 	Applied Machine Learning for Modeling Human Behavior	4.0																								
-EECS 449 	Conversational Artificial Intelligence	4.0																								
-EECS 467	Autonomous Robotics	4.0																								
-EECS 486 	Information Retrieval & Web Search	4.0																								
-EECS 443**	Data Science Thesis Course	44624.0	**Project work in courses not in this list or courses done as part of independent study – such as EECS 443 and STATS 489 - may qualify for DS Capstone requirement with pre-approval. Contact the appropriate advising office (DS-Eng Program Guide & DS-LSA Program Guide) for more information on this process and project requirements.																							
-STATS 489** 	Independent Study, Statistics Subject Area	44624.0																							
-
-### Sheet: DS-Eng Flexible Technical Elect
-Course Category 	Course Details 																								
-The Curriculum Committees may approve other courses on a term-by-term basis. To see which EECS 398 or 498 Special Topics courses are approved to satisfy this and other requirements, click here.
-
-Please note: Some courses require specific permissions or are limited to major declared students only. For questions related to course permissions, please reach out to the course department directly. In addition, if there are specific prerequisites for a flexible technical elective, please ensure that you have met the necessary requirements to register for a course.
-
-When subjects have been approved at the 300-level or higher, departmental credit in that category (301X, 401X, etc.) can be used as FTE credit.
-
-Directed/Independent Study Rule: At most, 4 credits count toward the Technical Electives requirement. This applies to all independent/directed study or research courses as listed below (including those from other departments). Any additional credits count toward free electives.																								
-Aerospace Engineering	AEROSP 215: Introduction to Solid Mechanics and Aerospace Structures (3 credits)																							
-AEROSP 225: Introduction to Gas Dynamics (4 credits)																								
-Any AEROSP course at the 300-level or higher [AEROSP 390 & 490: see Directed Study Rule above.]																								
-Astronomy	ASTRO 201: Introduction to Astrophysics (4 credits) 																								
-ASTRO 205: Exploring the X-Ray Universe (3 credits) 																								
-ASTRO 206: Black Holes (3 credits) 																								
-ASTRO 361: Astronomical Techniques (4 credits) 																								
-ASTRO 404: Galaxies and the Universe (3 credits)																								
-Any ASTRO course
-at the 400-level
-(except 429 and 461)																								
-Bioinformatics	BIOINF 545: High Throughput Molecular Genomic and Epigenomic Data Analysis																								
-BIOINF 501: Mathematical Foundations for Bioinformatics (3 credits)																								
-Biology	BIOLOGY 305: Genetics (3 credits)																								
-Any BIOLOGY course at the 400-level or higher																								
-Biomedical Engineering	BIOMEDE 221: Biophysical Chemistry and Thermodynamics (4 credits)																								
-BIOMEDE 231: Introduction to Biomechanics (4 credits)																								
-Any BIOMEDE course at the 300-level or higher [BIOMEDE 490: see Directed Study Rule above.]																								
-Chemical Engineering	CHE 230: Material and Energy Balances  (4 credits)																								
-Any CHE course at the 300-level or higher [except CHE 405. CHE 490: see Directed Study Rule above.]																								
-Chemistry	CHEM 210: Structure and Reactivity I (4 credits)																								
-CHEM 211: Investigations in Chemistry (1-2 credits)																								
-CHEM 215: Structure and Reactivity II (3 credits)																								
-CHEM 216: Synthesis and Characterization of Organic Compounds (2 credits)																								
-CHEM 230: Physical Chemical Principles and Applications (3 credits)																								
-CHEM 241: Introduction to Chemical Analysis (2 credits)																								
-CHEM 242: Introduction to Chemical Analysis Laboratory (2 credits)																								
-CHEM 260: Chemical Principles (3 credits)																								
-Any CHEM course at the 300-level or higher [CHEM 398, 399, 498, & 499: see Directed Study Rule above.]																								
-Civil and Environmental Engineering	CEE 211: Statics and Dynamics (4 credits)																								
-CEE 212: Solid and Structural Mechanics (4 credits)																								
-CEE 230: Energy and Environment (3 credits)																								
-CEE 265: Sustainable Engineering Principles (3 credits)																								
-Any CEE course at the 300-level or higher (except 303) [CEE 490: see Directed Study Rule above.]																								
-Climate and Space Sciences & Engineering	Any CLIMATE or SPACE course at the 300-level or higher [CLIMATE/SPACE 499: see Directed Study Rule above.]																								
-Complex Systems	CMPLXSYS 250: Energy and Climate Change: Technology, Markets, and Policy (3 credits)																								
-CMPLXSYS 251: Computational Social Sciences																								
-CMPLXSYS 260: Tipping Points, Bandwagons and Cascades: From Individual Behavior to Social Dynamics (3 credits)																								
-CMPLXSYS 270: Agent Based Modeling (3 credits)																								
-Any CMPLXSYS course at the 300-lvl or higher																								
-Computing for the Arts and Sciences	COMPFOR 221: Python Programming for Digital Media (3 credits) 																								
-Data Science	DATASCI 306: Introduction to Statistical Computing 		4.0																						
-DATASCI 315: Statistics and Artificial Intelligence 		4.0																						
-DATASCI 415: Data Mining and Statistical Learning		4.0																						
-DATASCI 451: Bayesian Data Analysis 																								
-DATSCI 470: Introduction to the Design of Experiments																								
-Economics	ECON 409: Game Theory (4 credits)																								
-ECON 452: Intermediate Introduction to Statistics Econometrics II (4 credits)																								
-Electrical Engineering and Computer Science	EECS 201: Computer Science Pragmatics (2 credits)																								
-EECS 215: Introduction to Electronic Circuits (4 credits)																								
-EECS 216: Introduction to Signals and Systems (4 credits)																								
-EECS 230: Electromagnetics I  (4 credits)																								
-EECS 245: Mathematics for Machine Learning (4 credits) 
-Please note: EECS 245 can satisfy either the DS Linear Algebra requirement or a Flexible Technical Elective. Email ugadmin@eecs.umich.edu if you would like it to count toward Flexible Technical Elective.  																								
-EECS 250: Electronic Sensing Systems (only if taken WN17 or before)																								
-EECS 270: Introduction to Logic Design (4 credits)																								
-EECS 285: Practical Programming in Java  (2 credits)																								
-EECS 370: Introduction to Computer Organization (4 credits)																								
-EECS 376: Foundations of Computer Science (4 credits)																								
-EECS 404: Game Engine Architecture and Data-Oriented Programming (4 credits) 																								
-EECS 408: Advanced Operating Systems Projects (2 credits) Please note: This course requires concurrent enrollment in EECS 482. 																								
-Any EECS or CSE or ECE course at the 300-level or higher (except 398*, 402, 406, 409, 410, 440, 441, 443, 448, 449, 467, 494, and 495, 497, and 498*).  
-*Each special topics course is reviewed for possible FTE/ULCS credit for the term/topic offered; see the Advising Office for details.																								
-[EECS 399 (FA’14 or later)/499: see Directed Study Rule above.] 																								
-Engineering	ENGR 350: International Lab. Experience for Engineers [See Directed Study Rule above.]																								
-ENGR 355: Multidisciplinary Design I [See Directed Study Rule above.] (1-4 credits)* 																								
-ENGR 403: Scientific Visualization																								
-ENGR 450: Multidisciplinary Design [See Directed Study Rule above.] (4 credits)																								
-ENGR 455: Multidisciplinary Design II [See Directed Study Rule above.] (1-5 credits)* 																								
-ENGR 480: Global Synthesis Project (Tauber Institute) [See Directed Study Rule above.] (4 credits)																								
-*For MDP industry-sponsored projects, ENGR 355 and 455 can only count towards Flex Tech if both semesters of MDP project are completed. See DS-Eng MDP page. MDP faculty research projects for ENGR 355/455 can also count as Flex Tech.																								
-Entrepreneurship	ENTR 475: TechLab: Entrepreneurial Exploration and Development [See Directed Study Rule above.] (Up to 4 credits)																								
-ENTR 485: Only sections of TechLab MCity, PJTL Climate Change, PJTL Electrification, and PJTL: MCity [See Directed Study Rule above.] (Up to 4 credits)																								
-Finance	FIN 302: Making Financial Decisions (3 credits) 																								
-FIN 342: Big Data in Finance (3 credits) 																								
-FIN 427: Artificial Intelligence and Machine Learning in Investment Strategies (3 credits)																								
-FIN 428: FinTech Innovations (3 credits) 																								
-Industrial and Operations Engineering	IOE 202: Operations Modeling (course is not open to students with 85 credits or more) (2 credits)																								
-Any IOE course at the 300-level or higher (except 422) [IOE 490: see Directed Study Rule above.]																								
-Linguistics	LING 441: Introduction to Computational Linguistics (3 credits)																								
-LING 442: Computational Linguistics II (3 credits)																								
-Manufacturing 	MFG 504: Tauber Institute Project (3 credits)																								
-Materials Science and Engineering	MATSCIE 220: Introduction to Materials and Manufacturing (4 credits)																								
-MATSCIE 242: Physics of Materials (4 credits)																								
-MATSCIE 250: Principles of Engineering Materials (4 credits)																								
-Any MATSCIE course at the 300-level or higher [MATSCIE 490: see Directed Study Rule above.]																								
-Mathematics	MATH 216: (if not used for CoE Math Core) Introduction to Differential Equations																								
-MATH 285: Honors Multivariable and Vector Calculus (if not used for CoE Math Core) (4 credits) 																								
-MATH 286: Honors Differential Equations (if not used for CoE Math Core) (3 credits) 																								
-MATH 297: Introduction to Analysis																								
-Any MATH course at the 300-level or higher (except 310, 327, 333, 385, 389, 399, 417, 419, 422, 429, 431, 485, 486, 489, 497)																								
-Mechanical Engineering	MECHENG 211: Introduction to Solid Mechanics (4 credits)																								
-MECHENG 235: Thermodynamics (3 credits)																								
-MECHENG 240: Introduction to Dynamics and Vibrations (4 credits)																								
-MECHENG 250: Design and Manufacturing I  (4 credits)																								
-Any MECHENG course at the 300-level or higher [MECHENG 490 & 491: see Directed Study Rule above.]																								
-Molecular, Cellular, and Developmental Biology (MCBD)	MCDB 306: Introductory Genetics Laboratory (3 credits)																								
-MCDB 310: Introductory Biochemistry (3 credits)																								
-	NAVARCH 270: Marine Design (4 credits)																								
-Any NAVARCH course at the 300-level or higher [NAVARCH 490: see Directed Study Rule above.]																								
-Nuclear Engineering and Radiological Sciences	NERS 211: Introduction to Nuclear Engineering and Radiological Sciences (4 credits)																								
-NERS 250: Fundamentals of Nuclear Engineering and Radiological Sciences (4 credits)																								
-Any NERS course at the 300-level or higher [NERS 499: see Directed Study Rule above.]																								
-Performing Arts Technology	PAT 204: Creative Coding (3 credits) 																								
-PAT 452: Interactive Music Design II (3 credits)																								
-PAT 462: Digital Sound Synthesis (3 credits)																								
-PAT 463: Music and AI (3 credits) 																								
-PAT 464: Generative AI for Music and Audio Creation																								
-Philosophy	PHIL 414: Mathematical Logic (3 credits)																								
-PHIL 417: Logic, Computation, and Learning (3 credits) 																								
-Physics	Any PHYSICS course at the 300-level or higher (except 333, 334, 420, and 481). [PHYS 496, 497, 498, 499: see Directed Study Rule above.]																								
-Political Science	POLSCI 490: Game Theory and Formal Models (4 credits)																								
-Psychology 	PSYCH 449: Decision Processes (3 credits) 																								
-Robotics	ROB 204: Introduction to Human-Robot Systems (4 credits)																								
-Any ROB course at the 300-level or higher [ROB 490: see Directed Study Rule above.]																								
-School of Information	SI 201: Data-Oriented Programming (4 credits) 																								
-SI 303: Introducion to Qualitative Methods (3 credits)																								
-Winter 2026 only SI 311.062: Casual Inference 																								
-SI 313: Introduction to Quantitative Methods (3 credits) 																								
-SI 315: Models of Social Information Processing (4 credits)																								
-SI 338: Web Design, Development, and Accessibility (4 credits)																								
-SI 342: Games and UX (3 credits) 																								
-SI 357: Introduction to Development (3 credits)																								
-SI 465: Applied AI: Machine Learning 																								
-SI 630: Natural Language Processing: Algorithms and People (3 credits)																								
-Statistics	STATS 403: Introduction to Quantitative Research Methods (4 credits)																								
-STATS 406: Computational Methods in Statistics and Data Science (4 credits)																								
-STATS 426: Introduction to Theoretical Statistics (3 credits)																								
-STATS 430: Applied Probability (3 credits)																								
-STATS 449: Topics in Biostatistics																								
-STATS 470: Introduction to the Design of Experiments (4 credits)																								
-STATS 480: Survey Sampling Techniques																								
-Any statistics class at 500-level or 600-level except for seminar and independent study courses.																								
-	TO 313: Operations Management (3 credits) 																								
-Technology & Operations (Ross School of Business)	TO 414: Advanced Analytics For Management Consulting (3 credits)																								
-TO 428: FinTech: Blockchain, Cryptocurrencies, and Other Technology Innovations In and Out of Finance (3 credits) 																								
-TO 450: Business Intelligence and Data Visualization (3credits) 																								
-TO 605/MFG 605: Manufacturing and Supply Operations (1.5-3 credits)																								
-
-### Sheet: CSE Course Sorting
-CSE Course Sorting Tool 									
-Tags are used to provide general categorization of topics covered in our courses. For example, two courses sharing the 'AI' tag will not address Artificial Intellience in the same volume or depth. For full course information, always check with individual instructors (listed in WA) or course sites, as available. Courses that can count for Capstone/MDE requirements may have an overrepresentation of tags given the wide range of topics that can be pursued in course projects.									
-Course Tag Descriptions
+If you would like to request a course at the University of Michigan to be reviewed to be considered as one of the lists of electives for the Data Science major for all students, please fill out this form.			
+Course(s)	Title 	Credits	
+ASTRO 406	Computational Astrophysics 	3	
+BIOINF 545/BIOSTAT 646/STATS 545	Data Analysis and Molecular Biology	3	
+BIOINF 547/MATH 547/STATS 547	Mathematics of Data	3	
+BIOSTATS 449/STATS 449	Topics in Biostatistics	3	
+CMPLXSYS 445	Intro to Info Theory 	3	
+DATASCI 406 (formerly STATS 406)	Introduction to Statistical Computing	3	
+DATASCI 415 (formerly STATS 415)	Data Mining	4	
+DATASCI 451 (formerly STATS 451)	Introduction to Bayesian Data Analysis	4	
+DATASCI 470 (formerly STATS 470)	Introduction to Design of Experiments	4	
+DATASCI 531/STATS 531	Analysis of Time Series	3	
+DATASCI/STATS 606	Computation and Optimization Methods in Statistics		
+EECS 367/ROB 380	Introduction to Autonomous Robotics	4	
+EECS 442	Computer Vision	4	
+EECS 445	Introduction to Machine Learning	4	
+EECS 448	Applied Machine Learning for Modeling Human Behavior	4	
+EECS 449 	Conversational Artificial Intelligence	4	
+EECS 453	Principles of Machine Learning	4	
+EECS 465/ROB 422	Intro to Algorithmic Robotics	3	
+EECS 467	Autonomous Robotics Design Experience	4	
+EECS 471	Applied Parallel Programming with GPUs	4	
+EECS 474	Algorithms for Data Science	4	
+EECS 476	Data Mining	4	
+EECS 484	Database Management Systems	4	
+EECS 485	Web Database and Information Systems	4	
+EECS 486	Info Retrieval and Web Search 	4	
+EECS 487 	Introduction to Natural Language Processing	4	
+EECS 491	Introduction to Distributed Systems	4	
+EECS 492	Introduction to Artificial Intelligence	4	
+EECS 504	Fnd Computer Vision	3	
+EECS 505	Computational Data Science and Machine Learning	4	All 500 level EECS courses need pre-approval prior to being used to fulfill elective requirement
+EECS 545 (Please note: Students cannot earn credit for both EECS 445 and EECS 545. If EECS 545 is taken, EECS 445 cannot be taken to satisfy the Machine Learning requirement. We do not accept EECS 545 for the Machine learning and data mining elective requirement)	Machine Learning (CSE) 	3	
+EECS 553	Machine Learning (ECE)	3	
+IOE 310	Introduction to Optimization Methods	3	
+IOE 465	Design of Experiments	3	
+MATH 351	Principles of Analysis	3	
+MATH 371	Numerical Methods for Engineers and Scientists	3	
+MATH 420	Advanced Linear Algebra	3	
+MATH 425/STATS 425	Introduction to Probability	3	
+MATH 451	Advanced Calculus 1	3	
+MATH 471	Introduction to Numerical Methods	3	
+MATH 472	Numerical Methods with Financial Applications	3	
+MATH 526/STATS 526	Discrete State Stochastic Processes	3	
+MATH 571	Numerical Linear Algebra	3	
+STATS 430	Applied Probability	3	
+STATS 480	Survey Sampling Techniques	4	
+STATS 571 	Causal Inference	3

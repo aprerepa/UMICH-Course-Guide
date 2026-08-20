@@ -10,6 +10,10 @@ const DISPLAY_ALIASES = {
     "computer-science-bs--majors-minors-html-computer-science-maj",
   "computer science (bs)":
     "computer-science-bs--majors-minors-html-computer-science-maj",
+  "data science (lsa)":
+    "data-science-bs--majors-minors-html-data-science-maj",
+  "data science (bs)":
+    "data-science-bs--majors-minors-html-data-science-maj",
 };
 
 /** @type {Map<string, object>} */

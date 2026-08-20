@@ -6,6 +6,7 @@
  *   { anyOf: Clause[] }                — at least one
  *   { allOf: Clause[] }                — all
  *   { minOf: n, options: Clause[] }    — at least n options satisfied
+ *   { minCredits: n, from: string[] }  — at least n credits among those codes
  *
  * Quota fields (alongside or instead of require):
  *   minCourses, minCredits, completion: "manual"
@@ -30,9 +31,10 @@ export function toTakenSet(codes) {
 /**
  * @param {unknown} clause
  * @param {Set<string>} taken
+ * @param {Record<string, number>} [creditByCode]
  * @returns {boolean}
  */
-export function isClauseSatisfied(clause, taken) {
+export function isClauseSatisfied(clause, taken, creditByCode = {}) {
   if (typeof clause === "string") {
     const code = normalizeCourseCode(clause);
     return Boolean(code && taken.has(code));
@@ -42,10 +44,13 @@ export function isClauseSatisfied(clause, taken) {
   }
 
   if (Array.isArray(clause.anyOf)) {
-    return clause.anyOf.some((c) => isClauseSatisfied(c, taken));
+    return clause.anyOf.some((c) => isClauseSatisfied(c, taken, creditByCode));
   }
   if (Array.isArray(clause.allOf)) {
-    return clause.allOf.length > 0 && clause.allOf.every((c) => isClauseSatisfied(c, taken));
+    return (
+      clause.allOf.length > 0 &&
+      clause.allOf.every((c) => isClauseSatisfied(c, taken, creditByCode))
+    );
   }
   if (
     typeof clause.minOf === "number" &&
@@ -54,10 +59,23 @@ export function isClauseSatisfied(clause, taken) {
   ) {
     let n = 0;
     for (const opt of clause.options) {
-      if (isClauseSatisfied(opt, taken)) n += 1;
+      if (isClauseSatisfied(opt, taken, creditByCode)) n += 1;
       if (n >= clause.minOf) return true;
     }
     return false;
+  }
+  if (typeof clause.minCredits === "number" && clause.minCredits > 0) {
+    const from = Array.isArray(clause.from) ? clause.from : [];
+    let credits = 0;
+    const seen = new Set();
+    for (const raw of from) {
+      const code = normalizeCourseCode(raw);
+      if (!code || seen.has(code) || !taken.has(code)) continue;
+      seen.add(code);
+      const c = creditByCode[code];
+      credits += typeof c === "number" && c > 0 ? c : 3;
+    }
+    return credits >= clause.minCredits;
   }
 
   return false;
@@ -114,7 +132,7 @@ export function isGroupComplete(rule, opts = {}) {
   }
 
   if (rule.require != null) {
-    const ok = isClauseSatisfied(rule.require, taken);
+    const ok = isClauseSatisfied(rule.require, taken, opts.creditByCode || {});
     return { complete: ok, reason: ok ? "require" : "require-unmet" };
   }
 

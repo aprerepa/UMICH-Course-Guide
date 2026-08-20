@@ -1,0 +1,26 @@
+{
+  "id": "creative-writing-and-literature-poetry--majors-minors-html-creative-writing-and-literat",
+  "displayName": "Creative Writing and Literature — Poetry (Residential College)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "RCCWLIT 220",
+          "RCCWLIT 221",
+          "RCCWLIT 325"
+        ]
+      }
+    },
+    "Creative Writing Course Requirement": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Literature Requirement": {
+      "minCourses": 5,
+      "minCredits": 15,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

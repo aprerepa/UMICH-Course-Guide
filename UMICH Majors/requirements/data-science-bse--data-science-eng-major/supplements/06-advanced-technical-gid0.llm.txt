@@ -1,0 +1,52 @@
+Page header:
+page title: Google Sheet export
+
+Visible page text:
+If you would like to request a course at the University of Michigan to be reviewed to be considered as one of the lists of electives for the Data Science major for all students, please fill out this form.			
+Course(s)	Title 	Credits	
+ASTRO 406	Computational Astrophysics 	3	
+BIOINF 545/BIOSTAT 646/STATS 545	Data Analysis and Molecular Biology	3	
+BIOINF 547/MATH 547/STATS 547	Mathematics of Data	3	
+BIOSTATS 449/STATS 449	Topics in Biostatistics	3	
+CMPLXSYS 445	Intro to Info Theory 	3	
+DATASCI 406 (formerly STATS 406)	Introduction to Statistical Computing	3	
+DATASCI 415 (formerly STATS 415)	Data Mining	4	
+DATASCI 451 (formerly STATS 451)	Introduction to Bayesian Data Analysis	4	
+DATASCI 470 (formerly STATS 470)	Introduction to Design of Experiments	4	
+DATASCI 531/STATS 531	Analysis of Time Series	3	
+DATASCI/STATS 606	Computation and Optimization Methods in Statistics		
+EECS 367/ROB 380	Introduction to Autonomous Robotics	4	
+EECS 442	Computer Vision	4	
+EECS 445	Introduction to Machine Learning	4	
+EECS 448	Applied Machine Learning for Modeling Human Behavior	4	
+EECS 449 	Conversational Artificial Intelligence	4	
+EECS 453	Principles of Machine Learning	4	
+EECS 465/ROB 422	Intro to Algorithmic Robotics	3	
+EECS 467	Autonomous Robotics Design Experience	4	
+EECS 471	Applied Parallel Programming with GPUs	4	
+EECS 474	Algorithms for Data Science	4	
+EECS 476	Data Mining	4	
+EECS 484	Database Management Systems	4	
+EECS 485	Web Database and Information Systems	4	
+EECS 486	Info Retrieval and Web Search 	4	
+EECS 487 	Introduction to Natural Language Processing	4	
+EECS 491	Introduction to Distributed Systems	4	
+EECS 492	Introduction to Artificial Intelligence	4	
+EECS 504	Fnd Computer Vision	3	
+EECS 505	Computational Data Science and Machine Learning	4	All 500 level EECS courses need pre-approval prior to being used to fulfill elective requirement
+EECS 545 (Please note: Students cannot earn credit for both EECS 445 and EECS 545. If EECS 545 is taken, EECS 445 cannot be taken to satisfy the Machine Learning requirement. We do not accept EECS 545 for the Machine learning and data mining elective requirement)	Machine Learning (CSE) 	3	
+EECS 553	Machine Learning (ECE)	3	
+IOE 310	Introduction to Optimization Methods	3	
+IOE 465	Design of Experiments	3	
+MATH 351	Principles of Analysis	3	
+MATH 371	Numerical Methods for Engineers and Scientists	3	
+MATH 420	Advanced Linear Algebra	3	
+MATH 425/STATS 425	Introduction to Probability	3	
+MATH 451	Advanced Calculus 1	3	
+MATH 471	Introduction to Numerical Methods	3	
+MATH 472	Numerical Methods with Financial Applications	3	
+MATH 526/STATS 526	Discrete State Stochastic Processes	3	
+MATH 571	Numerical Linear Algebra	3	
+STATS 430	Applied Probability	3	
+STATS 480	Survey Sampling Techniques	4	
+STATS 571 	Causal Inference	3

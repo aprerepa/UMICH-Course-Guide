@@ -2,20 +2,8 @@
   "id": "chemical-engineering--che-engin-umich-edu",
   "displayName": "Chemical Engineering",
   "groupRules": {
-    "Mathematics": {
-      "minCredits": 16,
-      "countsTowardMajorTotal": true
-    },
-    "Engineering Core": {
-      "minCredits": 8,
-      "countsTowardMajorTotal": true
-    },
-    "Chemistry Core": {
-      "minCredits": 3,
-      "countsTowardMajorTotal": true
-    },
-    "Physics": {
-      "minCredits": 10,
+    "Engineering Requirements": {
+      "minCredits": 37,
       "countsTowardMajorTotal": true
     },
     "Advanced Chemistry": {
@@ -28,10 +16,6 @@
     },
     "Program Subjects": {
       "minCredits": 41,
-      "countsTowardMajorTotal": true
-    },
-    "Engineering Electives": {
-      "minCredits": 3,
       "countsTowardMajorTotal": true
     }
   }

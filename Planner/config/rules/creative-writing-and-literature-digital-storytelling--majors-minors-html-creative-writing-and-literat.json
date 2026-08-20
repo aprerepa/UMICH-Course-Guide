@@ -1,0 +1,36 @@
+{
+  "id": "creative-writing-and-literature-digital-storytelling--majors-minors-html-creative-writing-and-literat",
+  "displayName": "Creative Writing and Literature — Digital Storytelling (Residential College)",
+  "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "RCCWLIT 220",
+          "RCCWLIT 221",
+          "RCCWLIT 325"
+        ]
+      }
+    },
+    "Creative Writing Practice": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Digital Writing / Skills Course Requirement": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Digital Studies Theory Requirement": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Literature Requirement": {
+      "minCourses": 3,
+      "minCredits": 9,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

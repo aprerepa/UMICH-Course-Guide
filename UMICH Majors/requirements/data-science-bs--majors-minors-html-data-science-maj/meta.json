@@ -2,76 +2,33 @@
   "id": "data-science-bs--majors-minors-html-data-science-maj",
   "name": "Data Science (BS)",
   "school_college": "College of Literature, Science, and the Arts (LSA)",
-  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#data_science-maj",
+  "program_url": "https://lsa.umich.edu/lsa/academics/majors-minors/data-science-major.html",
   "status": "fetched",
-  "message": "requirements page ready for LLM (+8 course-list supplements: course list, course list, course list)",
-  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#data_science-maj",
+  "message": "requirements page ready for LLM (+2 course-list supplements: A capstone data science course of at least 3 credits must be taken, typically during the senior year. A list of regular courses meeting the capstone requirement is available here ., here.)",
+  "program_final_url": "https://lsa.umich.edu/lsa/academics/majors-minors/data-science-major.html",
   "program_fetch_mode": "browser",
   "requirements_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=362210235",
-  "requirements_link_text": "REQUIREMENTS \u2192 here.",
+  "requirements_link_text": "(program page is requirements) \u2192 here.",
   "requirements_link_score": 60,
-  "requirements_link_strategy": "lsa_listing:lsa_detail\u2192google_doc",
+  "requirements_link_strategy": "program_is_requirements\u2192google_doc",
   "requirements_final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=362210235",
   "requirements_fetch_mode": "http",
-  "fetched_at": "2026-08-10T16:05:00.228744+00:00",
-  "lsa_resolved_row_id": "data_science-maj",
-  "supplements_count": 8,
+  "fetched_at": "2026-08-20T01:26:11.863300+00:00",
+  "supplements_count": 2,
   "supplements": [
     {
-      "id": "01-course-list",
-      "url": "https://docs.google.com/",
-      "link_text": "course list",
+      "id": "01-a-capstone-data-science-course-of-at-least-3-credits-must-be-taken-typ",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=590577141",
+      "link_text": "A capstone data science course of at least 3 credits must be taken, typically during the senior year. A list of regular courses meeting the capstone requirement is available here .",
       "status": "fetched",
-      "chars": 257
+      "chars": 1387
     },
     {
-      "id": "02-course-list",
-      "url": "https://docs.google.com/lsa/alumni-friends/get-connected/college-connections.html",
-      "link_text": "course list",
+      "id": "02-preview-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=0",
+      "link_text": "here.",
       "status": "fetched",
-      "chars": 89
-    },
-    {
-      "id": "03-course-list",
-      "url": "https://docs.google.com/lsa/current-students/undergraduate-students/outcomes-and-possibilities.html",
-      "link_text": "course list",
-      "status": "fetched",
-      "chars": 89
-    },
-    {
-      "id": "04-course-list",
-      "url": "https://docs.google.com/lsa/faculty-staff/human-resources/staff-achievement/staff-recognition.html",
-      "link_text": "course list",
-      "status": "fetched",
-      "chars": 89
-    },
-    {
-      "id": "05-course-list",
-      "url": "https://docs.google.com/lsa/prospective-students/lsa101.html",
-      "link_text": "course list",
-      "status": "fetched",
-      "chars": 89
-    },
-    {
-      "id": "06-courses",
-      "url": "https://docs.google.com/lsa/academics/courses.html",
-      "link_text": "Courses",
-      "status": "fetched",
-      "chars": 89
-    },
-    {
-      "id": "07-browse-copies-of-past-lsa-bulletins",
-      "url": "https://docs.google.com/lsa/academics/courses/course-bulletin-archive.html",
-      "link_text": "Browse copies of past LSA bulletins",
-      "status": "fetched",
-      "chars": 89
-    },
-    {
-      "id": "08-skip-to-content",
-      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#content",
-      "link_text": "Skip to Content",
-      "status": "fetched",
-      "chars": 26713
+      "chars": 2780
     }
   ]
 }

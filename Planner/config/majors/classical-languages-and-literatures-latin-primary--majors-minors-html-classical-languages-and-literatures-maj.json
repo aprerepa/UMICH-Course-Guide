@@ -1,0 +1,61 @@
+{
+  "id": "classical-languages-and-literatures-latin-primary--majors-minors-html-classical-languages-and-literatures-maj",
+  "displayName": "Classical Languages and Literatures (Latin primary)",
+  "requirementGroups": {
+    "Gateway Course": [
+      "ARCHAM 221",
+      "ARCHAM 222",
+      "CLARCH 221",
+      "CLARCH 222",
+      "CLCIV 202",
+      "CLCIV 302",
+      "HISTORY 200",
+      "HISTORY 201"
+    ],
+    "Primary Language (Latin 400+)": [],
+    "Secondary Language (Greek 400+)": [],
+    "Additional Upper-Level Language": [],
+    "Civilization, Archaeology, or History": []
+  },
+  "openGroups": {
+    "Primary Language (Latin 400+)": {
+      "subjects": ["LATIN"],
+      "minLevel": 400,
+      "exclude": ["LATIN 495", "LATIN 499"]
+    },
+    "Secondary Language (Greek 400+)": {
+      "subjects": ["GREEK"],
+      "minLevel": 400,
+      "exclude": ["GREEK 495", "GREEK 499"]
+    },
+    "Additional Upper-Level Language": [
+      {
+        "subjects": ["GREEK"],
+        "minLevel": 300,
+        "exclude": ["GREEK 495", "GREEK 499"]
+      },
+      {
+        "subjects": ["LATIN"],
+        "minLevel": 300,
+        "exclude": ["LATIN 495", "LATIN 499"]
+      }
+    ],
+    "Civilization, Archaeology, or History": [
+      {
+        "subjects": ["CLCIV"],
+        "minLevel": 300,
+        "exclude": ["CLCIV 302", "CLCIV 499"]
+      },
+      {
+        "subjects": ["CLARCH"],
+        "minLevel": 300,
+        "exclude": ["CLARCH 499"]
+      },
+      {
+        "subjects": ["ARCHAM"],
+        "minLevel": 300,
+        "exclude": ["ARCHAM 499"]
+      }
+    ]
+  }
+}

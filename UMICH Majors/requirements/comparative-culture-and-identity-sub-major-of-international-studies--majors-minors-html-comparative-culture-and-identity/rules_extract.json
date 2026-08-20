@@ -2,11 +2,38 @@
   "id": "comparative-culture-and-identity-sub-major-of-international-studies--majors-minors-html-comparative-culture-and-identity",
   "displayName": "Comparative Culture and Identity (Sub-major of International Studies)",
   "groupRules": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "INTLSTD 101",
+          "GEOG 145"
+        ]
+      }
+    },
     "Program Core": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "INTLSTD 301",
+              "INTLSTD 300",
+              "INTLSTD 341"
+            ]
+          },
+          "INTLSTD 401"
+        ]
+      },
       "minCredits": 7,
       "countsTowardMajorTotal": true
     },
     "Research Design Course": {
+      "require": "INTLSTD 390",
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Regional Course": {
+      "completion": "manual",
       "minCourses": 1,
       "minCredits": 3,
       "countsTowardMajorTotal": true
@@ -25,6 +52,17 @@
         ]
       },
       "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "CCI Courses": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Three Electives": {
+      "completion": "manual",
+      "minCourses": 3,
+      "minCredits": 9,
       "countsTowardMajorTotal": true
     }
   }

@@ -1,0 +1,34 @@
+{
+  "id": "data-science-bs--majors-minors-html-data-science-maj",
+  "displayName": "Data Science (BS)",
+  "groupRules": {
+    "Prerequisites": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Program Core": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Additional Required": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Application Electives": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Advanced Technical Electives": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Advanced Statistical Analysis": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Capstone": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    }
+  }
+}

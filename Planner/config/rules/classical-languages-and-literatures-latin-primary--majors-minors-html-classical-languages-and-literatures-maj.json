@@ -1,0 +1,41 @@
+{
+  "id": "classical-languages-and-literatures-latin-primary--majors-minors-html-classical-languages-and-literatures-maj",
+  "displayName": "Classical Languages and Literatures (Latin primary)",
+  "groupRules": {
+    "Gateway Course": {
+      "require": {
+        "anyOf": [
+          "ARCHAM 221",
+          "ARCHAM 222",
+          "CLARCH 221",
+          "CLARCH 222",
+          "CLCIV 202",
+          "CLCIV 302",
+          "HISTORY 200",
+          "HISTORY 201"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Primary Language (Latin 400+)": {
+      "minCourses": 3,
+      "minCredits": 9,
+      "countsTowardMajorTotal": true
+    },
+    "Secondary Language (Greek 400+)": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Additional Upper-Level Language": {
+      "minCourses": 3,
+      "minCredits": 9,
+      "countsTowardMajorTotal": true
+    },
+    "Civilization, Archaeology, or History": {
+      "minCourses": 1,
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    }
+  }
+}

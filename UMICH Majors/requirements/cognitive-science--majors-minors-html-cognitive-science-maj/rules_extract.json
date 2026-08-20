@@ -5,28 +5,138 @@
     "Prerequisites": {
       "require": "COGSCI 200"
     },
-    "Computation and Cognition Track": {
-      "minCourses": 9,
-      "minCredits": 27,
-      "countsTowardMajorTotal": true
-    },
-    "Decision and Cognition Track": {
-      "minCourses": 9,
-      "minCredits": 27,
-      "countsTowardMajorTotal": true
-    },
-    "Language and Cognition Track": {
-      "minCourses": 9,
-      "minCredits": 27,
-      "countsTowardMajorTotal": true
-    },
-    "Philosophy and Cognition Track": {
-      "minCourses": 9,
-      "minCredits": 27,
-      "countsTowardMajorTotal": true
-    },
     "Research Course Options": {
-      "minCourses": 1,
+      "completion": "manual"
+    },
+    "Computation and Cognition — Required": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "PSYCH 240",
+              "PSYCH 345"
+            ]
+          },
+          "EECS 281",
+          {
+            "anyOf": [
+              "EECS 492",
+              "EECS 445",
+              "COGSCI 445"
+            ]
+          }
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Computation and Cognition Track Electives": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Decision and Cognition — Required": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "PHIL 215",
+              "PHIL 361"
+            ]
+          },
+          {
+            "anyOf": [
+              "PHIL 342",
+              "PHIL 343",
+              "PHIL 443",
+              "PHIL 444"
+            ]
+          },
+          "PSYCH 449"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Decision and Cognition Track Electives": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Language and Cognition — Required": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "LING 313",
+              "LING 315",
+              "LING 316"
+            ]
+          },
+          {
+            "anyOf": [
+              "PHIL 345",
+              "PHIL 409",
+              "PHIL 426",
+              "LING 426"
+            ]
+          },
+          {
+            "anyOf": [
+              "LING 347",
+              "PSYCH 349",
+              "LING 209",
+              "PSYCH 242",
+              "COGSCI 209",
+              "LING 352",
+              "PSYCH 352",
+              "NEURO 432",
+              "COGSCI 432",
+              "PSYCH 444"
+            ]
+          }
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Language and Cognition Track Electives": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Philosophy and Cognition — Required": {
+      "require": {
+        "allOf": [
+          {
+            "anyOf": [
+              "PSYCH 240",
+              "PSYCH 345"
+            ]
+          },
+          {
+            "anyOf": [
+              "PHIL 340",
+              "PHIL 482"
+            ]
+          },
+          {
+            "anyOf": [
+              "PHIL 303",
+              "PHIL 305",
+              "PHIL 322",
+              "PHIL 413"
+            ]
+          }
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Philosophy and Cognition Track Electives": {
+      "minCourses": 4,
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Cognitive Science Masterlist": {
+      "minCourses": 2,
+      "minCredits": 6,
       "countsTowardMajorTotal": true
     }
   }

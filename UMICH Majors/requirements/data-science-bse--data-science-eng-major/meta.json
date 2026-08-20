@@ -1,0 +1,76 @@
+{
+  "id": "data-science-bse--data-science-eng-major",
+  "name": "Data Science (BSE)",
+  "school_college": "College of Engineering",
+  "program_url": "https://cse.engin.umich.edu/academics/undergraduate/majors/data-science-eng-major/",
+  "status": "fetched",
+  "message": "requirements page ready for LLM (+8 course-list supplements: DS Capstone course, Flexible Technical Electives, Capstone Courses)",
+  "program_final_url": "https://cse.engin.umich.edu/academics/undergraduate/majors/data-science-eng-major/",
+  "program_fetch_mode": "browser",
+  "requirements_url": "https://docs.google.com/document/d/1hxXdr19U8PTpG4NihXn4xY6vLgfY15DCrveag2551CY/preview?tab=t.u5bemak2lnl#heading=h.e0if34cyxqzb",
+  "requirements_link_text": "DS-Eng Program Guide:",
+  "requirements_link_score": 226,
+  "requirements_link_strategy": "page",
+  "requirements_final_url": "https://docs.google.com/document/d/1hxXdr19U8PTpG4NihXn4xY6vLgfY15DCrveag2551CY/preview?tab=t.u5bemak2lnl#heading=h.e0if34cyxqzb",
+  "requirements_fetch_mode": "http",
+  "fetched_at": "2026-08-20T01:26:22.105559+00:00",
+  "supplements_count": 8,
+  "supplements": [
+    {
+      "id": "01-ds-capstone-course-gid590577141",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=590577141",
+      "link_text": "DS Capstone course",
+      "status": "fetched",
+      "chars": 1387
+    },
+    {
+      "id": "02-flexible-technical-electives-gid614866660",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=614866660",
+      "link_text": "Flexible Technical Electives",
+      "status": "fetched",
+      "chars": 11449
+    },
+    {
+      "id": "03-capstone-courses-gid590577141",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/view?gid=590577141#gid=590577141",
+      "link_text": "Capstone Courses",
+      "status": "fetched",
+      "chars": 1387
+    },
+    {
+      "id": "04-approved-application-elective-list-gid362210235",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=362210235",
+      "link_text": "Approved Application Elective List",
+      "status": "fetched",
+      "chars": 3335
+    },
+    {
+      "id": "05-advanced-technical-electives",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview",
+      "link_text": "Advanced Technical Electives",
+      "status": "fetched",
+      "chars": 26713
+    },
+    {
+      "id": "06-advanced-technical-gid0",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=0",
+      "link_text": "Advanced Technical",
+      "status": "fetched",
+      "chars": 2780
+    },
+    {
+      "id": "07-advanced-statistical-analysis-elective-gid1306521871",
+      "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=1306521871",
+      "link_text": "Advanced Statistical Analysis Elective",
+      "status": "fetched",
+      "chars": 1257
+    },
+    {
+      "id": "08-intellectual-breadth",
+      "url": "https://drive.google.com/file/d/1FYw4QQYtht7U4aAqDk9lxfoRkB087D7C/view?usp=sharing",
+      "link_text": "Intellectual Breadth",
+      "status": "fetched",
+      "chars": 2078
+    }
+  ]
+}

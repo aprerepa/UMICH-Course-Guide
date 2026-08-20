@@ -35,8 +35,8 @@ PROTECTED_MAJOR_IDS = {
     "computer-science-lsa",
     # Listing id for LSA CS (hand file is computer-science-lsa.json)
     "computer-science-bs--majors-minors-html-computer-science-maj",
-    "data-science",
-    "data-science--preview",
+    "data-science-bse--data-science-eng-major",
+    "data-science-lsa",
     "data-science-bs--majors-minors-html-data-science-maj",
     "industrial-and-operations-engineering--undergrad-research",
 }
@@ -46,7 +46,8 @@ PROTECTED_DISPLAY_NAMES = {
     "computer science (bse)",
     "computer science (lsa)",
     "computer science (bs)",
-    "data science",
+    "data science (bse)",
+    "data science (lsa)",
     "data science (bs)",
     "industrial and operations engineering",
 }

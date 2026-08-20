@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-ds-capstone-course-gid590577141",
+    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=590577141",
+    "link_text": "DS Capstone course",
+    "score": 160,
+    "status": "fetched",
+    "message": "ok (1387 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=590577141",
+    "fetch_mode": "http",
+    "chars": 1387
+  },
+  {
+    "id": "02-flexible-technical-electives-gid614866660",
+    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=614866660",
+    "link_text": "Flexible Technical Electives",
+    "score": 160,
+    "status": "fetched",
+    "message": "ok (11449 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=614866660",
+    "fetch_mode": "http",
+    "chars": 11449
+  },
+  {
+    "id": "03-capstone-courses-gid590577141",
+    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/view?gid=590577141#gid=590577141",
+    "link_text": "Capstone Courses",
+    "score": 160,
+    "status": "fetched",
+    "message": "ok (1387 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/view?gid=590577141#gid=590577141",
+    "fetch_mode": "http",
+    "chars": 1387
+  },
+  {
+    "id": "04-approved-application-elective-list-gid362210235",
+    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=362210235",
+    "link_text": "Approved Application Elective List",
+    "score": 155,
+    "status": "fetched",
+    "message": "ok (3335 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=362210235",
+    "fetch_mode": "http",
+    "chars": 3335
+  },
+  {
+    "id": "05-advanced-technical-electives",
+    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview",
+    "link_text": "Advanced Technical Electives",
+    "score": 130,
+    "status": "fetched",
+    "message": "ok (26713 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview",
+    "fetch_mode": "http",
+    "chars": 26713
+  },
+  {
+    "id": "06-advanced-technical-gid0",
+    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=0",
+    "link_text": "Advanced Technical",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (2780 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=0",
+    "fetch_mode": "http",
+    "chars": 2780
+  },
+  {
+    "id": "07-advanced-statistical-analysis-elective-gid1306521871",
+    "url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=1306521871",
+    "link_text": "Advanced Statistical Analysis Elective",
+    "score": 125,
+    "status": "fetched",
+    "message": "ok (1257 chars)",
+    "final_url": "https://docs.google.com/spreadsheets/d/1Mets2NQ4i1ZY-4TNFfd7DpX2yU6h73bK673dgDiEEDA/preview#gid=1306521871",
+    "fetch_mode": "http",
+    "chars": 1257
+  },
+  {
+    "id": "08-intellectual-breadth",
+    "url": "https://drive.google.com/file/d/1FYw4QQYtht7U4aAqDk9lxfoRkB087D7C/view?usp=sharing",
+    "link_text": "Intellectual Breadth",
+    "score": 120,
+    "status": "fetched",
+    "message": "ok (2078 chars)",
+    "final_url": "https://drive.usercontent.google.com/download?id=1FYw4QQYtht7U4aAqDk9lxfoRkB087D7C&export=download",
+    "fetch_mode": "http",
+    "chars": 2078
+  }
+]

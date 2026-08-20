@@ -17,6 +17,10 @@
         ]
       }
     },
+    "200-level CLCIV": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
     "Language, Literature and Reception": {
       "minCourses": 1,
       "countsTowardMajorTotal": true
@@ -27,6 +31,15 @@
     },
     "Religion and Philosophy": {
       "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Additional Courses": {
+      "minCourses": 6,
+      "minCredits": 18,
+      "countsTowardMajorTotal": true
+    },
+    "Capstone Seminar": {
+      "require": "CLCIV 480",
       "countsTowardMajorTotal": true
     }
   }

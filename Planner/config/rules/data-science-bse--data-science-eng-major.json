@@ -1,0 +1,51 @@
+{
+  "id": "data-science-bse--data-science-eng-major",
+  "displayName": "Data Science (BSE)",
+  "groupRules": {
+    "Engineering Core Requirements": {
+      "completion": "manual",
+      "countsTowardMajorTotal": false
+    },
+    "Program Core": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Ethics and Professionalism": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Writing and Oral Presentation": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Machine Learning and Data Mining Elective": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Data Management and Applications Elective": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Data Science Application Elective": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Advanced Technical Electives": {
+      "minCredits": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Advanced Statistical Analysis Electives": {
+      "minCredits": 4,
+      "countsTowardMajorTotal": true
+    },
+    "Flexible Technical Electives": {
+      "minCredits": 11,
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Capstone": {
+      "minCredits": 4,
+      "countsTowardMajorTotal": true
+    }
+  }
+}
