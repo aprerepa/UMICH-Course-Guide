@@ -107,7 +107,8 @@
       "minCredits": 3
     },
     "Lab Requirement": {
-      "minCourses": 1
+      "minCourses": 1,
+      "mayOverlap": true
     },
     "Additional Courses": {
       "completion": "manual",

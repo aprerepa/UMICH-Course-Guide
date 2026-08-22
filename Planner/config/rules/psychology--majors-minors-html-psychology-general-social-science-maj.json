@@ -53,7 +53,8 @@
     "Lab Requirement": {
       "minCourses": 1,
       "minCredits": 3,
-      "countsTowardMajorTotal": true
+      "countsTowardMajorTotal": true,
+      "mayOverlap": true
     },
     "Electives": {
       "minCourses": 4,

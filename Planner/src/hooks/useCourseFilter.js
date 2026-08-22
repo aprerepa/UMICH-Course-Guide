@@ -11,7 +11,11 @@ import {
   getMajorConfig,
   groupHitCodesFromConfig,
 } from "../data/majorConfigs";
-import { isGroupComplete, normalizeCourseCode } from "../lib/completion";
+import {
+  allocateGroupHits,
+  isGroupComplete,
+  normalizeCourseCode,
+} from "../lib/completion";
 import { useAuth } from "../context/AuthContext";
 
 function buildCreditMap(major) {
@@ -115,15 +119,30 @@ export function useCourseFilter() {
   const completedGroups = useMemo(() => {
     const done = new Set();
     if (!selectedMajor || takenCodes.size === 0) return done;
+
+    const credits = { ...creditByCode };
+    const allocated =
+      majorConfig && Object.keys(groupRules || {}).length > 0
+        ? allocateGroupHits({
+            groupNames: groups,
+            groupRules,
+            getEligible: (groupName) =>
+              groupHitCodesFromConfig(majorConfig, groupName, takenCodes),
+            creditByCode: credits,
+          })
+        : null;
+
     for (const groupName of groups) {
       if (groupName === "All") continue;
       const rule = findGroupRule(groupRules, groupName);
       if (!rule) continue;
       // Eligible = major config lists / open bands, NOT current-term SOC offerings
-      const hits = majorConfig
+      const rawHits = majorConfig
         ? groupHitCodesFromConfig(majorConfig, groupName, takenCodes)
         : [];
-      const credits = { ...creditByCode };
+      const hits = allocated?.has(groupName)
+        ? allocated.get(groupName)
+        : rawHits;
       for (const code of hits) {
         if (credits[code] == null) credits[code] = 3;
       }

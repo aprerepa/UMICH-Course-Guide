@@ -33,7 +33,8 @@
     "Lab requirement": {
       "minCourses": 2,
       "minCredits": 5,
-      "countsTowardMajorTotal": true
+      "countsTowardMajorTotal": true,
+      "mayOverlap": true
     },
     "Cognate course requirement": {
       "minCourses": 1,

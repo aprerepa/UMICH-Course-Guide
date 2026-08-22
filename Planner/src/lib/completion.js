@@ -10,6 +10,12 @@
  *
  * Quota fields (alongside or instead of require):
  *   minCourses, minCredits, completion: "manual"
+ *
+ * Overlap:
+ *   By default, a taken course is allocated to at most one exclusive quota
+ *   group (so Group A courses cannot also satisfy Group D electives).
+ *   Set mayOverlap: true when a group may share courses with others
+ *   (e.g. BHS Lab, WGS thematic areas that allow one double-count).
  */
 
 /** @param {string} code */
@@ -99,6 +105,7 @@ export function isQuotaMet(rule, hitCodes, creditByCode = {}) {
     for (const code of unique) {
       const c = creditByCode[code];
       if (typeof c === "number" && c > 0) credits += c;
+      else credits += 3;
     }
     if (credits < rule.minCredits) return false;
   }
@@ -108,6 +115,166 @@ export function isQuotaMet(rule, hitCodes, creditByCode = {}) {
     (typeof rule.minCourses === "number" && rule.minCourses > 0) ||
     (typeof rule.minCredits === "number" && rule.minCredits > 0);
   return hasQuota;
+}
+
+/**
+ * @param {{ minCourses?: number, minCredits?: number }} rule
+ */
+function hasQuotaFields(rule) {
+  return (
+    (typeof rule?.minCourses === "number" && rule.minCourses > 0) ||
+    (typeof rule?.minCredits === "number" && rule.minCredits > 0)
+  );
+}
+
+/**
+ * Greedily pick the fewest leading courses that satisfy minCourses/minCredits.
+ * @param {string[]} eligibleSorted
+ * @param {{ minCourses?: number, minCredits?: number }} rule
+ * @param {Record<string, number>} creditByCode
+ * @returns {string[]}
+ */
+export function pickCodesForQuota(eligibleSorted, rule, creditByCode = {}) {
+  const needCourses =
+    typeof rule.minCourses === "number" && rule.minCourses > 0
+      ? rule.minCourses
+      : 0;
+  const needCredits =
+    typeof rule.minCredits === "number" && rule.minCredits > 0
+      ? rule.minCredits
+      : 0;
+  if (!needCourses && !needCredits) return [];
+
+  const picked = [];
+  let credits = 0;
+  for (const code of eligibleSorted) {
+    const coursesOk = !needCourses || picked.length >= needCourses;
+    const creditsOk = !needCredits || credits >= needCredits;
+    if (coursesOk && creditsOk) break;
+    picked.push(code);
+    const c = creditByCode[code];
+    credits += typeof c === "number" && c > 0 ? c : 3;
+  }
+  return picked;
+}
+
+/**
+ * Whether picked codes already meet the group's course/credit quotas.
+ * @param {string[]} picked
+ * @param {{ minCourses?: number, minCredits?: number }} rule
+ * @param {Record<string, number>} creditByCode
+ */
+function quotaSatisfied(picked, rule, creditByCode) {
+  return isQuotaMet(rule, picked, creditByCode);
+}
+
+/**
+ * Allocate taken courses across groups so exclusive quota groups do not share.
+ *
+ * Strategy for exclusive groups:
+ * 1. Prefer courses eligible for only one exclusive group (unique-first).
+ * 2. Fill remaining quotas from shared leftovers in `groupNames` order.
+ * Overlapping groups (`mayOverlap: true`) see all eligible taken codes and
+ * do not consume the exclusive pool.
+ *
+ * @param {object} opts
+ * @param {string[]} opts.groupNames — display order (config requirementGroups keys)
+ * @param {Record<string, object>} opts.groupRules
+ * @param {(groupName: string) => string[]} opts.getEligible — taken ∩ eligible for group
+ * @param {Record<string, number>} [opts.creditByCode]
+ * @returns {Map<string, string[]>} groupName → codes counted for that group
+ */
+export function allocateGroupHits({
+  groupNames = [],
+  groupRules = {},
+  getEligible,
+  creditByCode = {},
+}) {
+  /** @type {Map<string, string[]>} */
+  const assigned = new Map();
+  /** @type {Set<string>} */
+  const remaining = new Set();
+
+  const resolveRule = (name) => {
+    if (groupRules[name]) return { name, rule: groupRules[name] };
+    const lower = name.toLowerCase();
+    for (const [key, rule] of Object.entries(groupRules)) {
+      if (key.toLowerCase() === lower) return { name: key, rule };
+    }
+    return null;
+  };
+
+  /** @type {{ groupName: string, rule: object, eligible: string[] }[]} */
+  const exclusive = [];
+  /** @type {{ groupName: string, rule: object, eligible: string[] }[]} */
+  const overlapping = [];
+
+  for (const groupName of groupNames) {
+    if (groupName === "All") continue;
+    const resolved = resolveRule(groupName);
+    if (!resolved) continue;
+    const { rule } = resolved;
+    if (rule.require != null || rule.completion === "manual") continue;
+    if (!hasQuotaFields(rule)) continue;
+    const eligible = (getEligible(groupName) || [])
+      .map(normalizeCourseCode)
+      .filter(Boolean);
+    const uniqueEligible = [...new Set(eligible)].sort();
+    for (const c of uniqueEligible) remaining.add(c);
+    const entry = { groupName, rule, eligible: uniqueEligible };
+    if (rule.mayOverlap === true) overlapping.push(entry);
+    else exclusive.push(entry);
+  }
+
+  /** @type {Map<string, string[]>} */
+  const picks = new Map();
+  for (const { groupName } of exclusive) picks.set(groupName, []);
+
+  const claim = (groupName, code) => {
+    const list = picks.get(groupName);
+    if (!list || list.includes(code) || !remaining.has(code)) return false;
+    list.push(code);
+    remaining.delete(code);
+    return true;
+  };
+
+  // Pass 1: courses eligible for exactly one exclusive group
+  for (const { groupName, rule, eligible } of exclusive) {
+    if (quotaSatisfied(picks.get(groupName), rule, creditByCode)) continue;
+    const unique = eligible.filter((code) => {
+      if (!remaining.has(code)) return false;
+      let owners = 0;
+      for (const other of exclusive) {
+        if (other.eligible.includes(code)) owners += 1;
+      }
+      return owners === 1;
+    });
+    for (const code of unique) {
+      if (quotaSatisfied(picks.get(groupName), rule, creditByCode)) break;
+      claim(groupName, code);
+    }
+  }
+
+  // Pass 2: shared leftovers in config order (specific groups listed first)
+  for (const { groupName, rule, eligible } of exclusive) {
+    if (quotaSatisfied(picks.get(groupName), rule, creditByCode)) continue;
+    const available = eligible.filter((c) => remaining.has(c)).sort();
+    for (const code of available) {
+      if (quotaSatisfied(picks.get(groupName), rule, creditByCode)) break;
+      claim(groupName, code);
+    }
+  }
+
+  for (const { groupName } of exclusive) {
+    assigned.set(groupName, picks.get(groupName) || []);
+  }
+
+  for (const { groupName, eligible } of overlapping) {
+    // May use any eligible taken course, including those assigned elsewhere
+    assigned.set(groupName, [...eligible]);
+  }
+
+  return assigned;
 }
 
 /**

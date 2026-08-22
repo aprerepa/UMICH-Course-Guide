@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 import test from "node:test";
 
 import {
+  allocateGroupHits,
   isClauseSatisfied,
   isGroupComplete,
   toTakenSet,
@@ -20,6 +21,35 @@ const bhsRules = JSON.parse(
     "utf8"
   )
 );
+const bhsMajor = JSON.parse(
+  readFileSync(
+    join(
+      __dirname,
+      "../../config/majors/biology-health-and-society--majors-minors-html-general-biology-maj.json"
+    ),
+    "utf8"
+  )
+);
+
+/** Minimal eligibility for BHS allocation tests (explicit lists + Group D open band). */
+function bhsEligible(groupName, takenSet) {
+  const hits = [];
+  const explicit = bhsMajor.requirementGroups?.[groupName] || [];
+  for (const code of takenSet) {
+    if (explicit.includes(code)) hits.push(code);
+  }
+  if (groupName === "Group D - Biology Elective") {
+    for (const code of takenSet) {
+      const m = /^([A-Z]+)\s+(\d+)/.exec(code);
+      if (!m) continue;
+      const [, subj, num] = m;
+      if (!["BIOLOGY", "EEB", "MCDB"].includes(subj)) continue;
+      if (Number(num) < 200) continue;
+      if (!hits.includes(code)) hits.push(code);
+    }
+  }
+  return hits;
+}
 
 const prereq = bhsRules.groupRules.Prerequisites.require;
 
@@ -106,4 +136,74 @@ test("minCredits from clause counts taken electives", () => {
     }),
     false
   );
+});
+
+test("BHS: two Group A courses do not also complete Group D", () => {
+  const taken = toTakenSet(["BIOLOGY 205", "BIOLOGY 207"]);
+  const allocated = allocateGroupHits({
+    groupNames: Object.keys(bhsMajor.requirementGroups),
+    groupRules: bhsRules.groupRules,
+    getEligible: (g) => bhsEligible(g, taken),
+    creditByCode: { "BIOLOGY 205": 3, "BIOLOGY 207": 4 },
+  });
+
+  const groupA = "Group A: Gateway Biology Options";
+  const groupD = "Group D - Biology Elective";
+  assert.equal(
+    isGroupComplete(bhsRules.groupRules[groupA], {
+      groupHitCodes: allocated.get(groupA),
+      creditByCode: { "BIOLOGY 205": 3, "BIOLOGY 207": 4 },
+    }).complete,
+    true
+  );
+  assert.equal(
+    isGroupComplete(bhsRules.groupRules[groupD], {
+      groupHitCodes: allocated.get(groupD) || [],
+      creditByCode: { "BIOLOGY 205": 3, "BIOLOGY 207": 4 },
+    }).complete,
+    false
+  );
+  assert.deepEqual([...(allocated.get(groupD) || [])].sort(), []);
+});
+
+test("BHS: third Group A-eligible course can fill Group D", () => {
+  const taken = toTakenSet(["BIOLOGY 205", "BIOLOGY 207", "BIOLOGY 222"]);
+  const allocated = allocateGroupHits({
+    groupNames: Object.keys(bhsMajor.requirementGroups),
+    groupRules: bhsRules.groupRules,
+    getEligible: (g) => bhsEligible(g, taken),
+    creditByCode: {
+      "BIOLOGY 205": 3,
+      "BIOLOGY 207": 4,
+      "BIOLOGY 222": 3,
+    },
+  });
+  const groupD = "Group D - Biology Elective";
+  assert.equal(
+    isGroupComplete(bhsRules.groupRules[groupD], {
+      groupHitCodes: allocated.get(groupD),
+      creditByCode: { "BIOLOGY 222": 3 },
+    }).complete,
+    true
+  );
+  assert.equal((allocated.get(groupD) || []).length, 1);
+});
+
+test("BHS Lab mayOverlap uses courses already counted elsewhere", () => {
+  // BIOLOGY 207 is both Group A and Lab
+  const taken = toTakenSet(["BIOLOGY 205", "BIOLOGY 207"]);
+  const allocated = allocateGroupHits({
+    groupNames: Object.keys(bhsMajor.requirementGroups),
+    groupRules: bhsRules.groupRules,
+    getEligible: (g) => bhsEligible(g, taken),
+    creditByCode: { "BIOLOGY 205": 3, "BIOLOGY 207": 4 },
+  });
+  assert.equal(
+    isGroupComplete(bhsRules.groupRules["Lab Requirement"], {
+      groupHitCodes: allocated.get("Lab Requirement"),
+    }).complete,
+    true
+  );
+  // Still must not free Group A courses for D
+  assert.equal((allocated.get("Group D - Biology Elective") || []).length, 0);
 });

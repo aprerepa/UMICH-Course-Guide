@@ -58,7 +58,8 @@
     },
     "Gender, Culture and Representation Requirement": {
       "minCourses": 1,
-      "countsTowardMajorTotal": true
+      "countsTowardMajorTotal": true,
+      "mayOverlap": true
     },
     "Cognate Requirement": {
       "minCourses": 2,

@@ -134,11 +134,13 @@
     },
     "Biodiversity Focus (BD)": {
       "minCourses": 1,
-      "countsTowardMajorTotal": true
+      "countsTowardMajorTotal": true,
+      "mayOverlap": true
     },
     "Field or Research Experience (FR)": {
       "minCourses": 1,
-      "countsTowardMajorTotal": true
+      "countsTowardMajorTotal": true,
+      "mayOverlap": true
     },
     "Additional Courses": {
       "completion": "manual",

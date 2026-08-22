@@ -145,7 +145,8 @@
     },
     "Lab Courses for Biology": {
       "minCourses": 3,
-      "countsTowardMajorTotal": true
+      "countsTowardMajorTotal": true,
+      "mayOverlap": true
     },
     "Additional Courses": {
       "completion": "manual",
