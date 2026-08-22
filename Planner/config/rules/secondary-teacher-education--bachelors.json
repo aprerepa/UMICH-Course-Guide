@@ -2,9 +2,22 @@
   "id": "secondary-teacher-education--bachelors",
   "displayName": "Secondary Teacher Education",
   "groupRules": {
-    "Required Education Core Course": {
-      "minCourses": 8,
-      "minCredits": 20,
+    "Required Education Core Courses": {
+      "require": {
+        "allOf": [
+          "EDUC 118",
+          "EDUC 141",
+          "EDUC 151",
+          "EDUC 160",
+          "EDUC 241",
+          "EDUC 271"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Education Electives": {
+      "minCourses": 2,
+      "minCredits": 6,
       "countsTowardMajorTotal": true
     },
     "First-Year Writing": {
@@ -12,11 +25,42 @@
       "minCredits": 4,
       "countsTowardMajorTotal": true
     },
-    "Core credits": {
-      "minCredits": 16,
+    "Humanities": {
+      "minCredits": 12,
       "countsTowardMajorTotal": true
     },
-    "Teaching credits": {
+    "Natural Science / Mathematics": {
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Social Science": {
+      "minCredits": 12,
+      "countsTowardMajorTotal": true
+    },
+    "Core Credits": {
+      "require": {
+        "allOf": [
+          "EDUC 391",
+          "EDUC 392",
+          "EDUC 402",
+          "EDUC 445",
+          "EDUC 446"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Content Area Methods": {
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
+    },
+    "Teaching Credits": {
+      "require": {
+        "allOf": [
+          "EDUC 302",
+          "EDUC 304",
+          "EDUC 307"
+        ]
+      },
       "minCredits": 16,
       "countsTowardMajorTotal": true
     }

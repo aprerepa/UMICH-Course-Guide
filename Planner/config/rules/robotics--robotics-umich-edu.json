@@ -12,18 +12,16 @@
               "ENGR 101",
               "ENGR 151"
             ]
+          },
+          {
+            "anyOf": [
+              "ROB 101",
+              "MATH 214",
+              "MATH 217",
+              "MATH 417",
+              "MATH 419"
+            ]
           }
-        ]
-      }
-    },
-    "Linear Algebra": {
-      "require": {
-        "anyOf": [
-          "ROB 101",
-          "MATH 214",
-          "MATH 217",
-          "MATH 417",
-          "MATH 419"
         ]
       }
     },

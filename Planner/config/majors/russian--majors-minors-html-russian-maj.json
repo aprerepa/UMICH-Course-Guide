@@ -113,6 +113,20 @@
       "RUSSIAN 475",
       "RUSSIAN 477",
       "SLAVIC 313"
-    ]
+    ],
+    "Cognate": []
+  },
+  "openGroups": {
+    "Cognate": {
+      "subjects": [
+        "REEES",
+        "BCS",
+        "CZECH",
+        "POLISH",
+        "UKR"
+      ],
+      "minLevel": 300,
+      "exclude": []
+    }
   }
 }

@@ -6,15 +6,34 @@
       "SPANISH 277",
       "SPANISH 278",
       "RCLANG 324"
+    ],
+    "SPANISH 279-399": [
+      "RCLANG 324"
+    ],
+    "SPANISH 400-level": [],
+    "Electives/Cognates": [
+      "ITALIAN 410",
+      "PORT 280"
     ]
   },
   "openGroups": {
-    "Prerequisites": {
-      "subjects": [
-        "SPANISH",
-        "RCLANG"
-      ],
-      "minLevel": 277,
+    "SPANISH 279-399": [
+      {
+        "subjects": ["SPANISH"],
+        "minLevel": 279,
+        "maxLevel": 399,
+        "exclude": []
+      },
+      {
+        "subjects": ["RCLANG"],
+        "minLevel": 324,
+        "maxLevel": 324,
+        "exclude": []
+      }
+    ],
+    "SPANISH 400-level": {
+      "subjects": ["SPANISH"],
+      "minLevel": 400,
       "exclude": []
     }
   }

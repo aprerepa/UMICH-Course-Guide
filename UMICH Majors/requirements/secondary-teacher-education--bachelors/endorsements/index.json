@@ -1,0 +1,2039 @@
+[
+  {
+    "id": 448,
+    "name": "Arabic PK\u201312",
+    "selected": null,
+    "courses": [
+      "ARABIC 401",
+      "ARABIC 402",
+      "ARABIC 503",
+      "ARABIC 506",
+      "ARABIC 507",
+      "ANTHRCUL 409",
+      "EDUC 307",
+      "EDUC 650",
+      "EDUC 419",
+      "EDUC 420",
+      "ARABIC 600",
+      "ARABIC 601",
+      "ARABIC 602",
+      "ARABIC 604"
+    ],
+    "pdfs": [
+      {
+        "text": "Arabic",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/arabicendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Arabic",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ARABIC 401 or ARABIC 402",
+            "Advanced Arabic I or Advanced Arabic II"
+          ],
+          [
+            "ARABIC 503",
+            "Classical Arabic Grammar"
+          ],
+          [
+            "ARABIC 506",
+            "Arabic Phonology and Morphophonology"
+          ],
+          [
+            "ARABIC 507",
+            "Arabic Syntax and Semantics"
+          ],
+          [
+            "ANTHRCUL 409",
+            "Peoples and Cultures of the Near East and North Africa"
+          ],
+          [
+            "EDUC 307 or EDUC 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 419 or EDUC 420 *",
+            "Teaching Methods for World Language Minors or Teaching World Languages in the Secondary School"
+          ],
+          [
+            "Literature",
+            "Choose two (6 credits) of the following: ARABIC 600, 601, 602, 604"
+          ],
+          [
+            "* Required for endorsement but doesn't count toward GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Biology 6\u201312",
+    "selected": null,
+    "courses": [
+      "BIOLOGY 171",
+      "BIOLOGY 172",
+      "BIOLOGY 173",
+      "BIOLOGY 225",
+      "NURS 210",
+      "BIOLOGY 305",
+      "EDUC 307",
+      "EDUC 422",
+      "AES 240",
+      "BIOLOGY 118",
+      "BIOLOGY 212",
+      "IHS 340",
+      "BIOLCHEM 415",
+      "MCDB 310",
+      "CHEM 351",
+      "BIOLOGY 226",
+      "MCDB 306",
+      "CHEM 210",
+      "CHEM 211",
+      "MATH 115"
+    ],
+    "pdfs": [
+      {
+        "text": "Biology",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/biologyendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Biology (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "BIOLOGY 171",
+            "Introductory Biology: Ecology and Evolution"
+          ],
+          [
+            "BIOLOGY 172",
+            "Introductory Biology: Molecular, Cellular, and Developmental"
+          ],
+          [
+            "BIOLOGY 173",
+            "Introductory Biology: Laboratory"
+          ],
+          [
+            "BIOLOGY 225 or NURS 210",
+            "Principles of Human and Animal Physiology or Human Anatomy and Physiology with Laboratory"
+          ],
+          [
+            "BIOLOGY 305",
+            "Genetics"
+          ],
+          [
+            "EDUC 307 or 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 422 or 423 *",
+            "Teaching of Science in Secondary Schools"
+          ],
+          [
+            "Human health habits",
+            "Students choose from the following courses: AES 240, BIOLOGY 118, BIOLOGY 212, IHS 340."
+          ],
+          [
+            "Introductory biochemistry",
+            "Students choose from the following courses: BIOLCHEM 415, MCDB 310, CHEM 351."
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum. An intern is required to have at least two biology laboratories. If a second laboratory is needed, students are encouraged to elect BIOLOGY 226 or MCDB 306."
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      },
+      {
+        "caption": "Corequisites",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "CHEM 210",
+            "Structure and Reactivity"
+          ],
+          [
+            "CHEM 211",
+            "Investigations in Chemistry"
+          ],
+          [
+            "MATH 115",
+            "Calculus I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Chemistry 6\u201312",
+    "selected": null,
+    "courses": [
+      "CHEM 125",
+      "CHEM 126",
+      "CHEM 130",
+      "CHEM 210",
+      "CHEM 211",
+      "CHEM 215",
+      "CHEM 216",
+      "CHEM 241",
+      "CHEM 242",
+      "CHEM 260",
+      "BIOLCHEM 415",
+      "MCDB 310",
+      "CHEM 351",
+      "EDUC 307",
+      "EDUC 422",
+      "MATH 115",
+      "PHYSICS 135"
+    ],
+    "pdfs": [
+      {
+        "text": "Chemistry",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/chemistryendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Chemistry (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "CHEM 125",
+            "General Chem Lab I"
+          ],
+          [
+            "CHEM 126",
+            "General Chem Lab II"
+          ],
+          [
+            "CHEM 130",
+            "General Chemistry: Macroscopic Investigations and Reaction Principles"
+          ],
+          [
+            "CHEM 210",
+            "Structure & Reactivity I"
+          ],
+          [
+            "CHEM 211",
+            "Investigations in Chemistry"
+          ],
+          [
+            "CHEM 215",
+            "Structure & Reactivity II"
+          ],
+          [
+            "CHEM 216",
+            "Synthesis and Characterization of Organic Compounds"
+          ],
+          [
+            "CHEM 241",
+            "Introduction to Chemical Analysis"
+          ],
+          [
+            "CHEM 242",
+            "Intro to Chemical Analysis Laboratory"
+          ],
+          [
+            "CHEM 260",
+            "Chemical Principles"
+          ],
+          [
+            "Introductory biochemistry",
+            "Students choose from the following courses:\u00a0BIOLCHEM 415, MCDB 310, CHEM 351."
+          ],
+          [
+            "EDUC 307 or 650*",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 422 or 423*",
+            "Teaching of Science in Secondary Schools"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum. Must be 300-level or higher."
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      },
+      {
+        "caption": "Corequisites",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "MATH 115",
+            "Calculus I"
+          ],
+          [
+            "PHYSICS 135 or 140",
+            "Physics for the Life Sciences I or General Physics I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "name": "ESL PK\u201312",
+    "selected": null,
+    "courses": [],
+    "pdfs": [
+      {
+        "text": "ESL",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-03/ESL%20Endorsement%20%28new%29.pdf"
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": 241,
+    "name": "Earth/Space Science 6\u201312",
+    "selected": null,
+    "courses": [
+      "ASTRO 101",
+      "ASTRO 102",
+      "CLIMATE 102",
+      "EARTH 118",
+      "EARTH 119",
+      "EARTH 222",
+      "EARTH 223",
+      "EARTH 305",
+      "EDUC 307",
+      "EDUC 422",
+      "EARTH 116"
+    ],
+    "pdfs": [
+      {
+        "text": "Earth/Space Science",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/earth_spacescienceendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Earth/Space Science (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ASTRO 101",
+            "Introductory Astronomy: The Solar System and the Search for a new Earth"
+          ],
+          [
+            "ASTRO 102",
+            "Introductory Astronomy: Stars, Galaxies, and the Universe"
+          ],
+          [
+            "CLIMATE 102 or 105",
+            "Extreme Weather or Our Changing Atmosphere"
+          ],
+          [
+            "EARTH 118 *",
+            "Introductory Geology Laboratory"
+          ],
+          [
+            "EARTH 119 *",
+            "Introductory Geology Lectures"
+          ],
+          [
+            "EARTH 222",
+            "Introductory Oceanography"
+          ],
+          [
+            "EARTH 223",
+            "Introductory Oceanography, Laboratory"
+          ],
+          [
+            "EARTH 305 or 442",
+            "Earth's Surface and Sediments or Earth's Surface Processes and Soils"
+          ],
+          [
+            "EDUC 307 or 650\u2020",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 422\u2020",
+            "Teaching of Science in Secondary Schools"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum."
+          ],
+          [
+            "* Can be substituted with EARTH 116 \u2020 Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Economics 6\u201312",
+    "selected": null,
+    "courses": [
+      "ECON 101",
+      "ECON 102",
+      "ECON 340",
+      "ECON 401",
+      "ECON 402",
+      "ECON 491",
+      "EDUC 307",
+      "EDUC 432",
+      "MATH 115"
+    ],
+    "pdfs": [
+      {
+        "text": "Economics",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/economicsendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Economics (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ECON 101",
+            "Principles of Economics I"
+          ],
+          [
+            "ECON 102",
+            "Principles of Economics II"
+          ],
+          [
+            "ECON 340",
+            "International Economics"
+          ],
+          [
+            "ECON 401",
+            "Intermediate Microeconomic Theory"
+          ],
+          [
+            "ECON 402",
+            "Intermediate Macroeconomic Theory"
+          ],
+          [
+            "ECON 491",
+            "The History of the American Economy"
+          ],
+          [
+            "EDUC 307 or 650*",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 432 or 433*",
+            "Teaching of Social Studies in the Secondary School or Methods in Teaching Minor: Secondary History/Social Sciences"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum."
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      },
+      {
+        "caption": "Corequisites",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "MATH 115",
+            "Calculus I"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "name": "English 6\u201312",
+    "selected": null,
+    "courses": [
+      "ENGLISH 305",
+      "ENGLISH 405",
+      "EDUC 307",
+      "EDUC 440"
+    ],
+    "pdfs": [
+      {
+        "text": "English",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/englishendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "English (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ENGLISH 305",
+            "Exploring the English Language"
+          ],
+          [
+            "ENGLISH 405",
+            "Theories of Writing"
+          ],
+          [
+            "Poetry *",
+            ""
+          ],
+          [
+            "Pre-1900 Literature *",
+            ""
+          ],
+          [
+            "American / Canonical / Classical Literature *",
+            ""
+          ],
+          [
+            "Identity / Difference *",
+            ""
+          ],
+          [
+            "EDUC 307 or 650 \u2020",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 440 or 441 \u2020",
+            "Teaching of English"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum."
+          ],
+          [
+            "* The English Department website hosts a list of courses (link is external) that fulfill a given requirement by term; a single class may fulfill no more than two requirements \u2020 Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "name": "English Language Arts 5\u20139 & 7\u201312",
+    "selected": null,
+    "courses": [
+      "ENGLISH 305",
+      "ENGLISH 405",
+      "EDUC 490",
+      "EDUC 440",
+      "EDUC 307"
+    ],
+    "pdfs": [],
+    "tables": [
+      {
+        "caption": "English Language Arts 5\u20139 & 7\u201312",
+        "rows": [
+          [
+            "The following requirements apply to: Juniors admitted prior to Fall 2028"
+          ],
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ENGLISH 305",
+            "Exploring the English Language"
+          ],
+          [
+            "ENGLISH 405",
+            "Theories of Writing"
+          ],
+          [
+            "Poetry*",
+            ""
+          ],
+          [
+            "Pre-1900 Lit*",
+            ""
+          ],
+          [
+            "American / Canonical / Classical Literature*",
+            "Canonical means \"of or relating to the group of books, plays, poems, etc., that are traditionally considered to be very important\u201d. This includes works by authors like Homer, Plato, Aristotle, Shakespeare, Dante, and many others. Classical refers to \"literature of any language in a period notable for the excellence and enduring quality of its writers\u2019 works.\" In ancient Greece such a period extended from about 500 to 320 BCE. The Golden Age of Rome ran from about 70 BCE to 18 CE. French literature of the second half of the 17th century is considered classical, as is English literature of 1660\u20131714."
+          ],
+          [
+            "Identity / Difference*",
+            "Identity/Difference refers to writers/artists of a range of identity categories (involving gender, sexuality, disability, and class) who reflect upon-and are in dialogue about-the differentials of social power and their representation."
+          ],
+          [
+            "EDUC 490",
+            "Teaching Literature and Media in Secondary Schools"
+          ],
+          [
+            "EDUC 440 or 441 \u2020",
+            "Teaching of English"
+          ],
+          [
+            "EDUC 307 or 650 \u2020",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "*A single course can satisfy no more than 2 requirements \u2020 Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      },
+      {
+        "caption": "English Language Arts 5\u20139 & 7\u201312",
+        "rows": [
+          [
+            "The following requirements apply to: First Year students admitted Fall 2026 or later Juniors admitted Fall 2028 or Winter 2029 or later"
+          ],
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "Foundations & Methods (two courses, 6 credits total) ENGLISH 305 - Exploring the English Language ENGLISH 405 - Theories of Writing"
+          ],
+          [
+            "Regions* (two courses, 6 credits total) one course from the Americas, the United Kingdom, Australia, New Zealand, and Ireland subcategory (3 credits) one course from the Africa, Asia, the Middle East, and the Pacific Islands subcategory (3 credits)"
+          ],
+          [
+            "Time* (two courses, 6 credits total) one course (3 credits) from two of the following three subcategories: Medieval and Early Modern 18th and 19th Centuries Modern and Contemporary"
+          ],
+          [
+            "EDUC 490",
+            "Teaching Literature and Media in Secondary Schools"
+          ],
+          [
+            "EDUC 307 or 650 \u2020",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 440 or 441 \u2020",
+            "Teaching of English"
+          ],
+          [
+            "*A single course may not count toward both Regions & Times \u2020 Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "name": "French PK\u201312",
+    "selected": null,
+    "courses": [
+      "FRENCH 333",
+      "FRENCH 335",
+      "FRENCH 270",
+      "FRENCH 362",
+      "EDUC 307",
+      "EDUC 650",
+      "EDUC 419",
+      "EDUC 420",
+      "FRENCH 344",
+      "FRENCH 378",
+      "FRENCH 466",
+      "FRENCH 363",
+      "FRENCH 364",
+      "FRENCH 365"
+    ],
+    "pdfs": [
+      {
+        "text": "French",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/FrenchEndorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "French",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "FRENCH 333",
+            "French Phonetics"
+          ],
+          [
+            "FRENCH 335",
+            "Composition and Stylistics"
+          ],
+          [
+            "Literature / Culture of France",
+            "Choose from the following: FRENCH 270, 344, 378, 466"
+          ],
+          [
+            "Literature / Culture of the French-Speaking World",
+            "Choose from the following: FRENCH 362, 363, 364, 365"
+          ],
+          [
+            "EDUC 307 or EDUC 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 419 or EDUC 420 *",
+            "Teaching Methods for World Language Minors or Teaching World Languages in Secondary School"
+          ],
+          [
+            "* Required for endorsement but doesn't count toward GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "name": "German PK\u201312",
+    "selected": null,
+    "courses": [
+      "GERMAN 300",
+      "GERMAN 322",
+      "GERMAN 391",
+      "GERMAN 325",
+      "GERMAN 326",
+      "GERMAN 425",
+      "GERMAN 426",
+      "GERMAN 302",
+      "GERMAN 315",
+      "EDUC 307",
+      "EDUC 650",
+      "EDUC 419",
+      "EDUC 420",
+      "GERMAN 303",
+      "GERMAN 304",
+      "GERMAN 310",
+      "GERMAN 332",
+      "GERMAN 333",
+      "GERMAN 336",
+      "GERMAN 346",
+      "GERMAN 350",
+      "GERMAN 388"
+    ],
+    "pdfs": [
+      {
+        "text": "German",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/germanendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "German",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "GERMAN 300",
+            "German Grammar and Composition"
+          ],
+          [
+            "GERMAN 322 or GERMAN 391",
+            "The Origins of Nazism or The Holocaust"
+          ],
+          [
+            "GERMAN 325 or GERMAN 326",
+            "Intermediate German"
+          ],
+          [
+            "GERMAN 425 or GERMAN 426",
+            "Advanced German"
+          ],
+          [
+            "German Culture & History",
+            "Choose one from the following: GERMAN 302, 303, 304, 310, 332, 333, 336, 346, 350, or 464"
+          ],
+          [
+            "Literature",
+            "Choose one from the following: GERMAN 315, 388, or 457"
+          ],
+          [
+            "EDUC 307 or EDUC 650*",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 419 or EDUC 420*",
+            "Teaching Methods for World Language Minor or Teaching World Languages in the Secondary School"
+          ],
+          [
+            "* Required for endorsement but doesn't count toward GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "name": "History 6\u201312",
+    "selected": null,
+    "courses": [
+      "HISTORY 202",
+      "HISTORY 238",
+      "HISTORY 240",
+      "HISTORY 260",
+      "HISTORY 261",
+      "EDUC 307",
+      "EDUC 650",
+      "EDUC 432"
+    ],
+    "pdfs": [
+      {
+        "text": "History (link is external)",
+        "url": "https://soe.umich.edu/sites/default/files/2020-06/historyendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "History (link is external) (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "HISTORY 202",
+            "Doing History"
+          ],
+          [
+            "HISTORY 238 or 239",
+            "Zoom: A History of Everything or The World Before 1492"
+          ],
+          [
+            "HISTORY 240",
+            "The World Since 1492"
+          ],
+          [
+            "HISTORY 260",
+            "United States to 1865"
+          ],
+          [
+            "HISTORY 261",
+            "United States, 1865 to the Present"
+          ],
+          [
+            "EDUC 307 or EDUC 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 432 or 433 *",
+            "Teaching of Social Studies in the Secondary School or Methods in Teaching Minor: Secondary History/Social Sciences"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum. Must be 300-level or higher."
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Integrated Science 6\u201312",
+    "selected": null,
+    "courses": [
+      "ASTRO 101",
+      "BIOLOGY 171",
+      "BIOLOGY 172",
+      "BIOLOGY 173",
+      "BIOLOGY 225",
+      "NURS 210",
+      "CHEM 125",
+      "CHEM 126",
+      "CHEM 130",
+      "CHEM 210",
+      "CHEM 211",
+      "CHEM 215",
+      "CHEM 216",
+      "BIOPHYS 150",
+      "PHYSICS 150",
+      "PHYSICS 140",
+      "BIOPHYS 151",
+      "PHYSICS 151",
+      "PHYSICS 141",
+      "BIOPHYS 250",
+      "PHYSICS 250",
+      "PHYSICS 240",
+      "BIOPHYS 251",
+      "PHYSICS 251",
+      "PHYSICS 241",
+      "EARTH 118",
+      "EARTH 119",
+      "AES 240",
+      "BIOLOGY 118",
+      "BIOLOGY 212",
+      "IHS 340",
+      "BIOLCHEM 415",
+      "CHEM 351",
+      "MCDB 310",
+      "EDUC 307",
+      "EDUC 422",
+      "EARTH 116",
+      "MATH 115"
+    ],
+    "pdfs": [
+      {
+        "text": "Integrated Science",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/integratedscienceendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Integrated Science (minimum 36\u00a0credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ASTRO 101 or 102",
+            "Introductory Astronomy: The Solar System and the Search for a New Earth or Introductory Astronomy: Stars, Galaxies, and the Universe"
+          ],
+          [
+            "BIOLOGY 171",
+            "Introductory Biology: Ecology and Evolution"
+          ],
+          [
+            "BIOLOGY 172",
+            "Introductory Biology: Molecular, Cellular, and Developmental"
+          ],
+          [
+            "BIOLOGY 173",
+            "Introductory Biology: Laboratory"
+          ],
+          [
+            "BIOLOGY 225 or NURS 210",
+            "Principles of Human and Animal Physiology or Human Anatomy and Physiology Body with Laboratory"
+          ],
+          [
+            "CHEM 125",
+            "General Chemistry Laboratory I"
+          ],
+          [
+            "CHEM 126",
+            "General Chemistry Laboratory II"
+          ],
+          [
+            "CHEM 130",
+            "General Chemistry: Macroscopic Investigations and Reaction Principles"
+          ],
+          [
+            "CHEM 210",
+            "Structure & Reactivity I"
+          ],
+          [
+            "CHEM 211",
+            "Investigations in Chemistry"
+          ],
+          [
+            "CHEM 215",
+            "Structure & Reactivity II"
+          ],
+          [
+            "CHEM 216",
+            "Synthesis and Characterization of Organic Compounds"
+          ],
+          [
+            "BIOPHYS/PHYSICS 150 or PHYSICS 140",
+            "Fundamental Physics for the Life Sciences I or General Physics I"
+          ],
+          [
+            "BIOPHYS/PHYSICS 151 or PHYSICS 141",
+            "Physics for the Life Sciences Laboratory I or Elementary Laboratory I"
+          ],
+          [
+            "BIOPHYS/PHYSICS 250 or PHYSICS 240",
+            "Fundamental Physics for the Life Sciences II or General Physics II"
+          ],
+          [
+            "BIOPHYS/PHYSICS 251 or PHYSICS 241",
+            "Physics for the Life Sciences Laboratory II or Elementary Laboratory II"
+          ],
+          [
+            "EARTH 118 *",
+            "Introductory Geology Laboratory"
+          ],
+          [
+            "EARTH 119 *",
+            "Introductory Geology Lectures"
+          ],
+          [
+            "Human health habits",
+            "Students choose from the following courses: AES 240, BIOLOGY 118, BIOLOGY 212, IHS 340."
+          ],
+          [
+            "Introductory biochemistry",
+            "Students choose from the following courses:\u00a0BIOLCHEM 415, CHEM 351, MCDB 310."
+          ],
+          [
+            "EDUC 307 or 423\u2020",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 422 or 423\u2020",
+            "Teaching of Science in Secondary Schools"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 36-credit minimum. Must be 300-level or higher."
+          ],
+          [
+            "* Can be substituted with EARTH 116 \u2020 Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      },
+      {
+        "caption": "Corequisites",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "MATH 115 *",
+            "Calculus I"
+          ],
+          [
+            "* Undergraduates only"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Latin PK\u201312",
+    "selected": null,
+    "courses": [
+      "LATIN 301",
+      "LATIN 421",
+      "LATIN 422",
+      "CLARCH 222",
+      "CLCIV 202",
+      "LATIN 409",
+      "LATIN 325",
+      "EDUC 307",
+      "EDUC 650",
+      "EDUC 419",
+      "EDUC 420",
+      "LATIN 410",
+      "LATIN 441",
+      "LATIN 442",
+      "LATIN 443",
+      "LATIN 444",
+      "LATIN 490",
+      "LATIN 401"
+    ],
+    "pdfs": [],
+    "tables": [
+      {
+        "caption": "Latin",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "LATIN 301",
+            "Intermediate Latin I"
+          ],
+          [
+            "LATIN 421",
+            "Teaching of Latin"
+          ],
+          [
+            "LATIN 422 (Not required for students admitted SU26 or later)",
+            "Oral Methods in the Teaching of Latin"
+          ],
+          [
+            "CLARCH 222 or CLCIV 202",
+            "Introduction to Roman Archaeology or Roman Civilization"
+          ],
+          [
+            "Literature (Poetry)",
+            "Choose from the following: LATIN 409, 410, 441, 442, 443, 444, 490"
+          ],
+          [
+            "Literature (Prose/Other)",
+            "Choose from the following: LATIN 325, 401m 402, 454, 463, 464"
+          ],
+          [
+            "EDUC 307 or EDUC 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 419 or EDUC 420 *",
+            "Teaching Methods for World Language Minors or Teaching World Languages in Secondary School"
+          ],
+          [
+            "* Required for endorsement but doesn't count toward GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Mandarin PK\u201312",
+    "selected": null,
+    "courses": [
+      "ASIAN 260",
+      "ASIAN 261",
+      "ASIAN 264",
+      "ASIAN 362",
+      "ASIAN 367",
+      "ASIAN 368",
+      "ASIANLAN 301",
+      "ASIANLAN 403",
+      "ASIANLAN 445",
+      "ASIAN 241",
+      "EDUC 307",
+      "EDUC 650",
+      "EDUC 419",
+      "EDUC 420",
+      "ASIAN 350",
+      "ASIAN 354",
+      "ASIAN 366",
+      "ASIAN 415",
+      "ASIAN 428",
+      "ASIAN 485"
+    ],
+    "pdfs": [
+      {
+        "text": "Mandarin",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/mandarinendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Mandarin",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ASIAN 260 or ASIAN 261",
+            "Introduction to Chinese Civilization or Introduction to Modern Chinese Culture"
+          ],
+          [
+            "ASIAN 264",
+            "Looking at Traditional China Through its Most Famous Novel, The Story of the Stone"
+          ],
+          [
+            "ASIAN 362",
+            "The Travels of the Monkey King in China and Abroad"
+          ],
+          [
+            "ASIAN 367",
+            "Languages of Asia"
+          ],
+          [
+            "ASIAN 368",
+            "How Different is Chinese?"
+          ],
+          [
+            "ASIANLAN 301 or 302",
+            "Third Year Chinese I or Third Year Chinese II"
+          ],
+          [
+            "ASIANLAN 403",
+            "Introduction to Chinese Linguistics"
+          ],
+          [
+            "ASIANLAN 445",
+            "Chinese Language Pedagogy"
+          ],
+          [
+            "Culture / History of China",
+            "Choose two (6 credits) of the following: ASIAN 241, 350, 354, 366, 415, 428, 485"
+          ],
+          [
+            "EDUC 307 or EDUC 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 419 or EDUC 420 *",
+            "Teaching Methods for World Language Minors or Teaching World Languages in Secondary School"
+          ],
+          [
+            "* Required for endorsement but doesn't count toward GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "name": "Mathematics 5-9 & 7-12",
+    "selected": null,
+    "courses": [
+      "MATH 115",
+      "MATH 116",
+      "MATH 215",
+      "MATH 486",
+      "EDUC 307",
+      "EDUC 410",
+      "EDUC 412",
+      "EDUC 426"
+    ],
+    "pdfs": [],
+    "tables": [
+      {
+        "caption": "Mathematics 5-9 & 7-12",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "MATH 115",
+            "Calculus I"
+          ],
+          [
+            "MATH 116",
+            "Calculus II"
+          ],
+          [
+            "MATH 215",
+            "Multivariable and Vector Calculus"
+          ],
+          [
+            "MATH 486",
+            "Concepts Basic to Secondary Mathematics"
+          ],
+          [
+            "EDUC 307 or 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 410* or 413*",
+            "Teaching Secondary School Mathematics"
+          ],
+          [
+            "EDUC 412",
+            "Mathematical Proof and Teaching"
+          ],
+          [
+            "EDUC 426",
+            "Teaching with Curriculum Materials"
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Mathematics 6\u201312",
+    "selected": null,
+    "courses": [
+      "MATH 115",
+      "MATH 116",
+      "MATH 215",
+      "MATH 486",
+      "EDUC 307",
+      "EDUC 410",
+      "EDUC 412",
+      "EDUC 426",
+      "MATH 217"
+    ],
+    "pdfs": [
+      {
+        "text": "Mathematics",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/mathematicsendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Mathematics (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "MATH 115",
+            "Calculus I"
+          ],
+          [
+            "MATH 116",
+            "Calculus II"
+          ],
+          [
+            "MATH 215",
+            "Multivariable and Vector Calculus"
+          ],
+          [
+            "MATH 486",
+            "Concepts Basic to Secondary Mathematics"
+          ],
+          [
+            "EDUC 307 or 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 410* or 413*",
+            "Teaching Secondary School Mathematics"
+          ],
+          [
+            "EDUC 412",
+            "Mathematical Proof and Teaching"
+          ],
+          [
+            "EDUC 426",
+            "Teaching with Curriculum Materials"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum. MATH 217 and 425 recommended."
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 551,
+    "name": "Music Education K\u201312",
+    "selected": null,
+    "courses": [
+      "MUSED 111",
+      "VOICELIT 200",
+      "EDUC 391",
+      "EDUC 392",
+      "EDUC 402",
+      "MUSED 121",
+      "MUSED 201",
+      "MUSED 207",
+      "MUSED 340",
+      "MUSED 341",
+      "MUSED 342",
+      "MUSED 495",
+      "MUSED 496",
+      "MUSED 202",
+      "MUSED 203",
+      "MUSED 205",
+      "MUSED 320"
+    ],
+    "pdfs": [
+      {
+        "text": "Music Education",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-03/Music%20Education%20K-12.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Music Education (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "Choral",
+            "MUSED 111, 121, 201, 207, 340, 341, 342, 495, 496; VOICELIT 200"
+          ],
+          [
+            "Instrumental",
+            "MUSED 111, 121, 201, 202, 203, 205, 207, 320, 341 or 342, 370, 371, 372, 495, 496"
+          ],
+          [
+            "EDUC 391",
+            "Educational Psychology and Human Development"
+          ],
+          [
+            "EDUC 392",
+            "Educational Foundations in a Multicultural Society"
+          ],
+          [
+            "EDUC 402",
+            "Reading and Writing in Content Areas"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Physics 6\u201312",
+    "selected": null,
+    "courses": [
+      "PHYSICS 140",
+      "PHYSICS 141",
+      "PHYSICS 240",
+      "PHYSICS 241",
+      "PHYSICS 290",
+      "PHYSICS 417",
+      "PHYSICS 340",
+      "PHYSICS 390",
+      "PHYSICS 391",
+      "EDUC 307",
+      "EDUC 422",
+      "MATH 115",
+      "MATH 116",
+      "MATH 215",
+      "MATH 216"
+    ],
+    "pdfs": [
+      {
+        "text": "Physics",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/physicsendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Physics (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "PHYSICS 140",
+            "General Physics I"
+          ],
+          [
+            "PHYSICS 141",
+            "Elementary Laboratory I"
+          ],
+          [
+            "PHYSICS 240",
+            "General Physics II"
+          ],
+          [
+            "PHYSICS 241",
+            "Elementary Laboratory II"
+          ],
+          [
+            "PHYSICS 290 or PHYSICS 417",
+            "Physics of the Body and Mind or Dynamical Processes in Biophysics"
+          ],
+          [
+            "PHYSICS 340",
+            "Waves, Heat, and Light"
+          ],
+          [
+            "PHYSICS 390",
+            "Introduction to Modern Physics"
+          ],
+          [
+            "PHYSICS 391",
+            "Introduction to Modern Physics Lab"
+          ],
+          [
+            "EDUC 307 or 650*",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 422 or 423*",
+            "Teaching of Science in Secondary Schools"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum. Must be 300-level or higher."
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      },
+      {
+        "caption": "Corequisites",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "MATH 115",
+            "Calculus I"
+          ],
+          [
+            "MATH 116",
+            "Calculus II"
+          ],
+          [
+            "MATH 215",
+            "Multivariable and Vector Calculus"
+          ],
+          [
+            "MATH 216",
+            "Introduction to Differential Equations"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Political Science 6\u201312",
+    "selected": null,
+    "courses": [
+      "POLSCI 111",
+      "POLSCI 140",
+      "POLSCI 306",
+      "POLSCI 326",
+      "POLSCI 387",
+      "EDUC 307",
+      "EDUC 432"
+    ],
+    "pdfs": [
+      {
+        "text": "Political Science",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/politicalscienceendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Political Science (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "POLSCI 111 or 311",
+            "Introduction to American Politics or American Political Processes"
+          ],
+          [
+            "POLSCI 140 or 160",
+            "Introduction to Comparative Politics or Introduction to World Politics"
+          ],
+          [
+            "POLSCI 306 or 307",
+            "American Political Thought: Early or American Political Thought: Late"
+          ],
+          [
+            "POLSCI 326",
+            "American State Government"
+          ],
+          [
+            "POLSCI 387",
+            "Comparative Analysis of Government Institutions"
+          ],
+          [
+            "EDUC 307 or 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 432 or 433*",
+            "Teaching of Social Studies in the Secondary School or Methods in Teaching Minor: Secondary History/Social Sciences"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum."
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Psychology 6\u201312",
+    "selected": null,
+    "courses": [
+      "PSYCH 111",
+      "PSYCH 240",
+      "PSYCH 250",
+      "PSYCH 270",
+      "PSYCH 280",
+      "EDUC 307",
+      "EDUC 432"
+    ],
+    "pdfs": [
+      {
+        "text": "Psychology",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/psychologyendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Psychology (minimum 20 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "PSYCH 111 or 112",
+            "Introduction to Psychology or Introduction to Psychology as a Natural Science"
+          ],
+          [
+            "PSYCH 240",
+            "Introduction to Cognitive Psychology"
+          ],
+          [
+            "PSYCH 250",
+            "Introduction to Developmental Psychology"
+          ],
+          [
+            "PSYCH 270",
+            "Introduction to Psychopathology"
+          ],
+          [
+            "PSYCH 280",
+            "Introduction to Social Psychology"
+          ],
+          [
+            "EDUC 307 or 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 432 or 433 *",
+            "Teaching of Social Studies in the Secondary School or Methods in Teaching Minor: Secondary History / Social Sciences"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 20-credit minimum."
+          ],
+          [
+            "\u2020 Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "name": "Science 5-9 & 7-12",
+    "selected": null,
+    "courses": [
+      "ASTRO 101",
+      "ASTRO 102",
+      "BIOLOGY 171",
+      "BIOLOGY 172",
+      "BIOLOGY 173",
+      "BIOLOGY 281",
+      "ENVIRON 281",
+      "BIOLOGY 305",
+      "EEB 390",
+      "EEB 391",
+      "CHEM 125",
+      "CHEM 126",
+      "CHEM 130",
+      "EARTH 118",
+      "EARTH 119",
+      "EARTH 219",
+      "ENVIRON 229",
+      "EARTH 331",
+      "ENVIRON 332",
+      "BIOPHYS 150",
+      "PHYSICS 150",
+      "PHYSICS 140",
+      "BIOPHYS 151",
+      "PHYSICS 151",
+      "PHYSICS 141",
+      "BIOPHYS 250",
+      "PHYSICS 250",
+      "PHYSICS 240",
+      "BIOPHYS 251",
+      "PHYSICS 251",
+      "PHYSICS 241",
+      "EDUC 422",
+      "EDUC 423",
+      "EDUC 307",
+      "EDUC 650",
+      "EARTH 116",
+      "MATH 115"
+    ],
+    "pdfs": [],
+    "tables": [
+      {
+        "caption": "Science 5\u20139 & 7\u201312",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ASTRO 101 or ASTRO 102",
+            "Introductory Astronomy: The Solar System and the Search for a new Earth or Introductory Astronomy: Stars, Galaxies, and the Universe"
+          ],
+          [
+            "BIOLOGY 171",
+            "Introductory Biology: Ecology and Evolution"
+          ],
+          [
+            "BIOLOGY 172",
+            "Introductory Biology - Molecular, Cellular, and Developmental"
+          ],
+          [
+            "BIOLOGY 173",
+            "Introductory Biology Laboratory"
+          ],
+          [
+            "BIOLOGY/ENVIRON 281",
+            "General Ecology"
+          ],
+          [
+            "BIOLOGY 305 or EEB 390 or EEB 391",
+            "Introduction to Genetics or Evolution or Evolutionary Processes and Macroevolution"
+          ],
+          [
+            "CHEM 125",
+            "General Chemistry Laboratory I"
+          ],
+          [
+            "CHEM 126",
+            "General Chemistry Laboratory II"
+          ],
+          [
+            "CHEM 130",
+            "General Chemistry: Macroscopic Investigations and Reaction Principles"
+          ],
+          [
+            "EARTH 118*",
+            "Introductory Geology Laboratory"
+          ],
+          [
+            "EARTH 119*",
+            "Introductory Geology Lectures"
+          ],
+          [
+            "EARTH 219/ENVIRON 229 or EARTH 331/ENVIRON 332",
+            "Introduction to Environmental Science or Climate and Climate Change"
+          ],
+          [
+            "BIOPHYS/PHYSICS 150 or PHYSICS 140",
+            "Fundamental Physics for the Life Sciences I or General Physics I"
+          ],
+          [
+            "BIOPHYS/PHYSICS 151 or PHYSICS 141",
+            "Physics for the Life Sciences Laboratory I or Elementary Laboratory I"
+          ],
+          [
+            "BIOPHYS/PHYSICS 250 or PHYSICS 240",
+            "Fundamental Physics for the Life Sciences II or General Physics II"
+          ],
+          [
+            "BIOPHYS/PHYSICS 251 or PHYSICS 241",
+            "Physics for the Life Sciences Laboratory II or Elementary Laboratory II"
+          ],
+          [
+            "UARTS 4XX Engineering Design",
+            "Select one: UARTS Course (link is external)"
+          ],
+          [
+            "EDUC 422 or EDUC 423",
+            "Teaching of Science in Secondary Schools"
+          ],
+          [
+            "EDUC 307 or EDUC 650",
+            "Practicum"
+          ],
+          [
+            "* Can be substituted with EARTH 116."
+          ]
+        ]
+      },
+      {
+        "caption": "Corequisites *",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "MATH 115",
+            "Calculus I"
+          ],
+          [
+            "* Undergraduates only"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 647,
+    "name": "Social Studies 5-9 & 7-12",
+    "selected": null,
+    "courses": [
+      "ECON 101",
+      "ECON 102",
+      "GEOG 145",
+      "GEOG 201",
+      "HISTORY 202",
+      "HISTORY 238",
+      "HISTORY 240",
+      "HISTORY 260",
+      "HISTORY 261",
+      "POLSCI 111",
+      "POLSCI 140",
+      "EDUC 307",
+      "EDUC 432"
+    ],
+    "pdfs": [],
+    "tables": [
+      {
+        "caption": "Social Studies 5\u20139 & 7\u201312",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ECON 101",
+            "Principles of Economics I"
+          ],
+          [
+            "ECON 102",
+            "Principles of Economics II"
+          ],
+          [
+            "GEOG 145",
+            "Introduction to International Studies"
+          ],
+          [
+            "GEOG 201",
+            "Introduction Physical Geography"
+          ],
+          [
+            "HISTORY 202",
+            "Doing History"
+          ],
+          [
+            "HISTORY 238 or 239",
+            "Zoom: A History of Everything or The World Before 1492"
+          ],
+          [
+            "HISTORY 240",
+            "The World Since 1492"
+          ],
+          [
+            "HISTORY 260",
+            "United States to 1865"
+          ],
+          [
+            "HISTORY 261",
+            "United States, 1865 to the Present"
+          ],
+          [
+            "POLSCI 111 or 311",
+            "Introduction to American Politics or American Political Processes"
+          ],
+          [
+            "POLSCI 140 or 160",
+            "Introduction to Comparative Politics or Introduction to World Politics"
+          ],
+          [
+            "EDUC 307 or 650*",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 432 or 433*",
+            "Teaching of Social Studies in Secondary Schools or Methods in Teaching Minor: Secondary History/Social Sciences"
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Social Studies 6\u201312",
+    "selected": null,
+    "courses": [
+      "ECON 101",
+      "ECON 102",
+      "GEOG 145",
+      "GEOG 201",
+      "HISTORY 202",
+      "HISTORY 238",
+      "HISTORY 240",
+      "HISTORY 260",
+      "HISTORY 261",
+      "POLSCI 111",
+      "POLSCI 140",
+      "EDUC 307",
+      "EDUC 432"
+    ],
+    "pdfs": [
+      {
+        "text": "Social Studies",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/socialstudiesendorsement42720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Social Studies (minimum 36 credits)",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "ECON 101",
+            "Principles of Economics I"
+          ],
+          [
+            "ECON 102",
+            "Principles of Economics II"
+          ],
+          [
+            "GEOG 145",
+            "Introduction to International Studies"
+          ],
+          [
+            "GEOG 201",
+            "Introduction Physical Geography"
+          ],
+          [
+            "HISTORY 202",
+            "Doing History"
+          ],
+          [
+            "HISTORY 238 or 239",
+            "Zoom: A History of Everything or The World Before 1492"
+          ],
+          [
+            "HISTORY 240",
+            "The World Since 1492"
+          ],
+          [
+            "HISTORY 260",
+            "United States to 1865"
+          ],
+          [
+            "HISTORY 261",
+            "United States, 1865 to the Present"
+          ],
+          [
+            "POLSCI 111 or 311",
+            "Introduction to American Politics or American Political Processes"
+          ],
+          [
+            "POLSCI 140 or 160",
+            "Introduction to Comparative Politics or Introduction to World Politics"
+          ],
+          [
+            "EDUC 307 or 650*",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 432 or 433*",
+            "Teaching of Social Studies in Secondary Schools or Methods in Teaching Minor: Secondary History/Social Sciences"
+          ],
+          [
+            "Electives",
+            "Electives (if needed) to meet 36-credit minimum."
+          ],
+          [
+            "* Required for endorsement but doesn't count toward minimum credits or GPA"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Spanish PK\u201312",
+    "selected": null,
+    "courses": [
+      "SPANISH 298",
+      "SPANISH 371",
+      "SPANISH 381",
+      "EDUC 307",
+      "EDUC 650",
+      "EDUC 419",
+      "EDUC 420",
+      "SPANISH 333",
+      "SPANISH 355",
+      "SPANISH 410",
+      "SPANISH 411",
+      "SPANISH 415",
+      "SPANISH 487",
+      "SPANISH 372",
+      "SPANISH 450",
+      "SPANISH 459",
+      "SPANISH 460",
+      "SPANISH 475",
+      "SPANISH 382",
+      "SPANISH 440",
+      "SPANISH 576",
+      "SPANISH 485"
+    ],
+    "pdfs": [
+      {
+        "text": "Spanish",
+        "url": "https://marsal.umich.edu/sites/default/files/2020-06/spanishendorsement6-1242720.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Spanish",
+        "rows": [
+          [
+            "Requirement",
+            "Description"
+          ],
+          [
+            "Linguistics",
+            "Choose two (6 credits) of the following: SPANISH 298, 333, 355, 410, 411, 415, 487"
+          ],
+          [
+            "Literature of Spain",
+            "Choose from the following: SPANISH 371, 372, 450, 459, 460, 475"
+          ],
+          [
+            "Literature of Spanish-Speaking Countries",
+            "Choose from the following: SPANISH 381, 382, 440, 475, 576, 485"
+          ],
+          [
+            "EDUC 307 or EDUC 650 *",
+            "Practicum or Reflective Teaching Field Experience"
+          ],
+          [
+            "EDUC 419 or EDUC 420*",
+            "Teaching Methods for World Language Minors or Teaching World Languages in Secondary School"
+          ],
+          [
+            "* Required for endorsement but doesn't count toward GPA"
+          ]
+        ]
+      }
+    ]
+  }
+]

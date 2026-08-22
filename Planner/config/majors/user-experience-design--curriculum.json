@@ -34,6 +34,26 @@
       "SI 457",
       "SI 403",
       "SI 413"
-    ]
+    ],
+    "Electives": []
+  },
+  "openGroups": {
+    "Electives": {
+      "subjects": ["SI"],
+      "exclude": [
+        "SI 110",
+        "SI 201",
+        "SI 261",
+        "SI 300",
+        "SI 310",
+        "SI 307",
+        "SI 357",
+        "SI 347",
+        "SI 303",
+        "SI 313",
+        "SI 487",
+        "SI 497"
+      ]
+    }
   }
 }

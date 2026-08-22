@@ -67,6 +67,14 @@
     "Mathematical Biology": {
       "minCourses": 3,
       "countsTowardMajorTotal": true
+    },
+    "Advanced Courses": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Cognate": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
     }
   }
 }

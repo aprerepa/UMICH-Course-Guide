@@ -36,6 +36,11 @@
     "STP Senior Project or Honors Thesis": {
       "require": "RCSTP 490",
       "minCourses": 1
+    },
+    "STP Core Courses": {
+      "minCourses": 6,
+      "minCredits": 18,
+      "countsTowardMajorTotal": true
     }
   }
 }

@@ -17,6 +17,11 @@
     "Sociocultural Anthropology": {
       "minCourses": 1,
       "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "completion": "manual",
+      "minCredits": 16,
+      "countsTowardMajorTotal": true
     }
   }
 }

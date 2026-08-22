@@ -10,6 +10,18 @@
           "RCLANG 324"
         ]
       }
+    },
+    "SPANISH 279-399": {
+      "minCourses": 4,
+      "countsTowardMajorTotal": true
+    },
+    "SPANISH 400-level": {
+      "minCourses": 5,
+      "countsTowardMajorTotal": true
+    },
+    "Electives/Cognates": {
+      "minCourses": 0,
+      "countsTowardMajorTotal": true
     }
   }
 }

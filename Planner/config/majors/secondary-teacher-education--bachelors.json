@@ -2,7 +2,7 @@
   "id": "secondary-teacher-education--bachelors",
   "displayName": "Secondary Teacher Education",
   "requirementGroups": {
-    "Required Education Core Course": [
+    "Required Education Core Courses": [
       "EDUC 118",
       "EDUC 141",
       "EDUC 151",
@@ -10,6 +10,7 @@
       "EDUC 241",
       "EDUC 271"
     ],
+    "Education Electives": [],
     "First-Year Writing": [
       "CLCIV 101",
       "CLCIV 121",
@@ -21,17 +22,65 @@
       "HISTORY 195",
       "WRITING 160"
     ],
-    "Core credits": [
+    "Humanities": [],
+    "Natural Science / Mathematics": [],
+    "Social Science": [
+      "EDUC 118"
+    ],
+    "Core Credits": [
       "EDUC 391",
       "EDUC 392",
       "EDUC 402",
       "EDUC 445",
       "EDUC 446"
     ],
-    "Teaching credits": [
+    "Content Area Methods": [],
+    "Teaching Credits": [
       "EDUC 302",
       "EDUC 304",
       "EDUC 307"
     ]
+  },
+  "openGroups": {
+    "Education Electives": {
+      "subjects": ["EDUC"],
+      "exclude": [
+        "EDUC 118",
+        "EDUC 141",
+        "EDUC 151",
+        "EDUC 160",
+        "EDUC 241",
+        "EDUC 271",
+        "EDUC 302",
+        "EDUC 304",
+        "EDUC 307",
+        "EDUC 391",
+        "EDUC 392",
+        "EDUC 402",
+        "EDUC 445",
+        "EDUC 446"
+      ]
+    },
+    "Humanities": {
+      "subjects": [],
+      "exclude": []
+    },
+    "Natural Science / Mathematics": {
+      "subjects": [],
+      "exclude": []
+    },
+    "Social Science": {
+      "subjects": [],
+      "exclude": []
+    },
+    "Content Area Methods": {
+      "subjects": ["EDUC"],
+      "minLevel": 400,
+      "exclude": [
+        "EDUC 402",
+        "EDUC 445",
+        "EDUC 446"
+      ]
+    }
   }
 }

@@ -2,6 +2,7 @@
   "id": "philosophy--majors-minors-html-philosophy-maj",
   "displayName": "Philosophy",
   "requirementGroups": {
+    "Prerequisites": [],
     "Formal Methods": [
       "PHIL 296",
       "PHIL 303",
@@ -47,6 +48,26 @@
       "PHIL 345",
       "PHIL 381",
       "PHIL 383"
-    ]
+    ],
+    "Additional 400-level Courses": [],
+    "Additional 300-level or Higher": []
+  },
+  "openGroups": {
+    "Prerequisites": {
+      "subjects": ["PHIL"],
+      "minLevel": 100,
+      "maxLevel": 299,
+      "exclude": ["PHIL 180", "PHIL 183", "PHIL 201", "PHIL 296"]
+    },
+    "Additional 400-level Courses": {
+      "subjects": ["PHIL"],
+      "minLevel": 400,
+      "exclude": ["PHIL 419", "PHIL 455", "PHIL 498", "PHIL 499"]
+    },
+    "Additional 300-level or Higher": {
+      "subjects": ["PHIL"],
+      "minLevel": 300,
+      "exclude": []
+    }
   }
 }

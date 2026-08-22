@@ -32,6 +32,10 @@
     "World Politics": {
       "completion": "manual",
       "countsTowardMajorTotal": true
+    },
+    "Additional POLSCI Credits": {
+      "minCredits": 30,
+      "countsTowardMajorTotal": true
     }
   }
 }

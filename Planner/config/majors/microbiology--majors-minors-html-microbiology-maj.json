@@ -60,7 +60,6 @@
     "Advanced Laboratory": [
       "MCDB 429",
       "EEB 447",
-      "EEB 401",
       "MCDB 400",
       "EEB 400",
       "INTMED 400",
@@ -146,21 +145,12 @@
       "minLevel": 400,
       "exclude": []
     },
-    "Group 2: Additional Electives": [
-      {
-        "subjects": [
-          "MATH"
-        ],
-        "minLevel": 116,
-        "exclude": []
-      },
-      {
-        "subjects": [
-          "STATS"
-        ],
-        "minLevel": 400,
-        "exclude": []
-      }
-    ]
+    "Group 2: Additional Electives": {
+      "subjects": [
+        "STATS"
+      ],
+      "minLevel": 400,
+      "exclude": []
+    }
   }
 }

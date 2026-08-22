@@ -73,6 +73,10 @@
     "Elective Courses": {
       "minCourses": 4,
       "countsTowardMajorTotal": true
+    },
+    "Cognate": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
     }
   }
 }

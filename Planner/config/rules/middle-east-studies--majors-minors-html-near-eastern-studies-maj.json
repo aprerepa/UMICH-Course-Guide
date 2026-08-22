@@ -1,9 +1,0 @@
-{
-  "id": "middle-east-studies--majors-minors-html-near-eastern-studies-maj",
-  "displayName": "Middle East Studies",
-  "groupRules": {
-    "Prerequisites": {
-      "require": "MIDEAST 200"
-    }
-  }
-}

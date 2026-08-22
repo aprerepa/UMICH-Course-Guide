@@ -12,9 +12,29 @@
         ]
       }
     },
-    "Requirements": {
-      "minCourses": 8,
-      "minCredits": 24,
+    "Introductory Course": {
+      "require": {
+        "anyOf": [
+          "ARCHAM 222",
+          "CLARCH 222",
+          "CLCIV 202",
+          "CLCIV 302",
+          "HISTORY 201"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "LATIN 300-level or above": {
+      "minCourses": 6,
+      "countsTowardMajorTotal": true
+    },
+    "LATIN above 410": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Civilization, Archaeology, or History": {
+      "minCourses": 1,
+      "minCredits": 3,
       "countsTowardMajorTotal": true
     }
   }

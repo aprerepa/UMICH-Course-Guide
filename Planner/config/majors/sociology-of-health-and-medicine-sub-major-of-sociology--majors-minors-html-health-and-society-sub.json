@@ -2,7 +2,24 @@
   "id": "sociology-of-health-and-medicine-sub-major-of-sociology--majors-minors-html-health-and-society-sub",
   "displayName": "Sociology of Health and Medicine (Sub-major of Sociology)",
   "requirementGroups": {
-    "Requirements": [
+    "Prerequisites": [
+      "SOC 100",
+      "SOC 102",
+      "SOC 300",
+      "SOC 302"
+    ],
+    "Statistics": [
+      "SOC 210",
+      "STATS 250",
+      "STATS 280"
+    ],
+    "Research Methods": [
+      "SOC 310"
+    ],
+    "Sociological Theory": [
+      "SOC 305"
+    ],
+    "Sub-major Electives": [
       "SOC 225",
       "SOC 230",
       "SOC 325",
@@ -23,6 +40,20 @@
       "SOC 394",
       "SOC 395",
       "SOC 396"
-    ]
+    ],
+    "Additional Credits": [],
+    "Upper-Level Electives": []
+  },
+  "openGroups": {
+    "Additional Credits": {
+      "subjects": ["SOC"],
+      "minLevel": 200,
+      "exclude": []
+    },
+    "Upper-Level Electives": {
+      "subjects": ["SOC"],
+      "minLevel": 300,
+      "exclude": []
+    }
   }
 }

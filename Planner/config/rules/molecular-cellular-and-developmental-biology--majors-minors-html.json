@@ -63,8 +63,8 @@
                 "anyOf": [
                   "MATH 115",
                   "MATH 120",
+                  "MATH 175",
                   "MATH 185",
-                  "MATH 275",
                   "MATH 295"
                 ]
               },
@@ -73,8 +73,8 @@
                   "MATH 116",
                   "MATH 121",
                   "MATH 156",
+                  "MATH 176",
                   "MATH 186",
-                  "MATH 276",
                   "MATH 296"
                 ]
               },
@@ -109,16 +109,18 @@
               {
                 "anyOf": [
                   "STATS 180",
-                  "STATS 250",
                   "STATS 206",
+                  "STATS 250",
                   "STATS 280"
                 ]
               },
               {
                 "anyOf": [
                   "BIOLOGY 202",
+                  "COMPFOR 131",
+                  "BIOLOGY 131",
                   "BIOPHYS 131",
-                  "DATASCI 101"
+                  "BIOPHYS 117"
                 ]
               },
               {
@@ -138,8 +140,7 @@
           {
             "anyOf": [
               "BIOLOGY 272",
-              "BIOLOGY 205",
-              "BIOLOGY 290"
+              "BIOLOGY 205"
             ]
           },
           "BIOLOGY 305",
@@ -158,71 +159,18 @@
           }
         ]
       },
-      "minCourses": 4,
       "countsTowardMajorTotal": true
     },
-    "I. Advanced MCDB Laboratory Courses": {
-      "require": {
-        "minOf": 2,
-        "options": [
-          "MCDB 306",
-          "MCDB 400",
-          "MCDB 423",
-          "MCDB 424",
-          "MCDB 429"
-        ]
-      },
+    "Group I: Advanced MCDB Laboratory Courses": {
       "minCourses": 2,
       "countsTowardMajorTotal": true
     },
-    "II. Advanced MCDB Courses": {
-      "require": {
-        "minOf": 2,
-        "options": [
-          "MCDB 401",
-          "MCDB 403",
-          "MCDB 405",
-          "MCDB 408",
-          "MCDB 411",
-          "MCDB 415",
-          "MCDB 417",
-          "MCDB 420",
-          "MCDB 421",
-          "MCDB 422",
-          "MCDB 425",
-          "MCDB 426",
-          "MCDB 427",
-          "MCDB 428",
-          "MCDB 430",
-          "MCDB 435",
-          "MCDB 436",
-          "MCDB 439",
-          "MCDB 440",
-          "MCDB 441",
-          "MCDB 445",
-          "MCDB 447",
-          "MCDB 448",
-          "MCDB 451",
-          "MCDB 452",
-          "MCDB 453",
-          "MCDB 454",
-          "MCDB 458",
-          "MCDB 459",
-          "MCDB 462",
-          "MCDB 463",
-          "MCDB 464",
-          "MCDB 472",
-          "MCDB 475",
-          "MCDB 488",
-          "MCDB 489"
-        ]
-      },
+    "Group II: Advanced MCDB Courses": {
       "minCourses": 2,
       "countsTowardMajorTotal": true
     },
-    "III. Biology & Chemistry Electives": {
+    "Group III: Biology & Chemistry Electives": {
       "completion": "manual",
-      "minCredits": 31,
       "countsTowardMajorTotal": true
     }
   }

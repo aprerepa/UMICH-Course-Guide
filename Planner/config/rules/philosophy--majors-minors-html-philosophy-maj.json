@@ -2,6 +2,9 @@
   "id": "philosophy--majors-minors-html-philosophy-maj",
   "displayName": "Philosophy",
   "groupRules": {
+    "Prerequisites": {
+      "minCourses": 1
+    },
     "Formal Methods": {
       "require": {
         "anyOf": [
@@ -81,6 +84,14 @@
           "PHIL 383"
         ]
       },
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Additional 400-level Courses": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Additional 300-level or Higher": {
       "minCourses": 1,
       "countsTowardMajorTotal": true
     }

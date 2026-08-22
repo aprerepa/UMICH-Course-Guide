@@ -19,48 +19,24 @@
           "STATS 250",
           "STATS 280"
         ]
-      }
+      },
+      "countsTowardMajorTotal": true
     },
     "Research Methods": {
-      "require": "SOC 310"
+      "require": "SOC 310",
+      "countsTowardMajorTotal": true
     },
     "Sociological Theory": {
-      "require": "SOC 305"
+      "require": "SOC 305",
+      "countsTowardMajorTotal": true
     },
-    "Law, Justice, and Social Change (Sub-Major)": {
-      "require": {
-        "minOf": 8,
-        "options": [
-          "SOC 204",
-          "SOC 208",
-          "SOC 214",
-          "SOC 225",
-          "SOC 250",
-          "SOC 270",
-          "SOC 304",
-          "SOC 325",
-          "SOC 335",
-          "SOC 354",
-          "SOC 368",
-          "SOC 391",
-          "SOC 422",
-          "SOC 461",
-          "SOC 465",
-          "SOC 468",
-          "SOC 476",
-          "SOC 480"
-        ]
-      },
-      "minCredits": 12
+    "Additional Credits": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
     },
-    "Sociology of Health & Medicine (Sub-Major)": {
-      "require": {
-        "anyOf": [
-          "SOC 225",
-          "SOC 230"
-        ]
-      },
-      "minCredits": 12
+    "Upper-Level Electives": {
+      "minCredits": 14,
+      "countsTowardMajorTotal": true
     }
   }
 }

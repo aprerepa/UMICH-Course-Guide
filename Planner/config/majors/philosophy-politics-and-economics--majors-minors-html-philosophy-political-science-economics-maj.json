@@ -3,6 +3,37 @@
   "displayName": "Philosophy, Politics, and Economics",
   "requirementGroups": {
     "Prerequisites": [
+      "PHIL 101",
+      "PHIL 102",
+      "PHIL 104",
+      "PHIL 151",
+      "PHIL 155",
+      "PHIL 156",
+      "PHIL 157",
+      "PHIL 158",
+      "PHIL 160",
+      "PHIL 161",
+      "PHIL 162",
+      "PHIL 202",
+      "PHIL 203",
+      "PHIL 204",
+      "PHIL 220",
+      "PHIL 230",
+      "PHIL 232",
+      "PHIL 240",
+      "PHIL 250",
+      "PHIL 260",
+      "PHIL 261",
+      "PHIL 262",
+      "PHIL 263",
+      "PHIL 264",
+      "PHIL 265",
+      "PHIL 270",
+      "PHIL 271",
+      "PHIL 272",
+      "PHIL 275",
+      "PHIL 288",
+      "PHIL 289",
       "POLSCI 101",
       "POLSCI 111",
       "POLSCI 140",
@@ -25,11 +56,26 @@
     "PPE Core Courses": [
       "ECON 401",
       "PPE 300",
-      "PPE 400"
+      "PPE 400",
+      "PPE 401",
+      "PPE 402"
     ],
-    "Formal Reasoning": [
+    "Formal Reasoning: Statistics": [
+      "ECON 251",
       "ECON 404",
       "ECON 405",
+      "ECON 451",
+      "ECON 453",
+      "POLSCI 300",
+      "STATS 250",
+      "STATS 280",
+      "STATS 426"
+    ],
+    "Formal Reasoning: Additional Formal Methods": [
+      "ECON 251",
+      "ECON 404",
+      "ECON 405",
+      "ECON 451",
       "ECON 453",
       "POLSCI 300",
       "STATS 250",
@@ -116,7 +162,24 @@
       "POLSCI 389",
       "POLSCI 432",
       "POLSCI 462",
-      "POLSCI 496"
-    ]
+      "POLSCI 496",
+      "SOC 315"
+    ],
+    "Theme": []
+  },
+  "openGroups": {
+    "Prerequisites": {
+      "subjects": [
+        "PHIL"
+      ],
+      "minLevel": 100,
+      "maxLevel": 299,
+      "exclude": [
+        "PHIL 180",
+        "PHIL 183",
+        "PHIL 201",
+        "PHIL 296"
+      ]
+    }
   }
 }

@@ -70,12 +70,31 @@
       }
     },
     "PPE Core Courses": {
-      "minCourses": 3,
-      "minCredits": 12,
+      "require": {
+        "allOf": [
+          "ECON 401",
+          "PPE 300",
+          {
+            "anyOf": [
+              "PPE 400",
+              {
+                "allOf": [
+                  "PPE 401",
+                  "PPE 402"
+                ]
+              }
+            ]
+          }
+        ]
+      },
       "countsTowardMajorTotal": true
     },
-    "Formal Reasoning": {
-      "minCourses": 2,
+    "Formal Reasoning: Statistics": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Formal Reasoning: Additional Formal Methods": {
+      "minCourses": 1,
       "countsTowardMajorTotal": true
     },
     "Normative Theory": {
@@ -84,6 +103,11 @@
     },
     "Political Economy": {
       "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Theme": {
+      "completion": "manual",
+      "minCourses": 3,
       "countsTowardMajorTotal": true
     }
   }

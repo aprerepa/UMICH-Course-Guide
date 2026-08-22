@@ -66,6 +66,10 @@
     "Upper-Level Electives for Heritage Speakers Subplan": {
       "minCourses": 2,
       "countsTowardMajorTotal": true
+    },
+    "Cognate": {
+      "minCredits": 3,
+      "countsTowardMajorTotal": true
     }
   }
 }

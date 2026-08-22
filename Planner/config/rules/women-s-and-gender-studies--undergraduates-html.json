@@ -5,32 +5,44 @@
     "Prerequisite": {
       "require": "WGS 240"
     },
-    "Gender, Culture, & Rep.": {
-      "completion": "manual",
-      "countsTowardMajorTotal": true
-    },
-    "Gender in a Global Context": {
-      "completion": "manual",
-      "countsTowardMajorTotal": true
-    },
-    "Gender, Race, & Ethnicity": {
-      "completion": "manual",
-      "countsTowardMajorTotal": true
-    },
-    "LGBTQ+ & Sexuality": {
-      "completion": "manual",
-      "countsTowardMajorTotal": true
-    },
     "Feminist Theory": {
-      "completion": "manual",
+      "require": "WGS 330",
       "countsTowardMajorTotal": true
     },
     "Practicum": {
+      "require": {
+        "anyOf": [
+          "WGS 310",
+          "WGS 350",
+          "WGS 351",
+          "WGS 353",
+          "WGS 404"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "LGBTQ+ & Sexuality": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Gender, Race, & Ethnicity": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Gender, Culture, & Representation": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Gender in a Global Context": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
       "completion": "manual",
       "countsTowardMajorTotal": true
     },
-    "Elective": {
-      "completion": "manual",
+    "Cognates": {
+      "minCourses": 2,
       "countsTowardMajorTotal": true
     }
   }

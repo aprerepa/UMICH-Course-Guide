@@ -32,8 +32,11 @@
           "ORGSTUDY 310"
         ]
       },
-      "minCourses": 2,
-      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Quantitative Skills": {
+      "minCourses": 1,
+      "minCredits": 3,
       "countsTowardMajorTotal": true
     },
     "Senior Capstone Research Requirement": {
@@ -48,7 +51,21 @@
           }
         ]
       },
-      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Cluster A: Organizations and Individuals": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Cluster B: Organizations and Society": {
+      "minCourses": 2,
+      "minCredits": 6,
+      "countsTowardMajorTotal": true
+    },
+    "Additional Cluster Electives": {
+      "minCourses": 3,
+      "minCredits": 9,
       "countsTowardMajorTotal": true
     }
   }

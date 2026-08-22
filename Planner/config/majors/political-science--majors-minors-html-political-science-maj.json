@@ -147,6 +147,14 @@
       "POLSCI 464",
       "POLSCI 489",
       "POLSCI 498"
-    ]
+    ],
+    "Additional POLSCI Credits": []
+  },
+  "openGroups": {
+    "Additional POLSCI Credits": {
+      "subjects": ["POLSCI"],
+      "minLevel": 300,
+      "exclude": []
+    }
   }
 }

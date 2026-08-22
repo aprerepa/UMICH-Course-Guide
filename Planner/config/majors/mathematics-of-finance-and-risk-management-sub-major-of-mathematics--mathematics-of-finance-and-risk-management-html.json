@@ -54,21 +54,10 @@
     ]
   },
   "openGroups": {
-    "Related Courses": [
-      {
-        "subjects": [
-          "STATS"
-        ],
-        "minLevel": 400,
-        "exclude": []
-      },
-      {
-        "subjects": [
-          "ACCOUNTING"
-        ],
-        "minLevel": 300,
-        "exclude": []
-      }
-    ]
+    "Related Courses": {
+      "subjects": ["ACCOUNTING"],
+      "minLevel": 300,
+      "exclude": []
+    }
   }
 }

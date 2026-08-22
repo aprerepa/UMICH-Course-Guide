@@ -8,12 +8,49 @@
       "LATIN 233",
       "LATIN 294"
     ],
-    "Requirements": [
+    "Introductory Course": [
       "ARCHAM 222",
       "CLARCH 222",
       "CLCIV 202",
       "CLCIV 302",
       "HISTORY 201"
+    ],
+    "LATIN 300-level or above": [],
+    "LATIN above 410": [],
+    "Civilization, Archaeology, or History": []
+  },
+  "openGroups": {
+    "LATIN 300-level or above": {
+      "subjects": ["LATIN"],
+      "minLevel": 300,
+      "exclude": ["LATIN 495"]
+    },
+    "LATIN above 410": {
+      "subjects": ["LATIN"],
+      "minLevel": 411,
+      "exclude": ["LATIN 495"]
+    },
+    "Civilization, Archaeology, or History": [
+      {
+        "subjects": ["CLCIV"],
+        "minLevel": 300,
+        "exclude": ["CLCIV 302"]
+      },
+      {
+        "subjects": ["CLARCH"],
+        "minLevel": 300,
+        "exclude": []
+      },
+      {
+        "subjects": ["ARCHAM"],
+        "minLevel": 300,
+        "exclude": []
+      },
+      {
+        "subjects": ["HISTORY"],
+        "minLevel": 300,
+        "exclude": []
+      }
     ]
   }
 }

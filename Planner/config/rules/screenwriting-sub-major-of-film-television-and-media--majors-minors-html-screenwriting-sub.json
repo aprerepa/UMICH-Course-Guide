@@ -4,16 +4,61 @@
   "groupRules": {
     "Prerequisites": {
       "require": {
-        "allOf": [
+        "anyOf": [
+          "FTVM 150",
+          "RCHUMS 150",
           "FTVM 236",
-          "FTVM 290",
+          "RCHUMS 236"
+        ]
+      }
+    },
+    "History Courses": {
+      "require": {
+        "allOf": [
+          "FTVM 352",
+          {
+            "anyOf": [
+              "FTVM 353",
+              "FTVM 354",
+              "FTVM 355",
+              "FTVM 356"
+            ]
+          }
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Theory Courses": {
+      "require": {
+        "allOf": [
+          "FTVM 272",
+          {
+            "anyOf": [
+              "FTVM 372",
+              "FTVM 375",
+              "FTVM 376",
+              "FTVM 461"
+            ]
+          }
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Introduction to Media Production": {
+      "require": "FTVM 290",
+      "countsTowardMajorTotal": true
+    },
+    "Screenwriting Sequence": {
+      "require": {
+        "allOf": [
           "FTVM 210",
           "FTVM 310",
           "FTVM 410"
         ]
-      }
+      },
+      "countsTowardMajorTotal": true
     },
-    "Requirements": {
+    "Screenwriting Capstone": {
       "require": {
         "allOf": [
           {
@@ -24,7 +69,20 @@
           },
           "FTVM 311"
         ]
-      }
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Production or Writing Courses": {
+      "minCourses": 2,
+      "countsTowardMajorTotal": true
+    },
+    "Studies Course": {
+      "minCourses": 1,
+      "countsTowardMajorTotal": true
+    },
+    "Required Electives": {
+      "minCredits": 7,
+      "countsTowardMajorTotal": true
     }
   }
 }

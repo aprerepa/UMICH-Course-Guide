@@ -2,7 +2,43 @@
   "id": "law-justice-and-social-change-sub-major-of-sociology--majors-minors-html-law-justics-and-social-change-sub",
   "displayName": "Law, Justice, and Social Change (Sub-major of Sociology)",
   "groupRules": {
-    "Sub-major Courses": {
+    "Prerequisites": {
+      "require": {
+        "anyOf": [
+          "SOC 100",
+          "SOC 102",
+          "SOC 300",
+          "SOC 302"
+        ]
+      }
+    },
+    "Statistics": {
+      "require": {
+        "anyOf": [
+          "SOC 210",
+          "STATS 250",
+          "STATS 280"
+        ]
+      },
+      "countsTowardMajorTotal": true
+    },
+    "Research Methods": {
+      "require": "SOC 310",
+      "countsTowardMajorTotal": true
+    },
+    "Sociological Theory": {
+      "require": "SOC 305",
+      "countsTowardMajorTotal": true
+    },
+    "Electives": {
+      "completion": "manual",
+      "countsTowardMajorTotal": true
+    },
+    "Upper-Level Electives": {
+      "minCredits": 14,
+      "countsTowardMajorTotal": true
+    },
+    "Law, Justice, and Social Change Electives": {
       "minCredits": 12,
       "countsTowardMajorTotal": true
     }
