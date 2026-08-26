@@ -7,6 +7,7 @@ import { TakenCoursesPanel } from "./components/TakenCoursesPanel";
 import { useCourseFilter } from "./hooks/useCourseFilter";
 import { useAuth } from "./context/AuthContext";
 import { useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
 const styles = {
   page: {
@@ -126,5 +127,10 @@ export default function App() {
     return <LoginPage />;
   }
 
-  return <CourseGuide />;
+  return (
+    <>
+      <CourseGuide />
+      <Analytics />
+    </>
+  );
 }
