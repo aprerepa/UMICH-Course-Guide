@@ -4,6 +4,15 @@ import {
   fetchStudentPrograms,
   flushPendingPrograms,
 } from "../lib/studentPrograms";
+import {
+  formatLoginCode,
+  generateLoginCode,
+  isValidLoginCode,
+  loginCodeFromAuthEmail,
+  loginCodeToAuthEmail,
+  normalizeLoginCode,
+} from "../lib/loginCode";
+import { fetchLoginCode } from "../lib/profile";
 
 const GUEST_KEY = "courseGuideGuest";
 
@@ -15,6 +24,7 @@ export function AuthProvider({ children }) {
   const [authError, setAuthError] = useState(null);
   const [programs, setPrograms] = useState([]);
   const [programsLoading, setProgramsLoading] = useState(false);
+  const [loginCode, setLoginCode] = useState(null);
   const [guest, setGuest] = useState(() => {
     try {
       return sessionStorage.getItem(GUEST_KEY) === "1";
@@ -22,6 +32,19 @@ export function AuthProvider({ children }) {
       return false;
     }
   });
+
+  async function reloadLoginCode(user) {
+    if (!user?.id) {
+      setLoginCode(null);
+      return;
+    }
+    const { loginCode: code, error } = await fetchLoginCode(user.id);
+    if (!error && code) {
+      setLoginCode(formatLoginCode(code));
+      return;
+    }
+    setLoginCode(loginCodeFromAuthEmail(user.email) || null);
+  }
 
   async function reloadPrograms(userId) {
     if (!userId) {
@@ -53,9 +76,13 @@ export function AuthProvider({ children }) {
         }
         setGuest(false);
         await flushPendingPrograms(next.user.id);
-        if (mounted) await reloadPrograms(next.user.id);
+        if (mounted) {
+          await reloadPrograms(next.user.id);
+          await reloadLoginCode(next.user);
+        }
       } else if (mounted) {
         setPrograms([]);
+        setLoginCode(null);
       }
     }
 
@@ -81,20 +108,40 @@ export function AuthProvider({ children }) {
     const user = session?.user ?? null;
     const inApp = Boolean(user) || guest;
 
-    async function signUp(email, password) {
+    async function signUp(password) {
       setAuthError(null);
       if (!supabase) throw new Error("Supabase is not configured");
-      const { data, error } = await supabase.auth.signUp({ email, password });
+      const rawCode = generateLoginCode();
+      const formatted = formatLoginCode(rawCode);
+      const { data, error } = await supabase.auth.signUp({
+        email: loginCodeToAuthEmail(rawCode),
+        password,
+        options: {
+          data: { login_code: formatted },
+        },
+      });
       if (error) {
         setAuthError(error.message);
         throw error;
       }
-      return data;
+      if (data.user) {
+        setLoginCode(formatted);
+      }
+      return { ...data, loginCode: formatted };
     }
 
-    async function signIn(email, password) {
+    async function signIn(loginCodeInput, password) {
       setAuthError(null);
       if (!supabase) throw new Error("Supabase is not configured");
+      const trimmed = String(loginCodeInput || "").trim();
+      const email = trimmed.includes("@")
+        ? trimmed
+        : loginCodeToAuthEmail(trimmed);
+      if (!trimmed.includes("@") && !isValidLoginCode(trimmed)) {
+        const err = new Error("Enter your full login code (umich- plus 12 characters).");
+        setAuthError(err.message);
+        throw err;
+      }
       const { data, error } = await supabase.auth.signInWithPassword({
         email,
         password,
@@ -102,6 +149,9 @@ export function AuthProvider({ children }) {
       if (error) {
         setAuthError(error.message);
         throw error;
+      }
+      if (!trimmed.includes("@")) {
+        setLoginCode(formatLoginCode(normalizeLoginCode(trimmed)));
       }
       return data;
     }
@@ -115,6 +165,7 @@ export function AuthProvider({ children }) {
       }
       setGuest(false);
       setPrograms([]);
+      setLoginCode(null);
       if (!supabase) return;
       const { error } = await supabase.auth.signOut();
       if (error) {
@@ -149,6 +200,7 @@ export function AuthProvider({ children }) {
       user,
       guest,
       inApp,
+      loginCode,
       authError,
       programs,
       programsLoading,
@@ -159,7 +211,7 @@ export function AuthProvider({ children }) {
       continueAsGuest,
       returnToLogin,
     };
-  }, [session, loading, authError, guest, programs, programsLoading]);
+  }, [session, loading, authError, guest, programs, programsLoading, loginCode]);
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
 }

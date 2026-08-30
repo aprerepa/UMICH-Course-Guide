@@ -52,7 +52,7 @@ export async function saveStudentPrograms(studentId, programs) {
   return { error };
 }
 
-/** If signup stored majors before email confirm, flush them once a session exists. */
+/** If signup stored majors before session was ready, flush once a session exists. */
 export async function flushPendingPrograms(studentId) {
   const pending = readPendingPrograms();
   if (!pending?.length || !studentId) return;

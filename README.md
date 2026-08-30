@@ -16,7 +16,8 @@ Unofficial University of Michigan undergraduate Course Guide: browse majors by p
 
 ### Personalized guide (signed-in)
 
-- Email/password **sign up** and **sign in** (Supabase Auth)
+- **Login code** + password **sign up** and **sign in** (no student email collected; Supabase Auth)
+- On signup you receive a random login code — save it; it cannot be recovered
 - Declare one or more **majors / sub-majors** at signup; change them later in Settings
 - Signed-in home is scoped to your declared programs (guest mode still shows all majors)
 - Add **completed courses** by code, or upload an unofficial transcript PDF
@@ -85,7 +86,9 @@ The frontend is a static Vite app. On [Vercel](https://vercel.com):
 
 Vite inlines `VITE_*` at **build** time, so change those vars and redeploy when they change.
 
-Run the SQL in the repo root once in the Supabase SQL editor: `course_guide_schema_mvp.sql`, `course_guide_grants.sql`, `course_guide_delete_account.sql`.
+Run the SQL in the repo root once in the Supabase SQL editor: `course_guide_schema_mvp.sql`, `course_guide_grants.sql`, `course_guide_delete_account.sql`, and `course_guide_login_codes.sql`.
+
+In Supabase **Authentication → Providers → Email**, disable **Confirm email** (accounts use synthetic addresses, not real inboxes).
 
 ### Transcript API (Render)
 

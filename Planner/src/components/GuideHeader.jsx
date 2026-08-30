@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { useAuth } from "../context/AuthContext";
-import { emailInitials } from "./Icons";
+import { accountInitials } from "./Icons";
 
 const styles = {
   bar: {
@@ -67,9 +67,11 @@ const styles = {
     color: "#888",
     marginBottom: "2px",
   },
-  identityEmail: {
+  identityCode: {
     fontSize: "13px",
     color: "#222",
+    fontFamily: "ui-monospace, SFMono-Regular, Menlo, monospace",
+    letterSpacing: "0.04em",
     wordBreak: "break-all",
   },
   item: {
@@ -95,7 +97,7 @@ const styles = {
  * @param {(next: "guide" | "settings") => void} onNavigate
  */
 export function GuideHeader({ page = "guide", onNavigate }) {
-  const { user, guest, signOut, returnToLogin } = useAuth();
+  const { user, guest, loginCode, signOut, returnToLogin } = useAuth();
   const [open, setOpen] = useState(false);
   const wrapRef = useRef(null);
 
@@ -132,13 +134,13 @@ export function GuideHeader({ page = "guide", onNavigate }) {
             aria-expanded={open}
             onClick={() => setOpen((v) => !v)}
           >
-            {emailInitials(user.email)}
+            {accountInitials(loginCode)}
           </button>
           {open && (
             <div style={styles.menu} role="menu">
               <div style={styles.identity}>
-                <div style={styles.identityLabel}>Signed in as</div>
-                <div style={styles.identityEmail}>{user.email}</div>
+                <div style={styles.identityLabel}>Login code</div>
+                <div style={styles.identityCode}>{loginCode || "—"}</div>
               </div>
               <button
                 type="button"

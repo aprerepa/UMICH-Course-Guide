@@ -232,16 +232,7 @@ export function TakenCoursesPanel({ onChange }) {
       });
       setSelected(pre);
     } catch (err) {
-      const msg = err?.message || "Could not parse PDF";
-      if (msg.includes("Failed to fetch") || msg.includes("NetworkError")) {
-        setError(
-          import.meta.env.VITE_TRANSCRIPT_API_URL
-            ? "Could not reach the transcript parser. Check that the API is running."
-            : "Start the parser: npm run transcript-api (port 8787)"
-        );
-      } else {
-        setError(msg);
-      }
+      setError(err?.message || "Could not parse PDF");
     }
     setBusy(false);
   }

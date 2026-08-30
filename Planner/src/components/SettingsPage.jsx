@@ -108,7 +108,7 @@ const styles = {
 };
 
 export function SettingsPage({ onBack }) {
-  const { user, programs, reloadPrograms, signOut } = useAuth();
+  const { user, loginCode, programs, reloadPrograms, signOut } = useAuth();
   const [selectedIds, setSelectedIds] = useState([]);
   const [busy, setBusy] = useState(false);
   const [message, setMessage] = useState(null);
@@ -170,8 +170,14 @@ export function SettingsPage({ onBack }) {
     <div style={styles.page}>
       <section style={styles.section}>
         <h2 style={styles.heading}>Account</h2>
-        <div style={styles.label}>Email</div>
-        <p style={styles.value}>{user?.email || "—"}</p>
+        <div style={styles.label}>Login code</div>
+        <p style={{ ...styles.value, fontFamily: "ui-monospace, SFMono-Regular, Menlo, monospace", letterSpacing: "0.04em" }}>
+          {loginCode || "—"}
+        </p>
+        <p style={styles.muted}>
+          Save this code somewhere safe. It&apos;s how you sign in — we don&apos;t
+          store student emails.
+        </p>
       </section>
 
       <section style={{ ...styles.section, ...styles.grow }}>

@@ -91,10 +91,15 @@ export function CalendarEmptyIcon({ size = 48, color = "currentColor" }) {
   );
 }
 
-/** Initials from an email local-part, e.g. aprerepa@ → AP */
+/** Initials from a login code or account label. */
+export function accountInitials(loginCode) {
+  const raw = String(loginCode || "").replace(/[^A-Za-z0-9]/g, "");
+  if (!raw) return "?";
+  if (raw.length === 1) return raw.toUpperCase();
+  return (raw[0] + raw[1]).toUpperCase();
+}
+
+/** @deprecated use accountInitials */
 export function emailInitials(email) {
-  const local = String(email || "").split("@")[0].replace(/[^a-zA-Z]/g, "");
-  if (!local) return "?";
-  if (local.length === 1) return local.toUpperCase();
-  return (local[0] + local[1]).toUpperCase();
+  return accountInitials(email);
 }

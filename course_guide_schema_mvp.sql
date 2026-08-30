@@ -17,19 +17,24 @@ create type course_source as enum ('pdf', 'manual');
 -- Extends Supabase auth.users
 create table profiles (
   id uuid primary key references auth.users(id) on delete cascade,
+  login_code text unique,
   created_at timestamptz not null default now(),
   updated_at timestamptz not null default now()
 );
 
--- Auto-create profile on signup
+-- Auto-create profile on signup (login_code from auth metadata)
 create or replace function public.handle_new_user()
 returns trigger
 language plpgsql
 security definer
 set search_path = public
 as $$
+declare
+  code text;
 begin
-  insert into public.profiles (id) values (new.id);
+  code := nullif(trim(new.raw_user_meta_data->>'login_code'), '');
+  insert into public.profiles (id, login_code)
+  values (new.id, code);
   return new;
 end;
 $$;

@@ -2,6 +2,7 @@ import { FilterBar } from "./components/FilterBar";
 import { CourseList } from "./components/CourseList";
 import { GuideHeader } from "./components/GuideHeader";
 import { LoginPage } from "./components/LoginPage";
+import { LoginCodeReveal } from "./components/LoginCodeReveal";
 import { SettingsPage } from "./components/SettingsPage";
 import { TakenCoursesPanel } from "./components/TakenCoursesPanel";
 import { useCourseFilter } from "./hooks/useCourseFilter";
@@ -130,6 +131,7 @@ export default function App() {
   return (
     <>
       <CourseGuide />
+      <LoginCodeReveal />
       <Analytics />
     </>
   );

@@ -4,6 +4,7 @@ import {
   saveStudentPrograms,
   stashPendingPrograms,
 } from "../lib/studentPrograms";
+import { stashPendingLoginCode } from "./LoginCodeReveal";
 import { MajorPicker, programsFromIds } from "./MajorPicker";
 
 const styles = {
@@ -56,6 +57,17 @@ const styles = {
     fontSize: "14px",
     marginBottom: "14px",
     fontFamily: "system-ui, sans-serif",
+  },
+  codeInput: {
+    width: "100%",
+    boxSizing: "border-box",
+    border: "1px solid #ddd",
+    borderRadius: "6px",
+    padding: "10px 12px",
+    fontSize: "16px",
+    marginBottom: "14px",
+    fontFamily: "ui-monospace, SFMono-Regular, Menlo, monospace",
+    letterSpacing: "0.05em",
   },
   primary: {
     width: "100%",
@@ -129,68 +141,20 @@ const styles = {
     color: "#888",
     fontFamily: "system-ui, sans-serif",
   },
-  majorBox: {
-    border: "1px solid #ddd",
-    borderRadius: "6px",
-    marginBottom: "14px",
-    fontFamily: "system-ui, sans-serif",
-    overflow: "hidden",
-  },
-  majorSearch: {
-    width: "100%",
-    boxSizing: "border-box",
-    border: "none",
-    borderBottom: "1px solid #eee",
-    padding: "10px 12px",
-    fontSize: "14px",
-    outline: "none",
-  },
-  majorList: {
-    maxHeight: "160px",
-    overflowY: "auto",
-  },
-  majorRow: {
-    display: "flex",
-    alignItems: "flex-start",
-    gap: "8px",
-    padding: "8px 12px",
-    fontSize: "13px",
-    color: "#333",
-    cursor: "pointer",
-    borderBottom: "1px solid #f3f3f3",
-  },
-  chips: {
-    display: "flex",
-    flexWrap: "wrap",
-    gap: "6px",
-    padding: "8px 10px",
-    borderBottom: "1px solid #eee",
-    minHeight: "20px",
-  },
-  chip: {
-    display: "inline-flex",
-    alignItems: "center",
-    gap: "6px",
-    background: "#f0f0ee",
-    borderRadius: "999px",
-    padding: "4px 10px",
-    fontSize: "12px",
-    color: "#333",
-  },
-  chipX: {
-    border: "none",
-    background: "transparent",
-    cursor: "pointer",
-    padding: 0,
-    fontSize: "14px",
-    lineHeight: 1,
-    color: "#666",
-  },
   hint: {
     fontSize: "11px",
     color: "#999",
     margin: "-8px 0 12px",
     fontFamily: "system-ui, sans-serif",
+    lineHeight: 1.45,
+  },
+  privacy: {
+    fontSize: "12px",
+    color: "#777",
+    margin: "0 0 16px",
+    fontFamily: "system-ui, sans-serif",
+    lineHeight: 1.45,
+    textAlign: "center",
   },
 };
 
@@ -198,7 +162,7 @@ export function LoginPage() {
   const { configured, authError, signIn, signUp, continueAsGuest, reloadPrograms } =
     useAuth();
   const [mode, setMode] = useState("signin");
-  const [email, setEmail] = useState("");
+  const [loginCode, setLoginCode] = useState("");
   const [password, setPassword] = useState("");
   const [selectedIds, setSelectedIds] = useState([]);
   const [busy, setBusy] = useState(false);
@@ -228,7 +192,7 @@ export function LoginPage() {
     setInfo(null);
     try {
       if (mode === "signin") {
-        await signIn(email.trim(), password);
+        await signIn(loginCode, password);
       } else {
         if (selectedIds.length === 0) {
           setLocalError("Select at least one major (or sub-major).");
@@ -236,7 +200,8 @@ export function LoginPage() {
           return;
         }
         const programs = programsPayload();
-        const data = await signUp(email.trim(), password);
+        const data = await signUp(password);
+        stashPendingLoginCode(data.loginCode);
         if (data.session?.user) {
           const { error } = await saveStudentPrograms(
             data.session.user.id,
@@ -253,7 +218,7 @@ export function LoginPage() {
         } else {
           stashPendingPrograms(programs);
           setInfo(
-            "Check your email to confirm your account, then sign in. Your majors will be saved after you confirm."
+            "Account created. Sign in with your login code and password."
           );
         }
       }
@@ -269,8 +234,8 @@ export function LoginPage() {
       <div style={styles.card}>
         <h1 style={styles.brand}>UMich Course Guide</h1>
         <p style={styles.subtitle}>
-          Sign in to personalize your guide, or continue as a guest to browse all
-          majors.
+          Sign in with your login code to personalize your guide, or continue as
+          a guest to browse all majors.
         </p>
 
         {!configured ? (
@@ -279,18 +244,28 @@ export function LoginPage() {
           </p>
         ) : (
           <form onSubmit={handleSubmit}>
-            <label style={styles.label} htmlFor="login-email">
-              Email
-            </label>
-            <input
-              id="login-email"
-              style={styles.input}
-              type="email"
-              autoComplete="email"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              required
-            />
+            {mode === "signin" ? (
+              <>
+                <label style={styles.label} htmlFor="login-code">
+                  Login code
+                </label>
+                <input
+                  id="login-code"
+                  style={styles.codeInput}
+                  type="text"
+                  autoComplete="username"
+                  placeholder="umich-xxxxxxxxxxxx"
+                  value={loginCode}
+                  onChange={(e) => setLoginCode(e.target.value.toLowerCase())}
+                  required
+                />
+              </>
+            ) : (
+              <p style={styles.privacy}>
+                No student email required. We&apos;ll generate a private login
+                code when you create your account.
+              </p>
+            )}
             <label style={styles.label} htmlFor="login-password">
               Password
             </label>
